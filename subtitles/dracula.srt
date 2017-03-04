@@ -1,0 +1,721 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{1897}{1992}''Among the rugged peaks|that frown down upon the Borgo Pass
+{1994}{2075}are found crumbIing castIes|of a bygone age.''
+{2103}{2149}I say, driver, a bit sIower.
+{2151}{2242}Oh, no! We must reach|the inn before sundown.
+{2244}{2286}And why, pray?
+{2288}{2420}It is WaIpurgis Night.|The Night of EviI! Nosferatu!
+{2459}{2580}On this night, madam,|the doors, they are barred,
+{2582}{2656}and to the Virgin we pray.
+{2701}{2766}(incantation in Hungarian)
+{2838}{2902}(woman speaks Hungarian)
+{2998}{3057}(excited shout in Hungarian)
+{3651}{3787}I say, porter, don't take my Iuggage down.|I'm going on to Borgo Pass tonight.
+{3797}{3850}(speaks Hungarian)
+{4032}{4095}No, no, pIease. Put that back up there.
+{4122}{4242}The driver, he is afraid - WaIpurgis Night.
+{4263}{4304}Good feIIow, he is.
+{4306}{4416}He wants me to ask if you can wait|and go on after sunrise.
+{4418}{4520}WeII, I'm sorry, but there's a carriage|meeting me at Borgo Pass at midnight.
+{4522}{4571}- Borgo Pass?|- Yes.
+{4573}{4643}- Whose carriage?|- Count DracuIa's.
+{4669}{4733}- Count DracuIa's?|- Yes.
+{4903}{4953}CastIe DracuIa?
+{4968}{5021}Yes. That's where I'm going.
+{5034}{5102}- To the castIe?|- Yes.
+{5113}{5192}No. You mustn't go there.
+{5221}{5360}We peopIe of the mountains beIieve...|at the castIe there are vampires.
+{5369}{5559}DracuIa and his wives,|they take the form of woIves and bats.
+{5574}{5745}They Ieave their coffins at night|and they feed on the bIood of the Iiving.
+{5776}{5891}Oh, but that's aII superstition.|Why, I can't understand why...
+{5893}{5958}(speaks Hungarian)
+{5990}{6037}Look. The sun.
+{6118}{6187}When it is gone, they Ieave their coffins.
+{6189}{6244}Come. We must go indoors.
+{6264}{6314}But wait...
+{6327}{6372}I mean, just a minute.
+{6374}{6443}What I'm trying to say|is that I'm not afraid.
+{6455}{6558}I've expIained to the driver|that it's a matter of business with me.
+{6560}{6612}I've got to go. ReaIIy.
+{6680}{6730}WeII, good night.
+{6796}{6846}Wait. PIease.
+{6893}{6958}If you must go, wear this.
+{6968}{7062}For your mother's sake. It wiII protect you.
+{7345}{7417}(cries of consternation)
+{8708}{8766}(rats squeak and scurry)
+{9074}{9138}(wolf howls)
+{9804}{9859}(driver) Borgo. Borgo.
+{9863}{9903}Hyah!
+{10534}{10590}The coach from Count DracuIa?
+{11757}{11807}Hey, driver!
+{12320}{12410}I say, driver, what do you mean|by going at this...
+{12522}{12590}(clanking... door creaks open)
+{13612}{13662}(squeaking)
+{14541}{14599}I am... DracuIa.
+{14654}{14700}Oh, it's...
+{14702}{14760}It's reaIIy good to see you.
+{14787}{14887}I don't know what happened|to the driver and my Iuggage and...
+{14897}{15004}WeII, and with aII this,|I thought I was in the wrong pIace.
+{15023}{15073}I bid you weIcome.
+{15315}{15370}(wolf howls)
+{15499}{15549}Listen to them.
+{15562}{15616}ChiIdren of the night.
+{15649}{15703}What music they make!
+{16699}{16784}The spider spinning his web|for the unwary fIy.
+{16794}{16896}The bIood is the Iife, Mr RenfieId.
+{16943}{16988}Why, er...
+{17041}{17076}yes.
+{17364}{17461}I'm sure you wiII find|this part of my castIe more inviting.
+{17469}{17556}WeII, rather! It's quite|different from outside.
+{17581}{17671}Oh, and the fire - it's so cheerfuI.
+{17686}{17769}I didn't know but that|you might be hungry.
+{17788}{17833}Thank you. That's very kind of you.
+{17835}{17932}But I'm a bit worried about my Iuggage.|You see, aII your papers were in...
+{17934}{18023}I took the Iiberty of having|your Iuggage brought up.
+{18025}{18075}AIIow me.
+{18090}{18140}Oh, yes.
+{18241}{18286}Thanks.
+{18998}{19058}(wolf howls)
+{19205}{19286}I trust you have kept|your coming here a secret.
+{19296}{19364}I've foIIowed your instructions impIicitIy.
+{19399}{19451}ExceIIent, Mr RenfieId.
+{19472}{19522}ExceIIent.
+{19528}{19581}And now, if you're not too fatigued,
+{19583}{19674}I wouId Iike to discuss|the Iease on Carfax Abbey.
+{19676}{19797}Oh, yes. Everything is in order,|awaiting your signature.
+{19962}{20020}Look here. Here's the Iease.
+{20166}{20274}Oh, I... I hope I've brought|enough IabeIs for your Iuggage.
+{20294}{20387}I'm taking with me onIy three... boxes.
+{20426}{20476}Very weII.
+{20618}{20718}I have chartered a ship|to take us to EngIand.
+{20751}{20892}We wiII be Ieaving... tomorrow evening.
+{21007}{21062}Everything wiII be ready.
+{21131}{21218}I hope you wiII find this comfortabIe.
+{21243}{21297}Thanks. It Iooks very inviting.
+{21299}{21339}Ouch!
+{21819}{21929}Oh, it's nothing serious.|Just a smaII cut from that papercIip.
+{21963}{22015}It's just a scratch.
+{22220}{22334}This... is very oId wine.
+{22402}{22470}I hope you wiII Iike it.
+{22677}{22723}Aren't you drinking?
+{22725}{22793}I never drink... wine.
+{22884}{22924}WeII...
+{23111}{23150}It's deIicious.
+{23152}{23220}And now I'II Ieave you.
+{23247}{23297}WeII, good night.
+{23490}{23595}Good night... Mr RenfieId.
+{24503}{24553}(bat squeaks)
+{26611}{26679}Master, the sun is gone.
+{27111}{27226}You wiII keep your promise when|we get to London, won't you, master?
+{27282}{27342}You wiII see that I get Iives?
+{27371}{27491}Not human Iives, but... smaII ones.|With bIood in them!
+{27514}{27576}I'II be IoyaI to you, master.
+{27585}{27623}I'II be IoyaI.
+{28399}{28436}(men's voices)
+{28438}{28502}(first man) Must be a Scandinavian ship.
+{28504}{28584}(second man) Here, now.|Here, now. Get back.
+{28586}{28687}Nobody goes aboard this here boat|but the authorities.
+{28689}{28769}(third man) Captain dead,|tied to the wheeI.
+{28771}{28827}HorribIe tragedy. A horribIe tragedy.
+{28839}{28911}Master! We're here!
+{28996}{29102}You can't hear what I'm saying,|but we're here.
+{29123}{29173}We're safe!
+{29257}{29327}(third man) They must've come|through a terribIe storm.
+{29329}{29394}(deranged laughter)
+{29396}{29451}What's that?
+{29453}{29503}(footsteps)
+{29554}{29615}Why, it's come from that hatchway.
+{29721}{29789}(deranged guttural laughter)
+{29891}{29966}Why, he's mad! Look at his eyes.
+{29981}{30034}Why, the man's gone crazy.
+{30822}{30872}(klaxon)
+{31013}{31063}(car horns)
+{31099}{31208}VioIets! VioIets!|FIower for your buttonhoIe, sir.
+{31226}{31342}FIower for your buttonhoIe, sir. FIower|for your buttonhoIe. Here's a nice one.
+{31722}{31774}(girl screams)
+{32014}{32069}(police whistle)
+{32231}{32281}(answering whistles)
+{32902}{33007}(orchestra plays Wagner-|''Die Meistersinger von Nurnberg'')
+{33928}{33992}(movement ends)
+{34168}{34315}And after you've deIivered the message,|you wiII remember nothing I now say.
+{34415}{34465}Obey.
+{34599}{34661}- Dr Seward?|- Yes?
+{34663}{34709}You're wanted on the teIephone.
+{34711}{34768}Oh, thank you. WeII, excuse me, dears...
+{34770}{34892}Oh, Father, if it's from home, wiII you say|I'm spending the night in town with Lucy?
+{34894}{34951}(chuckles) AII right, dear.
+{34953}{34993}- Pardon.|- Yes?
+{34996}{35061}I couId not heIp overhearing your name.
+{35063}{35169}Might I inquire if you are the Dr Seward|whose sanitarium is at Whitby?
+{35171}{35216}Why, yes.
+{35218}{35263}I'm Count DracuIa.
+{35313}{35428}I have just Ieased Carfax Abbey.|I understand it adjoins your grounds.
+{35430}{35525}Why, yes, it does. I'm very happy|to make your acquaintance.
+{35544}{35637}May I present my daughter, Mina...
+{35664}{35700}Count DracuIa.
+{35711}{35806}- Miss Weston...|- How do you do?
+{35814}{35901}- And Mr Harker.|- How do you do?
+{35929}{35988}Count DracuIa has just|taken Carfax Abbey.
+{35990}{36061}Oh, it'II be a reIief to see Iife|in those dismaI oId windows.
+{36063}{36162}It wiII indeed. You'II excuse me -|I'm wanted on the teIephone.
+{36174}{36216}The abbey couId be very attractive.
+{36218}{36311}But I shouId imagine it wouId need|quite extensive repairs.
+{36328}{36386}I shaII do very IittIe repairing.
+{36424}{36559}It reminds me of the broken battIements|of my own castIe in TransyIvania.
+{36571}{36654}The abbey aIways reminds me|of that oId toast:
+{36656}{36788}''Above, Iofty timbers,|The waIIs around are bare,
+{36814}{36927}Echoing to our Iaughter,|As though the dead were there.''
+{36951}{37039}- Nice IittIe sentiment!|- But there's more, even nicer.
+{37051}{37161}''Quaff a cup to the dead aIready,|Hurrah for the next to die...''
+{37163}{37218}Oh, never mind the rest, dear!
+{37247}{37322}To die, to be reaIIy dead...
+{37343}{37397}that must be gIorious.
+{37413}{37463}Why, Count DracuIa!
+{37524}{37654}There are far worse things...|awaiting man...
+{37680}{37730}than death.
+{38109}{38159}(music box chimes)
+{38275}{38384}(Mina, mimicking) It reminds me...|of the broken battIements...
+{38386}{38488}of my own castIe in TransyIvania.
+{38531}{38603}Oh, Lucy, you're so romantic!
+{38620}{38720}Laugh aII you Iike. I think he's fascinating.
+{38733}{38785}Oh, I suppose he's aII right.
+{38809}{38884}But give me someone|a IittIe more normaI.
+{38886}{38928}Like John?
+{38930}{38986}Yes, dear. Like John.
+{39023}{39106}CastIe... DracuIa.
+{39142}{39192}TransyIvania.
+{39238}{39317}WeII, er... Countess,
+{39358}{39441}I'II Ieave you to your count|and his ruined abbey.
+{39466}{39532}- Good night, Lucy.|- Good night, dear.
+{39583}{39644}The fog seems to be|cIosing down a bit, sir.
+{42166}{42204}Another death.
+{42206}{42256}Dead?
+{42284}{42397}Dr Seward, when did Miss Weston|have the Iast transfusion?
+{42399}{42456}About four hours ago.
+{42494}{42624}An unnaturaI Ioss of bIood,|which we've been powerIess to check.
+{42810}{42935}On the throat of each victim|the same two marks.
+{43182}{43273}- (nurse) Keep your hands covered.|- I don't want to keep my hands covered.
+{43275}{43326}- But you said you wouId.|- I don't want to.
+{43328}{43408}- Now pIease do as you said you wouId.|- I don't want to.
+{43410}{43477}(man screams)
+{43479}{43556}(patient) He probabIy wants|his fIies again! (manic laughter)
+{43558}{43624}(man) No, Martin, pIease!|PIease don't, Martin!
+{43626}{43700}No, Martin, pIease! PIease, Martin!
+{43702}{43774}No, Martin! Oh, Martin, pIease!
+{43776}{43859}- Here, give it to me now, I teII you!|- No, Martin, pIease!
+{43861}{43956}No, Martin. Martin, don't!|Don't throw my spider away from me!
+{43968}{44043}Oh, Martin... Oh...
+{44066}{44132}Ain't you ashamed now? Ain't you?
+{44151}{44251}Spiders now, is it?|FIies ain't good enough?
+{44296}{44371}FIies? FIies?!
+{44397}{44453}Poor puny things!
+{44486}{44539}Who wants to eat fIies?
+{44541}{44587}You do, ya Ioony!
+{44618}{44710}Not when I can get nice fat spiders!
+{44719}{44809}AII right. Have it your own way.
+{45281}{45339}Read, Dummkopf, where I have marked.
+{45348}{45500}Deinde cum extractum|vesiculionis sanguine mixtum est,
+{45502}{45590}sanguis puniceo color|amisso lactteus fit.
+{45661}{45790}GentIemen, we are deaIing|with the... undead.
+{45810}{45871}Nosferatu!
+{45873}{45998}Yes, Nosferatu. The undead. The vampire.
+{46059}{46122}The vampire attacks the throat.
+{46137}{46253}It Ieaves two IittIe wounds,|white with red centres.
+{46337}{46476}Dr Seward, your patient RenfieId,|whose bIood I have just anaIysed,
+{46478}{46617}is obsessed with the idea|that he must devour Iiving things
+{46619}{46669}in order to sustain his own Iife.
+{46680}{46725}But, Professor Van HeIsing,
+{46727}{46823}modern medicaI science|does not admit of such a creature!
+{46825}{46883}The vampire is a pure myth, superstition.
+{46885}{47068}I may be abIe to bring you proof|that the superstition of yesterday
+{47070}{47181}can become the scientific reaIity of today.
+{47229}{47352}But, Professor, RenfieId's cravings|have aIways been for small Iiving things.
+{47354}{47437}- Nothing human.|- As far as we know, Doctor.
+{47455}{47570}But you teII me that he escapes|from his room. He's gone for hours.
+{47593}{47643}Where does he go?
+{47645}{47701}(voice approaches)
+{47712}{47774}..so you won't have to eat fIies.
+{47815}{47866}WeII, Mr RenfieId,
+{47868}{47962}you are Iooking much better than you did|this morning when I arrived.
+{47964}{48021}Thanks. I'm feeIing much better.
+{48094}{48141}I am here to heIp you.
+{48143}{48203}You understand that, do you not?
+{48237}{48312}Why, of course. And I'm very gratefuI.
+{48420}{48522}- Keep your fiIthy hands to yourseIf!|- Now now, RenfieId.
+{48566}{48711}Oh, Dr Seward, send me away|from this pIace! Send me far away!
+{48722}{48794}Why are you so anxious to get away?
+{48883}{48977}My cries at night -|they might disturb Miss Mina.
+{48979}{49019}Yes?
+{49151}{49246}They might give her bad dreams,|Professor Van HeIsing.
+{49340}{49388}Bad dreams.
+{49390}{49442}(wolf howls)
+{49679}{49729}(wolf howls)
+{49847}{49887}(thud)
+{50169}{50217}That sounded Iike a woIf.
+{50219}{50324}Yes, it did. But I hardIy think|there are woIves so near London.
+{50343}{50393}He thinks they're woIves.
+{50395}{50468}Me, I've heard 'em howI at night before.
+{50483}{50537}He thinks they're taIking to him!
+{50539}{50641}He 'owIs and 'owIs back at 'em.|He's crazy!
+{50705}{50800}I might have known. I might have known.
+{50851}{50996}We know why the woIves taIk,|do we not, Mr RenfieId?
+{51032}{51136}And we know how|we can make them stop.
+{51138}{51178}Argh!
+{51203}{51259}You know too much to Iive, Van HeIsing!
+{51268}{51308}Now now, RenfieId.
+{51355}{51428}We wiII get no more out of him now|for a whiIe.
+{51430}{51467}Take him away, Martin.
+{51469}{51525}On your way, oId fIy-eater.
+{51596}{51696}I'm warning you, Dr Seward,|if you don't send me away
+{51703}{51783}you must answer|for what wiII happen to Miss Mina!
+{51785}{51869}- AII right, Martin.|- Come aIong now. Come aIong.
+{51901}{51965}What was that herb that excited him so?
+{51990}{52096}WoIfbane. It is a pIant|that grows in centraI Europe.
+{52098}{52206}The natives there use it to protect|themseIves against vampires.
+{52208}{52287}RenfieId reacted very vioIentIy|to its scent.
+{52289}{52428}Seward, I want you to have RenfieId|cIoseIy watched by day and night.
+{52430}{52462}EspeciaIIy by night.
+{52554}{52604}(sobs)
+{52629}{52679}(wolf howls)
+{52975}{53025}Yes, master.
+{53133}{53191}Master, you've come back.
+{53291}{53406}No, master, pIease...|PIease don't ask me to do that.
+{53432}{53485}Don't. Not her.
+{53568}{53651}PIease! PIease don't, master!
+{53674}{53724}Don't, pIease!
+{53746}{53786}PIease...
+{53811}{53857}Oh, don't...
+{54815}{54895}I Iaid in bed for quite a whiIe... reading.
+{54934}{55069}And just as I was commencing|to get drowsy, I heard dogs howIing.
+{55132}{55191}And when the dream came...
+{55201}{55280}it seemed the whoIe room|was fiIIed with mist.
+{55295}{55399}It was so thick I couId just|see the Iamp by the bed,
+{55425}{55480}a tiny spark in the fog.
+{55517}{55613}And then I saw two red eyes|staring at me,
+{55631}{55726}and a white, Iivid face|came down out of the mist.
+{55783}{55866}It came cIoser... and cIoser.
+{55917}{55977}I feIt its breath on my face...
+{56006}{56056}and then its Iips!
+{56072}{56132}Dear, it was onIy a dream.
+{56147}{56219}And then in the morning I feIt so weak.
+{56235}{56316}It seemed as if aII the Iife|had been drained out of me.
+{56323}{56412}DarIing, we're going to forget|aII about these dreams
+{56414}{56495}and think about something cheerfuI,|aren't we?
+{56497}{56563}- AIIow me?|- Oh. CertainIy, Professor.
+{56590}{56640}Think for a moment.
+{56653}{56763}Is there anything that might|have brought this dream on?
+{56817}{56841}No.
+{56853}{56982}Doctor, there's something troubIing Mina.|Something she won't teII us.
+{56988}{57155}And the face in the dream - you say|it seemed to come cIoser and cIoser?
+{57188}{57238}The Iips touched you?
+{57255}{57303}Where?
+{57305}{57368}Is there anything the matter|with your throat?
+{57370}{57418}- Oh, no. But I...|- Permit me.
+{57420}{57486}- No, pIease...|- Yes. Yes.
+{57663}{57725}How Iong have you had|those IittIe marks?
+{57727}{57789}- Marks?|- PIease.
+{57791}{57891}- Mina, why didn't you Iet us know?|- Do not excite her.
+{57951}{58001}When, Miss Mina?
+{58063}{58123}Since the morning after the dream.
+{58218}{58304}- What couId have caused them?|- (maid) Count DracuIa.
+{58447}{58508}It's good to see you back again, Doctor.
+{58525}{58580}I heard you have just arrived.
+{58711}{58813}And you, Miss Mina,|you're Iooking exceptionaIIy...
+{58815}{58878}(Van Helsing) Pardon me, Dr Seward...
+{58899}{58968}but I think Miss Mina|shouId go to her room at once.
+{58970}{59064}Professor Van HeIsing, I don't beIieve|it's as important as you seem to think.
+{59066}{59141}Excuse me. Count DracuIa,|Professor Van HeIsing.
+{59270}{59385}Van HeIsing.|A most distinguished scientist,
+{59387}{59517}whose name we know...|even in the wiIds of TransyIvania.
+{59581}{59659}I had a frightfuI dream a few nights ago.
+{59661}{59715}I don't seem to be abIe|to get it out of my mind.
+{59717}{59794}I hope you haven't taken|my stories too seriousIy?
+{59796}{59836}Stories?
+{59864}{59904}Yes.
+{59932}{60034}In my humbIe effort|to amuse your fiancee, Mr Harker,
+{60036}{60169}I was teIIing her some rather... grim taIes|of my far-off country.
+{60195}{60251}I can imagine.
+{60253}{60300}Why, John!
+{60398}{60497}I can quite understand|Mr Harker's concern.
+{60499}{60554}I'm afraid it's quite serious.
+{60565}{60641}My dear, I'm sure|Count DracuIa wiII excuse you.
+{60643}{60738}You must go to your room,|as Professor Van HeIsing suggests.
+{60764}{60843}Oh, but reaIIy, Father,|I'm feeIing quite weII.
+{60862}{60934}You had better do as your father advises.
+{61014}{61064}Very weII.
+{61101}{61141}Good night.
+{61157}{61192}John.
+{61335}{61443}Miss Mina, may I caII Iater|and inquire how you are feeIing?
+{61445}{61517}Why, yes. Thank you.
+{61778}{61851}I'm sorry, Doctor,|my visit was so iII-timed.
+{61853}{61886}Not at aII.
+{61888}{61981}On the contrary, it may prove|to be most enIightening.
+{61996}{62089}In fact, before you go,|you can be of definite service.
+{62102}{62170}Anything I can do, gIadIy.
+{62307}{62439}A moment ago I stumbIed|upon a most amazing phenomenon.
+{62460}{62605}Something so incredibIe|I mistrust my own judgment.
+{62637}{62677}Look.
+{63157}{63229}Dr Seward, my humbIe apoIogy.
+{63231}{63291}I disIike mirrors.
+{63303}{63369}Van HeIsing wiII expIain.
+{63667}{63754}For one who has not Iived|even a singIe Iifetime...
+{63779}{63876}you are a wise man, Van HeIsing.
+{63969}{64000}Phew!
+{64002}{64056}What on earth caused that?
+{64058}{64120}Did you see the Iook on his face?|Like a wiId animaI!
+{64122}{64180}WiId animaI? Like a madman!
+{64243}{64353}What's that, running across the Iawn?|Looks Iike a huge dog!
+{64366}{64416}Or a woIf?
+{64467}{64513}A woIf?
+{64515}{64597}- He was afraid we might foIIow.|- FoIIow?
+{64599}{64710}Sometimes they take the form of woIves.|But generaIIy of bats.
+{64725}{64777}What are you taIking about?
+{64786}{64834}DracuIa.
+{64836}{64910}But what's DracuIa got to do|with woIves and bats?
+{64912}{64993}- DracuIa is our vampire.|- But sureIy, Professor...
+{64995}{65154}A vampire casts no refIection in the gIass.|That is why DracuIa smashed the mirror.
+{65167}{65229}I don't mean to be rude,|but that's the sort of thing
+{65231}{65283}I'd expect one|of the patients here to say.
+{65285}{65418}Yes. And that is what your EngIish|doctors wouId say, your poIice.
+{65469}{65583}The strength of the vampire|is that peopIe wiII not beIieve in him.
+{66377}{66458}But, Professor, vampires|onIy exist in ghost stories.
+{66468}{66591}A vampire, Mr Harker,|is a being that Iives after its death
+{66593}{66705}by drinking the bIood of the Iiving.|It must have bIood or it dies.
+{66719}{66813}Its power Iasts onIy|from sunset to sunrise.
+{66815}{66919}During the hours of the day it must rest|in the earth in which it was buried.
+{66921}{67031}But then, if DracuIa were a vampire, he'd|have to return every night to TransyIvania.
+{67033}{67064}And that's impossibIe!
+{67066}{67134}Then he must have brought|his native soiI with him.
+{67136}{67239}Boxes of it. Boxes of earth|Iarge enough for him to rest in.
+{67241}{67309}(manic laughter)
+{67311}{67339}RenfieId?!
+{67341}{67403}What are you doing there? Come here.
+{67489}{67541}Did you hear what we were saying?
+{67553}{67607}Yes, I heard something.
+{67626}{67666}Enough.
+{67694}{67754}Be guided by what he says.
+{67777}{67829}It's your onIy hope.
+{68017}{68072}It's her onIy hope.
+{68094}{68151}I begged you to send me away,|but you wouIdn't.
+{68153}{68219}Now it's too Iate. It's happened again.
+{68221}{68276}(Harker) What's happened?
+{68363}{68447}Take her away from here.|Take her away before...
+{68449}{68509}(squeaking)
+{68575}{68652}No, no, master!|I wasn't going to say anything!
+{68668}{68760}I toId them nothing!|I'm IoyaI to you, master!
+{68778}{68828}What have you to do with DracuIa?
+{68838}{68878}DracuIa?
+{69037}{69128}I never even heard the name before.
+{69130}{69249}You wiII die in torment if you die|with innocent bIood on your souI.
+{69267}{69310}Oh, no.
+{69330}{69401}God wiII not damn a Iunatic's souI.
+{69425}{69546}He knows that the powers of eviI are|too great for those of us with weak minds.
+{69548}{69591}(woman screams)
+{69593}{69652}Oh, Mr Harker! Mr Harker, it's horribIe!
+{69654}{69761}Oh, it's horribIe! Dr Seward!|Miss Mina... Out there, dead!
+{69763}{69823}- Out where?|- Out there!
+{69825}{69895}(Renfield laughs)
+{70528}{70595}Thank heaven she's aIive.|Thank heaven for that!
+{70597}{70696}AIive, yes. But in greater danger,|for she's aIready under his infIuence.
+{70698}{70775}Oh, it's horribIe, Van HeIsing, horribIe!|IncredibIe!
+{70777}{70886}IncredibIe, perhaps, but we must face it,|we must cope with it.
+{70888}{70993}As these attacks continue, she comes|more and more under his power.
+{71106}{71158}(child cries)
+{71630}{71684}''Further attacks on smaII chiIdren,
+{71686}{71829}committed after dark by the mysterious|woman in white, took pIace Iast night.''
+{71844}{72039}''Narratives of two smaII girIs, each chiId|describing a 'bootifuI Iady in white'
+{72041}{72160}who promised her chocoIates,|enticed her to a secIuded spot,
+{72162}{72234}and there bit her sIightIy in the throat.''
+{72267}{72341}- Ghosts!|- Vampires.
+{72343}{72373}And then, Miss Mina?
+{72375}{72430}What couId she know|about the woman in white?
+{72432}{72541}- It's bad enough for her to read about it...|- PIease, pIease, Mr Harker.
+{72582}{72692}And when was the next time you saw|Miss Lucy after she was buried?
+{72879}{72947}I was downstairs on the terrace.
+{72993}{73078}She came out of the shadows|and stood Iooking at me.
+{73106}{73158}I started to speak to her.
+{73236}{73301}And then I remembered she was dead.
+{73329}{73419}The most horribIe expression|came over her face.
+{73421}{73506}She Iooked Iike a hungry animaI. A woIf.
+{73584}{73669}And then she turned|and ran back into the dark.
+{73685}{73765}Then you know the woman in white is...
+{73856}{73900}Lucy.
+{73917}{74058}Miss Mina, I promise you that|after tonight she wiII remain at rest,
+{74060}{74129}her souI reIeased from this horror.
+{74131}{74243}If you can save Lucy's souI after death,|promise me you'II save mine.
+{74245}{74336}DarIing, you're not going to die.|You're going to Iive.
+{74350}{74414}No, John. You mustn't touch me.
+{74448}{74520}And you mustn't kiss me - ever again.
+{74529}{74587}What are you trying to say?
+{74655}{74695}You teII him.
+{74697}{74767}You make him understand. I can't.
+{74933}{74973}Professor...
+{75120}{75175}It's aII over, John.
+{75177}{75235}Our Iove, our Iife together.
+{75280}{75316}Oh, no.
+{75318}{75376}No, no, don't Iook at me Iike that.
+{75401}{75469}I Iove you, John. You.
+{75600}{75675}But this horror... He wiIIs it.
+{75677}{75752}(Van Helsing) Miss Mina,|you must come indoors.
+{75784}{75834}You must.
+{76007}{76095}Do you know what you're doing to her,|Professor? You're driving her crazy!
+{76097}{76191}Mr Harker, that is what|you shouId be worrying about.
+{76193}{76306}The Iast rays of the day's sun wiII soon be|gone and another night wiII be upon us.
+{76308}{76363}(door opens)
+{76365}{76474}Dr Seward, I'm taking Mina with me|to London tonight, or I'II caII in the poIice.
+{76476}{76554}- But, John...|- Mina, pIease get your bags packed.
+{76556}{76633}Seward, I must be master here|or I can do nothing.
+{76643}{76670}Quite.
+{76672}{76763}Miss Mina, both this room|and your bedroom
+{76765}{76819}have been prepared with woIfbane.
+{76821}{76880}You wiII be safe if DracuIa returns.
+{76882}{76944}She'II be safe aII right,|because she's going with me!
+{76946}{77041}- Mina, I'II be waiting for you in the Iibrary.|- Oh, John!
+{77058}{77135}Father, taIk to him.|PIease don't Iet him go.
+{77208}{77258}Oh, Briggs.
+{77295}{77400}Miss Mina is to wear this wreath|of woIfbane when she goes to bed.
+{77402}{77492}Watch her cIoseIy and see|that she does not remove it in her sIeep.
+{77494}{77516}I understand.
+{77518}{77609}And under no circumstances|must these windows be opened tonight.
+{77611}{77661}Very weII, sir.
+{77932}{77982}(wolf howls)
+{78028}{78068}(thud)
+{78372}{78471}You wiII recoIIect that DracuIa|cast no refIection in the mirror.
+{78473}{78485}Yes.
+{78487}{78567}And that three boxes of earth|were deIivered to him at Carfax Abbey.
+{78569}{78583}Quite.
+{78585}{78693}And, knowing that a vampire|must rest by day in his native soiI,
+{78695}{78783}I am convinced that|this DracuIa is no Iegend,
+{78785}{78907}but an undead creature whose Iife|has been unnaturaIIy proIonged.
+{78909}{79023}(Harker) WeII, Dr Seward, what about it?|Is Mina going with me or not?
+{79025}{79110}If you take her from under our protection,|you wiII kiII her.
+{79112}{79177}Now, John, pIease, pIease, be patient.
+{79186}{79279}Mr Harker, pIease, come here.
+{79318}{79360}WeII?
+{79362}{79422}John, I know you Iove her.
+{79424}{79536}But don't forget she's my daughter,|and I must do what I think is best.
+{79572}{79723}Mr Harker, I have devoted my Iifetime|to the study of many strange things -
+{79725}{79831}IittIe-known facts which the worId|is perhaps better off for not knowing.
+{79833}{79947}I know. But, Professor, aII I want|is to get Mina away from aII of this.
+{79949}{79999}That wiII do no good.
+{80014}{80089}Our onIy chance of saving Miss Mina's Iife
+{80091}{80180}is to find the hiding pIace|of DracuIa's Iiving corpse
+{80182}{80241}and to drive a stake through its heart.
+{80243}{80362}(Renfield) Isn't this a strange conversation|for men who aren't crazy?
+{80364}{80449}RenfieId! You're compeIIing me|to put you in a straitjacket.
+{80451}{80556}You forget, Doctor,|that madmen have great strength.
+{80572}{80659}Dracula has great strength, eh, RenfieId?
+{80661}{80706}Words, words, words!
+{80708}{80772}Oh, Martin. Didn't I warn you|to keep a strict watch?
+{80774}{80811}What?
+{80813}{80860}What, again?!
+{80862}{80912}Yes, sir. At once, sir.
+{80924}{80981}Yes, sir. Right away, sir.
+{81009}{81094}Here, the doctor's pet Ioony|is Ioose again.
+{81111}{81208}He came and stood beIow|my window in the moonIight.
+{81235}{81303}And he promised me things.
+{81328}{81421}Not in words, but by doing them.
+{81440}{81482}Doing them?
+{81484}{81552}By making them happen.
+{81689}{81834}A red mist spread over the Iawn,|coming on Iike a fIame of fire.
+{81877}{81931}And then he parted it.
+{81975}{82093}And I couId see that|there were thousands of rats,
+{82113}{82238}with their eyes bIazing red -|Iike his, onIy smaIIer.
+{82271}{82366}And then he heId up his hand|and they aII stopped.
+{82404}{82470}And I thought he seemed to be saying...
+{82537}{82653}''Rats, rats... rats!''
+{82670}{82784}''Thousands... miIIions of them!''
+{82802}{82856}''AII red bIood!''
+{82868}{82954}''AII these wiII I give you...
+{82988}{83046}if you wiII obey me.''
+{83064}{83119}What did he want you to do?
+{83173}{83245}That which has aIready been done.
+{83284}{83373}Strike me down dead, Doctor!|He's got me going!
+{83375}{83470}Now he's twisted and broken|them iron bars as if they was cheese.
+{83481}{83552}- DracuIa is in the house!|- In the house?!
+{83554}{83667}Doctor, this time he can do no harm.|We are ready for him.
+{83669}{83770}Martin, come. I'II show you where we can|put Mr RenfieId where he won't escape.
+{83772}{83863}Maybe you're right, but I have me doubts.|Come aIong, oId fIy-eater.
+{83865}{83990}Now you mustn't get out of it this time.|You've got to stay in your room...
+{84014}{84064}Van HeIsing!
+{84150}{84227}Now that you have Iearned|what you have Iearned,
+{84229}{84316}it wouId be weII for you|to return to your own country.
+{84318}{84468}I prefer to remain, and protect|those whom you wouId destroy.
+{84483}{84540}You are too Iate.
+{84542}{84617}My bIood now fIows through her veins.
+{84683}{84769}She wiII Iive through|the centuries to come...
+{84800}{84844}as I have Iived.
+{84852}{84921}ShouId you escape us, DracuIa,
+{84923}{85021}we know how to save Miss Mina's souI,|if not her Iife.
+{85027}{85081}If she dies by day.
+{85089}{85171}But I shaII see that she dies by night.
+{85173}{85296}And I wiII have Carfax Abbey|torn down stone by stone,
+{85298}{85354}excavated a miIe around.
+{85356}{85466}I wiII find your earth box|and drive that stake through your heart.
+{85500}{85550}Come here.
+{85941}{85981}Come...
+{86009}{86049}here.
+{86821}{86906}Your wiII is strong,
+{86916}{86966}Van HeIsing.
+{87102}{87176}More woIfbane?
+{87187}{87250}More effective than woIfbane, Count.
+{87268}{87314}Indeed?
+{87316}{87356}(snarls)
+{87511}{87557}(Mina) Open the windows, Briggs,|Iet in some air!
+{87559}{87671}The odour in the room from that horribIe|weed! It's stifIing! I can't stand it!
+{87673}{87752}- But the professor gave orders.|- Never mind the professor now.
+{87754}{87852}Now, pIease, go back to bed at once.|I'm going to caII your father.
+{87880}{87918}What is it, Briggs?
+{87920}{87970}I don't know, Mr Harker.
+{87981}{88039}I feIt strangeIy dizzy.
+{88041}{88134}And when it cIeared away, Miss Mina was|up and dressed and out on the terrace.
+{88136}{88230}- And I can't get her to go to bed.|- WeII, Iet me see her. TeII her I'm here.
+{88232}{88271}John?
+{88273}{88342}Oh, John, I'm so gIad you're here.
+{88344}{88405}What have they been doing to me, dear?
+{88451}{88564}Locking me in my room! Oh, and|the horribIe smeII of that awfuI weed.
+{88566}{88620}It's been Iike a nightmare.
+{88634}{88696}What's been the matter?
+{88698}{88755}Why are you Iooking at me Iike that?
+{88766}{88805}Mina...
+{88817}{88902}You're so... Iike a changed girI.
+{88927}{88972}Oh, you Iook wonderfuI!
+{88974}{89075}I feel wonderfuI.|I've never feIt better in my Iife.
+{89077}{89189}I'm so gIad to see you Iike this.|I've been awfuIIy worried about you.
+{89191}{89281}Mr Harker, you'd better|bring Miss Mina inside.
+{89292}{89350}That's aII right, Briggs - now that I'm here.
+{89352}{89408}Run aIong, Briggs. Don't worry.
+{89530}{89595}John... Look, the fog's Iifting.
+{89614}{89670}See how pIain you can see the stars.
+{89680}{89722}Yes.
+{89724}{89772}MiIIions of them.
+{89774}{89837}I've never seen them so cIose.
+{89839}{89919}Why, it Iooks as if you couId|reach out and touch them.
+{89932}{89987}WouId you Iike me to get you a ha...
+{90024}{90082}Why, what's the matter?
+{90084}{90145}Oh, nothing. Nothing at aII.
+{90204}{90264}Come. Let's sit down.
+{90348}{90388}Van HeIsing.
+{90390}{90488}Seward. That which I feared|from the beginning has happened.
+{90490}{90517}What?
+{90519}{90615}DracuIa boasts that he has fused|his bIood with that of Miss Mina.
+{90617}{90698}In Iife she wiII now become|the fouI thing of the night that he is.
+{90700}{90747}- But Van HeIsing...|- Come, Seward.
+{90749}{90798}There's not a moment to be Iost.
+{90800}{90898}Oh, but I Iove the fog!|I Iove nights with fog.
+{90913}{90999}WeII, onIy yesterday you said|you were afraid of the night.
+{91001}{91111}But, darIing, I couId never have said|anything so siIIy! I couIdn't!
+{91113}{91221}I Iove the night.|Why, it's the onIy time I feeI reaIIy aIive.
+{91239}{91316}- There's that bat again!|- (bat squeaks)
+{91336}{91374}- Yes?|- Shoo!
+{91376}{91431}- Look out. He'II get in your hair.|- (squeaking)
+{91433}{91470}Yes?
+{91543}{91601}- My, that was a big bat.|- (squeaking)
+{91603}{91653}I wiII.
+{91706}{91762}You wiII what?
+{91764}{91816}Why, I didn't say anything.
+{91818}{91863}Yes, you did. You said ''I wiII''.
+{91865}{91910}Oh, no, I didn't.
+{91912}{91977}John... Come, sit down.
+{92003}{92094}There must be some way,|some way to save her.
+{92111}{92136}There is onIy one...
+{92138}{92263}(Mina) John, that funny IittIe oId|professor... He has a crucifix.
+{92281}{92364}Now I want you to get it|away from him and hide it.
+{92374}{92424}But why, dear?
+{92437}{92495}Oh, he'II be wanting to protect me again -
+{92497}{92576}from the night, or Count DracuIa,|or whatever it is.
+{92578}{92665}WeII, I don't know. He may be right, Mina.
+{92777}{92827}Your eyes!
+{92926}{92980}They Iook at me so strangeIy.
+{93156}{93206}Mina!
+{93234}{93293}- Mina, you're...|- No, Mina, no!
+{93295}{93342}(Mina screams)
+{93344}{93418}Give me that!|What's the idea? Have you gone crazy?
+{93420}{93504}- Are you trying to frighten her to death?!|- No, I was trying to save her.
+{93506}{93553}Save her? That's a fine way!
+{93555}{93601}It's aII right, darIing.
+{93603}{93680}Oh, John, darIing!|You must go away from me!
+{93702}{93742}(wails)
+{93748}{93804}The cross! Put it away!
+{93822}{93883}After what's happened|I can't bear to Iook at it.
+{93885}{93957}- What's happened?|- I can't teII you. I can't.
+{93959}{94038}But you must. You must teII me.|I have a right to know.
+{94083}{94126}Oh, John...
+{94128}{94219}You can beIieve everything he says.|It's aII the truth.
+{94236}{94279}DracuIa, he...
+{94281}{94322}DracuIa?!
+{94324}{94396}What's he done to you, dear? TeII me.
+{94414}{94469}He came to me.
+{94471}{94565}He opened a vein in his arm...|and he made me drink.
+{94567}{94617}(gunshot)
+{94684}{94737}What is it? Who is it, Martin?
+{94739}{94807}It's that big grey bat again, sir.
+{94818}{94936}There's no use wasting your buIIets,|Martin. They cannot harm that bat.
+{95022}{95072}No, sir.
+{95101}{95151}He's crazy!
+{95174}{95228}They're aII crazy.
+{95251}{95323}They're aII crazy except you and me.
+{95325}{95395}Sometimes I have me doubts about you.
+{95423}{95470}Yes.
+{96932}{96982}(creaking)
+{98076}{98160}(Harker) That's RenfieId!|What's he doing at the abbey?
+{98223}{98273}Come, Mr Harker.
+{98611}{98661}(creaking)
+{98883}{98949}(clanking)
+{99146}{99227}Master! Master, I'm here!
+{99450}{99513}Where eIse wouId he be going|but to DracuIa?
+{99577}{99684}What is it, master?|What do you want me to do?
+{99686}{99739}Look! Here's an opening.
+{99836}{99890}(Harker) Mina!
+{99902}{99952}Mina!
+{99983}{100093}I didn't Iead them here, master!|I didn't know, I swear!
+{100157}{100182}No! No!
+{100184}{100234}(Dracula) Wait!
+{100533}{100583}I'm IoyaI to you, master.
+{100592}{100667}I'm your sIave. I didn't betray you!
+{100729}{100798}Oh, no, don't! Don't kiII me!
+{100800}{100845}Let me Iive, pIease!
+{100847}{100916}Punish me, torture me, but Iet me Iive!
+{100918}{100992}I can't die with aII those Iives|on my conscience!
+{101000}{101047}AII that bIood on my hands!
+{101049}{101111}Argh! Argh!
+{101611}{101661}Mina! Mina!
+{101779}{101897}- He'II kiII her if we don't get to her!|- (Van Helsing) We must not be too Iate.
+{101925}{102019}We have him trapped! Day is breaking!|We have him trapped!
+{102021}{102044}(woman screams)
+{102046}{102127}He's kiIIing her!|Mina! Mina, where are you?
+{102149}{102199}Mina! Mina!
+{102250}{102300}Mina, where are you?
+{102343}{102383}Mina?
+{102443}{102483}Mina?
+{102503}{102553}Mina! Mina!
+{102618}{102661}Harker! Harker!
+{102663}{102718}- See her?|- Come.
+{102762}{102804}Where? Where are you?
+{102806}{102872}Here. Here, Harker. I have found them.
+{103627}{103701}Get me a piece of stone - anything -
+{103703}{103786}to heIp me drive the stake|through their hearts.
+{103900}{103950}(banging)
+{104465}{104525}Is she...? How does she...?
+{104625}{104675}She is not here.
+{104686}{104750}Then... then she may be aIive!
+{104779}{104829}Mina! Mina!
+{104852}{104892}Mina!
+{105022}{105035}Mina!
+{105037}{105081}- (hammer blow)|- (groan)
+{105083}{105138}Aarghh...
+{105208}{105276}(groan trails off into silence)
+{105497}{105547}(Mina shrieks)
+{105556}{105598}Mina!
+{105613}{105675}Mina! Mina!
+{105719}{105781}Oh, John! John, darIing!
+{105836}{105916}I heard you caIIing,|but I couIdn't say anything.
+{105918}{105965}We thought he'd kiIIed you, dear.
+{105967}{106015}The dayIight stopped him.
+{106017}{106073}Oh, if you couId have seen|the Iook on his face!
+{106075}{106173}There's nothing more to fear, Miss Mina.|DracuIa is dead for ever.
+{106175}{106219}No, no, no. You must go.
+{106221}{106325}- But aren't you coming with us?|- Not yet. PresentIy. Come, John.
+{106412}{106462}(church bells)
+{106512}{106612}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<
+{106637}{106787}Support us and become VIP member |to remove all ads from OpenSubtitles.org

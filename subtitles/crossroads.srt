@@ -1,0 +1,1040 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{1134}{1203}-Hand me the flashlight.|- Here it is.
+{1203}{1203}- Hand me the flashlight.|- Here it is.
+{1254}{1347}- Kit, I've got the shovel.|- You do?
+{1349}{1425}Lucy, get the box.
+{1428}{1488}- What are you putting in?|- It's supposed to be a secret.
+{1488}{1534}- What are you putting in?|- It's supposed to be a secret.
+{1603}{1690}- My dad thinks I'm at your house.|- My mom thinks I'm at yours.
+{1744}{1784}Let's d i g deep.
+{1815}{1879}So no one will find it.
+{1912}{2025}- Di g it deeper!.|- We don't wanna get caught.
+{2028}{2087}I want some dirt.
+{2154}{2269}When we were ten growing up|in Georgia, Mimi, Kit and I...
+{2271}{2369}knew exactly what we wanted|out oflife.
+{2371}{2436}- Lucy, get the box.|- This is fun.
+{2438}{2559}So we put our dreams in a box,|and we buried it.
+{2562}{2619}We have to keep it dry.
+{2838}{2920}We made a pact to dig it up|at midnight...
+{2923}{2998}the day of our|high school graduation.
+{3001}{3056}Pack it down.
+{3114}{3206}- Let's be best friends forever.|- We will.
+{3209}{3284}Now, I don't even remember|what our wishes were--
+{3286}{3334}except for one.
+{3336}{3429}We wished that we'd be|best friends forever.
+{3431}{3529}Well, that wish|didn 't come true.
+{3966}{4065}I see you on the street|andyou walk on by
+{4125}{4170}Baby
+{4173}{4290}You make me wanna hang|my head down and cry
+{4381}{4474}Ifyou gave me|halfthe chance, you'd see
+{4476}{4576}My desire burning inside ofme
+{4578}{4694}But you choose|to look the other way
+{4757}{4850}I've had to work|much harder than this
+{4852}{4955}For something I want|Don 't try to resist me
+{4957}{5049}Open your heart to me, baby
+{5051}{5149}I hold the lock|andyou hold the key--
+{5151}{5204}- Lucille Wagner!.|- Pop?.
+{5206}{5280}- Baby, we're gonna be late.|- I was just--
+{5282}{5328}- Did you practice your speech?.|- I almost have it.
+{5330}{5398}Lucy, how's it gonna look if the|valedictorian messes up her speech?.
+{5400}{5441}Okay.
+{5443}{5520}Don't wrinkle your robe.|Just ironed it forya.
+{5579}{5688}Okay, big day!. Come on!|See ya on deck! Let's go!
+{5690}{5762}Toads do look like frogs.
+{5765}{5835}It's just one's, you know,|in the water and one's not.
+{5838}{5901}It doesn't--|It could happen to anybody.
+{5942}{5991}Hey, Mimi!|I know you want me.
+{6055}{6108}Ho!
+{6110}{6163}I'm gonna look|drop-dead gorgeous.
+{6166}{6230}You should see my dress.
+{6232}{6333}- Hello! Watch where you're going!|- You ran into me, Kit.
+{6335}{6390}What, you're too perfect|to bump into anybody?.
+{6393}{6443}- What?.|- Perfect.
+{6446}{6533}Sweet, proper...
+{6535}{6586}nerdy and virginal.
+{6589}{6649}- I'm not--|- You're a virgin.
+{6651}{6707}I told y'all.
+{6710}{6813}Just get us in the picture, okay?.|Hold my purse.
+{6815}{6903}No, don't push the button.|Wait till I get over there. Honey!
+{6906}{7031}- Mama, what are you doing?.|- One second. Stand up straight.
+{7034}{7109}- I am. I will.|- Tuckyour tummy in.
+{7111}{7166}- Smile.|- Mom, I'm smiling!
+{7169}{7218}Bigger, darling.
+{7221}{7318}- Lucy, your speech was wonderful.|- Thankyou.
+{7321}{7384}I hope you're gonna continue|studying music in college.
+{7386}{7434}Actually, Lucy wants|to become a doctor.
+{7437}{7507}Voice classes would make|nice electives.
+{7510}{7583}No time. We're looking at a double|major in biology and chemistry...
+{7586}{7690}if she wants to get into|the best med school, huh?.
+{7693}{7761}Henry, I'll show you how|to start that truck for tonight.
+{7763}{7837}All right.|See you later.
+{7839}{7915}- Bye, Ms. J.|- Good luck, Henry.
+{7953}{8002}I'm all he's got, you know?.
+{8005}{8052}Congratulations, Lucy.
+{8108}{8175}Thank you. Thanks.
+{8390}{8492}Here it is.|Honey, what's wrong?.
+{8494}{8540}I'm fine.
+{8581}{8696}Pop, I worked really hard|to be the valedictorian.
+{8698}{8750}Course you did.
+{8794}{8850}Why didn't it feel|like anything?.
+{8853}{8937}What do you mean, you didn't|feel anything?. It felt great!
+{8975}{9045}Pop, I never went|to one football game.
+{9047}{9100}You don't like football.
+{9102}{9194}But you're supposed to go,|and it's supposed to be fun.
+{9197}{9285}And like all the parties|at Hemmings Field and stuff...
+{9287}{9354}I never went to any of'em.
+{9356}{9476}I never stayed out late.|I never just hung out.
+{9478}{9534}'Cause you had|a head on your shoulders.
+{9537}{9587}You stayed home, and you studied.
+{9588}{9682}There's just a lot of things|that I wanted to do that I didn't.
+{9721}{9802}And I was up there getting|my diploma, and I was like...
+{9804}{9852}"Is this it?'
+{9854}{9952}Come on now. Didn't we both|work hard for this?.
+{10018}{10058}You're right.
+{10060}{10152}I guess it's just the pressure|of graduation. You're right.
+{10340}{10404}Girls, hi!
+{10499}{10533}Lucy.
+{10744}{10795}Mimi, not now. Okay?.
+{10797}{10866}- Are you comin' or not?.|- Coming where?.
+{10868}{10915}It's graduation night!
+{10917}{11010}Oh, God, Hemmings Field.|I totally forgot.
+{11012}{11075}So, are you comin' or not?.
+{11130}{11217}I have plans.|I'm sorry.
+{11220}{11287}Come on. You okay?.
+{11520}{11578}Do you want something?.
+{11580}{11648}Yeah. Are you coming|at midnight or what?.
+{11675}{11708}Excuse me?.
+{11711}{11767}Kit, we made a pact, remember?.
+{11769}{11847}Oh, you're not serious!
+{11884}{11956}Well, look, you can|really go without me.
+{11958}{12050}I have better things to do|than dig up some old box.
+{12147}{12218}Standing here|looking at all the world
+{12487}{12551}The guitar guy is such a hottie.
+{12554}{12591}That's Ben Kimble.
+{12593}{12651}I heard he just got out of jail.|Killed a guy.
+{12678}{12731}I don't believe you.
+{12734}{12811}Yeah! Everybody's talking about it.
+{12814}{12855}Oh, too bad!
+{12858}{12924}Well, if anyone could have him,|it'd be you.
+{12927}{13011}But I'm off the market, remember?.
+{13013}{13084}Oh, please!|Dylan's at UCLA doing...
+{13086}{13135}God knows what|with God knows who.
+{13138}{13175}That's not true.
+{13178}{13211}Right.
+{13213}{13259}Whatever.
+{13311}{13383}- Are you ready?.|- Yeah, yeah, just two seconds.
+{13529}{13575}Okay, hold on.
+{13633}{13672}Henry, are you ready?.
+{13672}{13716}Henry, are you ready?.
+{13779}{13815}I'm ready.
+{14432}{14477}That's okay. Go on.
+{14796}{14829}Why are you stopping?.
+{14869}{14920}This isn't how I hoped it would be.
+{14922}{14999}That's weird, 'cause this is|exactly how I hoped it would be...
+{15001}{15061}or pretty accurate.
+{15063}{15181}- Maybe ifwe get into bed.|- That's a good idea.
+{15278}{15331}These are nice sheets.
+{15394}{15460}- Can I hear the list again?.|- Oh, Luce, come on.
+{15462}{15546}Please, please.|Just one more time.
+{15626}{15682}Thanks.
+{15685}{15733}All right.
+{15834}{15869}Reason number one.
+{15871}{15967}We've been lab partners for three|years so we really trust each other.
+{15969}{16044}- That's really important. Okay.|- Trust is very important.
+{16046}{16111}Reason number two:. We are both 1 8|and have never done it.
+{16137}{16172}Very important!
+{16201}{16238}Reason number three:.
+{16241}{16321}We both want to do it.
+{16323}{16369}Reason number four--
+{16432}{16491}Please, Lucy, come on. Please.
+{16493}{16587}I'm, I'm begging you.|Please, let's just do it.
+{16589}{16676}- Okay, yeah, we can do it.|- Yeah?.
+{16678}{16728}Okay, so let's--
+{16821}{16884}- I'll go this way.|- Okay, I'm going this way.
+{16886}{16932}Let's do this.
+{17061}{17129}Please don't laugh.|You're killing this.
+{17131}{17217}- Your first time should be special.|- Yeah, this is special!
+{17220}{17289}Listen, do you want to spend|the rest ofyour life...
+{17292}{17349}knowing that you did it for the|first time with your lab partner?.
+{17352}{17421}Yes, yes, I do.|And I'll tell you why.
+{17424}{17500}Because you know what it's like|for a guy to go to college a virgin?.
+{17502}{17560}No, I'm telling you|they, they--
+{17562}{17640}They're ostracized!|They treat them like lepers!
+{17642}{17679}I'm sorry.
+{17711}{17822}- What's up, Mimi?. How's the fetus?.|- Drop dead.
+{17825}{17910}- Is it mine or what?.|- I can't believe we went out.
+{17913}{17990}- I'm trying to do the right thing.|- Yeah?. What's the right thing?.
+{17993}{18052}Ignoring me|for the past five months?.
+{18055}{18138}Letting your friends call me a ho?.|Spreading rumors?.
+{18141}{18205}I'm repeating what I heard,|that you let some guy...
+{18208}{18280}do you in his car|over Christmas break.
+{18333}{18368}Jerk.
+{18497}{18551}It's ten paces|on the other side.
+{18593}{18661}- What are you doing here?.|- Where's Lucy?.
+{18664}{18704}She's not comin'.
+{18749}{18846}- You have a flashlight?. Good.|- Gimme back my flashlight!
+{19101}{19188}Let's just get this|over with, okay?.
+{19530}{19631}God, I don't even remember|what we put in here.
+{19633}{19679}Me either.
+{19681}{19748}Here, hold this|for a second, Lucy.
+{20047}{20110}My Bridal Barbie!
+{20111}{20175}She was my wish.
+{20178}{20241}- You're gettin' your wish.|- I know.
+{20291}{20349}Lucy, I think this is yours.
+{20351}{20407}- My locket.|- What did you wish for?.
+{20437}{20525}I wanted to find my mom.
+{20527}{20566}Did you ever find her?.
+{20569}{20687}No, she lives in Arizona and my pop|doesn't think it's a good idea, so--
+{20689}{20766}What did you wish for?.
+{20818}{20904}- A key chain?.|- No, the world.
+{20907}{20984}That I was gonna get out|of this crappy town...
+{20987}{21040}go all the way to California...
+{21043}{21150}put my feet|in the Pacific Ocean.
+{21153}{21225}There's a wish that's not|coming true for a while.
+{21227}{21323}- A lot you know, Kit.|- What's that supposed to mean?.
+{21455}{21501}Slide Records recording contest?.
+{21503}{21599}- So?.|- So I'm going on Sunday.
+{21602}{21698}You're going to California|to audition for a record company?.
+{21701}{21773}- Yeah.|- You're pregnant.
+{21775}{21845}- So?. I'll wear something slimming.|- And what?.
+{21847}{21901}You thinkyou're gonna become|this big, fat, pregnant star?.
+{21903}{21994}- I have a pretty good voice.|- How are you gonna get there?.
+{21996}{22091}- I found a ride with this guy.|- What?. No, that is crazy.
+{22093}{22163}You can't go to Los Angeles|by yourselfwith some guy.
+{22166}{22278}So?. Then come with me. I'll sing|lead, and you can sing backups.
+{22281}{22351}- It's not something we should do.|- It's stupid is what it is.
+{22354}{22419}Okay, fine.|You know what?.
+{22422}{22482}You can just forget|all your past!
+{22548}{22594}Oh, wow.
+{22639}{22738}- Oh, my goodness. Look at us!|- Let me see.
+{22741}{22809}- I was so chubby.|- Singing.
+{22879}{22965}- I have to go meet my friends.|- Yeah, it's getting late.
+{23009}{23043}Yeah.
+{23102}{23167}Hey, you guys.
+{23170}{23274}I'm leaving Sunday at 7:00 a.m.|ifyou all wanna come.
+{23459}{23526}What do you mean you're not|coming home for the summer?.
+{23529}{23595}Dylan, listen to me,|you have to come home.
+{23598}{23690}Because! I haven't seen you|since Christmas.
+{23692}{23738}Don't you miss me?.
+{23740}{23834}- Excuse me.|- Dad, customer!
+{23836}{23890}Dylan, we have to plan|the wedding.
+{23892}{23933}All right.
+{23935}{24014}I love you--|Dylan?.
+{24247}{24315}- Hey, darlin'.|- Hey, Pop.
+{24318}{24402}Dr.Johnson called today.|Good news.
+{24404}{24455}Got me a job at the hospital?.
+{24458}{24513}All those discounts I gave him|finally paid off.
+{24515}{24570}- Cool.|- Yep.
+{24573}{24642}Can I askyou a question?.
+{24644}{24683}It's about Mother.
+{24799}{24886}- Has she ever tried to see me?.|- No, she hasn't.
+{24889}{24962}I was thinking,|maybe she's afraid to visit me.
+{24964}{25026}Luce, you do not have|to feel any guilt...
+{25029}{25094}about your mother leaving us.
+{25097}{25138}This is not about us.
+{25141}{25213}She was the one who walked out|on a three-year-old.
+{25215}{25299}She's the one that should|feel guilty. All right?.
+{25302}{25353}All right.
+{26804}{26854}Nobody brings four suitcases|on a road trip.
+{26857}{26934}Look, Dylan asked me|to go see him in LA...
+{26936}{26999}and I can't get there|looking like a skank.
+{27001}{27061}You better hope it all fits.
+{27064}{27111}It will, okay?.
+{27201}{27285}I'm not going to the audition.|You can drop me off in Arizona.
+{27288}{27346}- Fine.|- Fine.
+{27348}{27446}- Fine. Shotgun.|- Yeah, right. I'm sitting up front.
+{27497}{27556}You must be Lucy.
+{27559}{27591}Yeah.
+{27666}{27713}So you're taking us to L.A.?.
+{27716}{27774}Yeah. I'll get your bag.
+{27824}{27896}- You okay?. Sorry.|- Yeah, I'm fine.
+{27899}{27999}- Move it, Ben! Let's go!|- I'll get the door foryou.
+{28153}{28198}Hey, who's the guy?.
+{28201}{28280}That's just Ben.|He's really cool.
+{28324}{28369}Let's hit it.
+{29177}{29232}Where's the bathroom?.
+{29235}{29298}Second door.|There's no soap.
+{29573}{29618}What's the deal with Lucy?.
+{29621}{29705}- What, are you hot for her?.|- No.
+{29744}{29836}I wouldn't even try, Ben.|Seriously, she's not like us.
+{29838}{29886}She's way out ofyour league.
+{29979}{30033}Want a chip?.
+{30077}{30124}Get outta here.
+{30343}{30386}What are you doin'?.
+{30389}{30453}- What's with this music?.|- Well, I like it.
+{30455}{30509}Can we listen to something else|for ten minutes?.
+{30539}{30576}No.
+{30578}{30624}Come on, Ben, please?.
+{30626}{30665}Be a nice guy.
+{30667}{30733}Okay, five minutes.|Just five minutes.
+{30736}{30769}Thankyou.
+{30848}{30917}I don't wanna be a fool
+{30919}{30989}In this game fortwo
+{30991}{31089}So I'm leavingyou behind
+{31091}{31180}Bye, bye, bye|Don't make it tough
+{31182}{31249}I've had enough
+{31251}{31325}Bye, bye
+{31327}{31388}Baby
+{31448}{31530}- Ben!|- I can't listen to this.
+{31533}{31585}- You said five minutes.|- Forget it.
+{31588}{31652}Like this is any better.
+{31989}{32073}- Why are we stopped?.|- I'm tired.
+{32075}{32113}Let someone else drive.
+{32116}{32180}No, nobody drives|the cruiser but me.
+{32182}{32257}- Okay, whatever.|- Where are we gonna sleep?.
+{32260}{32324}There's a field.|I got a tent and sleeping bags.
+{32345}{32397}A field?.
+{32456}{32510}No, I don't sleep in a field.
+{32513}{32572}I saw a sign for a Hilton|back there.
+{32574}{32636}How much money do we have?.
+{32730}{32808}I can't believe|you only brought $40.
+{32810}{32926}I have expenses. I had to have|my homecoming dress custom-made.
+{32929}{32981}I was voted queen, you know.
+{32984}{33046}Oh, my dream come true.
+{33049}{33138}- Did anybody make a plan?.|- What do you mean?.
+{33141}{33216}How far you'll drive each day?.|Which towns you'll stop in?.
+{33218}{33281}How much gas money you'll need?.
+{33307}{33353}Okay.
+{33355}{33465}We have $486, right?.|Which means...
+{33468}{33545}for food, gas--
+{33590}{33624}Is it enough?.
+{33626}{33690}It's gonna be tight.
+{33790}{33841}Oh, my gosh.
+{33844}{33918}It's a love room.
+{33956}{33989}Oh, man!
+{33991}{34029}Look at the walls!
+{34031}{34097}- I'm not sleeping here!|- This is what we can afford.
+{34099}{34159}Is this run by the hour?.|I'm not sleeping here.
+{34162}{34217}- Where you gonna sleep?.|- I don't know.
+{34219}{34305}This place is disgusting.|I'll take this bed.
+{34549}{34601}So how come|you're going to L.A.?.
+{34690}{34745}My uncle might have|a job for me there...
+{34747}{34857}so I'm gonna check it out|and if I like it, I'll move there.
+{34859}{34941}What about your band?.|Don't you have a band?.
+{34943}{35025}No, I was just filling in the|other night. I don't have a band.
+{35092}{35169}Mimi said that she didn't think|you'd come with us on the trip.
+{35214}{35260}Neither did I.
+{35262}{35324}You sorry you did?.
+{35326}{35381}Not so far.
+{35535}{35598}Well, good night.
+{35601}{35646}Good night.
+{36098}{36197}Hey! It's freakin' cold!
+{36199}{36270}- We're in here.|- I'm in here.
+{36272}{36333}I just need|to brush my teeth.
+{36527}{36586}- What are you doing?.|- You're so touchy.
+{36632}{36713}Mimi, how do you know Ben?.
+{36715}{36817}- Just from around.|- Gosh, don't you think he's cute?.
+{36820}{36917}- He's all right.|- I can't believe he was in jail.
+{36919}{36989}- What?.|- Yeah!
+{36991}{37077}He like killed a guy.|What?. That's what I heard.
+{37080}{37138}Excuse me?.|He killed somebody?.
+{37141}{37264}No, he did not kill anybody--|I don't think.
+{37266}{37356}Okay, he had a car, he was|coming to L.A. Don't be upset.
+{37358}{37454}I'm on a road trip with a killer and|you're telling me not to be upset?.
+{37457}{37532}- He'll hearyou.|- Oh, my God.
+{37692}{37721}What's up?.
+{37850}{37900}Do you know him at all?.
+{37902}{37989}He used to hang out with some|of the guys at the trailer park.
+{38040}{38092}So he may have|killed someone, okay?.
+{38094}{38202}So what?. He did his time.|He paid his debt to society.
+{38205}{38265}Oh, my God.
+{38437}{38466}Ready to go?.
+{38469}{38514}Yeah.
+{38516}{38609}Hey, you wanna ride up front|with me today?.
+{38611}{38712}No, that's okay.|The backseat's fine. It's okay.
+{38714}{38792}- I'll check us out, okay?.|- Yeah.
+{39129}{39174}- I'll be back.|- I'll come with ya.
+{39177}{39227}No, it's okay, I'm fine.
+{39230}{39317}- Will you please get me some chips?.|- No, Mimi.
+{39320}{39357}Open the door.
+{39430}{39493}I'll get my own chips.
+{39589}{39644}Y'all, wait for me!
+{39791}{39889}So when he came home|last Christmas, he proposed.
+{39892}{39968}He's comin' home as soon as|he's done with school next spring.
+{39970}{40037}You're seriously|gonna marry that loser?.
+{40039}{40086}You don't even know him.
+{40174}{40241}- What's wrong?.|- Nothing. It just kicked, is all.
+{40243}{40293}- Can I feel it?.|- Ifyou want.
+{40312}{40350}It kicked again.
+{40353}{40442}- What about Kurt?.|- What about Kurt?.
+{40445}{40529}- He's the father, isn't he?.|- Yes, Kurt's the father.
+{40531}{40620}But it wasn't working out,|so I dumped him.
+{40622}{40690}You're gonna raise this baby|all by yourself?.
+{40693}{40783}I'm gonna go wait in the car|with Ben, all right?.
+{40786}{40836}That's so typical of her.
+{40838}{40933}She's not thinkin' about her future.|How's she gonna get by with a baby?.
+{40936}{40997}Well, she brought this|upon herself.
+{41029}{41066}What?.
+{41320}{41429}- Hello.|- Hi, Pop.
+{41432}{41493}Sneaking away in|the middle of the night?.
+{41495}{41552}I'm very upset with you.|Dr.Johnson went...
+{41554}{41609}to a great deal of trouble|to get you that job.
+{41611}{41698}- I'm sorry, okay?.|- Sorry?
+{41701}{41783}You are coming back now! And|you will regard that as a command!
+{41786}{41837}You're usually so levelheaded...
+{41839}{41917}andyou pull a stunt like this,|I am so surprised atyou.
+{41919}{41988}You worked so hard. Areyou|gonna start slacking offnow?
+{42414}{42466}What are you writing there?.
+{42469}{42509}Stuff.
+{42626}{42685}Are you mad at me or something?.
+{42687}{42748}Why would I be mad at you?.|I don't even know you.
+{42816}{42922}- No!|- Oh, no, it sounds bad.
+{42925}{42993}Look at all that smoke.
+{43302}{43356}What's wrong with it, Ben?.
+{43358}{43434}It's the head gasket, I think.
+{43437}{43502}- Give me your shirt.|- Here.
+{43550}{43601}Whoa! What are you doing?.
+{43604}{43659}Nobody touches this except|for specialists and myself.
+{43662}{43730}Because it's an antique|and I don't want people to--
+{43768}{43834}- It's your radiator.|- No, it's the head gasket.
+{43837}{43972}No, your radiator's cracked.|What year it this?. '73.
+{43974}{44064}Oh, that's like 350,|plus labor.
+{44111}{44158}Great! Great!
+{44406}{44441}I'm hungry.
+{44443}{44517}How long does it take|to get a tow truck?.
+{44519}{44614}- Ben's only been gone two hours.|- I'm so hungry.
+{44617}{44706}Won't you stop saying that?.|We heard you. You're hungry.
+{44709}{44769}So what?.
+{44870}{44962}We don't have $350.|Even if he gets a tow truck...
+{44964}{45016}we don't have enough money|to get the car fixed.
+{45018}{45137}I'm gonna be stuck here in--|Where the hell am I?. Where am I?.
+{45139}{45170}Louisiana.
+{45173}{45256}Stuck in some|butt-hole town, Louisiana.
+{45258}{45308}I am never gonna get to LA|to see Dylan.
+{45310}{45362}He's gonna be so upset.
+{45384}{45429}Whatever.
+{45431}{45473}Excuse me?.
+{45475}{45524}Could you be more self-centered?.
+{45597}{45676}- You're just jealous.|- What?.
+{45678}{45785}I'm not blind. I know how girls|like you looked at me in school.
+{45788}{45849}You would've given anything|to trade places with me.
+{45852}{45898}Girls like me?.
+{45900}{45977}I can't help it if I'm popular,|so just lay off.
+{46036}{46080}Girls like me?.
+{46082}{46161}I didn't make the rules, Mimi.|It's not my fault...
+{46163}{46215}everyone thinks|you're a trailer-trash skeeze.
+{46250}{46305}- Stop it!|- Don't touch me like that!
+{46307}{46367}- Guys, don't!|- You're pregnant!
+{46370}{46422}You're a redneck!
+{46425}{46526}Girls! Mimi! Stop!
+{46529}{46677}Stop it! Stop!|I'm so sick of the two ofyou...
+{46679}{46732}bitching and fighting|every damn second of the day!
+{46734}{46804}For once,|would you just shut up?.
+{46806}{46890}I don't know why the hell I asked|the two ofyou to come on this trip.
+{46893}{46945}We don't belong together.
+{46948}{47009}This was a mistake, okay?.
+{47069}{47147}I'm sorry, partner,|that's the best I can do.
+{47238}{47281}It's a cracked radiator.
+{47345}{47414}He said he'd get it ready|by tomorrow.
+{47416}{47464}How will we get the money|to pay for it?.
+{47524}{47570}I have an idea.
+{47573}{47622}I'm gonna call my father|and have him come get me.
+{47625}{47672}You're leaving?.
+{47674}{47726}This trip's over.
+{47729}{47794}Wait, I have an idea!
+{47797}{47869}You know what?.|I'm sick ofyour ideas, Mimi.
+{47871}{47918}I should've known you'd make|a mess of this trip.
+{47921}{48045}Fine, run home to your daddy,|but don't try and blame this on me.
+{48258}{48381}Lucy, I haven't asked you|for anything in a really long time.
+{48384}{48458}But I'm gonna askyou to stay.
+{48461}{48558}Please hang up the damn phone|and just stay with us!
+{48561}{48605}Come on, Lucy.
+{48643}{48685}Hello?
+{48756}{48833}I do.|I have a really good idea.
+{48836}{48910}Yeah, it better be good.
+{49323}{49385}Okay, I have something|to say.
+{49388}{49501}I know we're not all getting along,|but tonight's important.
+{49504}{49559}We really need the money.
+{49562}{49667}So could we just be civil|and get through this?. Okay?.
+{49670}{49708}Okay.
+{49794}{49880}All right!|Y'all ready?.
+{49882}{49929}Yeah.
+{49996}{50053}- That's cute.|- Thankyou.
+{50193}{50228}Wait.
+{50264}{50310}It's all the tips|we can get, right?.
+{50313}{50353}- Mm-hmm.|- So?.
+{50356}{50402}Ifwe wanna put on a show,|we have to be sexy.
+{50404}{50474}Now you're talkin'.
+{50544}{50632}- Whatcha got?.|- Let me wear those feathers.
+{50634}{50702}All right, next contestant's|a brand-new act.
+{50705}{50780}And for all tourists that don't|know how the rules go in my club...
+{50782}{50833}here it is, plain and simple.
+{50836}{50884}You're the judge.|Ifyou hate 'em, tell 'em.
+{50886}{50934}Ifyou like 'em, pay 'em.
+{50936}{50993}We got baskets going around.|Put the money in there.
+{50995}{51069}Be loud, be fair and be generous|ifyou like what you hear.
+{51071}{51124}So, come on, give 'em|a warm welcome.
+{51776}{51829}- They lookyoung.|- It's past their bedtime.
+{52006}{52104}I saw him dancing there|by the record machine
+{52106}{52193}Get off the stage!
+{52280}{52333}- Mimi, come on!|- I can't do it.
+{52380}{52473}- You can do it.|- I thought so, but I can't.
+{52475}{52547}- Please do it for me.|- You just gotta go do it.
+{52550}{52629}- No, you do it.|- I don't know if I can.
+{52631}{52721}You've got the best voice.|Come on, please for me.
+{52724}{52788}- Okay, okay.|- Thankyou.
+{52790}{52841}- You okay?.|- No.
+{53350}{53436}I saw him dancing there|by the record machine
+{53481}{53560}I knew he must have been|about 17
+{53610}{53666}The beat was going strong
+{53669}{53754}Playing my favorite song
+{53757}{53898}I could tell it wouldn 't be long|till he was with me, yeah, me
+{53901}{54029}I could tell it wouldn 't be long|till he was with me singing
+{54031}{54152}I love rock and roll so put|another dime in the jukebox, baby
+{54154}{54300}I love rock and roll so come|and take some time and dance with me
+{54398}{54480}He smiled so I got up|and asked for his name
+{54519}{54626}But that don 't matter|he said 'cause it's all the same
+{54628}{54692}He said, can I take you home
+{54694}{54807}Where we can be alone
+{54810}{54878}And next we were movin ' on|and he was with me
+{54881}{54928}Yeah, me
+{54930}{55057}And next we were movin ' on and|he was with me, yeah, me, singing
+{55442}{55493}I love rock and roll
+{55496}{55573}'Cause it soothes my soul|Yeah
+{55576}{55622}I love rock and roll
+{55624}{55682}Yeah
+{55960}{56050}And we were moving on|and singing that same old song
+{56053}{56097}Yeah, me
+{56627}{56736}Roll, roll, roll
+{57298}{57361}Now.
+{57383}{57429}It's so amazing.
+{57755}{57817}Lucy, come here.
+{57879}{57953}- How much is it?.|- Enough for the car and the trip.
+{57955}{58014}Perfect.
+{58115}{58161}You wanna come dance with us?.
+{58163}{58256}No. We should get outta here before|somebody realizes you're underage.
+{58258}{58318}Come on, just a|little bit longer, please?.
+{58321}{58397}- All right, you go ahead.|- Thankyou.
+{58506}{58605}- Hey, she with you?.|- What?.
+{58608}{58680}Is she your girl?.
+{58682}{58728}No.
+{58730}{58805}Yeah. Watch this.
+{59117}{59157}Move your hands, please.
+{59210}{59294}We're gonna get a little freaky.|Hey, what's up, baby?. Come on.
+{59297}{59356}- What's wrong?.|- Will you stop it?.
+{59358}{59437}Excuse me. Hey, I don't think|she wants to dance.
+{59440}{59512}I think she does.|You should mind your own business.
+{59514}{59582}- Will you leave me alone?.|- Excuse me. I'm talking to you.
+{59655}{59685}My nose!
+{59786}{59817}Let's go.
+{59954}{60001}Oh, damn!
+{60003}{60038}Is this livin' or what?.
+{60040}{60100}There's a mini-bar!
+{60131}{60238}Y'all, you could swim|in this bathtub!
+{60271}{60309}Look, I'm--
+{60347}{60404}I'm not mad at you|for what happened there. Okay?.
+{60406}{60450}There's bathrobes!
+{60478}{60525}- Where are you going?.|-Just going out.
+{60573}{60655}Are any ofyou guys tired,|'cause it's 3:00 a.m. and I'm wired!
+{60658}{60770}- Who wants some of mama's punch?.|- Me, please.
+{60773}{60842}- Madame.|- Madame.
+{61319}{61383}Go, Lucy! Go, Lucy!
+{61500}{61572}What are you doing?.
+{61599}{61650}You go, girl!
+{61823}{61874}I have seen one, y'all.
+{61877}{61966}Yeah, but have you touched one?.
+{62008}{62095}She has!|Give us the details!
+{62098}{62182}It's always the quiet ones.
+{62185}{62248}Say it loud. Say you|touched one and you're proud!
+{62251}{62318}Lucy touched one!|She did!
+{62555}{62630}Okay, the best thing|that ever happened to you.
+{62633}{62683}- That's easy.|- What?.
+{62715}{62783}Reaching my goal weight.
+{62786}{62870}Third year at fat camp,|the summer before eighth grade.
+{62873}{62954}Wait, that camp you went to|every summer was a fat camp?.
+{63044}{63104}Yes, and I loved it.
+{63104}{63105}Yes, and I loved it.
+{63107}{63159}For two months...
+{63162}{63256}my mama wasn't around|to pick on me for being fat.
+{63288}{63366}Being fat is just|unacceptable to her.
+{63412}{63506}Okay. The worst thing|that ever happened to you.
+{63508}{63569}That's even easier.|Reaching my goal weight.
+{63572}{63613}- You said--|- It turns out...
+{63616}{63700}that being prettier|than my mama...
+{63703}{63763}is even more|unacceptable.
+{63793}{63831}Oh,Jesus.
+{63869}{63915}Yep.
+{63917}{64016}One morning I woke up,|and she was gone.
+{64019}{64090}Pop really wouldn't|say anything about it.
+{64092}{64187}I thought she was coming back,|and Pop told me she wasn't.
+{64212}{64277}They fought all the time.
+{64280}{64360}You know, I think|that she just got fed up...
+{64362}{64427}and took off|without even thinking.
+{64430}{64524}And after a while, it was|just too late to come back.
+{64568}{64629}I know she wants to see me.
+{64687}{64746}She's just scared, that's all.
+{64792}{64872}I'm gonna be so sick later.
+{64875}{64952}Mimi, be glad you're pregnant|and you couldn't act stupid with us.
+{64955}{65066}That's not why I don't drink.|I just don't see the point in it.
+{65068}{65109}So you never partied?.
+{65172}{65217}Once.
+{65269}{65307}Over Christmas.
+{65339}{65422}There was one of those parties|at Hemmings Field.
+{65468}{65526}And this guy|was drinking this beer...
+{65528}{65644}and I remember|it was in a blue bottle.
+{65647}{65741}And I was real mad|at Kurt because...
+{65744}{65831}he blew me off again|to hang out with his friends.
+{65871}{65934}So I had a few beers.
+{65978}{66033}I had more than a few.
+{66078}{66175}This guy, you know, he seemed--|He seemed real nice...
+{66178}{66251}'cause when I couldn't walk,|he offered to drive me home.
+{66369}{66443}It's no big deal, Luce.|It happens to girls all the time.
+{66446}{66505}Did you go to the police?.
+{66508}{66559}No.
+{66562}{66645}I'm from a trailer park.|I got drunk and got in his car.
+{66648}{66720}So, Kurt's not the father?.
+{66751}{66815}I saw this ad in a magazine.
+{66818}{66955}So I called up this lawyer in|Atlanta, and she sent me this stuff.
+{66957}{67013}Um, all these pictures|and letters...
+{67016}{67089}of all these people|who want babies.
+{67092}{67150}- I was supposed to pick one.|- The guy...
+{67208}{67260}what was his name?.
+{67312}{67360}I don't know.
+{67422}{67506}Why did we stop being friends?.
+{67508}{67576}I don't know.|People drift apart.
+{67579}{67668}Promise me we won't|drift apart again.
+{67715}{67754}Come here.
+{67794}{67864}And where have you been|all night?.
+{68044}{68092}Thankyou.
+{68094}{68152}For what you did|last night, I mean.
+{68155}{68206}Thanks.
+{68290}{68337}Scoot over.
+{68558}{68607}I'm never drinkin' again. Honest.
+{68610}{68658}This burrito is so good.
+{68660}{68713}Don't mention food.
+{68757}{68833}- What are you doing?.|- Chilling.
+{69124}{69178}- Wake him up.|- Y'all, he's been driving all day.
+{69180}{69278}- We can't just stay here.|- We should just let him sleep.
+{69280}{69337}- Uh-uh.|- We'll let him sleep.
+{69340}{69422}Lucy, get his keys.
+{69424}{69495}He told us we couldn't drive|his car. I can't do that.
+{69497}{69559}Why not?. It's not like we're|gonna drive this over a cliff.
+{69562}{69650}- It's stupid to stay here.|- I'll drive.
+{69652}{69689}Get his keys.
+{69692}{69761}- Yeah, get his keys.|- Why do I have to get his keys?.
+{69764}{69874}Because Kit and I voted|and you lost.
+{69876}{69910}Get the keys.
+{69912}{69975}Yeah, Lucy, get his keys.
+{70156}{70263}- This is stealing.|- It's not stealing if he's in the car.
+{70266}{70324}No, it's kidnapping.
+{70502}{70545}Okay, stop.
+{70626}{70688}Oh, I got it.
+{70912}{70950}Go, go.
+{71231}{71296}You failed driver's ed,|didn't you?.
+{71299}{71349}Maybe.
+{71352}{71439}- Move over.|- Oh, God.
+{71467}{71518}Guys, smile for the camera.
+{71856}{71914}Go ahead, turn it on, turn it on.
+{72090}{72146}Let's go, girls
+{72305}{72393}I'm goin'out tonight|and I'm feeling all right
+{72396}{72490}I'm gonna let|it all hang out
+{72492}{72545}Wanna make some noise|Really raise my voice
+{72545}{72581}Wanna make some noise|Really raise my voice
+{72584}{72675}Yeah, I'm gonna scream and shout
+{72865}{72949}Get a little outta line
+{72952}{73035}I ain 't gonna act|politically correct
+{73038}{73140}I only wanna have a good time
+{73142}{73239}The best thing about being a woman
+{73242}{73342}Is the prerogative|to have a little fun and
+{73344}{73453}Oh, oh, oh|Go totally crazy
+{73480}{73554}- Hi! Did you have a good nap?.|- Yeah.
+{73556}{73606}Stop, stop the car.
+{73608}{73679}Don't be mad. You looked so sweet|when you were sleeping.
+{73681}{73763}- We just didn't wanna wake you.|- Stop the car.
+{73765}{73825}- It's against the law to park here.|- It's my car.
+{73828}{73890}- We're almost at an exit.|- Stop the damn car!
+{74420}{74491}- Mimi, go talk to him.|- Uh-uh, you go talk to him.
+{74494}{74561}- Nobody's gonna go talk to him.|- I know, he's mad.
+{74592}{74649}And he has killed before.
+{74652}{74733}Mimi, you said|he didn't kill anyone.
+{74736}{74836}- I said I thought he didn't.|- Oh, my God.
+{74942}{75012}- It's okay, I'll go.|- I'm sorry.
+{75105}{75151}God!
+{75153}{75220}Be careful, Lucy.
+{75361}{75447}- We're sorry.|- I've been in a car full of chicks.
+{75450}{75526}Do you have any idea what it's like|being surrounded by girls?.
+{75588}{75662}Being a girl yourself,|I know, stupid question.
+{75664}{75752}But I'm a guy, okay?.|I'm a guy.Just a guy.
+{75755}{75859}And I have been listening|to girl talk and watching you do...
+{75861}{75919}your girl things for days.
+{75921}{75988}I'm not complaining, 'cause,|let's face it, I'm outnumbered.
+{75990}{76036}But that's my car.
+{76038}{76109}It's my car, and it's just--
+{76216}{76273}It's the one thing that hasn't|been taken over by chicks.
+{76315}{76402}- Okay?.|- Okay.
+{77145}{77223}- Ben?.|- Yeah?.
+{77225}{77278}Were you really in jail?.
+{77335}{77382}Yeah, I was.
+{77384}{77438}- So you killed a guy?.|- What?.
+{77467}{77517}Who said I killed a guy?.
+{77545}{77620}Everybody back home.
+{77623}{77736}Oh, man.|No, I didn't kill a guy.
+{77738}{77800}What did you do then?.
+{77803}{77935}I was in college, and I get|this call from my stepsister.
+{77937}{78053}She wants me to come get her 'cause|my stepdad is beating her up.
+{78056}{78106}My mom can't stop him, so...
+{78108}{78195}I drive home in|the middle of the night...
+{78197}{78281}and she throws her things out|the window and climbs out...
+{78284}{78329}and then I drive her back|to school in Ohio with me.
+{78332}{78415}- And you went to jail for that?.|- That's the thing.
+{78418}{78462}There's this law...
+{78464}{78549}against driving a child that's|not a relative across state lines...
+{78552}{78616}and my stepdad of course|pressed charges.
+{78618}{78686}But, you know, it's okay.|I only got six months...
+{78688}{78742}and I had to stay in Ohio|for a year's probation.
+{78744}{78827}My sister got to go live|with her mom.
+{78969}{79028}You all really thought|I killed a guy?.
+{79056}{79101}Yeah.
+{79156}{79249}What were you thinking getting|into a car with a homicidal maniac?.
+{79659}{79742}- Why are we stopping?.|- You'll see.
+{80021}{80097}- Mimi, you okay?.|- Oh, yeah, I'm fine.
+{80204}{80251}Look.
+{80360}{80415}It's like you have to whisper.
+{80457}{80503}Hello!
+{80732}{80815}Man. We gotta make time. The next|hotel is still an hour away.
+{80818}{80908}Ben, do you have enough|sleeping bags for all of us?.
+{80926}{80959}You serious?.
+{80961}{81024}You really want to camp here?.
+{81027}{81058}Yeah.
+{81108}{81159}It sounds like fun.
+{81220}{81304}You gotta keep your thumb|on the outside like this.
+{81340}{81395}Right. Now, the trick is...
+{81397}{81480}you don't want to let him know|that you're gonna hit him.
+{81483}{81568}Maybe like look away first.
+{81571}{81672}And then, when he least expects it,|you throw your whole body into it.
+{81786}{81832}What are you doing to her?.
+{81834}{81880}I'm teaching her how to fight|because every girl...
+{81882}{81951}should know how|to throw a decent punch.
+{81953}{81987}That was decent.
+{81989}{82036}I'm gonna go to bed.
+{82038}{82106}I'm gonna go to the ladies room.|Where is it again?.
+{82108}{82178}Third bush after the rock|over there.
+{82180}{82237}- This one?.|- That one, yeah.
+{82358}{82406}What are you always|writing in there?.
+{82443}{82510}Poems, mostly.
+{82512}{82573}Can I hear one?.
+{82606}{82696}Okay. One.|But you can't laugh.
+{82824}{82887}"I used to think I had|the answers to everything...
+{82890}{82948}but now I know that life|doesn't always go my way.
+{82950}{83043}It feels like I'm caught in the|middle, and that's when I realize...
+{83045}{83127}that I'm not a girl,|and not yet a woman.
+{83129}{83220}All I need is time,|just a moment that's mine.
+{83222}{83301}And while I'm in between,|I'm not a girl."
+{83408}{83441}I liked it.
+{83444}{83482}Really?.
+{83484}{83535}Yeah, really, I like it.
+{83648}{83728}- What?.|- You got ash on your face.
+{83730}{83779}- Where?.|- I'll get it.
+{83781}{83827}There.
+{84041}{84082}- What's wrong?.|- What happened?.
+{84084}{84139}Something bit my ass.
+{84141}{84213}- Let me see.|- It's a snake bite.
+{84216}{84261}No, Mimi,|that's a mosquito bite.
+{84312}{84357}Don't look!
+{84360}{84441}- How could I not?. It's nothing.|- But it could've been a snake.
+{84444}{84509}All right! We are outta here|at the crack of dawn.
+{84512}{84573}Nothing's biting my ass.
+{84639}{84691}So we'll be in Tucson today?.
+{84693}{84762}- Around 4:00, I think.|- Are you nervous?.
+{84764}{84856}Should I call and tell her I'm|coming, or should I just show up?.
+{84859}{84931}- I should just show up, right?.|- Surprise is always better.
+{84933}{85009}She's gonna be|real happy to see you.
+{85012}{85048}I hope so.
+{85381}{85464}You'll call and tell me everything|about the audition, right?.
+{85466}{85568}-You could still come with us.|-We don't leave town until tomorrow.
+{85570}{85621}I'll be fine, okay?.
+{85624}{85699}You know where we're staying|ifyou need us.
+{85726}{85779}Bye.
+{85863}{85923}- Thanks.|- Yeah.
+{85926}{85978}I guess this is it.
+{86047}{86093}I guess, yeah.
+{86096}{86143}What?.
+{86286}{86356}- Good luck.|- Thanks.
+{86633}{86679}Can I help you?.
+{86681}{86753}It's me, Mama-- Lucy.
+{86812}{86850}Come in.
+{87179}{87222}You have a really nice house.
+{87224}{87279}Thankyou, Lucy.
+{87613}{87666}Tucson seems like|a really nice city.
+{87668}{87712}It is.
+{87715}{87753}Can I askyou|why you're here, Lucy?.
+{87753}{87828}Can I askyou|why you're here, Lucy?.
+{87865}{87912}I wanted to see you.
+{87915}{87963}And why was that, Lucy?.
+{88004}{88049}Well, you're my mother.
+{88276}{88337}Why do you keep|saying my name like that?.
+{88482}{88532}Hold on a moment.
+{88718}{88770}Hello?.
+{88772}{88833}Sweetie, tell Joey's mommy I said|you could swim for another hour...
+{88836}{88880}ifyou put on more sunscreen.
+{88883}{88928}I don't want you to burn.
+{88931}{89005}Daddy will pickyou up at 5:00.|I love you.
+{89221}{89330}- I have brothers?.|- Well, yes.
+{89332}{89432}- How old are they?.|- Ten and seven.
+{89479}{89524}Do they know about me?.
+{89604}{89702}Lucy, I think we need|to have a talk.
+{89828}{89895}Whoa|Wait, seven, eight.
+{89898}{89944}Five, six--
+{90347}{90380}Come on in. Here.
+{90383}{90428}- What happened?.|- What's wrong?.
+{90431}{90498}- Get some towels, please?.|- I'm fine.
+{90500}{90576}So, Luce, you got to see|your mom, right?.
+{90579}{90680}- Yeah, I saw her.|- And what happened?.
+{91120}{91174}Just thought you might want|some dry clothes.
+{91176}{91222}- Thanks.|- Yeah.
+{91294}{91339}I'm fine.
+{91342}{91387}I'm okay.
+{91472}{91527}I know.
+{91574}{91619}Really, I'm okay.
+{91912}{91975}What happened?.
+{92123}{92169}She said...
+{92207}{92252}that she never wanted me.
+{92370}{92496}She said that my father|made her have me...
+{92532}{92606}and that I was|just a mistake.
+{93063}{93132}I look like her, you know?.
+{93165}{93254}I have her eyes and her hands.
+{93256}{93310}It's her loss, Luce.
+{93335}{93393}It's weird though, you know?.
+{93435}{93481}I don't have a mother.
+{93483}{93525}Well, you have us.
+{93527}{93569}Yeah.
+{94000}{94054}Trying to call your dad?.
+{94056}{94131}I can't.|I will in a minute.
+{94134}{94174}You got that poem|you read me?.
+{94199}{94250}- Yeah.|- Can I see it?.
+{94252}{94302}Yeah, sure.
+{94304}{94379}It's right here.
+{94467}{94504}What are you doing?.
+{94547}{94614}Stop worrying so much.|Come on. I made you something.
+{94616}{94648}Okay.
+{94763}{94832}This is my surprise?.
+{94835}{94885}Wouldn't it be sad if it was?.
+{94887}{94949}Like if I just totally sucked|at cheering people up.
+{95014}{95082}I wrote some music|foryour poem.
+{95143}{95191}Will you play it for me?.
+{95194}{95239}Will you sing?.
+{95371}{95440}Just use this part|as the chorus.
+{95760}{95802}- Yeah.|- Like that?.
+{96288}{96376}Go my way|Like that?.
+{96429}{96526}It feels like I'm caught|in the middle
+{96529}{96574}A little low there.
+{96577}{96685}That's when I realize
+{96688}{96770}I'm not a girl
+{96837}{96908}And not yet a woman
+{96997}{97074}All I need is time
+{97077}{97156}A moment that is mine
+{97158}{97260}While I'm in between
+{97262}{97356}I'm not a girl
+{97608}{97653}Thank you.
+{97694}{97740}It's no trouble at all.
+{98780}{98870}Hello, you have reached Pete|and Lucy. Please leave a message.
+{98907}{99038}Hi, Pop. I'm just calling to say|that I'm fine, okay?.
+{99040}{99162}And you were right about Mama.|You were right.
+{99165}{99297}I love you, okay?.|I'm fine. Bye.
+{99467}{99558}I'm not the kind ofgirl|you take home
+{99560}{99674}Ifit makesyou happy
+{99676}{99777}It can't be that bad
+{99779}{99905}Ifit makesyou happy
+{99907}{100002}Then why the hell|are you so sad
+{100039}{100156}Ifit makesyou happy
+{100158}{100273}It can 't be that bad
+{100275}{100387}Ifit makesyou happy
+{100390}{100507}Then why the hell|are you so sad
+{101454}{101509}It's too cold. It's freezing!
+{101616}{101664}Don't even! Don't.
+{101718}{101796}- I can't believe we're here.|- I know.
+{101860}{101929}Ben, you know, there are|a lot of colleges here in L.A.
+{101998}{102063}Hey, what if I didn't go back?.
+{102066}{102158}I could go to school here.|I mean...
+{102161}{102266}why don't I do something|for me for once, you know?.
+{102268}{102315}I wanna stay.
+{102318}{102363}I'm gonna stay.
+{102432}{102478}Good.
+{102480}{102558}Look how happy she is.
+{102687}{102803}Fill this out, turn it in over|there. The audition is in six days.
+{102806}{102859}Wait. Where do we turn it in?.
+{102862}{102933}You turn it in over there.
+{102936}{102987}Fill this out--
+{102990}{103060}- What about music?.|- You know what?.
+{103062}{103141}I'll get some flyers printed up.|I know a few guys in L.A.
+{103143}{103208}I'll try to put a band together,|and I'll see you at the hotel.
+{103210}{103293}- Okay. Great.|- Hey, where you going?.
+{103551}{103645}Baby?. Hi, it's me!|Guess where I am.
+{103648}{103694}L.A.!
+{103744}{103800}Okay. All right.|Then I'll come to you.
+{103854}{103900}All right.|Then how 'bout tonight?.
+{103982}{104039}Then how 'bout|tomorrow morning?.
+{104103}{104177}Dylan, I'm in Los Angeles!
+{104180}{104243}I came to see you!
+{104294}{104339}Fine.
+{104364}{104413}What am I gonna say?.|Fine.
+{104465}{104510}Me too.
+{104698}{104789}He's really busy with finals|and all. Yeah.
+{104791}{104832}We're fine.
+{104901}{104953}So who wants to go sightseeing?.
+{104955}{105023}- I do!|- Okay! All right. Lucy?.
+{105055}{105099}I'm kinda tired.
+{105142}{105229}Yeah, I'm pretty beat.
+{105232}{105292}Well, I need you.|We can't drive your car, remember?.
+{105339}{105381}Don't wreck it.
+{105383}{105431}All right!
+{105670}{105721}Wait, we're on Melrose--
+{105724}{105799}I thought we were going|to see the Hollywood sign.
+{105802}{105893}- We will.|- But I think it's back that way.
+{105895}{105974}I know. But we're gonna|make a stop first, okay?.
+{106006}{106060}Kit, you can|see Dylan tomorrow.
+{106112}{106160}- Kit, come on. Let's go back.|- No.
+{106162}{106266}- Kit, let's go back. Please!|- No! I want to see him now.
+{106623}{106669}Are you sure?.
+{106694}{106740}Yeah.
+{107755}{107800}Kit, I really should wait|in the car.
+{107848}{107918}- How do I look?.|- You look really great.
+{107921}{107974}Don't you guys want|to be alone together?.
+{108019}{108109}I want you with me.|Come on.
+{108355}{108413}- Surprise!|- Honey.
+{108415}{108481}Hi! Oh, baby.
+{108483}{108541}Kit-Kat, I thought we were|gonna make plans tomorrow.
+{108543}{108633}Oh, I know. I just really wanted|to see you. This is my friend, Mimi.
+{108702}{108761}You two know each other?.
+{108764}{108813}Yeah. From school.|Right, Mimi?.
+{108815}{108891}- Right.|- Yeah.
+{108948}{109029}Oh. Well, aren't you gonna|invite us in?.
+{109031}{109121}Yeah, I would, Kitty-Kat, but I've|got this friend here, and he's--
+{109123}{109167}you know, he's really upset,|and we're supposed to, like...
+{109170}{109217}you know,|hang out or whatever.
+{109250}{109304}Do you need money for the pizza?.
+{109344}{109440}- Your friend sounds really upset.|- Wait, Kit, hold on.
+{109474}{109561}- Oh, God.|- Who's she?.
+{109608}{109667}We're supposed to be|getting married.
+{109711}{109761}We're supposed to be|getting married.
+{109764}{109831}I was-- I was gonna tell you,|I just, you know...
+{109834}{109889}didn't want to do it|over the phone.
+{109891}{109925}Dylan, you gave me a ring.
+{109927}{109998}You proposed and gave me a ring!
+{110000}{110041}Kit, I mean,|I'm sorry, you know?.
+{110230}{110285}Oh, my God.
+{110468}{110514}It was Dylan, wasn't it?.
+{110553}{110613}It was you.|You were the guy at Christmas.
+{110616}{110711}- Wasn't it?. It was him, huh?.|- What are you talking about?.
+{110714}{110814}That night when you came over,|you had that rip in your shirt.
+{110816}{110907}- That was the night that he--|- Kit, what is your problem here?.
+{110910}{111019}- Kit, I have to go.|- No, Mimi, come back here.
+{111022}{111111}I want him to admit it.|Admit it!
+{111114}{111191}You're getting all worked up|over nothing, Kitty-Kat.
+{111231}{111305}My name is not Kitty-Kat.|I am not your pet!
+{112026}{112059}Hello?.
+{112450}{112520}- Excuse me, where's the phone?.|- It's right over there.
+{112710}{112769}Yeah, can I make|a collect call, please?.
+{113230}{113293}They said I lost the baby.
+{113316}{113361}"Lost it."
+{113387}{113466}Like it was my keys|or something.
+{113522}{113605}Isn't that the stupidest|damn thing you've ever heard?.
+{113709}{113759}I'd decided to keep her.
+{113827}{113897}I was standing on the beach...
+{113899}{114017}and my toes were|in the Pacific Ocean...
+{114074}{114120}and she kicked.
+{114183}{114232}It was like this sign.
+{114268}{114317}Don't touch me, Luce.|I'm already crying.
+{114320}{114373}Okay.
+{114426}{114477}I would have made a good mom.
+{114690}{114746}Just what were you thinking,|running away...
+{114748}{114816}with a pregnant girl!
+{114818}{114864}Lucy, I'm waiting|for an answer.
+{114866}{114928}Do you know what it took|to come here?.
+{114930}{115010}I had to take cash out of savings|for plane fare and hotel.
+{115012}{115097}I worked hard to earn that money|for your college education.
+{115099}{115132}I'm sorry.
+{115262}{115361}So you made a mistake.|I understand.
+{115363}{115499}Everybody makes mistakes.|You're forgiven.
+{115502}{115558}I'm gonna take you girls back|to where you belong...
+{115561}{115626}and we'll forget about|this whole crazy thing, all right?.
+{115629}{115674}Okay.
+{115677}{115723}Who's that boy you were with?.
+{115726}{115805}How old is he anyway?. Is he the one|who put the crazy idea in your head?.
+{115888}{115945}He just gave us a ride.
+{115947}{116001}That's all.
+{116145}{116209}Hey, sorry it took me so long.|We got a band.
+{116212}{116320}- What are you doing?.|- Packing.
+{116322}{116432}My father says I have|to move to his hotel, so--
+{116434}{116527}Until the audition?.|How are we gonna rehearse?.
+{116529}{116584}I'm not going to the audition.
+{116669}{116781}Look, I have to|go back with him, okay?.
+{116861}{116914}Ben, he's my father, okay?.
+{116917}{116958}I just can't--
+{116961}{117077}And with everything happening|with Mimi, I just think I should go.
+{117152}{117210}- No, I get it.|- Don't be like that.
+{117237}{117284}I get it. It's okay.
+{117320}{117356}It's fine.
+{118298}{118366}Did you see|how fast he went down?.
+{118405}{118519}It's 'cause you threw your body|into that punch, like I taught you.
+{118606}{118646}You did really good.
+{118725}{118761}Hey, come here.
+{118797}{118838}Thankyou.
+{118963}{119048}- I'm sorry.|- It's okay.
+{119051}{119097}It's not your fault.
+{119457}{119495}Got it?.
+{119651}{119710}I can't believe|this trip is over.
+{119713}{119788}I know. God, doesn't it feel like|we left home a million years ago?.
+{119790}{119836}Yeah.
+{119874}{119972}- Hey, y'all, thanks.|- For what?.
+{119974}{120078}For coming on this trip with me.|Thankyou.
+{120140}{120195}Mimi and I were talking...
+{120197}{120225}and we were thinking--
+{120228}{120291}That you need to stay|and go to the audition.
+{120293}{120353}Guys, I can't do that.
+{120356}{120404}- I can't.|- You've got to.
+{120407}{120474}Kit and I voted, and you lost,|so you've got to go.
+{120600}{120681}All right, baby,|ready to head home?.
+{120684}{120766}- I'm coming.|- Ladies...
+{120769}{120806}let's roll.
+{120885}{120933}Come on, let's go.
+{121037}{121083}We tried.
+{121145}{121175}Here you go, buddy.
+{121177}{121235}- Thankyou, sir.|- I'll take that, sweetie.
+{121448}{121477}Good-bye, Lucy.
+{121504}{121537}Good-bye.
+{122316}{122434}It's gonna feel good|to get back home, won't it?.
+{122437}{122474}Look, honey...
+{122507}{122572}I'm sorry I yelled at you.
+{122574}{122661}I wasn't angry at you.|I was angry at what you did.
+{122664}{122712}- Okay?.|- Okay.
+{122962}{123027}I don't want to be like her.
+{123029}{123117}We'll just get back home, and|everything'll be back to normal.
+{123120}{123167}You just wait and see.
+{123198}{123257}Don't make me do|what she did.
+{123288}{123412}Don't make me run.|Just let me go, okay?.
+{123698}{123758}What are you--
+{123761}{123812}I used to think
+{123838}{123944}I had the answers|to everything
+{124029}{124120}But now I know
+{124123}{124200}That life doesn't always
+{124202}{124289}Go my way
+{124292}{124327}Yeah
+{124330}{124460}Feels like I'm caught|in the middle
+{124486}{124608}That's when I realize
+{124610}{124691}I'm not a girl
+{124768}{124827}Not yet a woman
+{124914}{124983}All I need is time
+{124985}{125085}A moment that is mine
+{125088}{125179}While I'm in between
+{125181}{125244}I'm not a girl
+{125293}{125394}There is no need|to protect me
+{125484}{125560}It's time that I
+{125562}{125645}L earned to face up to this
+{125648}{125785}On my own
+{125788}{125939}I've seen so much more|than you know now
+{125941}{126060}So don 't tell me|to shut my eyes
+{126753}{126878}But ifyou look at me closely
+{126881}{126956}You will see it in my eyes
+{126958}{127096}This girl will always find
+{127098}{127227}Her way
+{127273}{127384}I'm not a girl|Don 't tell me what to believe
+{127436}{127535}I'm just trying to find|the woman in me, yeah
+{128280}{128312}My baby!
+{128668}{128746}This time, we didn 't make|any wishes for the future.
+{128793}{128858}We said good-bye to our past.
+{128861}{128946}Now, none of us has any idea|where life's gonna take us...
+{128949}{129003}'cause what we have is now.
+{129045}{129089}And right now,|we have each other.
+{129798}{129864}- Let's do this thing!|- Action!
+{129889}{130039}Please rate this subtitle at www.osdb.link/42vmb|Help other users to choose the best subtitles

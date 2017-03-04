@@ -1,0 +1,1367 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{444}{542}Mars surface ops,|this is Houston. We're go for data.
+{545}{646}Copy, Houston. Base pedal|temp good. Remote pedal actuator good.
+{649}{755}Probe primary and auxiliary|transponders a-okay.
+{759}{818}Shunt voltage three zero.
+{821}{940}D.S.N. uplink rate is now 61.101.
+{943}{992}Copy. We'll see if we|can better that for you.
+{995}{1044}This is the probe's
+{1047}{1100}We need all the data we can get.
+{1103}{1223}Uh, standby.|We're getting a low current level here.
+{1226}{1311}Voltage is down to, uh, 185.
+{1314}{1402}Here's our rock, fellas. One-one-niner.
+{1405}{1456}-Beautiful.|-There it is again. There it is again.
+{1459}{1536}Voltage down to 113.
+{1539}{1588}-Can you repo the solar arrays?|- Uh, negative.
+{1591}{1644}M.P.C. load is critical.
+{1647}{1698}-Mars surface ops,|we're losing the signal.
+{1701}{1774}-We're losing the signal here!
+{1777}{1896}Roger that.|Transmission terminated.
+{1899}{1968}-Well, people, congratulations.
+{1971}{2051}We collected data|on over a dozen new rocks.
+{2054}{2174}I'd say this was five years|and three trillion dollars well spent!
+{3277}{3347}Come on, gentlemen, keep up with me.|I want an exclusive...
+{3350}{3399}with that policeman who was|in the Santa Barbara shootout.
+{3402}{3448}-I'll take it.|-Glad you could make it, O'Hara.
+{3451}{3512}Prescott, it's yours.|Take Harrison and camera car five.
+{3515}{3568}I want it for the 6:00.|It's no good at 10:00. You got that?
+{3571}{3640}-It's no good at 10:00.|-What are you, a parrot? Get movin'.
+{3643}{3727}I want footage of that 1st Monument Bank|that got knocked off down in Oxnard.
+{3730}{3776}-I'm all over it.|-Van Gundy?
+{3779}{3830}-Sir!|-And get that security camera's|videotape, you got that?
+{3833}{3884}-Yeah, mm-hmm.|-No tape, no story.
+{3887}{3950}You got it, boss.|Whatever you say, boss.
+{3953}{4056}I like Van Gundy.|I need something on that|shuttle launch tonight at Vandenberg.
+{4059}{4116}-Well, that's me.|I know Vandenberg, chief.|-Chief?
+{4119}{4179}Who are you, Clark Kent?|FFelix, it's yours.
+{4182}{4240}Get interviews|with all the top brass involved.
+{4243}{4318}Oh, take Brace with you. It's a good|story for her to cut her teeth on.
+{4321}{4412}Brace? Are you sure? Because I usually|produce Brace's on-camera segments.
+{4415}{4504}We're a team. I mean, we're more|than a team. Brace and I are-
+{4507}{4569}You and my daughter are what?
+{4674}{4762}-Um, nothing.|-That's right.
+{4765}{4832}I didn't send Brace to all those|fancy English boarding schools...
+{4835}{4915}to wind up with the likes of you.
+{4918}{5016}Oh, O'Hara, I've got something here|that's right up your alley.
+{5019}{5096}A senior citizens' tanning contest|being held tomorrow at Sunset Pier.
+{5099}{5171}The Hawaiian Tropic Senior|Cocoa Butter Classic.
+{5174}{5232}-Huh?
+{5235}{5286}I want footage|of all the old farts baking,
+{5289}{5395}an interview with the doctor on|the dangers of sunbathing, yadda, yadda.
+{5398}{5510}Something to fill time|if my idiot weatherman runs short.
+{5567}{5639}Mr. Channing? Mr. Channing?|Excuse me. Sir?
+{5642}{5760}You hired me because I had ten years'|experience as a newspaper reporter.
+{5763}{5856}Now, I will go to the ends of the Earth|to bring you a great story.
+{5859}{5932}But I need the chance.
+{5935}{6054}You know, Tim, when I look at you,|I see myself at your age.
+{6057}{6124}-Really?|-And I was a moron!
+{6127}{6208}-Huh.|-But you got a lot of nerve,|O'Hara, and I like that.
+{6211}{6272}Sometimes.|Okay, it's yours.
+{6275}{6331}-B-B-B-But you said-|-Shut up, Felix.
+{6334}{6387}You won't- You won't regret this, sir.|You really won't.
+{6390}{6494}O'Hara! You screw up this Vandenberg|thing, you're fired. Is that clear?
+{6497}{6574}Yeah.|Crystal.
+{6579}{6624}Attention, all personnel.
+{6627}{6679}We are T minus five minutes|and counting.
+{6682}{6748}We're here at the Vandenberg Air Force|Base, where for the first time,
+{6751}{6810}-Cut. Brace?|-the shuttle Atlantis|will be launched...
+{6813}{6880}-Sweetie, could we lose the gum?|-Billy!
+{6883}{6930}Excuse me, Sergeant.
+{6933}{6980}-I love show business.
+{6983}{7036}Yeah, okay. Everybody back|to one, please. Here we go.
+{7039}{7159}Same thing.|In five, four, three, two-
+{7162}{7208}We're here at Vandenberg Air Force Base.
+{7211}{7266}-We're here|at Vandenberg Air Force Base,|-Where just minutes from now,
+{7269}{7362}where just minutes from now,|the shuttle Atlantis will be|launching for the first time...
+{7365}{7412}-on the west coast.|-I understand that Project Deadhead...
+{7415}{7516}I understand that Project Deadhead|is carrying a sophisticated satellite...
+{7519}{7606}-to study the Fiona comet.|-to study the Fiona comet.
+{7609}{7680}Yes, the satellite has|a specialized guidance system...
+{7683}{7763}which will allow it to pass|closer to the comet than ever before.
+{7766}{7812}Yeah, yeah.|Is Jerry Garcia on board?
+{7815}{7867}What?
+{7870}{7946}Is Jerry Garcia on board?
+{7949}{8035}Is Jerry Garcia on board?
+{8038}{8114}-Well, yes, actually.|-Yes!
+{8117}{8180}Project Deadhead|gets its name from the fact...
+{8183}{8268}that its payload includes|the ashes of famous rocker...
+{8271}{8320}Jerry Garcia of the Grateful Dead.
+{8323}{8372}How in the world|did you know that?
+{8375}{8440}-It's my job to know that.|-It's my job to know these things.
+{8443}{8504}Well.
+{8942}{9031}-Okay, Lizzie, go to Brace.
+{9034}{9096}All right, Brace, here we go.|The big wrap-up.
+{9099}{9174}-And so, on this the night|of the Fiona Comet,|-And so, on this,
+{9177}{9240}the night of the Fiona Comet,|our thoughts turn...
+{9243}{9324}to that satellite's only passenger-|Jerry Garcia.
+{9327}{9427}-I'm Brace Channing-|-I'm Brace Channing for KGSC.
+{9430}{9483}-Thank you, Captain Dalton.|-Thank you.
+{9486}{9592}-God, you're beautiful.|-God, you're beautiful.
+{9595}{9703}-Thank you. So are you.
+{9706}{9755}And we're out.
+{9758}{9856}-Tim, I'd like a word with you.|-And I'm dead.
+{9890}{9972}-Colonel?|-Yes?
+{9975}{10056}-You might want to take|a look at this, sir.|-The Fiona Comet?
+{10059}{10132}-So what?|-It's changing direction, sir.
+{10135}{10208}That's impossible. Are you sure it's not|the trajectory of our own satellite?
+{10211}{10296}Yes, sir. Uh, the comet's|just changed direction again, sir.
+{10299}{10354}-It's gotta be the equipment.|-I've got down line confirmation.
+{10357}{10430}No, sir. Our backup computers|verify all systems go.
+{10433}{10500}It's- It's coming down, sir.
+{10503}{10596}-The satellite?|-No, sir. The comet.
+{10599}{10648}Okay, let's go to general alert.
+{10651}{10698}-Major, scramble the F-16s.|-Yes, sir!
+{10701}{10750}-Sergeant, get SETI group on the line.|-Copy that.
+{10753}{10826}Showtime, boys.|We got ourselves a U.F.O.
+{10829}{10915}Excuse me.
+{10918}{10998}-What's this?|-It's Capt. Dalton's telephone number.
+{11001}{11072}Well, he's not really my type, but-
+{11075}{11136}-You made me look such an idiot.|-Brace, come on.
+{11139}{11212}-Let me explain.|-Just wait until I tell my daddy.
+{11215}{11276}-No, Br- Brace, come on!|-Billy!
+{11279}{11326}-Wait a minute! Look, I-|-Nice knowin' ya.
+{11329}{11391}Ooh-hoo.|Let us know where you end up.
+{11394}{11455}-It wasn't a complete disaster.
+{11458}{11511}Oh, compared to what?
+{11514}{11560}-The Hindenburg?
+{11563}{11628}Titanic.|I'm sorry, pal.
+{11631}{11686}Thanks. Thanks a lot.
+{11689}{11740}Sorry.
+{11958}{12039}The blues kept knockin'|upon my door
+{12042}{12087}-Get your nose up! Pull up!
+{12090}{12160}I said up, not out of joint!
+{12163}{12240}We're goin' down!
+{12243}{12320}-Mayday! Mayday!|-Oh, not another ticket.
+{12517}{12632}-Whoa!
+{13135}{13188}-Aaah!
+{13191}{13256}Are you crazy?|You could have totalled my car!
+{13259}{13306}-Did you see it? Did you see it?|-See what?
+{13309}{13358}There was a crash. A plane or some-
+{13361}{13408}It was like a stealth fighter!|I don't know!
+{13411}{13500}-It happened so fast!|-Oh, my God, a plane crash!
+{13503}{13584}Well, that's terrible!|We don't even have any video!
+{13587}{13650}Good! It's over here.
+{13653}{13716}- Tim, wait for me!|-Humans.
+{13719}{13821}-Wait, not so fast!|It's my story too, remember?
+{13965}{14032}- What was that?|- Hmm? What was what?
+{14035}{14094}It was this flicker, this-|this light that-
+{14097}{14166}-Never mind.|-What, Tim?
+{14169}{14240}Tim, wait!|Oh, my heel!
+{14243}{14310}These are really expensive shoes,|you know!
+{14443}{14492}Come on, Tim, where is it?
+{14495}{14570}It was this huge thing!|It was this-
+{14573}{14660}You know, it's really creepy out here.
+{14663}{14740}Ow!
+{14807}{14855}Tim?
+{14858}{14950}-You've got 30 seconds and I'm leaving!|-Hmm.
+{15139}{15190}-Look at this.|- What's that?
+{15193}{15255}I don't know.|I-I- I don't know.
+{15258}{15350}-Is this your idea of a joke?|-No, I swear to you- look at-|I mean, this thing was huge.
+{15353}{15446}Oh, really? And I thought|you were one of the normal ones!
+{15449}{15520}-I am one of the normal ones, normally.
+{15523}{15579}Ha ha ha.
+{15582}{15668}Nice try, Tim.
+{15671}{15767}You and me, alone on the beach, on|the night of a lunar eclipse, no less.
+{15770}{15840}-I didn't make this up!|-Keep this as a memento|of our last date.
+{15843}{15904}Last date?|We haven't even had our first date!
+{15907}{15968}-Well, consider this both.
+{15971}{16036}-Brace? Brace!
+{16149}{16215}Ahh.
+{16218}{16313}Nurplex.|Ay-yi-yi-yi mmm!
+{16667}{16763}Humans.
+{16766}{16835}-Come on, come on, come on.
+{16930}{17039}-Savages!
+{18027}{18070}-Tim!|-Aaah! Mrs. Brown.
+{18073}{18138}-Too much lipstick?|-Uh, well,
+{18141}{18200}no, no, no, no.
+{18203}{18279}No, it's just that you, uh...
+{18282}{18332}kind of appeared, that's all.
+{18335}{18388}I saved you some|of my special brownies.
+{18391}{18444}Mrs. Brown, brownies. Get it?
+{18447}{18494}-Yes! That's good.|-There you go.
+{18497}{18556}-Thank you very much.|- Did you see the eclipse?
+{18559}{18627}Wasn't it très magnifique?
+{18630}{18684}-Those French tapes are really|paying off, aren't they?|-Oh, you noticed.
+{18687}{18740}-Thanks for the brownies, Mrs. Brown.
+{18743}{18827}Oh, Tim.|I wanted to remind you...
+{18830}{18892}about the charity rummage sale|this weekend.
+{18895}{18960}If you have anything|you want to donate, leave it|in the garage and I'll pick it up.
+{18963}{19019}Well, trust me, this will be|right on top of the pile.
+{19022}{19107}-Ahh.|-Good night, Mrs. Brown.
+{19110}{19211}One more thing I wanted to tell you,|Tim! Oh, good night, Tim!
+{19575}{19634}I'm havin' a bad night.
+{19637}{19703}I couldn't agree with ya|more completely.
+{19706}{19786}-Shut up.|-How do you do it?
+{19789}{19864}-O'Hara here. Please leave a message.|Make it short.
+{19867}{19978}-Channing here. You're fired.
+{19981}{20035}-Short enough for ya?
+{20038}{20114}What more can I say?|When you're right, you're right!
+{20743}{20797}Hmm.
+{21242}{21326}Stay where you are, little Earth man,
+{21329}{21379}and no harm will come to you.
+{21382}{21464}Say, I wish I'd thought of that!
+{21467}{21556}- Hello?|-What more can I say?|When you're right, you're right!
+{21559}{21619}-Be silent.|-How do you do it?
+{21622}{21683}I thought I told you to shut up.
+{21686}{21746}I couldn't agree with you more-
+{21749}{21808}You leave me no choice.
+{21811}{21888}Who's there?|I got a gun!
+{22203}{22298}Static.
+{22681}{22795}-Hey, buddy. Hey. Hey.
+{22798}{22852}-Hey! -That's it, Earthling!
+{22855}{22963}-It's alive!
+{23002}{23043}Hyah!
+{23046}{23127}Okay, you wanna play games?
+{23130}{23224}-Slide through.|-I must be going... nuts.
+{23227}{23314}One strike, no balls.
+{23317}{23392}Over here, Tiger Woods.
+{23395}{23447}Aaah!
+{23450}{23571}-Hey, look- Jimmy Hoffa.|-Leisure suit from hell!
+{23643}{23747}-I'm gonna...|-Ohh!
+{23750}{23799}mutilate you!
+{23883}{23967}Come on!|Show your face... if you have one.
+{24051}{24122}Where- Where'd he go?
+{24159}{24304}What the heck|was in those brownies?
+{24307}{24368}When dealing with primitive life-forms,
+{24371}{24439}sometimes one must|resort to primitive acts.
+{24442}{24511}-Are you okay, Zoot?
+{24514}{24592}If you don't mind my asking,|where were you?|This alien was trying to kill me!
+{24595}{24635}Don't be such a wet blanket.
+{24638}{24711}Wait a minute.|Leave my mother out of this!
+{24714}{24763}It's your fault we ended up|on this no-good, carbon-based,
+{24766}{24838}-over-oxygenated,|miserable excuse of a-
+{24841}{24892}- Tim?|-Oh, no. It's another one!
+{24895}{24960}I know you're not asleep yet.
+{24963}{25015}Tim, it's Lizzie!
+{25018}{25072}Blotz! It's Lizzie!
+{25075}{25122}What's a Lizzie?
+{25125}{25192}I would say a Model T Ford,|but this one has better tires.
+{25195}{25280}-Ah-ooga! Ah-ooga!|-I know what a woman is,|but what do I do with it?
+{25283}{25367}Help, Mr. Lifeguard, I'm drowning.|I need mouth-to-mouth.
+{25370}{25426}Ugh, saliva exchange.
+{25429}{25492}I would never partake|in such an unsanitary interaction.
+{25495}{25551}There must be some other way|to greet a female and then be rid of it.
+{25554}{25600}-Tim!
+{25603}{25658}If it was me, I'd be he.
+{25661}{25735}-Tim, please.|-Good thinking, Zoot.
+{26178}{26258}Okay, Tim,|I'm picking up the hide-a-key.
+{26302}{26401}-Gonna open the door.
+{26438}{26506}-Tim?|-Lizzie!
+{26509}{26560}My dear friend or family member.
+{26563}{26620}Uh, oh, my gosh.
+{26623}{26692}Oh, inappropriate.
+{26695}{26816}-Oh, boy.|- I told you|they cover their flingdat here.
+{26819}{26891}Lizzie, my dear friend|or family member.
+{26894}{26945}You sound funny.|Are you catching a cold?
+{26948}{27000}A cold, a virus? Yes.
+{27003}{27061}A contagious|bubonic plague. You better leave.
+{27064}{27128}What? What in the world-
+{27131}{27204}Are- Are you a Trekkie?
+{27207}{27279}Uh, yes, I am.
+{27282}{27340}Okay, what's going on?
+{27343}{27409}-What's going on?|-Tim, are you okay?
+{27412}{27467}-You don't seem like yourself.|-Oh, I'm Tim, all right.
+{27470}{27544}-Tim O'Hara, no reason to doubt it.|-Uh, what's going on?
+{27547}{27604}Lots.
+{27731}{27790}-Mmm.|-Mmm.
+{27911}{27976}-Lizzie.|-Yeah?
+{27979}{28051}If you're my sister,|an explanation is in order.
+{28054}{28129}Yeah.
+{28132}{28195}-Does this mean that you and I are-|-Indeed.
+{28198}{28287}-Now, if you'll excuse me,|I have work to do, and you...|-What?
+{28290}{28340}-need...to go.|-Huh?
+{28343}{28417}Wha-
+{28476}{28560}-Human emotions.|-Crazy monkeys.
+{29192}{29253}Welcome, sir.
+{29296}{29344}Where's Coleye?
+{29347}{29448}Examining mucus-type protoplasm.
+{29499}{29545}Hmm. It's saline-based.
+{29548}{29641}Good God, Coleye,|put that on a slide next time.
+{29644}{29724}I want this stuff analyzed|and the cigarette dusted for prints.
+{29727}{29825}-I want to know whose this was.|-There's more, sir.
+{29858}{29948}Quadroped becomes... biped?
+{29951}{30020}It must have taken human form!
+{30023}{30080}The footprints stop at the road.
+{30083}{30131}We think someone|may have picked them up.
+{30134}{30191}Evidence of a crash,
+{30194}{30253}no spaceship and alien|in human form?
+{30256}{30316}It's just like the incident of '64!
+{30319}{30379}Keep your mouth shut, you idiot.
+{30382}{30436}That incident is not only classified,
+{30439}{30501}but it never happened, you got it?
+{30504}{30595}-Yes, sir.|-Once again, we have no alien, no U.F.O.
+{30598}{30652}If you can't get me either one,
+{30655}{30703}then you'd better start|looking for another job.
+{30706}{30769}Well, you heard him! Move it!|It's out there somewhere!
+{30772}{30820}-So, move it! Go! Move!|-Yes, sir!
+{30823}{30920}And God help the poor soul...
+{30923}{30979}who picked him up.
+{31271}{31317}Silence, subculturer!
+{31320}{31420}-Let me down!|-Look what you did to me. Barbarian!
+{31423}{31476}-Let me down!|-As you wish!
+{31639}{31721}For a thief,|you are extremely clumsy.
+{31724}{31808}-Thief? I'm not a thief.|-So I see.
+{31811}{31880}Tim O'Hara.|You are a reporter.
+{31883}{31944}Reporter? No.|I'm a producer, pal!
+{31947}{32025}-Let me tell ya, I- Aaah!
+{32028}{32120}Look, I didn't steal anything, okay?|I don't know what you're talking about.
+{32123}{32184}-All right, all right.
+{32187}{32260}No! No!
+{32263}{32336}Warning, Tim O'Hara. Any attempt|to expose me will be useless.
+{32435}{32548}-I think we use more than ten.|-Your astronauts|pee in their space suits.
+{32551}{32623}Case closed.
+{32720}{32777}Okay. Okay, just-
+{32951}{33036}Whoa!
+{33175}{33268}Okay, it's just a dream.|It's a very bad dream.
+{33271}{33391}Just- Come on.|Wake up. Wake up!
+{33394}{33453}What's with that?
+{33456}{33556}-I believe it's called|a nervous breakdown.|-Last night did not happen.
+{33559}{33635}-I don't believe in aliens.|-I heard that!
+{33638}{33724}To us, you are the alien.
+{33727}{33792}If you must know,|I am from the planet you call Mars.
+{33795}{33892}-And what, I'm from Uranus? I never-|-I was getting to you!
+{33895}{33945}Don't get a crease in your Sputnik.
+{33948}{34000}Please,|just introduce me to monkey boy.
+{34003}{34100}This is my Zoot.
+{34103}{34188}-A polymorphous Zootenex 3,000.|-Just look, don't touch.
+{34191}{34272}-Your suit talks?|- Incessantly.
+{34275}{34321}Corduroys talk,|nobody gives them grief.
+{34324}{34372}- Whoosh, whoosh, whoosh.|-Mars? Wait a minute.
+{34375}{34467}There's no life on Mars.|We've sent probes.
+{34470}{34555}I'd try to explain it, but you people|still think "E" equals "MC" squared.
+{34558}{34656}-You're still trying to|analyze our rocks. Ha-ha!
+{34659}{34744}Oh! Blasted sand particles.
+{34747}{34823}They've completely crystallized|the vortex generator.
+{34826}{34884}-Hey, do you mind?|- Tim!
+{34887}{34928}-Now what?
+{34931}{34987}-Thank God, an eyewitness.|-Eyewitness? Negative.
+{34990}{35088}-You must tell no one.|-No offence, but your ship is|double-parked in my living room.
+{35091}{35149}You're the biggest story|in the history of mankind!
+{35152}{35216}There is intelligent life|out there in the universe!
+{35219}{35260}I hope you're not including yourself|in that statement!
+{35263}{35328}Tim, listen, I'm sorry to bother you|so early in the morning,
+{35331}{35377}but I got a hold of your mail,|and I wanted-
+{35380}{35465}Could you just- please, come here.|Take a look at that!
+{35468}{35537}Aaah!
+{35540}{35656}Tim, you definitely need a maid!|Oh, hello!
+{35711}{35827}-Greetings.|-Oh, I'm sorry to catch you|in your... pyjamas.
+{35830}{35917}-Pyjamas? - Where's the spaceship?
+{35920}{35980}- Spaceship?|-Right here.
+{35983}{36053}Oh, for the rummage sale!|Does it come with an action figure?
+{36056}{36125}-You're looking at him.|-Oh. I don't believe we've met.
+{36128}{36200}-No, don't touch him! He's a Martian.|-Tim, what's going on?
+{36203}{36249}-I beg your- Mart- Martin?
+{36252}{36312}-Yes. Martin.|-No, no, no, no!
+{36315}{36372}-He's a- uh-|-Uncle!
+{36375}{36452}-Martin.|-Oh.
+{36455}{36528}-Well, it's a pleasure to meet you.|-He turns invisible, okay?
+{36531}{36577}His suit talks-|he's got a talking suit.
+{36580}{36628}He's got these things that|pop out of his head- You just-
+{36631}{36688}-Show her. Go ahead.|Come on, give her the finger.|-Tim!
+{36691}{36796}No, I didn't mean that.|I don't know what I mean. Forget it.
+{36799}{36869}You'll have to forgive Tim, Mrs. Brown.|He lost his job last night,
+{36872}{36920}and he's experiencing|a nervous breakdown.
+{36923}{36973}Oh, poor dear.
+{36976}{37024}-I hope it doesn't affect the rent.
+{37027}{37096}-Don't worry,|I'm here to look after him.|-Ha!
+{37099}{37191}He's very lucky to have|an uncle like you in his life, Martin.
+{37194}{37284}And you, Mrs. Brown,|are like a brilliant quasar|in the black hole of my day.
+{37287}{37363}Oh! Call me Lorelei.
+{37366}{37433}Lorelei.|The sound of...
+{37436}{37532}pure mountain spring water|from the centre of the Earth.
+{37535}{37598}Oh, my.
+{37772}{37841}Oh!
+{37844}{37929}I obviously misconstrued a custom.|I apologize.
+{37932}{38012}I'm from... New York.
+{38015}{38083}No, actually, it's- It's fine.
+{38086}{38172}It's perfect. 
+{38175}{38243}-Oh, brother.|-Oh, Martin?
+{38246}{38292}Yes, Lorelei?
+{38295}{38436}Um, Mr. Brown... passed away|several years ago.
+{38439}{38556}-I thought you might like to know that.|-Hmm.
+{38559}{38647}Au revoir.
+{38650}{38696}Hmm?
+{38699}{38757}Just for the record,|a handshake will do for me.
+{38760}{38808}You think that I actually enjoyed...
+{38811}{38860}tasting that female's exoskeleton?
+{38863}{38956}I merely used my data on|your primitive species to determine...
+{38959}{39015}the optimum way|to avoid suspicion.
+{39018}{39103}-Yeah, but what's the optimum|way to get home?|- Blotz!
+{39106}{39211}I don't know, Zoot. Where on this|barbaric swamp of a planet...
+{39214}{39291}can we find the makings|of an electron accelerator?
+{39294}{39364}-Maybe your new girlfriend has one.|-Oh, that's very funny.
+{39367}{39447}Excuse me. Fellas,|I don't mean to interrupt, but...
+{39450}{39572}I-I, you know, I think I might be able|to help you find that electron thing.
+{39575}{39615}We're toast.
+{39620}{39683}I don't believe this.|You really think you can...
+{39686}{39732}repair your ship|with all this junk?
+{39735}{39789}Everything has been carefully chosen|for its potential to fashion...
+{39792}{39852}a crude vortex electron accelerator.
+{39855}{39925}Except for this.|A pooper scooper.
+{39928}{39992}I have no idea what it does,|but it's fascinating.
+{39995}{40103}Excuse me. Where are your|nuclear implosion couplers?
+{40106}{40162}For a garden hose?
+{40207}{40276}I'm never going to get off|this infernal planet.
+{40279}{40331}The I.Q. of a pancake.
+{40334}{40381}You're right. Humans are truly|the amoebas of the universe!
+{40384}{40445}Yeah, this from a guy|who talks to his tin foil suit.
+{40448}{40521}-Hey, what was that for?|-It wasn't me, it was Zoot.
+{40524}{40621}-Come here a sec.
+{40624}{40688}Listen, you've been on Earth,|what, all of ten minutes?
+{40691}{40748}-It's not so bad here.|- That's what Neenurt said.
+{40751}{40844}-Who?|-Exactly. One of my planet's|most gifted scientists,
+{40847}{40908}and now he's gone without a trace.
+{40911}{41000}He arrived on Earth in 1964,|and, I presume, was abducted|by your government.
+{41003}{41053}I shudder to think what they did to him|in the name of science.
+{41056}{41157}-What are they laughing at?|- Hey, space man!
+{41160}{41232}-I've been discovered!
+{41235}{41295}-Sorry about that.
+{41298}{41337}-Oh, my-|-What happened?
+{41340}{41393}They don't know anything.|They were just making fun of your-
+{41396}{41477}Making fun. I'm one of|the best-dressed beings on my planet.
+{41480}{41528}Yo, Elvis! Nice suit.
+{41531}{41632}Well, Dorothy, I hate to tell you this,|but you're not in Kansas any more.
+{41635}{41684}That's great.|The minute I turn my back,
+{41687}{41744}you're getting into|someone else's pants!
+{41747}{41819}I need to blend in,|and you stand out like a putt|stick at a blackbell convention.
+{41822}{41868}I should have known|by the way you've been gawking...
+{41871}{41920}at every T-shirt|and sweat pant we pass.
+{41923}{42001}-Don't come apart at the seams!|-Why is Zoot always the last to know?
+{42004}{42060}-All right, all right, all right!
+{42063}{42153}-Martian footage, take one.|-Zoot, this is tearing me apart too.
+{42156}{42223}I know I'm not what I used to be.
+{42226}{42292}I mean, a stretch mark here,|a line stain there.
+{42440}{42504}-Hey!|-Pervert!
+{42507}{42579}It's not safe|for a woman around here!
+{42582}{42629}I'm ready to blend in now.
+{42740}{42819}-Outstanding.|-Martin, that outfit looks ridic-
+{42822}{42885}-Stylin', bro!|-Thanks, bro.
+{42888}{42936}Real cool.
+{42939}{42985}I've got the touch on two planets.
+{42988}{43043}I gotta get out more.|How did your Zoot take the-
+{43046}{43100}Zoot, he's highly intelligent.|He understands.
+{43103}{43184}Aaaah!|You used me, you buttonhole!
+{43187}{43284}-Go and have your fling.|Colours fade! You'll see!
+{43287}{43343}-Hello?|-Huh? Oh, incoming.
+{43346}{43409}Hello?|Man.
+{43443}{43492}Oh, geez!
+{43495}{43560}Talk about a tacky suit!
+{43563}{43608}-Tacky, huh?
+{43659}{43725}Hey! Hey! What?
+{43783}{43857}-Now turn the other cheek.|-Ow! Hey!
+{43860}{43945}-Catch you later, Spanky.
+{44050}{44103}All right, I'm bustin' out!
+{44106}{44153}-There.|-Go ahead, try 'em all on.
+{44156}{44236}See if I care.|Whoa!
+{44239}{44324}If love is a crime, lock me up!
+{44327}{44423}I'm guilty.|Look at her.
+{44426}{44487}A perfect size six,
+{44490}{44575}and never been worn!
+{44578}{44680}Darling, don't speak.|Just come to me. 
+{44683}{44772}Oh, this is crazy.|I'm a polymorph, and you're a polyester.
+{44775}{44845}Yes, you're synthetic,|but I like that in a girl!
+{44848}{44911}Give me some thread, baby!
+{44914}{44992}-Oh, what's this, Velcro? Ohh!|-Zoot!
+{44995}{45060}Ah! No, thank you, little girl,|I don't want to buy any cookies!
+{45063}{45143}You lecherous leotard!|Have you no shame?
+{45146}{45220}Look who's talking,|Mr. Clothes Horse!
+{45223}{45317}Now, in you go, or you'll take|a long walk on a short hanger.
+{45320}{45368}Coming in for a landing!|Flaps down!
+{45371}{45463}-I said bag it, mister!
+{45466}{45547}All right, all right, you don't|have to throw me in the hamper.
+{45635}{45686}Dork.
+{45747}{45816}-Next time, the dry cleaner.|-Bite these.
+{45819}{45888}You- Blasted nurplex!
+{45891}{45997}Oh, Venus, Neptune!
+{46000}{46060}-Help me, Tim!|-Mm-hmm.
+{46063}{46128}Tim, it's a little blue one!
+{46131}{46193}No!|Give me that,
+{46196}{46257}you age-impaired little blotz.
+{46260}{46308}Mine! Gum!
+{46311}{46388}-Mine! Nurplex!
+{46580}{46641}Why wouldn't you give|the kid a piece of gum?
+{46644}{46727}Okay, sure, right.|Here, have one.
+{46730}{46783}-Come on, let's go. No, no, come on.|-What are you doing?
+{46786}{46836}-What are you doing?|-Trust me.
+{46839}{46883}-Not the finger! Don't do the finger!|-Try some.
+{46886}{46941}-Why?|-You don't want to try Martian gum?
+{46944}{47043}-No, not particularly.|-Afraid, Earthling?
+{47215}{47276}You know what, that is not bad.
+{47279}{47396}-The centre's got|a nice little zing to it.|-Notice anything different?
+{47399}{47464}Hmm, no.|No, not really.
+{47467}{47543}What time do you have?
+{47546}{47592}Aaaah!
+{47595}{47667}Aaaah!
+{47670}{47744}-Spit, spit, spit.
+{47812}{47944}-Everything okay in there?
+{47947}{48037}-Zipper trouble.|-Yeeow.
+{48104}{48180}This "gum", as you call,|allows me to take on the outward|appearance of a human being.
+{48183}{48231}On you, it has the reverse effect.
+{48234}{48305}Oh, so that's what you|really look like.
+{48308}{48380}Don't be disgusting.|That was Fluvian Nurplex.
+{48383}{48452}-Oh.|-We carry many different planets.
+{48455}{48576}If you think that was bad,|this is Veenox Seven.
+{48579}{48675}-Oh, well, that's-|-Don't ever mess with a Veenox Seven.
+{48678}{48766}When it comes to Veenox Seven,|just say no.
+{48872}{48920}Me man got fire
+{48923}{48988}Me so on fire|feeling hot, hot, hot
+{48991}{49057}All right, come on, the rest of you,|come on up on stage!
+{49060}{49141}The sun, while you can get it.|The sand, the surf.
+{49144}{49215}Usually, the beach conjures up|images of our youth,
+{49218}{49319}but come on down to Sunset Pier today,|and your contraceptions of-
+{49322}{49372}-Preconceptions!|-Contraceptions.
+{49375}{49419}-Preconceptions!|-Felix!
+{49422}{49477}I said preconceptions!|I swear, preconceptions!
+{49480}{49564}-Billy! Billy!|-Preconceptions!|I know I said preconceptions!
+{49567}{49640}I should listen to my parents|and be a doctor. I hate this!
+{49643}{49704}-Ooh!
+{49707}{49772}-Are we still rolling?|-Nobody said "cut."
+{49775}{49841}-Feeling hot, hot, hot|-What do you think?
+{49844}{49892}I think your bathing suit|should have a top.
+{49895}{49955}Cut! Cut! Cut!
+{49958}{50041}-Felix!
+{50044}{50100}Felix is toast.
+{50103}{50167}If Tim doesn't get here soon,|we could all be looking for work.
+{50300}{50387}Wait here.
+{50390}{50436}What is the meaning|of this divergence?
+{50439}{50509}-I gotta see some friends.|-Negative! Exclamation point.
+{50512}{50577}We're wasting valuable time.|My ship must-
+{50580}{50667}Look at that!
+{50670}{50720}Do you have any idea|how fortunate you are?
+{50723}{50797}The only water we get back on Mars|has to be squeezed from rocks.
+{50800}{50879}-Well, surf's up, dude.|-Tim, I'm so glad you came.
+{50882}{50944}-Hurricane Brace hit again.|-Oh, okay. Uh, Martin?
+{50949}{51000}-I gotta go. I'll be right-|-Lizzie!
+{51003}{51060}How nice to see you again.
+{51063}{51133}-Have we met?|-Of course!
+{51136}{51212}Not. How nice to see you again|for the first time.
+{51215}{51277}I'm Tim's Uncle Martin.
+{51280}{51401}-Oh, I-
+{51443}{51502}-I, uh-
+{51579}{51676}-What was that?|-I must find nourishment.
+{51679}{51744}-That came from your stomach?|-Stomachs.
+{51747}{51824}Oh, he is- He is such a kidder.
+{51827}{51880}Listen, I'll be with you|in couple minutes, okay?
+{51883}{51944}You just- I'll be right over.|Tell her to-
+{51947}{52012}We gotta get you- ah!
+{52119}{52169}Excuse me, could I have|a double dip-
+{52172}{52229}actually, make that a triple dip,|chocolate chip, please.
+{52232}{52321}-Yes, sir.|-Tim, I need nourishment,|not coloured buckets of frozen lard.
+{52324}{52400}Look, this is very|nutritious food here on Earth.|We eat this for breakfast.
+{52403}{52487}Tim, you don't need to try poison|to know that it kills.
+{52490}{52563}Here, take this.
+{52566}{52628}Give me five minutes, okay?|I have to go to the news van.
+{52631}{52703}Blecch!
+{52706}{52788}- Felix!|-I said "preconceptions", I swear!|Preconceptions!
+{52791}{52885}You unprofessional little man!|All you have to do is come up|with the dumb things I say!
+{52947}{53068}-Billy!|-Brace! Brace!
+{53071}{53160}-You'd rate this tantrum?|-About a seven-five on the Brace scale.
+{53163}{53277}-I'll talk to Felix.|-You never told me about your uncle.
+{53280}{53341}Are you-
+{53344}{53436}Look, I'm glad you beeped me. We really|need to talk. This is really big.
+{53439}{53497}-I know.|-You do?
+{53500}{53556}Yes. Look, I've been thinking, and...
+{53559}{53651}our friendship really means a lot to me,|and I don't want to screw that up.
+{53654}{53708}-Okay.|-So I think it would be better...
+{53711}{53808}if we just pretended that nothing|ever happened between us last night.
+{53811}{53879}-What happened last night?|-Exactly!
+{53882}{53936}I'm not sure I understand what-
+{53939}{53987}Me either.
+{54110}{54185}I guess we're both a little confused,|huh, Tim?
+{54284}{54349}-Easy, easy.
+{54352}{54441}I thought you were her. She's terrible,|Tim. How did you last so long?
+{54444}{54492}She's a little high-maintenance,|but she's okay.
+{54495}{54608}-Oh, lust is blind.|-Do we still have that hidden camera|stuff somewhere?
+{54611}{54715}You're sitting on it.|Why?
+{54718}{54780}-Here, let me help you with this.|-Would you please?
+{54783}{54852}-These words are way too big.|-Huh? Humidity?
+{54855}{54917}-Hot.|-Oh, oh, oh, oh.
+{54920}{54975}Wave for everybody!
+{54978}{55096}By God, if I were only 40 years older,|I'd be right there with 'em!
+{55163}{55209}- Miss Channing?|-Hmm?
+{55212}{55298}-Could I have a word with you, please?|-Okay.
+{55347}{55422}I've already signed it.
+{55456}{55512}Come on, who are you guys, huh?
+{55799}{55845}Okay, guys, you're all set.
+{55848}{55896}-Where's Brace?|-I don't know. She took off.
+{55899}{55956}She quit!|And her dad gonna blame me!
+{55959}{56012}Hey, what's going on|over there?
+{56015}{56108}-Uh, Billy, put that in my car.
+{56111}{56163}-I gotta go.|-Call me!
+{56166}{56216}Martin!
+{56475}{56544}-I like it!|-Martin!
+{56638}{56739}Tim, you're here!|You've got to save me from myself!
+{56742}{56872}It's intoxicating.|Ooh, cookie dough!
+{56875}{56968}-I need to get you back to the home!
+{56971}{57036}All they give him there is Jell-O.|There we go.
+{57139}{57195}Cookie dough!
+{57540}{57598}Martian footage, take two.
+{57819}{57879}-Chubby Hubby hangover, huh?
+{57936}{58000}I swear, I'll never|touch that stuff again.
+{58003}{58072}One scoop's too many,|and a million aren't enough!
+{58075}{58152}So, how's it coming, anyway?
+{58155}{58207}Oh, I converted a blow dryer,|two elastic bands...
+{58210}{58283}and an Acme Bug-Away insect bomb...
+{58286}{58332}into a temporary electron accelerator.
+{58335}{58392}-Is it working?|-Not at all, but on the positive side,
+{58395}{58444}your garage is now cockroach-free.
+{58447}{58509}Blasted rental!
+{58512}{58569}-This is a rental, is it?|-My regular ship is in the shop...
+{58572}{58632}for its mid-millennium tune-up.
+{58635}{58695}Where's your, uh, you know,|your suit, Zoot... thing.
+{58698}{58776}Oh ho, washing up.
+{58779}{58840}-Owwww! Spin me, mama!
+{58843}{58909}So nice, so good
+{58912}{58968}Five more minutes, Zoot,|then into the dryer.
+{58971}{59048}You're bringing me down, man!
+{59051}{59155}What I wouldn't give|to shed this grotesque human facade...
+{59158}{59252}and let the cool Earth waters|caress my Martian skin.
+{59255}{59335}-Oh!|-So why don't you?
+{59338}{59396}Why not, indeed?
+{59399}{59468}-Move over, Zoot!|-Martin, I meant-
+{59471}{59543}I meant out in the hot tub, out back.|It would be private, by yourself.
+{59546}{59620}You mean spit out my Nurplex...
+{59623}{59680}and revert to Martian form|right outside your domicile?
+{59683}{59768}-Exactly.|-Oh, do you think that's safe?
+{59771}{59828}Oh, yes, of course it's safe.
+{59831}{59893}-I'll do it!|-Good. Let's go.
+{59896}{59943}Oh boy, oh boy, oh boy, oh boy.
+{59946}{60000}-Tim? Thanks.|-Yeah?
+{60003}{60049}It's just a hot tub, Martin.|No big deal.
+{60052}{60100}I don't mean just that.|I know I must have...
+{60103}{60179}created complete havoc with your|simple life since the moment I arrived.
+{60182}{60265}Anyway, I just wanted to say...|thank you.
+{60383}{60445}Hello!
+{60448}{60515}Hello!|Would somebody please...
+{60518}{60566}come and tell me|what's going on here?
+{60636}{60700}All right, Miss Channing.
+{60727}{60792}Do you know what this is?
+{60795}{60841}This has been|positively identified...
+{60844}{60904}by my team of experts|as your cigarette.
+{60907}{60999}It was discovered|at the site of a U.F.O. crash!
+{61002}{61068}-What?|-And on it are trace elements...
+{61071}{61165}of what we believe|to be alien DNA.
+{61168}{61259}-Alien?|-Oh, don't play dumb with me!
+{61262}{61332}You are an alien...
+{61335}{61402}inhabiting the body of a woman!
+{61456}{61536}A very, very attractive woman.
+{61539}{61584}Oh, please.
+{61587}{61655}Dr Coleye, we've run the tests|on the other cigarette.
+{61658}{61704}It's human DNA.
+{61707}{61784}Oh.|So sorry.
+{61787}{61896}An honest mistake.|So, Miss Channing,
+{61899}{61956}do you have any idea|how alien DNA...
+{61959}{62015}ended up on your cigarette?
+{62018}{62124}I might. First of all,|let's talk about what's in this for me.
+{62127}{62253}The safety of this entire planet|may depend on what you say to me.
+{62256}{62331}There's nothing in it for you!
+{62334}{62417}-Dr Coleye.
+{62420}{62504}May I call you... Doctor?
+{62507}{62576}Think about it.|When this story breaks,
+{62579}{62684}you will be the most|famous scientist in history.
+{62687}{62796}You will be on the cover|of Scientific... whatever.
+{62799}{62924}You will be the man|that proves that aliens exist.
+{62927}{63051}And I will be the woman|who tells the world your story.
+{63102}{63156}We'll do it together.
+{63159}{63228}Okay.
+{63935}{64020}-Tim?
+{64023}{64073}What are you doing up there?
+{64076}{64136}My Uncle Martin's in the hot tub,
+{64139}{64192}and I'm... watching.
+{64224}{64310}Oh.
+{64342}{64411}What a strange family.
+{64414}{64500}You can, uh-|You can sleep here.
+{64503}{64565}-You guys do sleep, don't you?|-Oh, most definitely.
+{64568}{64644}Oh, great.|We have something in common.
+{64647}{64696}You're very kind, Tim O'Hara.
+{64699}{64812}-No, just very tired.|-Ohh, enjoy your rest cycle.
+{64815}{64876}-I'll do the same.
+{64879}{64932}I could use a little shut-eye.
+{64935}{64992}- So could I.
+{65060}{65124}-Rise and shine!|-Yeah, yeah right.
+{65127}{65173}What's on tap for today, Tim O'Hara?
+{65176}{65225}I feel like a million radix.
+{65228}{65280}Hey, it's still tonight.|You've been asleep for 30 seconds.
+{65283}{65368}Thirty seconds?|Wow, I really was tired.
+{65371}{65436}What are we waiting for?
+{65439}{65524}There's a whole metropolis out there|just waiting to be discovered!
+{65527}{65573}No, not in the middle|of the night, there isn't.
+{65576}{65636}I feel like ice cream,|and there's no time like the present.
+{65639}{65743}Hello? Why aren't they open?
+{65746}{65840}-What's wrong with this planet?|-I told you they don't open till 10:00.
+{65843}{65917}-I could be first in line.|-They aren't gonna let you in|when they do open,
+{65920}{65994}not after that little stunt|you pulled yesterday.
+{66106}{66212}-We call that breaking and entering.
+{66215}{66321}Ah, the smell of moist air.
+{66324}{66416}I'll never forget this.|Your ocean!
+{66419}{66483}Ice cream!
+{66486}{66541}This primitive planet|may not compare to Mars,
+{66544}{66596}but it's not the rotten rock|I thought it was.
+{66599}{66652}Don't look now,|but I think we're being followed.
+{66655}{66704}Impossible.|My acute sensory perception...
+{66707}{66753}would have detected that immediately.
+{66756}{66829}Now it's working.
+{66832}{66877}Hey! Hey, buddy!
+{66880}{66933}-What are you doing?|-I've been discovered!
+{66936}{66988}-I'm doomed!|-No, no, no, just calm down.
+{66991}{67037}It's probably|just some tourist or something.
+{67040}{67124}Besides, even if you did get caught,|you'd probably be, you know, welcomed.
+{67127}{67191}Welcomed?|Tim, where do Earthlings put...
+{67194}{67265}their most beautiful|and rare animals?
+{67268}{67316}If I don't get that spaceship fixed,|I'm finished,
+{67319}{67367}just like Neenurt.
+{67370}{67433}Can you fix it?|'Cause I'm dyin' here.
+{67436}{67500}I need a drink, is what I need.
+{67555}{67620}Yeah.|Downy the hatch.
+{67716}{67795}-What was that?|-What in blazes?
+{67798}{67864}-What is it?
+{67867}{67937}Oh, blotz!
+{67940}{68012}Zoot, an I.S.S.!
+{68204}{68289}-Blasted rental!
+{68292}{68384}-Owww! Spin me, mama!
+{68387}{68471}-So nice, so good
+{68619}{68695}Uncle Martin, what are you-
+{68912}{68963}-Tech department.|- Hi, it's me.
+{68966}{69037}-Oh, hi.|-What are you doin'?
+{69040}{69103}Uh, research.
+{69106}{69188}Have you ever got into your head how-|how you felt about somebody,
+{69191}{69292}and then something they said or did|just suddenly changed your mind?
+{69295}{69357}Well, yeah, I-
+{69360}{69413}Could you come over?
+{69416}{69492}Please, I really need to see you.|It's important.
+{69495}{69575}Sure. Could you give me|like a half an hour?
+{69578}{69675}- You're the best, Lizzie.|-Okay, see ya!
+{69678}{69724}Oh, my gosh.
+{69873}{69948}-Martin?
+{69951}{70012}-I'm not like you.
+{70015}{70079}I need more than|twelve seconds of sleep.
+{70082}{70184}All I need is one lousy|electron accelerator...
+{70187}{70233}for a vortex generator.
+{70236}{70300}But can I build it?|No.
+{70303}{70372}You'll do it. You just gotta|give yourself a little time, that's all.
+{70375}{70460}Time! I have no time!
+{70463}{70511}I just discovered|that this blasted rental...
+{70514}{70571}is equipped with an I.S.S.!
+{70574}{70641}-Yeah, what's that?|-Interstellar Safety System.
+{70644}{70712}A detonation mechanism|designed to prevent...
+{70715}{70795}advanced technology|from falling into the wrong hands.
+{70798}{70880}It's timer activates automatically|at the point of a crash.
+{70883}{70944}Okay, wait,|I heard "detonation" somewhere in there.
+{70947}{71036}If I don't take off by 9:00 tonight,|you'll hear a lot more than that.
+{71039}{71135}-Uh, how much more?
+{71138}{71212}-Uh-huh.|-Lublick.
+{71215}{71335}-Uh, you b-
+{71483}{71544}Ahhh!
+{71626}{71721}I know you've done your best|to help me, but it's no use.
+{71724}{71805}Oh, no.
+{71808}{71900}I'm sinking into|a Martian depression.
+{71903}{71961}Sinking? No, no sinking.|Come on, we gotta go fix this thing.
+{71964}{72015}I'm falling apart, Tim.
+{72018}{72066}Oh, no, you're not.
+{72069}{72145}-Come on.
+{72148}{72227}-Yes you are.|-On Mars, when we get depressed,
+{72230}{72332}we literally fall apart!
+{72335}{72395}-Okay, no problem.
+{72398}{72456}Don't move, don't make it|any worse than it already is.
+{72459}{72528}-What we're gonna do is|we're gonna put you back together.
+{72531}{72604}Does it screw in?|It's not-
+{72607}{72712}-Okay, just-aaah! No!|-I wanna go home!
+{72715}{72773}-We're gonna put our heads together-
+{72776}{72835}-Aaaah!
+{72838}{72880}-Coming!|-Who's that?
+{72883}{72934}-It's Lizzie!|-Lizzie? Oh, no.
+{72970}{73016}You wait here.
+{73019}{73072}-Where are you going with those?|-Just tidying up!
+{73075}{73144}Give 'em back! Give me back my arms!|Give me back-
+{73147}{73215}Why do I have to die here?
+{73243}{73288}Hello?
+{73291}{73348}-Yoo-hoo!|-Don't move.
+{73351}{73393}Tim!
+{73396}{73452}Does anything in this room|strike you as odd?
+{73455}{73503}-Tim?
+{73506}{73555}Just a minute!
+{73558}{73600}-Aaah!|-Would you just be quiet?
+{73603}{73680}Coming! Lizzie!|Oh, Br-Br-Brace!
+{73683}{73740}Tim!|Are you decent?
+{73743}{73831}Oh, yeah! Yes, I am. What a surprise!
+{73834}{73892}-Yes, now get lost!|-What did you say?
+{73895}{73972}Uh, I'm lost.|I mean, 
+{73975}{74023}I'm at a loss|for how beautiful you look.
+{74076}{74129}Hey, hey, hey, hey-
+{74190}{74243}Now, Tim, I hope you're gonna|let me make it up to you.
+{74246}{74296}Oh, no, you don't have to do that.|I mean, that-
+{74299}{74432}Well, you know, that's up to you.|I mean, if that's-
+{74494}{74552}I brought a little peace offering.
+{74555}{74605}-Where are your wine glasses?|-No, no, no-
+{74608}{74677}That's the bedroom.|No glasses up there.
+{74680}{74728}Oh, well,|maybe I'll get a little tour later.
+{74731}{74784}- Don't miss the bathroom!|-I'm sorry?
+{74787}{74836}I have to go to the bathroom later.|Later.
+{74839}{74904}Um, glasses are in the kitchen.
+{74907}{74956}Why don't I go get them,|and you just...
+{74959}{75009}kind of make yourself at home.
+{75012}{75070}Okay.
+{75122}{75192}-Fantastic apartment, Tim.|-Thank you very much.
+{75195}{75247}-Ah, yeah, there we go.
+{75250}{75336}Oh! What a slob!
+{75492}{75556}Cut it out!
+{75559}{75653}-Hey!|-Yes, let's fall in love
+{75656}{75705}-Ooh!|-Why shouldn't we
+{75708}{75787}-Fall in love|-Mmm, that's the spot.
+{75790}{75856}Let's take a chance
+{75859}{75955}-Ooh, yeah. Mmm.|-Why be afraid of it, ba-ba-doo-day
+{75958}{76013}-Let's close our eyes
+{76016}{76085}And make our own paradise
+{76088}{76209}-Little we know|-Oh, oh, no, harder, like before.
+{76212}{76285}-Ahhh.|-Oh, baby
+{76288}{76352}-Where's the wine?|-Uh, uh-
+{76355}{76445}Why shouldn't|we fall in love
+{76448}{76509}-I'll get it.|-Now is the time for it|While we are young
+{76512}{76575}Let's fall in love
+{76578}{76625}You know, I asked Daddy|about giving you another chance.
+{76628}{76680}Oh, oh, good!
+{76750}{76841}-Here we go.|-Oh, lovely. Thanks.
+{76907}{76976}Hmm. You know, I thought|that crash of yours...
+{76979}{77032}might make a kind of|cute little story.
+{77035}{77108}-Oh, really? Good. That's-|-Mm-hmm.
+{77111}{77159}Ow, ow, ow, ow.
+{77162}{77224}Cut it out!
+{77227}{77280}-What was that?|-Uh, I didn't hear anything.
+{77283}{77364}Tim, get rid of-
+{77367}{77421}Are you all right?
+{77424}{77508}Yes, I just-|I really have to go to the bathroom.
+{77511}{77620}-Well, hurry back.
+{77623}{77697}-Why shouldn't we fall in love|-Be a minute.
+{77700}{77764}-Now's the time while we're young
+{77767}{77855}Tim!|Get me outta here!
+{77858}{77923}Stop making all that noise!
+{77926}{77996}Tell her to stop punching me!|Besides, what are you doing...
+{77999}{78047}letting that female|in your apartment?
+{78050}{78125}I've been waiting a long time|to get Brace Channing into my apartment.
+{78128}{78196}But you like Lizzie! I could tell|through your saliva exchange.
+{78199}{78264}-Excuse me?|-Look, Tim, the other night,
+{78267}{78315}when you were unconscious,|Lizzie came here.
+{78318}{78380}-And you what, you kissed her?|-Yes- No, no-
+{78383}{78435}Well, you did.
+{78438}{78485}I did a molecular|identiclone of your body.
+{78488}{78548}-What? You what?|-You'd never understand.
+{78551}{78597}You people think E-mail is amazing.
+{78600}{78664}The point is, while I was you,
+{78667}{78736}I tapped into your subconscious,|and trust me, you like Lizzie.
+{78739}{78804}That's why I thought it was okay|for you to kiss her.
+{78807}{78861}I-I-I didn't kiss her, you did!
+{79040}{79117}Bingo!
+{79120}{79243}Tim? I let myself|in the back door.
+{79246}{79312}Hello?
+{79315}{79416}-Oh, isn't this nice?|-Lizzie, is that you?
+{79419}{79505}Oh, you look, um, nice.
+{79508}{79564}He's in the bathroom,
+{79567}{79624}and he's all yours.
+{79627}{79679}I got what I came for.
+{79780}{79856}-Oh, this is great.|-Tim!
+{79859}{79935}-We don't have a lot of time here!|-I'm confused, all right?
+{79938}{80004}-Everything was going along fine|until you came along.|-Don't kid yourself.
+{80007}{80076}Even a substandard species|such as yours has feelings.
+{80079}{80176}Just slow down for one millisecond|and look into your heart.
+{80179}{80236}Whose face do you see?
+{80403}{80469}Look, Brace, I think-|Lizzie!
+{80499}{80572}Whoa!|Lizzie, no, wait, wait-
+{80575}{80651}-No, please!|-This better be good.
+{80656}{80695}Oh, it is. It is.
+{80698}{80765}Uh, remember that guy|I was with at the pier yesterday?
+{80768}{80842}-Your Uncle Martin.|-He's not my uncle.
+{80845}{80893}He's a Martian!
+{80896}{80939}-Yeah.
+{80942}{81029}-You are such a jerk!|-No, no, no. He's a Martian!
+{81032}{81105}It's the truth. In fact,|he's the one who kissed you, not me.
+{81108}{81150}-Really?|-Yeah.
+{81153}{81211}His head's in my sink right now.
+{81214}{81282}-Get some sleep. You look awful.
+{81285}{81361}-Lizzie-|-And if there was anything kinky|on that videotape,
+{81364}{81446}you better get Brace to give it back.
+{81549}{81645}Fine!|Since when did I become a mechanic?
+{81648}{81733}-Do I look like overalls?
+{81814}{81862}Uncle Martin!
+{81865}{81931}- Okay. Don't cut the red one.
+{81934}{81995}-Or was it the blue one? -Ooh!
+{81998}{82071}I can't see a thing down here!
+{82074}{82122}Oh, thanks.
+{82197}{82250}-Ow! Geez, that hurt!
+{82253}{82303}-No!
+{82306}{82366}Lady, please!|Put a sock in it! Quiet!
+{82369}{82415}The baby's sleeping!
+{82418}{82474}Martin, I told you.|We gotta get to the...
+{82477}{82525}TV station before Brace does.
+{82528}{82581}- Open the bag!|-Okay, okay.
+{82584}{82638}- I can't breathe!|-I'm sorry.
+{82641}{82707}-Where is that confounded Zoot?|-Zoot? Uh-
+{82710}{82798}Zoot! Zoot! I think he's|in the middle of a spin cycle.
+{82801}{82891}Leave him! Quick, Tim!|Get my arm out of the other bag!
+{82894}{82954}-All right. Okay, okay, okay.|-Okay.
+{82957}{83038}-Okay.|-Yes! Excellent! Toward the ship!
+{83041}{83085}-Huh? What?|-Higher! Higher! Okay, here!
+{83088}{83155}Here we go! Yes!
+{83158}{83219}- Easy. Oh, no!
+{83222}{83309}-Oh, no! Don't send me|to the shrink!
+{83312}{83354}-Ohh!
+{83357}{83425}-What was that?|-Uh-oh.
+{83476}{83523}Sweetie-pie,
+{83526}{83574}this is the most amazing footage|I've ever seen.
+{83577}{83633}Felix!|O'Hara's tapes are going on the 6:00.
+{83636}{83686}-Van Gundy, call the network.|-Yeah?
+{83689}{83754}Brace is going out live|with the story of the century!
+{83820}{83867}I'm feeling a little carsick!
+{83870}{83918}-Oh!|-Sorry.
+{83985}{84070}I can't take it any more.|I can't take it any more!
+{84073}{84169}-We're running out of time.|Try and pull yourself together.|-Why? We're all doomed anyway.
+{84172}{84255}Without my blasted electron accelerator,|the I.S.S. will blow!
+{84258}{84310}I feel like a hacksaw murderer.
+{84313}{84371}What the heck is|an electron accelerator anyway?
+{84374}{84446}It's a simple low-amperage power source|that activates the main thrusters.
+{84449}{84539}-Oh. Kind of like an alternator?|-What's an alternator?
+{84542}{84614}-It, uh, turns over the engine in a car.|- A car?
+{84617}{84679}That's it! That should work!|We're saved!
+{84682}{84730}-Not quite.|-Yes, we are.
+{84733}{84796}-Whoo-hoo! Ha, ha, ha.|-Listen, I've been-
+{84799}{84866}I've been videotaping you.|I've got everything. I got the ship.
+{84869}{84944}I got Zoot.|I even got you in your Martian form.
+{84947}{85011}I was putting together a story,|and I was gonna get it on the air,
+{85014}{85063}-but I couldn't do it.|-Why not?
+{85066}{85106}Because I like you, Martin.
+{85109}{85159}I like you. I-
+{85162}{85208}And I'm sorry.|I-I just- I'm sorry.
+{85211}{85292}I I- I apologize.|I shouldn't have lied to you.
+{85295}{85362}-You're a good human, Tim O'Hara.|-Oh, oh, yeah. I'm a terrific-
+{85365}{85414}Martin!|You're back!
+{85417}{85468}And I like you too.
+{85471}{85534}-Oh-ho!|-I've never had feelings before!
+{85537}{85582}-Oh.
+{85585}{85656}Now, let's go fix my ship.
+{85659}{85708}Yeah, okay- No!|No, we got a problem- the tapes.
+{85711}{85794}-Brace goes on with the|Martian story in five minutes.|-Oh, blotz.
+{85797}{85886}Yeah, and I got to get these tapes and|get to Brace before she gets on the air.
+{85889}{85950}But there's not enough time.|You can't be in two places at once.
+{85953}{86034}Yeah. Wait a minute!|Come on!
+{86037}{86095}Is there an alien amongst us?
+{86098}{86190}Is there an alien amongst us?
+{86193}{86250}-Is there an alien among-
+{86253}{86338}Billy, now what?
+{86341}{86404}I want to be Brace Channing.
+{86407}{86464}Yeah, well, get in line.|I'm sorry.
+{86467}{86503}I really don't have time|to do any auto-
+{86545}{86620}-Quaint, aren't they?
+{86623}{86686}These days, most of our young|are born cable-ready.
+{86689}{86734}You're the-
+{86737}{86812}Daddy!
+{86849}{86894}Heads up. Four minutes to air.
+{86897}{86974}First positions, everyone.
+{86977}{87068}Tim! What are you doing here?|You look, uh, tired.
+{87071}{87146}Oh, yeah. I was up all night with Brace|working on the alien story.
+{87149}{87231}I made a couple of mistakes|in tape number two,|but that's the corrected version.
+{87234}{87346}Now if I could just get through this|without having to look in a mirror.
+{87349}{87432}-Hmm.|-Coming up on three minutes to air.
+{87710}{87759}Tim!
+{87762}{87838}-Martin, is that you?|-Does a wild bear blotz in the woods?
+{87841}{87932}Good, good. Okay. Just-|Just read the copy as written. Go.
+{87981}{88027}-Hi, Brace.
+{88030}{88102}-Congratulations, Brace.|-Yes, I'm Brace Channing.
+{88105}{88164}Let's hear it for Brace!
+{88253}{88346}-Dr Coleye, you're going|to become a very famous man.|-Thirty I.D. and open.
+{88349}{88398}- KGSC.|-Ready camera one live.
+{88401}{88451}-The news for southern California...
+{88454}{88568}with anchor Howard Greenly and|on special assignment, Brace Channing.
+{88571}{88628}-What the hell is she wearing?|-You know Brace.
+{88631}{88726}-Yeah. Must be trendy.|- Fifteen seconds, people.
+{88729}{88846}Sweetie-pie, get rid of the gum.
+{88849}{88924}-Billy!|-Come on, Brace!|-Leave the gum, Billy!
+{88927}{89010}-Get the gum, Billy!|- Brace, ten seconds.|-No.
+{89013}{89062}Ready?|Camera two live in five-
+{89065}{89102}-Give me the gum, Brace!|-No! No! No!
+{89105}{89158}-Four-|-No!|-Leave it! Leave it!
+{89161}{89222}-Three-|-Get the damn gum!
+{89225}{89303}-Are there aliens amongst us?
+{89306}{89363}This report is being broadcast live.
+{89366}{89430}-The gum is out.|-Oh, good. Thanks to you, Felix.
+{89433}{89524}And now, Howard Greenly...
+{89527}{89580}-And cue Howard.|-and Brace Channing!
+{89583}{89638}-Good evening. I'm Howard Greenly.
+{89641}{89703}-What's up with her?|-I don't know.
+{89706}{89832}...a story developing throughout the day|right here in southern California.
+{89835}{89946}Our own Brace Channing has been|following the events as they take place.
+{89949}{90004}-Brace?
+{90007}{90064}-What is she doing?|-Howard-
+{90067}{90115}-Camera two go.|-No!
+{90118}{90180}Brace?
+{90183}{90234}-Brace!|-Just read the copy!
+{90237}{90306}Just get the nurplex.
+{90309}{90363}What's going on here?
+{90366}{90414}Is there an alien amongst us?
+{90417}{90486}-Oh. It's all right.|-According to Dr Elliot Coleye,
+{90489}{90570}chief biologist and head researcher|for the SETI group,
+{90573}{90628}the answer is-
+{90631}{90696}-Yes.
+{90699}{90782}-She's an alien!|-She's not an alien. She's my daughter!
+{90785}{90840}What you're|about to see is that evidence...
+{90843}{90906}of the actual footage of the alien.
+{90909}{90970}But I warn you-|it's appearance is unlike...
+{90973}{91034}anything you are|likely to have seen before.
+{91037}{91112}She's going under the table.|She's going under the table!
+{91115}{91182}-And go.
+{91185}{91262}-Feelin' hot, hot, hot|-What the hell is this?
+{91265}{91346}-Somebody mislabelled the tapes!|-Come on. Got it!
+{91349}{91407}-I don't know. Let's go back live.|-Tim!
+{91410}{91466}What is O'Hara doing with my daughter?
+{91469}{91536}-I-I-I don't know. I-|-Get me out of here!
+{91599}{91666}-Get me the network!
+{91669}{91726}-You're a dead man, O'Hara!|-Come on!
+{91729}{91814}I think that went pretty well,|don't you?
+{91817}{91879}- All right. Calm down.
+{91882}{91940}Search everywhere!
+{91943}{92015}Boy, her head was dark and empty.
+{92018}{92075}-There they are! There they are!
+{92078}{92128}Wait!
+{92177}{92246}I think Miss Channing might have been|contaminated by the alien.
+{92249}{92319}-Hmm?|-I'm just going to give her|a quick examination.
+{92322}{92374}No!
+{92377}{92427}I'll just be a moment.
+{92431}{92478}Ah.|There we go.
+{92481}{92530}Let's see.|Am I forgetting something?
+{92533}{92602}Oh.
+{92605}{92670}There it is.
+{92723}{92770}-Mrs. Brown! Down here!|- Lady, please.
+{92773}{92855}-Oh, this is darling.
+{92858}{92914}-I'm gonna hurl!
+{92917}{92999}This will make some child very happy...|if he's got a buck or two.
+{93142}{93216}-Hey, Mrs. B. How are you?|-Hello, fellows.
+{93261}{93340}Zoot!|Blotz!
+{93343}{93394}My ship! Where's my ship?
+{93397}{93458}-We only have two hours|before it explodes!|-I'll check upstairs.
+{93461}{93508}Hurry!|Zoot!
+{93537}{93586}Zoot?|Where are you?
+{93589}{93664}Blotz! You're not Zoot.|Where could he be?
+{93667}{93734}I'm not leaving this planet|without Zoot. Tim!
+{93737}{93798}Not upstairs.
+{93801}{93866}-What's a "rummaggie" sale?|-"Rummaggie" sale?
+{93869}{93948}R- Rummaggie-|Rummage. Mrs. Brown.
+{94125}{94178}-Looks like we got company.|-Blotz!
+{94181}{94262}It's them!|After them!
+{94265}{94398}-Hang on.
+{94401}{94452}-Ooh.|-I repeat, Gilford and Third.
+{94455}{94554}Give me that thing.|I want a roadblock!
+{94557}{94658}-We're never gonna lose 'em!|-Can't you drive any faster,|you pinhead?
+{94766}{94816}-Uh-oh, we're in trouble.|- Maximum thrust!
+{94819}{94875}-What?|-Stand on it, Stan!
+{94911}{94966}-We're gonna crash!
+{94969}{95026}-I think not!
+{95122}{95171}-Aah!
+{95201}{95259}-Oh!|-Shoot it! Come on!
+{95313}{95367}-They're shooting at us!|-Duck in that garage.
+{95370}{95428}-What garage?|-There!|-Hang on!
+{95522}{95596}Oh. Tim, why are we stopping?
+{95641}{95714}-They're right there.
+{95717}{95804}God!
+{95807}{95886}-Get me that thing over there!|We're gonna flush 'em out!|-Yes, sir.
+{95889}{95946}-I dropped it!|-What? Dropped what?
+{95949}{96012}-My molecular compressor!|-Here.
+{96015}{96066}Use this.
+{96069}{96162}-This won't work!|-No, use it to find it.
+{96202}{96278}That'll do very nicely.|Now, get it in there!
+{96281}{96328}Uh! Uh!|Nuts!
+{96331}{96378}Ahh! I found it!
+{96381}{96432}We've got you now!
+{96462}{96512}-Tim!|-I see it!
+{96577}{96639}- Sorry.
+{96873}{96958}-Faster. Faster.|-It's getting closer!
+{96961}{97046}-I'm going as fast as I can!|-That's not fast enough!
+{97279}{97368}Martin! Martin, up ahead!|We're trapped! Quick, make us smaller.
+{97475}{97544}We're not gonna make it!
+{97547}{97612}Hang on!
+{97691}{97794}-Are we clear?|- Whoa-ho, I think we did it!
+{97797}{97862}-I see light ahead!|-Oh. Whoa, whoa-ooh!
+{98185}{98286}-Where the heck are we?|- Hey, Elma,|where's my new Field and Stream?
+{98289}{98362}It's in the bathroom,|right where you left it.
+{98365}{98423}Oh, yeah.|I see it now.
+{98426}{98494}By the way,|where's my tuna sandwich?
+{98497}{98574}-You want it in there?|-Ha-ha. Ohh!
+{98577}{98656}Why'd I eat that fourth burrito?
+{98659}{98731}-Uh-oh.
+{98918}{99008}-Do it. Do it now.
+{99011}{99071}Uh! Uh, uh, uh-
+{99307}{99362}-Sorry, buddy.|-I'll get you, you son of a b-
+{99365}{99455}-No!|-Sir, the police just had a crank call.
+{99458}{99528}-A '62 Plymouth just came out|of a toilet on Woodlawn.|-Aah!
+{99618}{99666}Stop! Pull over! Pull over!
+{99669}{99716}We need to talk!|Pull over!
+{99773}{99819}-Pull over there.|-Where? Oh.
+{99822}{99887}-Get the alternator. I'll get the ship!|-Okay.
+{99890}{99992}Oh, my goodness! Martin!|What's wrong?
+{99995}{100042}Forgive me, Lorelei,|but this is urgent.
+{100045}{100102}-You have something I need desperately.|-Oh, wow.
+{100105}{100186}-Martin, don't say that|unless you mean it.|-You don't know the half of it.
+{100189}{100310}-I'm from another world.|-Oh, well, I could have told you that.
+{100458}{100531}-Oh! Mmm!
+{100534}{100600}Mar- Martin?
+{100603}{100658}Martin, come on!
+{100710}{100771}When you look at the stars,|think of me.
+{100774}{100838}-Oh. -
+{100841}{100943}Oh! Whew!
+{100946}{101006}Feelings for an Earth woman-|I've gotta get off this planet.
+{101009}{101056}I've got it!
+{101059}{101116}I don't have the right tools,|so I'm having trouble getting-
+{101119}{101206}Oh!|Or we could do it your way.
+{101209}{101290}But wait! This means your vehicle|will cease to function.
+{101293}{101355}I know how much it means to you.
+{101358}{101438}Well, that's too bad.|Just had the darn thing washed too.
+{101609}{101663}That's good!|That's-
+{101666}{101714}Martin? Martin?
+{101774}{101840}- Direct hit!|-Uncle Martin?
+{102134}{102210}Hey! Hey, what-
+{102213}{102298}Hey, you don't know what you're doing!|Hey, hey!
+{102301}{102412}Don't mess with that spaceship!|It's gonna explode!
+{102415}{102464}-Narrow the beam.|-Intensify.
+{102537}{102598}I'm not flame-retardant!
+{102601}{102674}We're in here!|Stop it!
+{102677}{102723}-We're gonna die.
+{102726}{102822}-Die? And I'm still virgin wool!|-It's okay.
+{102825}{102886}I'm scared! Hold me!
+{102889}{102935}Oh, this is nice.
+{103058}{103166}Easy does it.
+{103169}{103238}Great.
+{103241}{103342}-Wow. Fascinating.|- Doctor.
+{103345}{103402}It appears to be some sort of...
+{103405}{103466}biomechanical transmitting device.
+{103469}{103523}Doctor, there's some chewing gum|wedged back in his molar.
+{103526}{103590}Leave it!|Pestering me with Juicy Fruit!
+{103593}{103678}This guy's got a radio station|inside of his skull! Here.
+{103681}{103766}We'll put this under the electron|microscope later. Whoa-ho!
+{103769}{103855}Excellent.|Armitan's gonna be eating his words!
+{103858}{103942}Perfect ending|to an already perfect day.
+{103945}{104038}-He's a little pale.|-I think he's having a negative|reaction to the tranquilizers.
+{104041}{104095}Well, two CCs of adrenaline, stat!
+{104098}{104167}-Doctor, I think we're losing him.
+{104170}{104231}-Nothing.|- Shut it down.
+{104234}{104323}-Get ready to try it again.|This time, full power.|-He's pointing to something.
+{104366}{104422}-He's pointing to the thing.|-Pick it up. Pick-
+{104425}{104475}Pick it- Yeah.|No. No, no, no.
+{104478}{104534}No, that one. That one.
+{104537}{104607}Yeah, yeah. Yeah.
+{104610}{104680}This. Do this.
+{104683}{104787}-Yes!
+{104989}{105047}Whoa-oh-oh!
+{105125}{105179}No. No, no. Oh.
+{105182}{105234}-Tim!|-Oh!
+{105237}{105294}All right, back off, Gomer.|Hey.
+{105297}{105342}Give me that, dipstick!
+{105345}{105392}You get Tim.|I'll scare the locals.
+{105449}{105492}-Let's get out of here!|-Call security!
+{105495}{105552}-Nobody will take on the suit!
+{105555}{105614}My zipper is stuck,|and I'm mad as hell!
+{105617}{105682}-Lizzie, what-|-Tim! Oh, are you okay?
+{105685}{105740}-Fine, fine. Are you okay?|-Oh, you wouldn't believe-
+{105743}{105838}-Yeah.
+{105841}{105916}-We got to find Martin.|-Yeah.
+{105920}{105988}Back off!|You heard me.
+{105991}{106050}You don't understand. That spaceship's|gonna explode in 20 minutes.
+{106053}{106116}-It is?|-On the floor. Now.
+{106153}{106206}Excuse me.|Arnold, Jean-Claude?
+{106209}{106292}Not working. Oh.
+{106295}{106358}-It's an empty suit.|-Empty suit?
+{106361}{106435}Now you've done it, Grasshopper.|Whoo-aah!
+{106505}{106570}Boxing?
+{106573}{106622}-You should be boxing groceries.
+{106625}{106683}That tickles, ya big ox!
+{106686}{106758}Say, aren't you|one of the Spice Girls?
+{106761}{106824}-Alley-oop!
+{106870}{106918}Beavis down, Butt-head to go.
+{106921}{107002}So, is it true you peed your bunk|in summer camp? Ouch!
+{107067}{107159}Oh, Gee- Tim! Lizzie!
+{107385}{107443}-Ooh!
+{107801}{107858}-Uh-oh.
+{107861}{107911}-This is gonna hurt.|-Ooh!
+{107914}{107980}-Ow!
+{107983}{108055}-Lizzie!
+{108058}{108102}The ship's going to explode!
+{108105}{108166}Veenox Seven.|Chew this.
+{108169}{108242}- You gotta believe it!
+{108493}{108558}Whoa-oh-oh-oh!
+{109341}{109398}Uh-oh.
+{109401}{109463}Did you do something with your hair?
+{109466}{109558}Glad you noticed.
+{109733}{109792}Whoop!
+{109921}{109994}-I think I liked you|better the other way.|-Oh, really?
+{109997}{110075}-Well, that can be arranged.|-No, no. We gotta find Martin.
+{110078}{110174}-Where's Zoot?
+{110177}{110240}Oh, no.
+{110273}{110332}Come on!|Come on!
+{110335}{110399}Doctor, he's gone.
+{110402}{110478}He's not gone till I say he's gone,|so back off!
+{110481}{110543}-Back off! Now!|- Charge the paddle.
+{110546}{110620}- All right, we're charged.|- Clear! Clear!
+{110623}{110698}All right. Clear!
+{110701}{110779}-Come on, Martin.
+{110782}{110832}-Oh, damn!|-There's no pulse, Doctor.
+{110835}{110935}All right, all right.|I'm calling it. 8:15.
+{110938}{111038}-We're too late.|- No, hurry!
+{111041}{111122}- Would you like me|to do the autopsy, Doctor?|-Are you insane?
+{111125}{111183}-You get out of here! Get out!|-All right. All right.
+{111186}{111246}All of you idiots, you get out.|You get out.
+{111249}{111312}-I'm goin'!|-You get right out. Clowns!
+{111316}{111363}Come on.
+{111366}{111486}Okay, my sorry little Martian.
+{111489}{111562}Have it your way.
+{111565}{111630}Let's open you up.
+{111633}{111736}- Assistance, Doctor?|-What? No! You-
+{111739}{111798}Hey, wait a minute.|You're not-
+{111801}{111862}-She came with me.|-Oh.|-Clear.
+{112106}{112176}Must... be together.
+{112655}{112696}Zoot!
+{112994}{113052}-Martin?
+{113121}{113208}-Martin!|- Tim! Lizzie!
+{113211}{113278}-You're- You're-|- Breathin', baby!|I still got the touch.
+{113281}{113346}Oh, you beauteous bathrobe!
+{113349}{113398}-Martin-|-Let's see cotton do that, huh? Easy.
+{113401}{113470}-I got an image!|- Okay, okay.
+{113473}{113520}Martin! Martin!
+{113523}{113595}-We don't have much time.|-Blotz!
+{113598}{113662}-Shut down and monitor all exits.
+{113721}{113788}All units stand by for total lockup.
+{113833}{113884}-Martin, can you get the lock?|-I think so.
+{113921}{113976}-Come on!
+{114025}{114094}-Biotech units on alert.
+{114097}{114166}All non-security personnel...
+{114169}{114239}-are to report to their holding areas.|-Come on. Stay down!
+{114242}{114330}-Stay down.|-Here's a place!
+{114333}{114384}All right.|Stand back, you two.
+{114621}{114690}-What's going on? Where's the alien?
+{114693}{114766}-There's been a slight problem.|-Open that gate. Let's find Dr Coleye.
+{114769}{114812}-Yes, sir, yes, sir. Right away.|-Come on!
+{114815}{114859}Let 'em through!
+{114891}{114940}Here.
+{115005}{115072}There. Contact.
+{115075}{115140}There.|I think that's going to work.
+{115182}{115230}I'm gonna miss you, Martin.
+{115233}{115330}-You too, Zoot.|-You're so full of starch!
+{115333}{115395}Hey, let 'em know how you feel!
+{115398}{115446}You're the best pet I ever had!
+{115449}{115502}Stop being such a baby blanket!
+{115575}{115635}Lizzie, my dear friend.
+{115662}{115735}Take care, Uncle Martin.
+{115793}{115899}I've done that before. It's very nice.|I highly recommend it.
+{115961}{116039}Good luck, you two.
+{116145}{116218}Something tells me|you're gonna miss your flight!
+{116221}{116295}-Then in two minutes, we all die.|-You're lying.
+{116298}{116387}Are you certain about that, Coleye?
+{116390}{116460}-Because I'm not.|-What are you saying?
+{116463}{116539}-Release him.|-Release him?
+{116542}{116628}I have spent an entire career|trying to prove that aliens exist.
+{116631}{116676}Now he's my proof!
+{116679}{116762}Dead or alive,|he's staying with me!
+{116765}{116806}Oh. Ohh! Ohh!
+{116809}{116866}Whoa! Aah!
+{116869}{116950}-Martin?|-I don't understand! I- I-
+{116953}{117039}Coleye, you always were a little blotz.
+{117042}{117123}- What?|-Neenurt!
+{117126}{117214}Ha ha ha! I haven't heard that name|in a long time.
+{117217}{117320}-Pronounced properly, anyway.|-You mean it was you all along?
+{117323}{117447}I can't believe this!|I should have known! You're a Martian?
+{117450}{117498}I was-|Uhh! Aah!
+{117734}{117819}Waaah!
+{117822}{117912}-Wait. You're the one I saw at the pier.
+{117915}{117954}I was trying to get to you|before they did.
+{117957}{118026}I've been trying|to hitch a ride home for 30 years!
+{118029}{118110}What a beauty!|Oh, by the way,
+{118113}{118168}I believe these belong to you.
+{118171}{118238}My antennae.
+{118241}{118322}I can't go home without these. I have a|hard enough time getting dates as it is.
+{118325}{118419}Mine's always giving me trouble too.|And everything's in black and white.
+{118422}{118502}-And those commercials-|"Plop, plop, fizz, fizz"-
+{118505}{118588}That gum lost its flavour in '66.
+{118591}{118659}All right. Let's go.|Let's go. Come on.
+{118662}{118736}-Got to go. Farewell.|-Come back for a visit sometime.
+{118739}{118802}Maybe.
+{118805}{118875}I'm beginning to see a glimmer|of potential among you Earthlings.
+{118878}{118970}One word of advice: You'll never|completely advance as a culture...
+{118973}{119062}until you take care of your oceans|and do away with daytime talk shows.
+{119121}{119174}Goodbye, you crazy lovebirds!
+{119177}{119243}Ah, stop being such|a hysterical housecoat.
+{119246}{119374}-See ya, Zoot.|-Rollin', rollin', rollin'|Keep them doggies rollin'
+{119413}{119495}Aliens!
+{119578}{119656}Wait! No!
+{119659}{119710}Please! No! You can't!
+{119713}{119780}Don't go! Come back!
+{119783}{119870}No-o-o!
+{119937}{119967}Aah!
+{119970}{120024}What the-|Eeew!
+{120027}{120110}Gum. Gum!
+{120113}{120190}Wait, this is the alien gum!|Yes!
+{120193}{120246}Wait, wait.|I wouldn't do that if I were you.
+{120249}{120324}Well, you're not me, are ya?
+{120369}{120416}I can learn more about them...
+{120419}{120471}from their leftover-
+{120474}{120524}Wha-|That's brilliant!
+{120527}{120587}I can feel every molecule of my body...
+{120590}{120639}starting to change!
+{120753}{120800}Aah!
+{120827}{120883}Oh, no.
+{120981}{121040}Hold it! Don't move!
+{121043}{121122}-No!|-Stop! Don't shoot!|Get the tranquillizer gun.
+{121125}{121183}No, not that, you idiots!
+{121186}{121267}-I'm not a Martian.|-We got him, boys.|Get the tranquillizer gun.
+{121270}{121322}We've got one-|a real live Martian!
+{121325}{121423}It's me. Coleye. No! No!
+{121426}{121480}Aah!
+{121483}{121548}The truth is out there!
+{121551}{121635}We are not leaving until they|listen to us! We've got proof!
+{121638}{121714}I saw one!|He cloned my body!
+{121717}{121762}He could be anywhere by now!
+{121765}{121822}The truth is out there!
+{121825}{121871}The truth is out there!
+{121874}{121954}So that's the story here|from Santa Barbara City Hall.
+{121957}{122030}-I'm Bill Randall, KGSC.|-The truth, the truth,
+{122033}{122096}the truth, the truth, the truth!
+{122099}{122148}It's all I-
+{122241}{122351}-Hey, sleepy. Brought you some tea.
+{122427}{122534}Listen, I've been thinking. Now that|I really know what happened between us,
+{122537}{122614}I think maybe we should just go back|to the way things used to be.
+{122617}{122650}Mmm.
+{122653}{122702}Our friendship really does|mean a lot to me.
+{122705}{122788}Yeah, well, I've been thinking too,|and, uh,
+{122791}{122844}I think I've got enough friends.
+{123482}{123596}-One giant leap for man,|one step backward for Martians.
+{123599}{123678}-Zoot?|-Hey, Tim, Lizzie! We're back!
+{123681}{123770}-Zoot- 
+{123773}{123848}Oh! Geez!|Call a skycap, for cryin' out loud.
+{123851}{123902}-What's wrong?|-Nothing.
+{123905}{123982}We've decided to stay here with you.
+{123985}{124076}-Y-You what?|-I kept thinking how lonely|I was gonna be without you.
+{124079}{124130}And since you said|you were gonna miss me,
+{124133}{124215}I thought I'd save us both|the heartache of separation.
+{124218}{124267}Ya-hah! Whoo-hoo-hoo!
+{124270}{124384}B-B-B-But, Martin, I can't miss you|if you don't go!
+{124387}{124470}Exactly!|Isn't it wonderful?
+{124473}{124554}Farewell, Neenurt!
+{124557}{124615}Wait a minute, wait a minute.|Where's he going?
+{124618}{124682}To Mars, of course!
+{124799}{124867}-Whoo! -Wh-
+{124870}{124932}Martin. Martin.|What are you doing?
+{124935}{125019}Tim, since we'll be living together,|let's do something about this furniture.
+{125022}{125084}-Living together? What do you mean-|-I say we get rid of this couch,
+{125087}{125170}and buy a hyperbolic resting chamber|like normal beings have.
+{125173}{125236}-No! No! You're not staying here.|-Hey, who wants ice cream?
+{125239}{125310}-Tonight I'm craving praline swirl.
+{125313}{125362}-Martin- You think this is funny?
+{125365}{125410}You haven't seen him eat ice cream.|It's not pretty!
+{125413}{125499}Rocky road! Rocky road! Rocky road!
+{125502}{125552}-Martin, you can't- He doesn't sleep.
+{125555}{125602}He doesn't let me sleep.|This can't happen.
+{125605}{125658}I can't have a Martian for a roommate.
+{125661}{125718}I can't. I just-
+{125721}{125771}-Oh, maybe I can.
+{125774}{125887}Zoot! We've got cookie dough.|Want some?
+{125890}{125944}Zoot.|Zoot, where are you?
+{125947}{126046}Bartender, a Mai "Tide", please.
+{126049}{126123}Ah, Victoria's Secret.
+{126126}{126206}You people know how to live!
+{126209}{126268}Lycra.
+{128550}{128800}Translated and linkage: Jean-Luc Picard
+{128825}{128975}Please rate this subtitle at www.osdb.link/4r3an|Help other users to choose the best subtitles

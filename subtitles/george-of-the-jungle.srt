@@ -1,0 +1,529 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{765}{867}Deep in the heart of Africa|is a place no man has ever entered.
+{871}{965}A place that belongs to the lion,|the elephant and the ape.
+{969}{1029}A place known as the Bukuvu.
+{1033}{1123}Travellers flying overhead|can only glimpse at its many marvels:
+{1127}{1181}its sparkling rivers...
+{1185}{1284}its lush veldts,|its billowy cloud formations...
+{1288}{1382}and its hidden mountains.
+{1420}{1460}- Never fear, my friends.|- George!|- George!
+{1464}{1509}- All was not lost.|- George!
+{1513}{1611}Scraped and boo-booed,|they searched high and low...
+{1615}{1707}but they never recovered|their most precious cargo.
+{1871}{1922}George, George|George of the Jungle
+{1926}{1975}Strong as he can be
+{2031}{2083}Watch out for that tree
+{2087}{2135}George, George|George of the Jungle
+{2139}{2195}Lives a life that's free
+{2248}{2296}Watch out for that tree
+{2300}{2351}When he gets in a scrape|he makes his escape
+{2355}{2425}With help from his friend|an ape named Ape
+{2429}{2483}And his elephant Shep|can fetch a log
+{2487}{2555}He's man's best friend|He's George's dog
+{2559}{2623}He's George, George|George of the Jungle
+{2627}{2673}Strong as he can be
+{2733}{2781}Watch out for that tree
+{2785}{2830}Hear him holler|swing and sing
+{2834}{2891}All the animals come|to the jungle king
+{2895}{2938}George, George|George of the Jungle
+{2942}{2990}George, George|George of the Jungle
+{2994}{3048}So grab a vine|and swing in time
+{3052}{3116}If you smack a tree|just pay no mind
+{3120}{3185}Like George, George|George of the Jungle
+{3189}{3237}Strong as he can be
+{3295}{3342}Watch out for that tree
+{3346}{3452}Watch out for that--|Bang! Ooh! Tree
+{3544}{3592}George, George|George of the Jungle
+{3596}{3644}Watch out for that tree
+{3673}{3725}Twenty-five years later,|the bouncing baby boy...
+{3729}{3819}has grown into|a swinging jungle king.
+{3823}{3871}He is swift. He is strong.
+{3875}{3929}He is sure. He is smart.
+{3977}{4025}He is unconscious.
+{4029}{4082}Meanwhile, 43 vines away...
+{4086}{4168}George's kingdom was being threatened|by a terrifying intruder.
+{4172}{4216}Hi, everybody. Me again.
+{4220}{4298}Third day in Mbwebwe.|Look at this incredible--
+{4302}{4398}- Banyan tree.|- Banyan tree. And look what's in it.
+{4524}{4588}Could you die?
+{4592}{4640}And over here...
+{4644}{4721}is the outhouse, which you|don't want to see, believe me.
+{4725}{4793}By the way, Betsy, thank you so|much for those moist towelettes.
+{4797}{4851}They've been a lifesaver.
+{4855}{4940}And these are the wonderful porters.|Wave, guys.
+{4944}{4999}And this is our guide, Mr Kwame.
+{5003}{5078}Without him, we would be lost.|Hi.
+{5130}{5194}This is great.
+{5198}{5296}- And this is Lyle.|- Hello, Bujumburans.
+{5300}{5395}- What are you doing here?|- What kind of greeting is that|to give your fiance?
+{5399}{5476}- Aren't you happy to see me?|- Yeah, of course I am.
+{5535}{5585}The jungle loves you.|You're beautiful.
+{5589}{5675}- How did you find me?|- Well, I just hired the two|best trackers in the business.
+{5719}{5812}Ah, I'm chafing, Max.|Ah, yeah, I'm chafing big time.
+{5816}{5908}Didn't I tell you not to wear 20 pounds|of black leather in the jungle?
+{5912}{5960}- Didn't I tell ya?|- Ah.
+{5964}{6029}Cotton, I said. Cotton breathes.
+{6033}{6098}Take my things to the lady's tent|and shake a leg.
+{6187}{6277}Later that night, Lyle Van de Groot|lost no time in making arrangements...
+{6281}{6366}-to whisk his wayward fiancee back home.|-All right, I'll take it, I'll take it.
+{6370}{6452}Nairobi Hilton.|They can airlift us there in two hours.
+{6456}{6501}Pillows, okay?
+{6505}{6579}Wait a second. I'm losing you.|Bad reception here.
+{6583}{6642}Okay, I've got you back.|No, wait! I'm losing you!
+{6646}{6710}My batteries are dead!|No! Doody!
+{6713}{6759}I don't want to go anyway, Lyle.|Tomorrow we're gonna....
+{6763}{6861}climb the mountain where the big apes|are. Don't you wanna see them?
+{6865}{6999}Only if they can shake a good gin|martini without bruising it. Hiyo!
+{7003}{7098}Me and Thor here would be happy|to help you and the lady up|the mountain, Mr Van de Groot.
+{7102}{7181}- Yeah.|- With Mr Kwame leading the way,|of course.
+{7187}{7243}If you don't mind me saying so,|the apes...
+{7247}{7357}are supposed to be a fascinating sight,|especially that white ape.
+{7361}{7425}White ape? What's that?
+{7428}{7527}Ask Mr Kwame.|I bet he can tell you.
+{7531}{7649}- It is only a native legend.|- Could you please tell us?
+{7686}{7746}The people say he is|over seven feet tall...
+{7750}{7805}with the strength of a lion.
+{7809}{7868}When the moon is full|and the air is sweet...
+{7872}{7923}he wanders alone|through the jungle...
+{7927}{8037}piercing the silence of the valley|with his mournful call.
+{8041}{8111}Now, some say he is|thirsty for blood.
+{8115}{8234}Others say he is calling|for the mate that he longs for...
+{8238}{8294}but will never find.
+{8298}{8405}By day, he rules the entire Bukuvu|from the top of the mountain.
+{8409}{8457}But by night--
+{8461}{8541}He and Bigfoot run the candy counter|at the Bukuvu Cineplex.
+{8545}{8585}Now playing on all 14 screens:
+{8589}{8640}Planet of the Apes.
+{8729}{8840}Bigfoot? Max, that'd be worth|a lot more than any white--
+{8844}{8929}- Ursula, what are we doing here?|- Lyle, I came all this way--
+{8933}{9008}Okay, okay.|The things I do for you.
+{9012}{9083}Looks like we're on, fellows.
+{9087}{9142}As the sun rose|over Ape Mountain...
+{9146}{9245}its agitated inhabitants sent an urgent|message to George by bongo-gram...
+{9249}{9324}warning the jungle king that|intruders were close afoot.
+{9328}{9376}Ooh. Lyle, listen.|What was that?
+{9380}{9449}Could be the mating call|of the white ape.
+{9453}{9508}Huh. White ape.|Sounds like a drink.
+{9512}{9586}Uh, yes, bartender. I'll have|two Black Russians and a white ape.
+{9590}{9665}A drink the venal Van de Groot|would be begging to imbibe...
+{9669}{9761}if he only knew how near the white ape|was at that very moment...
+{9765}{9839}flying through the foliage,|surveying the scenery, cruising in...
+{9843}{9969}for a closer look and swinging on|through the trees with effortless ease.
+{9973}{9996}Ow!
+{10040}{10117}And so, onward and upward|the tired trekkers trudged...
+{10121}{10188}on feverish footsies|over perilous paths.
+{10192}{10292}When they finally beheld the mighty|Ape Mountain, they reacted with awe.
+{10296}{10427}- Aww.|- I said "awe." A-W-E.
+{10431}{10490}- Ooh!|- That's better.
+{10494}{10591}Single file on the bridge.|Step very cautiously.
+{10595}{10694}It is full of rotten planks.|One false move, you could fall over.
+{10698}{10790}Then you will have|a very long time to wave goodbye.
+{10794}{10858}Don't you worry, peanut.|I was on a bridge like this in Maui.
+{10862}{10912}It was steady as a rock.|See?
+{10916}{10975}Hey! S-Stop! Stop that!|Stop that! What th--
+{10979}{11013}Yee-haw!
+{11059}{11136}- I got you.|- No!
+{11229}{11287}Don't worry.|Nobody dies in this story.
+{11332}{11382}They just get|really big boo-boos.
+{11386}{11443}What did I tell you?
+{11447}{11526}You know, they shouldn't let|inexperienced guides|like that on these treks.
+{11704}{11772}Did you see the look|that guy just gave me?
+{11776}{11840}Probably saying I'm the biggest jerk|they've ever seen in their lives.
+{11843}{11899}Probably trying to think|of something evil to do to me.
+{12107}{12165}If they turn on us,|we're never gonna get home.
+{12169}{12274}It's up to me to make the peace.|I'm going in.
+{12278}{12344}Gentlemen. Cigar, cigarette?
+{12348}{12423}Okay, gifts from America.
+{12427}{12495}- Hey, hey.|- I give you a cigar,|you give me some of your lands.
+{12499}{12590}All right.|A first contact has been made.
+{12594}{12667}Ready, aim--
+{12736}{12810}There you go, my man. Huh?
+{12814}{12866}You like magic fire? Do ya?
+{12870}{12934}Well, get a load of this.
+{12990}{13061}There you go. Magic picture.
+{13065}{13120}Yet another gift from America.|Here you go.
+{13124}{13185}You're welcome.
+{13306}{13370}Thirty-five millimetre.
+{13595}{13629}Translation, please.
+{13633}{13682}He says that he likes|your magic pictures...
+{13686}{13774}but he prefers the resolution of|the Leica 35 millimetre transparencies.
+{13778}{13882}He also says your lens is dirty, but he|has the equipment to clean it for you.
+{13961}{14056}Well, tell him to clean this|while he's at it.
+{14060}{14103}- Come on, let's go.|- Where?
+{14107}{14177}Find you an ape, so we|can get the heck outta here.
+{14181}{14272}Lyle, we can't go into the jungle alone.|We could get lost out here.
+{14276}{14311}It's my job to get you|what you want.
+{14315}{14373}You want a double decaf|latte with mocha sprinkles...
+{14377}{14439}you will get a double decaf|latte with mocha sprinkles.
+{14443}{14520}You want a white ape,|I'll get you a white ape.
+{14524}{14583}Here, monkey, monkey, monkey.
+{14587}{14657}Here, gorilla, gorilla.|Come on.
+{14764}{14845}- Don't move.|- You mean I actually found one?|It worked?
+{15184}{15272}- God, that scared me.|- Scared me, too.
+{15431}{15499}I'm gonna go get help.|You wait here.
+{15917}{15972}Oh, no.
+{16941}{17021}Here, kitty, kitty,|kitty, kitty, kitty.
+{17460}{17512}When lion brush last?
+{17556}{17647}Don't tickle.|Don't ti-- No--
+{17959}{18047}Rubber tree always good for clothesline.|Upsy, kitty.
+{18320}{18384}George not even trying hard.
+{18523}{18636}Flying pile driver.|Havin' some fun now.
+{18640}{18702}Bad kitty!
+{19124}{19194}- That close one, huh?|- Watch out for that tree!
+{19219}{19249}Huh?
+{19363}{19420}Oops.
+{19515}{19570}Funny-looking fella.
+{19772}{19822}White ape.
+{19859}{19941}Y-- Y-- U-Ursula!|Ursu-- Wha--
+{20097}{20155}Ursula, I found your scrunchie.
+{20880}{20940}Go away!
+{20998}{21053}It was horrible.
+{21057}{21141}It was-- 400-pound|white ape man.
+{21145}{21256}The white ape|has my girlfriend.
+{21260}{21367}I held him off as long as I could.|Blood everywhere.
+{21371}{21436}The white ape-- my girlfriend.
+{21440}{21512}He-- He weighs 400 pounds.
+{21516}{21598}The white ape got my girlfriend!|The white ape got--
+{21602}{21674}Help! Help! Man needs help!
+{21999}{22059}After a night|of feverish fantasies...
+{22063}{22139}the perfectly permed heiress,|Ursula Stanhope...
+{22143}{22258}awoke to the melodious music of the|Bukuvu bird life, and found herself...
+{22262}{22345}venturing forth in search|of that defender of the innocent...
+{22349}{22435}protector of the weak,|and all-around good guy...
+{22439}{22491}George of the Jungle.
+{22553}{22629}But that's not|who she saw first.
+{22633}{22677}What!
+{22765}{22827}Get away! Get away!|Get away!
+{23125}{23228}- Hello. Oop!|- Oh, dear.
+{23312}{23380}Feeling better, fella?
+{23384}{23449}Okay. It's that dream, then.
+{23453}{23520}I'm still having that|psycho dream. Hello.
+{23549}{23634}- Oh. Oh.|- Oh, no, no! Don't worry! Ape friend.
+{23638}{23686}- Ape make your breakfast.|- What does it want?|What does it want?
+{23690}{23811}"It" wants its Physician's|Desk Reference, if you don't mind.
+{23815}{23887}Unless you'd rather die|of dengue fever, of course.
+{23891}{23966}That is very funny!
+{23970}{24045}I thought I heard|the monkey talk.
+{24049}{24123}But that is totally|understandable, right?
+{24127}{24189}I mean, why wouldn't|an ape read textbooks?
+{24193}{24252}And why wouldn't I find|myself in a tree house...
+{24256}{24384}with room service and a Tarzan wannabe,|wearing a, um, um--
+{24387}{24436}- What do you call that thing?|- Butt flap.
+{24440}{24496}Right.
+{24500}{24573}Ohh--
+{24637}{24671}Ooh!
+{24723}{24810}Bit of a shock, I suppose. Yes.
+{24814}{24853}Fever.
+{24857}{24985}Cold compress. Dab her lightly, George.|"Talking monkey."
+{25017}{25074}That's the ticket. Good.
+{25129}{25188}Huh? Somethin' funny|about this fella.
+{25192}{25310}She's not a "fella," George. She's|a woman, the female of your species.
+{25314}{25373}You mean Ape and George|not brothers?
+{25403}{25453}Well, in a sense,|we are related.
+{25457}{25516}After all, we're both members|of the primate family.
+{25520}{25565}Primate family. Brothers.
+{25569}{25645}I suppose one might claim|that there would--
+{25649}{25743}Mommy, make that monkey|stop talking.
+{25747}{25859}Perhaps I should refrain from speaking|around her, as it seems to upset her.
+{26285}{26381}- What your name?|- Ursula.
+{26385}{26458}Ursula Stanhope.
+{26462}{26523}- Who are you?|- George.
+{26527}{26588}George Primate.
+{26592}{26677}And that brother Ape.|Ape Primate.
+{26681}{26760}Ah! Oh, um--
+{26764}{26856}Okay, I'm gonna|pass out again now.
+{26860}{26909}Bye.
+{26992}{27069}It's a sissy white ape.|I would've choked the life out of him...
+{27073}{27147}except that he had two of his|lion buddies jump me from behind.
+{27151}{27215}So in this version,|there are two lions with the white ape?
+{27219}{27277}A minute ago,|there was only one.
+{27281}{27392}H-Hey, the important thing,|Kwame, is that I was outnumbered.
+{27455}{27503}Absolutely.
+{27769}{27810}Ursula!
+{28067}{28177}Hi. When I woke up this morning,|I remembered about that lion...
+{28181}{28263}and I know you|saved me yesterday.
+{28267}{28347}- And I just wanted to say thank you.|- Ah!
+{28351}{28404}Ooh!
+{28408}{28496}Now that I'm feeling better,|I realize the others must think|I'm cat food by now.
+{28500}{28587}And I don't want my fian--|this guy that I was with-- to worry.
+{28591}{28667}So, so I should probably go|and look for them...
+{28671}{28714}and I was wondering|if you could help me.
+{28718}{28790}Uh-- Ursula want to go already?
+{28886}{28928}Okay, George help.|Get trusty doggy.
+{28932}{28979}Oh, you have a dog.|That's great.
+{28983}{29038}Doggy will help find friends.|George call Shep.
+{29042}{29118}Shep! Here, boy!
+{29122}{29179}Come on! Here, boy.
+{29183}{29237}Shep!
+{29282}{29381}Here comes Shep.|Come on, Shep! Come on, boy!
+{29385}{29489}That a boy! Want to play?|Come on! Come on! Come on!
+{29532}{29583}Good boy.
+{29587}{29683}Come on, boy! Come on!|Good boy, Shep! Come on!
+{29687}{29746}Whoa, whoa, whoa! Stop, stop,|stop, stop, stop, stop, stop!
+{29750}{29800}Sit. Sit.
+{29804}{29900}Good boy!|Good obedience training.
+{29904}{29963}- George trained from pup.|- That's your dog?
+{29967}{30050}This Shep, George's big,|grey, peanut-lovin' poochie.
+{30054}{30127}Good boy, Shep! Good boy.
+{30131}{30191}Good boy, Shep. Good boy.
+{30195}{30317}- That's a good boy. Wanna shake?|- Huh?
+{30321}{30413}- Good doggy. Be nice.|- Shep.
+{30417}{30543}Shake? George. George.
+{30547}{30593}George!
+{30742}{30804}- See? Shep shake.|- Oh, George.
+{30808}{30880}He's a big poochie, all right.
+{30884}{30932}Does he fetch?
+{31031}{31084}Here, boy. Come on, boy.|Want a stick?
+{31088}{31168}Want a stick?|Where's the stick?
+{31207}{31247}Where's the stick, Shep?
+{31251}{31297}Here it is.|Here, boy. Fetch!
+{31346}{31410}Come on, boy!|Run, run! Run, boy!
+{31414}{31504}Atta boy! Good boy.|Go on, boy! Go get it!
+{31655}{31716}Where'd he go?
+{31795}{31854}- Wow!|- No, not in the roses!
+{31941}{31982}Ungawa, Shep!
+{31986}{32057}And so, with the help|of the jungle king's big, grey...
+{32061}{32133}peanut-loving poochie,|George and Ursula set out...
+{32137}{32229}on a desperate search to find|her fianc-- uh, that guy she was with--
+{32233}{32298}Lyle! Lyle!
+{32302}{32418}- Ursula! Ursula!|- while he desperately|searched for her.
+{32422}{32519}But by the end of the afternoon|her desperation had dimmed...
+{32523}{32573}That was fantastic!
+{32577}{32635}and she had given up|all hope of everything...
+{32639}{32751}except enjoying the jungle king's|company from her precarious perch|atop his faithful doggy.
+{32755}{32831}- So, where are we going now?|- To find Tookie-Tookie bird|for jungle news.
+{32835}{32909}Tookie-Tookie bird.|I love that.
+{32913}{33002}Later they rested,|while the tired tusker teethed on a--
+{33006}{33083}Wait a second.|The dog bone is too much. Lose it.
+{33087}{33135}That's better.
+{33191}{33270}Bongo-gram.|What could it mean?
+{33311}{33344}Tookie-Tookie!
+{33458}{33535}Tookie say|little monkey in trouble.
+{33539}{33585}George investigate.
+{33589}{33655}Tookie-Tookie!
+{33949}{34031}What happened?
+{34035}{34102}- Oh!|- Where other monkeys?
+{34106}{34156}Where? There?
+{34160}{34221}How many? That many?
+{34225}{34313}Lots of monkey.|Then what happened?
+{34362}{34408}Tell George more.
+{34412}{34461}No!
+{34490}{34566}Little monkey say other monkeys|call little monkey "runt."
+{34570}{34692}- Not let little monkey play games.|- Poor thing. Hi, monkey.
+{34776}{34826}H-Hi. You okay?
+{34830}{34875}No.
+{34924}{34991}Don't cry.
+{35037}{35082}Huh.
+{35086}{35162}Little monkey like Ursula.
+{35326}{35401}- What did you tell him?|- Just watch.
+{35849}{35909}Uh-oh!
+{36984}{37073}Meanwhile, back at a really|big footprint in the mud--
+{37143}{37204}Let me through.|What's happening?
+{37208}{37279}This footprint does not|belong to any of my men.
+{37283}{37370}See? There's your proof.|The white ape does exist.
+{37374}{37470}Now all we have to do is track down|the girl and the ape's in the bag.
+{37474}{37542}N-No, seriously. I don't know|if I want to do this again.
+{37546}{37630}Ursula need to relax when it come|to vine swinging, for George.
+{37689}{37757}Swing, swing, swing.|Come on.
+{37761}{37818}Want George of Jungle to tell you|special vine-swinging secret?
+{37822}{37895}Fine. Tell me all your secrets.
+{37899}{37986}George's secrets. Hm!|There's the shortest book ever written.
+{37990}{38105}- Oh.|- Wrap it around your sock for|special George of Jungle foot lock.
+{38136}{38191}- Now, ready to try again?|- No.
+{38537}{38660}- Like this, Ursula!|- He flies through the air|with the greatest of ease
+{38664}{38744}Our daring young man|on the flying trapeze
+{38748}{38853}- Look, no hands!|- His movements so graceful|All girls he could please
+{38857}{38963}And with love|he is swinging away
+{38967}{39056}- He flies through the air|with the greatest of ease|- That's pretty good.
+{39060}{39137}- George, watch out for that...|- Our daring young man on the--
+{39141}{39203}tree.
+{39515}{39583}Ladies and gentlemen,|I give you the king of the jungle.
+{39808}{39867}Where the devil is my egg timer?
+{39898}{39933}- Tookie-Tookie.|- Tookie!
+{39937}{40026}I'm fed up with this felonious fowl|stealing everything in the kitchen.
+{40059}{40127}- Miserable creature.|- Tookie-Tookie.
+{40131}{40205}George, what on earth|are you doing?
+{40209}{40287}George just feel like looking|a little special today, that all.
+{40333}{40399}Possibly there is a stirring|of special feelings within you?
+{40477}{40541}Uh-huh.
+{40735}{40810}George having stirring|of special feelings right now.
+{40814}{40880}I see.
+{40884}{40967}- Good thing she same species, huh?|- Yes.
+{40971}{41040}Ape?
+{41044}{41132}Tell George how to make|Ursula George's mate.
+{41136}{41213}Please? Brother?
+{41219}{41338}First, command her attention by bulging|out your cheeks and pursing your lips.
+{41342}{41434}- Show George.|- All right. Just like this. Watch.
+{41565}{41630}Even puffier.
+{41634}{41725}Next, display your interest|by drawing back your upper lip...
+{41729}{41804}jutting your jaw forward|and exposing your teeth.
+{41808}{41914}- Like this? Like this? Right?|- Now, throw a handful|of leaves in the air...
+{41918}{42007}then leap about and hoot|in a dominant fashion.
+{42101}{42194}-Like this, Ape?|-Good. She won't be able to resist that.
+{42301}{42347}Ursula!
+{42351}{42412}Gosh, this trail's really rough.
+{42537}{42592}"Ursula! Ursula!"
+{42759}{42823}- Hey, come back here.|- They're not abandoning us, are they?
+{42827}{42852}They are threatening.
+{42858}{42883}If you don't mind, Kwame...
+{42887}{42986}I have a knack for getting|the most out of my employees.
+{42990}{43086}- Do you mind if I address the porters?|- They only speak Swahili.
+{43090}{43186}Well, I just happen to have|a Swahili phrase book.
+{43190}{43244}Be my guest.
+{43756}{43815}I think our troubles are over.
+{43819}{43928}Tell them I'll pay 50 zamoles|a man if they'll help me capture|the white ape and bring him back alive.
+{43932}{44028}Alive? After he, uh--
+{44032}{44104}Well, he pulled Ursula's scrunchie off,|we know that much.
+{44108}{44193}- 50 zamoles a man. What do you say?|- They only speak Swahili.
+{44197}{44262}One hundred zamoles a man|and you got a deal.
+{44266}{44337}- Hey, wait a second.|- Done.
+{44383}{44451}Meanwhile, at a very big|and expensive waterfall set...
+{44455}{44530}Ursula was amazed that she was lost|in the wilderness with a jungle man.
+{44534}{44623}Here I am, lost in the wilderness|with a jungle man.
+{44743}{44850}I should be terrified that no one|will ever find me, but I'm not.
+{44893}{44968}- Thank you.|- For what?
+{44972}{45028}For this adventure.
+{45032}{45089}It's what I've always wanted.
+{45123}{45192}King of jungle|only here to help.
+{45324}{45407}Mr Boombastic
+{45411}{45475}The awesome, boombastic|romantic, fantastic lover
+{45507}{45577}Sade
+{45581}{45631}Mr Lover-Lover
+{45635}{45705}- Mr Lover-Lover|- George, are you okay?
+{45709}{45767}- Mr Lover-Lover|- Your face is swelling up like--
+{45771}{45847}- Ah, Mr Lover-Lover|- Is something in my teeth?
+{46083}{46117}Okay.
+{46246}{46290}Listen, um...
+{46294}{46402}I'm gonna step outside|for a little air, okay?
+{46482}{46599}- Are you sure you threw the leaves?|- Yeah, George threw leaves.
+{46603}{46672}Well, cheer up, old boy.|I spent all day...
+{46676}{46731}poring through every book|in the library...
+{46735}{46805}and finally I found this.
+{46836}{46929}It's positively packed full|of human courtship rituals.
+{46933}{47018}Listen.|"What's a nice girl like you...
+{47022}{47095}doing in a plane like this?"
+{47263}{47309}Go for it.
+{47460}{47516}- Hi.|- Hi.
+{47650}{47717}What-- Oh.
+{47808}{47904}- Did you fight a crocodile for this?|- Oh. No, George not fight.
+{47908}{47976}Crocodile have toothache.
+{47980}{48095}George pull tooth.|Crocodile give to George after. Gift.
+{48099}{48130}Good juju.
+{48134}{48227}- Juju?|- Good luck. Protection.
+{48290}{48401}I have something like that too.|Want to see?
+{48439}{48485}It's not worth anything.
+{48489}{48583}I found it in a cereal box|when I was ten years old.
+{48587}{48669}It's my good luck. My juju.
+{48750}{48827}- Can l--|- Oh.
+{49124}{49178}I want you to have that.
+{49182}{49255}For George?
+{49285}{49362}That's the nicest present|George ever get.
+{49390}{49431}Thank you.
+{49676}{49749}- All right, man.|- Yeah.
+{49753}{49838}It dancin' time.
+{49888}{49971}- Ursula, wanna dance?|- Oh, no. Thanks.
+{49975}{50047}- I'd be too embarrassed.|- What mean "embarrassed"?
+{50051}{50149}That's when you feel stupid|in front of other people.
+{50153}{50213}You know, like|they're judging you.
+{50217}{50284}- You've never felt that?|- No.
+{50288}{50347}There are no other people.
+{50351}{50405}- Good point.|- George not feel stupid.
+{50409}{50477}Sometimes George smash|into tree, and sometime--
+{50629}{50699}Sometimes George fall out of tree house,|but not feel stupid.
+{50703}{50747}Something good|always happen after.
+{50751}{50831}George just lucky, I guess.
+{50835}{50948}One day I looked up|and there you were
+{50952}{51052}No people here to look stupid for.|Just George.
+{51056}{51189}Like a simple question|looking for an answer
+{51193}{51300}Now I am a whale|Listening to some inner call
+{51304}{51396}Swimming blindly to throw|myself upon your shore
+{51400}{51512}What if I don't find you|when I have landed
+{51516}{51620}Would you leave me here to die|on your shore, stranded
+{51624}{51698}Think I know why|the dog howls at the moon
+{51731}{51824}I think I know why|the dog howls at the moon
+{51828}{51938}I sing dela, dela
+{52010}{52065}When I'm with you
+{52233}{52297}I burn for you
+{52301}{52360}I've been waiting for you|all my life
+{52364}{52409}Hoping for a miracle
+{52413}{52525}I've been waiting day and night|Day and night
+{52529}{52633}I've been waiting for you all my life|Waiting for redemption
+{52637}{52748}I've been waiting day and night|I burn for you
+{53061}{53146}And so it came to pass|that George of the Jungle...
+{53150}{53235}attended his first co-ed dance.
+{53384}{53479}But his rapturous rendezvous with the|urban heiress was to be short-lived...
+{53483}{53615}as the very next morning, Kwame and|his men were drawing dangerously close.
+{53619}{53753}That is, dangerously close to shoving|a coconut up Lyle's sleeping bag.
+{53757}{53801}That's it! I've had it!
+{53805}{53903}I am the richest, smartest, handsomest|guy here, so I get to go first.
+{54057}{54101}There's an elephant around here.
+{54105}{54200}Bad guy falls in poop.|Classical element of physical comedy.
+{54204}{54289}Now comes the part where we throw|our heads back and laugh. Ready?
+{54293}{54349}Ready.
+{54453}{54533}Those were nowhere near|properly digested.
+{54537}{54608}In case anybody's|wondering, I'm okay.
+{54648}{54701}Have you cleaned my lighter yet?
+{54923}{54962}Come on, come on.
+{55031}{55102}That was Ursula.|Did you hear that?
+{55106}{55170}She's alive. Ursula--
+{55174}{55255}Why don't you bring on a brass band|while you're at it, you nit?
+{55259}{55330}We gotta be stealthy here, right?
+{55334}{55392}Stealthy. Right.
+{55479}{55586}Party time.|We'll take it from here.
+{55882}{55928}Get off!
+{56038}{56098}It's him!
+{56102}{56207}Hey, it's a dude. I told you|there weren't no white ape.
+{56211}{56290}You dragged me all the way|up here to look at some guy|in a leopard-skin bikini.
+{56294}{56378}- If I wanted to see that,|I could've stayed in Miami.|- Wait a second.
+{56382}{56488}The white ape is a man?|Let me at him.
+{56492}{56574}Hang on. Could you, uh, see|if he's dangerous?
+{56578}{56650}Here, boy!|Where's my little doggy?
+{56654}{56693}I've got a feeling he's not.
+{56697}{56745}Okay. I'll go first.
+{56749}{56814}If he gets aggressive,|I'll scare him off with this.
+{56818}{56910}- I thought that was a lighter.|- It is a lighter,|but he doesn't know that.
+{57066}{57120}Ursula, it's me.
+{57124}{57240}Lyle. Your man.|I've come for you. Are you okay?
+{57329}{57378}Ursula!
+{57382}{57448}- Lyle, what are you doing here?|- Thank God.
+{57452}{57548}Mushy bear, you're safe.|I don't believe it!
+{57552}{57656}Oh, I was so afraid|for your safety.
+{57719}{57814}Lyle! Don't get all smoochy|and disgusting with me, okay?
+{57818}{57872}I remember what you did|when that lion came.
+{57876}{57987}What are you talking about?|I was fighting the lion the whole time.
+{57991}{58066}You were just so terrified|you don't remember.
+{58070}{58166}- I remember George,|that's who I remember.|- George?
+{58170}{58222}Look over there.|What do you see?
+{58283}{58335}- An elephant.|- But what has the elephant got?
+{58433}{58508}- Fleas.|- Ivory! White gold.
+{58512}{58612}Listen, Ursula, I have no idea what|you're talking about. Can we just go?
+{58616}{58687}- George!|- Ursula!
+{58691}{58736}Ready...
+{58740}{58792}aim...
+{58905}{58969}Run, Shep!|Run for your life!
+{58973}{59021}Did that monkey just speak?
+{59025}{59072}That monkey just spoke.
+{59076}{59124}- I knew it.|- He talked.
+{59128}{59174}- Shoot it now.|- Huh?
+{59178}{59274}With the tranquillizer gun, idiot!|That ape's worth a fortune.
+{59278}{59321}No!
+{59325}{59387}Stop, or I'll shoot!
+{59591}{59635}- No!|- No!
+{59639}{59769}George!
+{59773}{59870}Whew! Okay, kids, let's settle down|and review the important information.
+{59874}{59925}Lyle is a big doofus.|Poor George was really shot...
+{59929}{59991}but can't die because,|let's face it, he's the hero.
+{59995}{60077}So, the naturally concerned|and preternaturally wealthy|Ursula Stanhope...
+{60081}{60159}whisked George off on a private jet|bound for the country of his birth...
+{60163}{60234}where he would get the finest|medical treatment available.
+{60238}{60334}I'm gonna get you the finest|medical treatment available.
+{60338}{60437}As for those pesky, pernicious|and putrid poachers, Max and Thor...
+{60441}{60520}they awaited their fate|in the Bujumbura jail.
+{60524}{60585}You two, out.
+{60589}{60666}- Acquitted?|- No, deported.
+{60670}{60742}Meanwhile, Kwame and his men faced|the next-to-impossible task...
+{60746}{60864}of picking out George's assailant|from a line-up of the usual suspects.
+{60868}{60928}Too short. Too sweaty.
+{60932}{61015}Wait a second! That's the guy.|That's the guy who shot him.
+{61019}{61086}- I never forget a face.|- Me?
+{61111}{61261}Please rate this subtitle at www.osdb.link/4f33j|Help other users to choose the best subtitles

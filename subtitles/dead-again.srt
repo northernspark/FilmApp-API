@@ -1,0 +1,3324 @@
+[INFORMATION]
+[TITLE]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]0
+[CD TRACK]0
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]bd,[SIZE]24,[FONT]Tahoma
+00:03:59.00,00:04:01.03
+Come on in, Mr Baker.
+
+00:04:02.83,00:04:07.62
+As you can see,[br]I've become quite a fan of yours.
+
+00:04:10.38,00:04:12.42
+I'm flattered.
+
+00:04:19.98,00:04:23.75
+Is that why you've asked me to[br]come down to death row, Mr Strauss?
+
+00:04:23.86,00:04:28.73
+- To tell me what a fan you are?[br]- I'd like you to print something.
+
+00:04:28.82,00:04:30.85
+After all,
+
+00:04:34.78,00:04:37.24
+you're so good at that.
+
+00:04:39.25,00:04:41.28
+I'd like you to print
+
+00:04:42.50,00:04:47.12
+that I said I loved my wife.
+
+00:04:48.47,00:04:52.75
+- You loved your wife.[br]- And that I'll love her...
+
+00:04:54.56,00:04:56.13
+forever.
+
+00:04:56.22,00:05:00.14
+Of course. Forever. All right.
+
+00:05:01.56,00:05:03.60
+Thank you, Mr Baker.
+
+00:05:06.78,00:05:09.14
+Aren't you afraid of dying?
+
+00:05:09.24,00:05:14.94
+To die is different[br]from what anyone supposes.
+
+00:05:15.04,00:05:18.53
+- And luckier.[br]- That a line from your opera?
+
+00:05:21.88,00:05:24.24
+It's Walt Whitman.
+
+00:05:24.34,00:05:28.25
+I can't take credit[br]for everything, Mr Baker.
+
+00:05:29.59,00:05:32.59
+You really believe[br]that you're lucky to die?
+
+00:05:34.64,00:05:38.47
+What I believe, Mr Baker,
+
+00:05:38.56,00:05:45.39
+is that this is all far from over.
+
+00:05:52.74,00:05:56.32
+But you still killed her.[br]Didn't you, Mr Strauss?
+
+00:06:08.01,00:06:10.58
+OK, Strauss, let's go.
+
+00:07:00.82,00:07:04.56
+No! Stop him! Stop him!
+
+00:07:08.16,00:07:09.98
+Stop him!
+
+00:07:10.08,00:07:13.03
+These are for you!
+
+00:07:48.33,00:07:51.82
+You're all right, child.[br]I'm not going to hurt you.
+
+00:08:04.26,00:08:09.17
+Here we go. Keep it going![br]Keep it going! There!
+
+00:08:10.35,00:08:14.81
+We found her two nights ago[br]trying to climb over the gates.
+
+00:08:14.90,00:08:17.81
+Since then she hasn't[br]spoken a single word.
+
+00:08:17.90,00:08:23.36
+She won't eat. And when she does[br]sleep, she has violent nightmares.
+
+00:08:23.45,00:08:27.28
+- Call the police.[br]- They've already been here, Father.
+
+00:08:27.37,00:08:30.49
+They want to take her[br]to County Hospital.
+
+00:08:31.54,00:08:34.79
+Last night Sister Constance -[br]she is in the next room -
+
+00:08:34.88,00:08:38.00
+she heard the woman call[br]this word out in her sleep.
+
+00:08:38.09,00:08:39.92
+- "Die-sher"?[br]- "Dish-er".
+
+00:08:40.05,00:08:43.42
+- Sounds like nothing to me.[br]- Father...
+
+00:08:43.51,00:08:46.80
+The woman belongs downtown!
+
+00:08:46.89,00:08:51.09
+Father, every night before bed,[br]she blocks her door with a chair,
+
+00:08:51.23,00:08:54.18
+and if you had only heard[br]this woman scream!
+
+00:08:54.28,00:08:58.90
+- I don't have to hear her scream.[br]- I will not abandon her, Father.
+
+00:08:58.99,00:09:03.69
+She's not spending[br]another night here and that's final.
+
+00:09:05.75,00:09:07.78
+But, I see no reason
+
+00:09:07.87,00:09:11.78
+why we can't have someone look for[br]her family in the meantime.
+
+00:09:11.88,00:09:14.58
+But we don't have the money[br]to hire anybody.
+
+00:09:14.67,00:09:17.54
+The man I'm thinking of[br]would do it for nothing.
+
+00:09:17.63,00:09:21.41
+He grew up here. He was a policeman.
+
+00:09:22.06,00:09:25.63
+He worked in missing persons[br]for some time.
+
+00:09:27.31,00:09:29.79
+How's that for a name you can trust?
+
+00:09:32.15,00:09:36.60
+Pete? It's Mike.[br]Don't run the ad. I found Carlisle.
+
+00:09:36.70,00:09:39.77
+I'm on my way to him right now.
+
+00:09:39.87,00:09:43.73
+- You're on the wrong side![br]- Thanks, pal!
+
+00:09:44.25,00:09:46.61
+If your wife's cousin calls,
+
+00:09:46.71,00:09:49.99
+just don't take what she says[br]too seriously.
+
+00:09:50.09,00:09:51.91
+Yeah, I took her out.
+
+00:09:53.38,00:09:56.42
+We went and had some lunch[br]and we kind of...
+
+00:09:56.51,00:09:59.92
+We went back to her place and...
+
+00:10:00.01,00:10:02.41
+No, we're not going out again.
+
+00:10:03.60,00:10:06.97
+Tell your wife there's nothing[br]wrong with her cousin,
+
+00:10:07.06,00:10:09.51
+it's just she...[br]I don't want to...
+
+00:10:10.48,00:10:13.81
+I'm not looking for Miss Right.[br]I'm looking for Miss Right Now.
+
+00:10:13.90,00:10:15.73
+Thank you.
+
+00:10:26.96,00:10:30.20
+- Cozy Carlisle?[br]- Try the freezer.
+
+00:10:30.30,00:10:32.33
+Thank you.
+
+00:10:43.14,00:10:45.22
+Fuck you. I'm on a break.
+
+00:10:45.31,00:10:48.14
+Mr Carlisle,[br]I've been retained by a law firm
+
+00:10:48.23,00:10:52.23
+to find you and tell you that[br]Myron Spargo died last month.
+
+00:10:52.32,00:10:56.94
+- Who the fuck's Myron Spargo?[br]- He was a patient of yours.
+
+00:10:57.03,00:10:59.78
+I had a lot of patients.[br]Now, beat it.
+
+00:10:59.87,00:11:02.78
+This one left you $11,000.
+
+00:11:02.87,00:11:06.37
+- Myron![br]- Yeah, Myron.
+
+00:11:06.46,00:11:10.04
+- Myron T Spargo.[br]- Plumbing contractor.
+
+00:11:10.13,00:11:13.67
+Lived in San Marino[br]with his wife, Karen or Sharon.
+
+00:11:13.76,00:11:17.70
+Karen.[br]She must be very lonely right now.
+
+00:11:18.77,00:11:22.89
+Jesus! 11,000,[br]that's a lot of grateful.
+
+00:11:23.86,00:11:27.27
+- You want a cigarette?[br]- What? No. I don't smoke.
+
+00:11:27.36,00:11:30.56
+You've looked at this pack[br]three times in the last minute.
+
+00:11:30.65,00:11:33.19
+- What?[br]- You use that pen like a cigarette.
+
+00:11:33.28,00:11:35.68
+You helped Myron Spargo quit smoking?
+
+00:11:35.78,00:11:39.82
+No. Myron was impotent. Imagine that.
+
+00:11:39.91,00:11:43.49
+A man lays pipe for a living,[br]can't get it up at home.
+
+00:11:44.38,00:11:47.12
+He had some hard-on[br]when he made out his will.
+
+00:11:47.21,00:11:51.33
+Hey, thumb-dick,[br]I was a damn good shrink.
+
+00:11:51.43,00:11:56.13
+In 16 years I worked with a[br]lot of people through a lot of shit.
+
+00:11:56.22,00:11:59.80
+OK, I slept with a patient or two.
+
+00:11:59.89,00:12:02.97
+- I still cared about them.[br]- OK.
+
+00:12:03.06,00:12:05.73
+I loved being a doctor.
+
+00:12:05.82,00:12:09.44
+I used to not charge[br]half my patients.
+
+00:12:10.91,00:12:16.03
+Then the fucking State comes along,[br]they send some bitch undercover,
+
+00:12:16.12,00:12:18.15
+and I'm fucked.
+
+00:12:18.83,00:12:21.23
+It ain't fair, is it?
+
+00:12:21.33,00:12:25.41
+Why don't you call Opperman-Crowe?
+
+00:12:26.01,00:12:28.68
+Set up an appointment,[br]sign the paperwork,
+
+00:12:28.76,00:12:31.59
+they'll cut you a cheque[br]for the 8,800 there.
+
+00:12:31.68,00:12:34.55
+Excuse me.[br]What happened to the 11,000?
+
+00:12:34.64,00:12:36.84
+Well, 11 less my commission.
+
+00:12:36.93,00:12:41.43
+That is, unless you got a problem[br]with that, Sigmund.
+
+00:12:43.48,00:12:46.64
+Could I use your phone?
+
+00:12:46.74,00:12:49.22
+- Help yourself.[br]- Thanks.
+
+00:12:49.32,00:12:52.57
+- Mr Church?[br]- Yeah?
+
+00:12:53.66,00:12:58.20
+Someone's either a smoker or a[br]nonsmoker, there's no in-between.
+
+00:12:58.88,00:13:02.57
+The trick is to find out[br]which one you are and be that.
+
+00:13:02.67,00:13:07.29
+- Well, I'm trying to quit.[br]- Don't tell me you're trying.
+
+00:13:07.38,00:13:10.67
+People who say that are pussies[br]who cannot commit.
+
+00:13:10.76,00:13:13.88
+Find out which one you are.[br]Be that. That's it.
+
+00:13:13.98,00:13:16.72
+If you're a nonsmoker, you'll know.
+
+00:13:16.81,00:13:19.38
+Thank you. Nice place you got here.
+
+00:13:19.48,00:13:21.31
+Fuckin' fruitcake.
+
+00:13:27.11,00:13:30.02
+Somewhere someone is very worried[br]about this woman.
+
+00:13:31.45,00:13:35.03
+All right. I'll give her a lift[br]to County Hospital.
+
+00:13:35.12,00:13:38.16
+That's really all I got time to do[br]right now.
+
+00:13:40.63,00:13:45.58
+Maybe on the way I'll stop and have a[br]buddy of mine at the paper
+
+00:13:45.68,00:13:49.09
+take her picture,[br]run it in the morning edition.
+
+00:13:49.18,00:13:53.84
+- How's that sound?[br]- That sounds wonderful. Thank you.
+
+00:13:53.94,00:13:56.18
+That sounds wonderful. All right.
+
+00:14:10.45,00:14:13.15
+So only one glove, one ring...
+
+00:14:24.80,00:14:28.38
+I was checking the labels to get a[br]line on where she bought them.
+
+00:14:28.47,00:14:32.13
+And how did the labels[br]smell, Mr Church?
+
+00:14:32.23,00:14:34.26
+Expensive.
+
+00:14:43.91,00:14:47.27
+Perfume. I mean...
+
+00:14:49.45,00:14:51.49
+Mike Church.
+
+00:14:54.33,00:14:57.33
+This is a Claddagh ring,[br]lrish wedding band.
+
+00:14:57.42,00:15:00.71
+If you wear it with the crown up,[br]it means you're taken.
+
+00:15:00.80,00:15:03.75
+Crown down, you're not.[br]How were you wearing it?
+
+00:15:03.84,00:15:07.38
+The policeman had her take it off[br]so he could see it.
+
+00:15:07.47,00:15:09.87
+What about the other glove?
+
+00:15:09.98,00:15:13.43
+She only had the one on[br]when we found her.
+
+00:15:22.07,00:15:23.98
+I'll help her get ready.
+
+00:15:24.08,00:15:27.03
+If you see anything[br]you recognise, holler.
+
+00:15:27.12,00:15:29.40
+I know you can't holler per se,
+
+00:15:29.50,00:15:33.99
+so maybe just you give[br]a wave or something.
+
+00:15:36.63,00:15:39.11
+It sure is nice to be with someone
+
+00:15:39.22,00:15:41.29
+you don't feel you have[br]to yak to all the time.
+
+00:15:48.31,00:15:52.72
+Smile, sweetheart. That's a girl!
+
+00:15:54.61,00:15:57.60
+You're really just going to[br]dump her off at County?
+
+00:15:57.70,00:16:01.06
+- Why don't you take her home?[br]- She's not a stray dog, Pete.
+
+00:16:01.16,00:16:04.40
+Besides, you never[br]bring women back to your place.
+
+00:16:04.49,00:16:07.86
+They might mess with your stuff.[br]"Oh, my stuff!"
+
+00:16:07.96,00:16:13.24
+At least you won't forget her name.[br]She's already forgotten it for you.
+
+00:16:15.26,00:16:18.71
+Count to 30, take her out[br]of the fixer, put her in the water.
+
+00:16:18.80,00:16:22.21
+I'll be writing the caption.[br]Let's start.
+
+00:16:22.31,00:16:26.72
+- Thank you so much.[br]- You're in good hands, sweetheart.
+
+00:16:26.81,00:16:30.50
+Mikey's a pro. He can find anything.
+
+00:16:31.40,00:16:34.47
+Same thing happened to me once.[br]Two years ago.
+
+00:16:35.36,00:16:39.69
+This mailman in Lawndale freaked out,[br]chopped up his family with a trimmer.
+
+00:16:39.78,00:16:44.49
+Then either cos he heard a voice[br]or maybe he felt bad,
+
+00:16:44.58,00:16:47.11
+- he cut off his own arms.[br]- Pete.
+
+00:16:47.21,00:16:50.49
+- Had to dial 911 with his nose.[br]- Pete!
+
+00:16:50.59,00:16:53.58
+- What?[br]- I know there's a point to this.
+
+00:16:53.67,00:16:58.38
+It's coming! I was the first shooter[br]to show up at the scene.
+
+00:16:58.47,00:17:02.59
+I take one look, I pass out.[br]I passed out cold.
+
+00:17:02.68,00:17:09.80
+I come to, I had no idea who I was.[br]I didn't even know my own family.
+
+00:17:09.90,00:17:12.89
+It was the scariest thing[br]that ever happened to me.
+
+00:17:12.99,00:17:15.23
+Then one morning I wake up
+
+00:17:15.32,00:17:18.69
+and my little girl is[br]standing beside the bed.
+
+00:17:18.78,00:17:22.40
+And she looks at me and says,[br]"I love you."
+
+00:17:24.00,00:17:29.53
+I just looked at her[br]and in about two seconds
+
+00:17:31.92,00:17:34.21
+my whole life came back to me.
+
+00:17:35.68,00:17:39.84
+So, you hang in there, sweetheart.
+
+00:17:39.93,00:17:45.51
+Sooner or later, it'll all come back.[br]Scout's honour.
+
+00:17:46.90,00:17:49.60
+I got to get her to the hospital.
+
+00:17:49.69,00:17:51.60
+I got this thing to write.
+
+00:17:51.69,00:17:54.40
+- Thank you.[br]- Sure.
+
+00:18:07.38,00:18:10.45
+My name and number[br]are going to be in the paper,
+
+00:18:10.55,00:18:14.96
+so when somebody sees your picture,[br]I'll come get you.
+
+00:18:30.78,00:18:33.60
+We're talking one night[br]at the most here.
+
+00:18:34.12,00:18:37.53
+That's my fucking cookie, bitch![br]That's my cookie!
+
+00:18:40.50,00:18:43.41
+Give it to me! Give it to me!
+
+00:18:43.50,00:18:47.33
+- It's not my problem![br]- Take her to the hospital.
+
+00:18:47.42,00:18:51.36
+- I took her. It was terrible.[br]- We cannot deal with her.
+
+00:19:01.56,00:19:05.97
+I'm sure you'll find this place[br]almost as nice as County Hospital.
+
+00:19:07.94,00:19:10.90
+My goodness![br]The maid hasn't been.
+
+00:19:10.99,00:19:14.57
+I'm sure you won't be stuck here[br]too long.
+
+00:19:14.66,00:19:18.35
+This place was spotless[br]when I left it a year ago.
+
+00:19:18.46,00:19:23.37
+Somebody's going to see[br]your picture in the paper and
+
+00:19:23.96,00:19:28.83
+they'll come find you[br]and you'll know what your name is.
+
+00:19:30.09,00:19:32.84
+It's OK.[br]Can I get rid of this for you?
+
+00:19:32.93,00:19:35.60
+Relieve you of hospital life.[br]Are you faint?
+
+00:19:35.68,00:19:38.88
+You're hungry, right?[br]You haven't eaten all day.
+
+00:19:39.81,00:19:42.97
+If you get hungry,[br]the fridge is there.
+
+00:19:43.57,00:19:47.98
+Trudy, it's 10:00, for Christ's sake![br]Will you shut up?
+
+00:19:50.07,00:19:54.65
+We're friends. Music, I love it.[br]But her music? No.
+
+00:19:55.75,00:19:58.07
+The bedroom's in here.
+
+00:19:58.17,00:20:00.41
+The bathroom's here.[br]The closet's there.
+
+00:20:00.50,00:20:03.20
+There's a sweatshirt[br]in the bottom drawer,
+
+00:20:03.30,00:20:06.25
+in case you want[br]something to sleep in,
+
+00:20:06.34,00:20:09.88
+and some old clothes[br]if you want to change in the morning.
+
+00:20:09.97,00:20:12.25
+Help yourself.
+
+00:20:12.35,00:20:14.21
+That's a beauty, isn't it?
+
+00:20:14.31,00:20:18.43
+The desk and bookcase in there[br]are from the same period.
+
+00:20:24.78,00:20:26.81
+Good night.
+
+00:20:30.16,00:20:32.19
+Welcome to...
+
+00:20:39.71,00:20:43.08
+"The desk and bookshelf in there[br]are from the same period."
+
+00:20:43.17,00:20:45.21
+What an asshole!
+
+00:20:58.86,00:21:00.89
+These are for you.
+
+00:21:02.61,00:21:05.94
+What's going on? Open the door!
+
+00:21:07.57,00:21:09.61
+Take it easy.
+
+00:21:10.70,00:21:14.48
+You're OK. It's OK. Take it easy.
+
+00:21:36.40,00:21:40.98
+I'm not telling you anything.[br]You tell me what her ring looks like.
+
+00:21:41.07,00:21:43.10
+A coiled serpent.
+
+00:21:44.78,00:21:47.77
+Skull and crossbones? Yeah?
+
+00:21:48.45,00:21:51.74
+Matches the tattoo?[br]Thanks for calling, Floyd.
+
+00:21:51.83,00:21:55.61
+The entire male[br]population of LA's checked in.
+
+00:21:55.71,00:21:57.74
+This is better than video dating.
+
+00:21:58.88,00:22:02.54
+- Excuse me, Mr Church?[br]- Yeah. Can I help you?
+
+00:22:02.63,00:22:04.83
+Actually, I'm here to help you.
+
+00:22:04.93,00:22:07.71
+Who are you supposed[br]to be, her grandfather?
+
+00:22:07.81,00:22:11.88
+Not her grandfather,[br]nor her grandmother, for that matter.
+
+00:22:11.98,00:22:16.22
+In fact, I'm no relation at all.[br]My name is Franklyn Madson.
+
+00:22:16.32,00:22:21.19
+That's a very handsome chair.[br]That's a Heywood-Wakefield.
+
+00:22:21.28,00:22:23.44
+I'll give you $45 for that right now.
+
+00:22:23.53,00:22:26.57
+It's a Stickley, worth $250.[br]What can I do for you?
+
+00:22:26.66,00:22:29.14
+A glass of water would be lovely.
+
+00:22:29.25,00:22:33.99
+Your stairs are rather steep.[br]The long climb's worn me out a bit.
+
+00:22:36.30,00:22:40.37
+I see cases like this all the time.
+
+00:22:41.34,00:22:43.25
+A person experiences a trauma
+
+00:22:43.35,00:22:46.13
+and they want to erase it[br]from their minds.
+
+00:22:46.22,00:22:49.59
+The trouble is, they erase[br]everything else along with it.
+
+00:22:50.31,00:22:53.14
+- You a shrink?[br]- No, not exactly.
+
+00:22:53.23,00:22:55.68
+I'm a hypnotist.
+
+00:22:55.78,00:22:59.85
+Here's the water, there's[br]the door. Sorry about the stairs.
+
+00:23:03.62,00:23:05.28
+Tastes a bit like bourbon.
+
+00:23:05.37,00:23:11.62
+It's simply a matter of regressing[br]the young lady back to a happier time
+
+00:23:11.71,00:23:14.74
+and then asking her who she is.
+
+00:23:14.84,00:23:19.42
+Your hand is feeling[br]very light, my dear,
+
+00:23:19.51,00:23:23.75
+so light that I'm afraid[br]if I were to let go of it,
+
+00:23:24.64,00:23:28.63
+it would just float up,[br]all on its own.
+
+00:23:31.77,00:23:34.52
+- Who gave you permission?[br]- No.
+
+00:23:34.61,00:23:39.27
+She's perfectly all right.[br]Continue to relax, my dear.
+
+00:23:39.36,00:23:43.82
+Tell yourself[br]you're going deeper and deeper
+
+00:23:43.91,00:23:47.77
+into a state of hypnosis. That's it.
+
+00:23:48.83,00:23:51.58
+That's right.
+
+00:23:51.67,00:23:55.08
+That's very nice.
+
+00:23:55.17,00:23:57.00
+Good.
+
+00:23:57.84,00:24:01.13
+My dear, let us go back.
+
+00:24:02.93,00:24:05.92
+Tell me, has something...
+
+00:24:06.02,00:24:08.09
+Somebody help me!
+
+00:24:13.49,00:24:17.40
+- Is she still under?[br]- No.
+
+00:24:21.99,00:24:26.16
+What made you scream?[br]Can you talk now?
+
+00:24:29.13,00:24:33.45
+At least we know she does talk.[br]Rather well, in fact.
+
+00:24:33.55,00:24:35.58
+How do you feel?
+
+00:24:45.10,00:24:48.60
+I'd say she was feeling better.[br]Splendid.
+
+00:24:49.61,00:24:55.15
+You could come by my shop tomorrow[br]afternoon and we can try again.
+
+00:24:55.24,00:24:59.27
+I shall need several hours[br]but the surroundings there will be...
+
+00:24:59.37,00:25:03.53
+You did great, she spoke,[br]but I don't have the money...
+
+00:25:03.62,00:25:06.57
+No. It will cost you nothing,[br]Mr Church.
+
+00:25:06.67,00:25:09.41
+We'll deal with her family[br]when we find them.
+
+00:25:11.84,00:25:14.62
+I'm sure they'll find my services[br]invaluable
+
+00:25:14.72,00:25:19.42
+once they realise I'm the one[br]who's reunited them with their...
+
+00:25:19.52,00:25:22.05
+daughter, wife, or whomever.
+
+00:25:22.73,00:25:26.05
+You have some lovely things. Pity...
+
+00:25:28.86,00:25:30.89
+I bid you all good day.
+
+00:25:44.00,00:25:50.53
+You missed something around the back.[br]Do you want to put your head down?
+
+00:26:05.57,00:26:07.60
+I'll get you a towel.
+
+00:26:36.52,00:26:38.34
+Madson?
+
+00:26:39.56,00:26:43.72
+You were inside[br]President Roosevelt's office?
+
+00:26:44.82,00:26:48.31
+Yes, lots of times.
+
+00:26:49.53,00:26:52.10
+My mommy was his cook.
+
+00:26:52.20,00:26:54.98
+We were like family.
+
+00:26:56.70,00:27:00.36
+I used to sit on Uncle Teddy's lap.
+
+00:27:02.34,00:27:06.41
+- I liked that.[br]- I'm sure Uncle Teddy did, too.
+
+00:27:07.26,00:27:11.42
+Mrs Tepper,[br]on the south wall of that office,
+
+00:27:11.51,00:27:14.05
+there was a lacquered mahogany desk.
+
+00:27:14.14,00:27:17.59
+Yes, I remember.
+
+00:27:17.69,00:27:19.72
+What did President...?
+
+00:27:20.98,00:27:27.34
+What did Uncle Teddy do with it?
+
+00:27:29.20,00:27:36.78
+He gave it to Emily Maxwell,[br]his personal secretary.
+
+00:27:36.87,00:27:42.66
+- Where did Mrs Maxwell retire to?[br]- Tucson, Arizona.
+
+00:27:43.80,00:27:46.00
+I'm going to count to three,
+
+00:27:46.09,00:27:49.84
+at which point you'll be wide awake,[br]quite refreshed,
+
+00:27:50.93,00:27:54.30
+and you'll remember nothing[br]of our little discussion.
+
+00:27:54.39,00:27:56.96
+One, two, three.
+
+00:28:01.69,00:28:03.52
+How did I do?
+
+00:28:03.61,00:28:08.40
+I don't think you'll need to worry[br]about those silly chocolate cravings.
+
+00:28:24.01,00:28:27.21
+Mother, turn that down, please.
+
+00:28:32.77,00:28:39.64
+I thought today,[br]since this is our first real session,
+
+00:28:40.48,00:28:43.35
+we'd just go for an hour or two.
+
+00:28:47.83,00:28:51.60
+As soon as you feel[br]quite comfortable, my dear,
+
+00:28:52.75,00:28:57.74
+I want you to take a look[br]at the candle in front of you.
+
+00:28:59.96,00:29:03.50
+I want you to stare at it. Good.
+
+00:29:05.30,00:29:10.76
+I want you to picture yourself[br]walking down a flight of stairs.
+
+00:29:11.89,00:29:15.72
+With each step,[br]you'll relax still further.
+
+00:29:17.52,00:29:19.56
+And as you go down,
+
+00:29:19.65,00:29:22.05
+I want you to tell yourself,
+
+00:29:23.03,00:29:27.19
+"I am going deeper and deeper
+
+00:29:28.08,00:29:30.15
+into a state of hypnosis."
+
+00:29:32.08,00:29:35.41
+Since yesterday[br]you became a bit excited,
+
+00:29:35.50,00:29:40.54
+today I want you to distance yourself[br]from the events you're watching,
+
+00:29:40.63,00:29:46.25
+as if you were only a witness,[br]not an actual participant.
+
+00:29:50.64,00:29:54.47
+If you do happen to notice[br]any nice little relics
+
+00:29:54.57,00:29:58.81
+or objets d'art along the way,[br]you might just mention them, too.
+
+00:29:58.90,00:30:00.94
+For Christ's sakes.
+
+00:30:04.99,00:30:09.32
+At the bottom of the stairs,[br]I want you to picture a door.
+
+00:30:10.29,00:30:13.33
+This door is very important,
+
+00:30:13.42,00:30:18.04
+because just beyond it lies[br]whatever time or place
+
+00:30:18.13,00:30:20.92
+from your life you wish to visit.
+
+00:30:21.01,00:30:24.95
+All right, the door has opened.
+
+00:30:27.56,00:30:32.51
+You can speak, my dear.[br]What was the happiest day...?
+
+00:30:32.61,00:30:36.98
+- The day we first met.[br]- Distance yourself.
+
+00:30:42.83,00:30:47.78
+The day Roman and Margaret first met.
+
+00:30:48.33,00:30:50.20
+Margaret?
+
+00:30:50.29,00:30:52.33
+- That's right.[br]- Margaret who?
+
+00:30:52.42,00:30:56.00
+- Mr Church...[br]- Strauss.
+
+00:31:03.01,00:31:09.51
+All right, let's go back to the day[br]Margaret and Roman first met.
+
+00:31:11.19,00:31:14.68
+How far back are you? Two years?
+
+00:31:15.74,00:31:19.31
+Three years? A year?
+
+00:31:19.41,00:31:22.65
+It was 1948.
+
+00:31:24.41,00:31:26.65
+I think I've heard enough.
+
+00:31:26.75,00:31:30.91
+Mr Church, I really must insist[br]that you refrain from talking.
+
+00:31:31.00,00:31:34.62
+The lady just told us she met a guy[br]named Roman in 1948.
+
+00:31:34.72,00:31:38.75
+- I say the session's over.[br]- On occasion, Mr Church,
+
+00:31:38.85,00:31:43.80
+hypnosis can take us back to our past[br]lives as well as our past.
+
+00:31:43.89,00:31:45.93
+You expect me just to run with that?
+
+00:31:46.02,00:31:51.14
+Let me remind you, yesterday[br]this young lady wasn't even speaking.
+
+00:31:52.65,00:31:56.73
+Rachmaninoff was[br]on the program that night.
+
+00:31:59.41,00:32:01.44
+Wait for me, my dear.
+
+00:32:06.21,00:32:08.24
+When was this?
+
+00:32:12.51,00:32:16.83
+Winter 1948.
+
+00:32:19.39,00:32:24.59
+Roman was guest conductor[br]with the Los Angeles Symphony.
+
+00:32:27.15,00:32:29.77
+Everyone was terrified of him,
+
+00:32:30.57,00:32:33.02
+except Margaret.
+
+00:32:40.37,00:32:42.53
+It was after the war,
+
+00:32:43.67,00:32:48.33
+and Los Angeles was so exciting.
+
+00:32:50.59,00:32:54.92
+Everywhere you went,[br]people were having fun.
+
+00:33:00.77,00:33:02.80
+I'm sorry.
+
+00:33:03.40,00:33:05.79
+To Margaret, a woman[br]with more beauty than grace.
+
+00:33:05.90,00:33:07.72
+Thank you very much.
+
+00:33:07.82,00:33:09.81
+Roman could dance.
+
+00:33:10.99,00:33:13.23
+He could tell jokes.
+
+00:33:13.32,00:33:16.57
+He could even read palms.
+
+00:33:16.66,00:33:20.99
+Not much of a life line, I'm afraid.
+
+00:33:22.04,00:33:26.08
+But wait. I do see love.
+
+00:33:26.17,00:33:32.46
+Passionate, everlasting, love.
+
+00:33:33.35,00:33:37.01
+- Does this work on a lot of women?[br]- I'll let you know.
+
+00:33:40.35,00:33:43.47
+Margaret's career was flourishing,
+
+00:33:43.56,00:33:47.31
+and Roman was confident[br]that his new opera
+
+00:33:47.40,00:33:52.06
+would make him as famous in America[br]as he had been in Europe.
+
+00:33:58.37,00:34:00.45
+I heard you were once married.
+
+00:34:01.58,00:34:05.49
+Yes, I was. She's dead now.
+
+00:34:08.55,00:34:10.58
+How did she die?
+
+00:34:12.05,00:34:15.75
+To escape Germany,[br]we had to go through the mountains.
+
+00:34:15.85,00:34:22.89
+It was a very difficult trip,[br]and she had a weak heart.
+
+00:34:24.03,00:34:27.27
+Roman lived in this enormous house.
+
+00:34:27.99,00:34:31.44
+Just him, his housekeeper[br]and her son.
+
+00:34:32.03,00:34:34.07
+And Roman's music.
+
+00:34:35.04,00:34:39.16
+It's for an opera I'm working on.
+
+00:34:40.13,00:34:42.83
+You're writing an opera[br]about a monster?
+
+00:34:42.92,00:34:47.04
+- Is this from your opera?[br]- Yes.
+
+00:34:51.89,00:34:55.30
+The opera was almost[br]all Roman cared about,
+
+00:34:55.39,00:35:00.51
+until he met Margaret and literally[br]swept her off her feet.
+
+00:35:01.90,00:35:04.98
+I'm drenched. We'll ruin this couch.
+
+00:35:05.07,00:35:07.31
+I'll get another one.
+
+00:35:08.95,00:35:13.03
+The day of the wedding was so happy.
+
+00:35:13.12,00:35:18.95
+It seemed like nothing and nobody[br]could ever come between them.
+
+00:35:26.84,00:35:28.84
+Daytime.
+
+00:35:29.60,00:35:33.34
+First step's always the toughest.[br]Sweetheart, thank you.
+
+00:35:34.31,00:35:36.64
+Help. Where are we?
+
+00:35:36.73,00:35:39.47
+Don't ask. Just try to be polite.
+
+00:35:41.86,00:35:43.94
+Easy, boys, the war is over.
+
+00:35:44.03,00:35:45.94
+- Lydia.[br]- Otto!
+
+00:35:46.03,00:35:48.23
+- So nice to see you.[br]- So nice to see you.
+
+00:35:48.33,00:35:50.94
+May I present Gray Baker?
+
+00:35:53.00,00:35:56.91
+- I'm yawning already.[br]- We'll stay five minutes.
+
+00:35:57.00,00:36:00.29
+- Nice to see you.[br]- Gray Baker. Congratulations.
+
+00:36:37.59,00:36:39.87
+Inga, I was just upstairs.
+
+00:36:39.96,00:36:43.29
+- Yes?[br]- It's just that I thought...
+
+00:36:43.39,00:36:47.33
+We had talked about you and Frankie[br]moving downstairs.
+
+00:36:47.43,00:36:50.38
+Roman never said anything to me.
+
+00:36:51.64,00:36:54.80
+What Mr Strauss said or didn't say[br]is irrelevant.
+
+00:36:54.90,00:36:58.35
+We've already discussed this.[br]Tonight, of all nights,
+
+00:36:58.44,00:37:02.06
+I'd appreciate it if you weren't[br]sleeping in the next room.
+
+00:37:02.16,00:37:06.57
+- Yes, Mrs Strauss.[br]- Thank you.
+
+00:37:07.70,00:37:09.86
+Mrs Strauss?
+
+00:37:11.29,00:37:15.70
+- Congratulations.[br]- Thank you, Frankie.
+
+00:37:20.63,00:37:23.25
+- Lydia.[br]- Mrs Strauss.
+
+00:37:24.81,00:37:27.05
+May I present Gray Baker?
+
+00:37:27.14,00:37:29.47
+- How do you do?[br]- How do you do?
+
+00:37:29.56,00:37:32.85
+Mr Bakerjust made the list[br]for the Pulitzer Prize.
+
+00:37:32.94,00:37:34.72
+Really?
+
+00:37:34.82,00:37:37.52
+- Yes, really.[br]- Well, congratulations.
+
+00:37:37.61,00:37:40.81
+- Congratulations yourself.[br]- Thank you.
+
+00:37:42.99,00:37:45.15
+So, any new tidbits from the press?
+
+00:37:45.24,00:37:48.24
+Zero. To tell you the truth,[br]I miss the war.
+
+00:37:49.42,00:37:51.66
+What an odd thing to say.
+
+00:37:53.13,00:37:57.96
+Doesn't seem to be much news any[br]more, all this back-to-normal stuff.
+
+00:37:58.97,00:38:00.83
+The world's getting boring again.
+
+00:38:01.89,00:38:05.34
+I'll tell you what,[br]the only thing I do regret
+
+00:38:05.43,00:38:10.14
+is by being away so long[br]I haven't had my chance...
+
+00:38:12.52,00:38:16.56
+to hear you play, Mrs Strauss.[br]To hear you play.
+
+00:38:16.65,00:38:22.02
+I'm not going into hiding, Mr Baker.[br]I'm just getting married.
+
+00:38:22.12,00:38:25.11
+- It's a pleasure to meet you.[br]- The pleasure's mine.
+
+00:38:26.29,00:38:30.28
+See you later. Bye.
+
+00:38:32.25,00:38:36.58
+Roman had given Margaret[br]the wedding day of her dreams,
+
+00:38:37.13,00:38:40.50
+full of new people[br]and wonderful surprises.
+
+00:38:42.10,00:38:45.13
+But there was[br]another surprise to come.
+
+00:38:48.69,00:38:50.51
+Roman.
+
+00:38:56.24,00:38:58.72
+I've never seen anything like this.
+
+00:39:02.91,00:39:06.57
+It's beautiful.[br]I don't know what to say.
+
+00:39:07.92,00:39:11.95
+- "Thank you" is always good.[br]- Thank you.
+
+00:39:18.85,00:39:21.05
+No, it's not a bracelet, darling.
+
+00:39:21.14,00:39:25.13
+It's an anklet,[br]a very special anklet.
+
+00:39:25.23,00:39:27.26
+Let's have your leg.
+
+00:39:29.52,00:39:34.86
+It's very old. The man[br]I bought it from explained to me
+
+00:39:34.95,00:39:37.94
+that when a husband gives this[br]to his wife,
+
+00:39:39.74,00:39:41.24
+they become...
+
+00:39:42.33,00:39:46.02
+two halves of the same person.
+
+00:39:49.59,00:39:53.00
+Nothing can separate them.
+
+00:39:56.14,00:39:58.17
+Not even death.
+
+00:39:59.52,00:40:01.80
+So we're stuck with each other.
+
+00:40:01.89,00:40:05.89
+Either that, or I've[br]overpaid terribly for the thing.
+
+00:40:40.23,00:40:44.22
+Three, two, one.
+
+00:40:47.48,00:40:49.52
+A little hot in here.
+
+00:40:49.61,00:40:53.19
+Mother, could you open[br]a window for us, please?
+
+00:40:53.82,00:40:56.73
+This isn't as uncommon[br]as you might think.
+
+00:40:56.83,00:40:59.03
+A colleague in San Francisco...
+
+00:40:59.12,00:41:01.82
+May I have a glass of water?
+
+00:41:02.67,00:41:05.70
+You really have found your tongue.[br]Wonderful.
+
+00:41:05.80,00:41:08.19
+- Do you know your name?[br]- Give her time.
+
+00:41:08.30,00:41:11.46
+Do you remember anything[br]about the people you talked about?
+
+00:41:11.55,00:41:14.84
+- Are they still alive?[br]- I'd like to show you something.
+
+00:41:20.73,00:41:23.10
+June 1949.
+
+00:41:30.03,00:41:33.86
+That was Roman Strauss,[br]that was his wife Margaret,
+
+00:41:33.95,00:41:36.43
+and that was their home.
+
+00:41:39.33,00:41:43.74
+Handsome man, wasn't he? Not at all[br]the sort who'd murder his wife.
+
+00:41:45.42,00:41:49.33
+Yes. He stabbed her in the throat
+
+00:41:49.43,00:41:53.71
+with a lovely pair of antique[br]Die Schere barber scissors.
+
+00:41:53.81,00:41:56.51
+Die Schere... Disher.
+
+00:41:56.60,00:42:00.64
+They were auctioned at Christie's[br]last year for 20,000
+
+00:42:01.65,00:42:04.18
+by a Japanese gentleman,[br]if memory serves.
+
+00:42:07.24,00:42:09.27
+They seemed so in love.
+
+00:42:09.37,00:42:12.57
+They're usually the people[br]that kill each other.
+
+00:42:12.66,00:42:15.95
+Could she have dreamed this[br]or read about them?
+
+00:42:16.04,00:42:20.53
+No. I got clarity far beyond what one[br]would pick up from reading.
+
+00:42:20.88,00:42:23.87
+- They look alike. It means nothing.[br]- Mr Church.
+
+00:42:23.96,00:42:28.25
+- I don't believe she was there.[br]- It doesn't matter.
+
+00:42:28.34,00:42:31.96
+For whatever reason,[br]these events are consuming her.
+
+00:42:32.06,00:42:36.59
+The sooner we work through them, the[br]sooner she'll get her memory back.
+
+00:42:36.69,00:42:41.10
+Tomorrow I have a Friar's luncheon[br]at twelve.
+
+00:42:41.19,00:42:45.81
+- How's 4:00 tomorrow sound?[br]- Yes. Thank you very much.
+
+00:42:45.91,00:42:48.36
+My pleasure.
+
+00:42:51.54,00:42:53.36
+- Mr Church.[br]- Yeah?
+
+00:42:53.46,00:42:57.45
+The magazine. It's $17.95.
+
+00:43:06.09,00:43:09.95
+You OK? ls there anything[br]you need right now?
+
+00:43:10.06,00:43:12.09
+You mean besides my memory?
+
+00:43:13.89,00:43:17.59
+OK. I can't get used[br]to the sound of your voice.
+
+00:43:17.69,00:43:21.60
+It's like one day you wake up[br]and your cat talks to you.
+
+00:43:21.69,00:43:26.19
+It's just you've been so quiet[br]the last couple of days and...
+
+00:43:26.28,00:43:29.82
+Never mind.[br]I didn't speak. Forget it.
+
+00:43:31.33,00:43:33.36
+Mr Church.
+
+00:43:34.12,00:43:36.79
+- Mike.[br]- Why are you helping me?
+
+00:43:36.88,00:43:38.91
+I don't know. You smell good.
+
+00:43:39.00,00:43:42.12
+Maybe I feel sorry for you.[br]Maybe I like you.
+
+00:43:42.22,00:43:45.67
+Maybe I just want to hear[br]how that story you told ends.
+
+00:43:45.76,00:43:48.71
+But you don't believe any of that.
+
+00:43:48.81,00:43:51.59
+I believe you experienced[br]something weird.
+
+00:43:51.69,00:43:54.30
+I'm not convinced it means[br]what he says.
+
+00:43:56.32,00:44:00.17
+- You think I'm crazy?[br]- I think we need a second opinion.
+
+00:44:03.78,00:44:06.86
+- What do you think happened?[br]- Sounds like a past-life experience.
+
+00:44:06.95,00:44:08.78
+You said you were good.
+
+00:44:08.87,00:44:11.91
+I used to think it was bullshit,[br]but it happens.
+
+00:44:12.00,00:44:14.78
+I had this one crazy old lady.[br]Really batshit.
+
+00:44:14.88,00:44:18.65
+She was so claustrophobic[br]she'd choke in Yankee Stadium.
+
+00:44:18.76,00:44:22.96
+I thought, you know[br]what I'm dealing with here?
+
+00:44:23.05,00:44:26.80
+Maybe some childhood trauma.[br]I'll use hypnotherapy.
+
+00:44:26.89,00:44:29.67
+I'll find some memory.[br]I'll regress her.
+
+00:44:29.77,00:44:32.25
+Sure enough. Bingo!
+
+00:44:32.35,00:44:34.81
+There it was.[br]She was five years old.
+
+00:44:34.90,00:44:38.39
+She had this uncle who'd molest her[br]in the closet.
+
+00:44:38.49,00:44:42.40
+Really sick shit.[br]I thought, "I got it!" No.
+
+00:44:42.49,00:44:45.65
+A couple more months,[br]she's still claustrophobic.
+
+00:44:45.74,00:44:49.44
+I said, what the fuck![br]I'll regress her back even further.
+
+00:44:49.54,00:44:51.57
+This time when I ask her the year,
+
+00:44:51.67,00:44:54.53
+- she says 1832.[br]- 1832?
+
+00:44:54.63,00:44:57.71
+When I hear that,[br]I say, "Right, lady. Blow me."
+
+00:44:57.80,00:45:02.34
+But she keeps going. She says there's[br]this father who's an undertaker.
+
+00:45:02.43,00:45:05.71
+She has a brother[br]who liked to lock her in coffins.
+
+00:45:05.81,00:45:09.47
+I don't know if it was bullshit[br]or if it wasn't.
+
+00:45:09.56,00:45:15.02
+All I know is after that session,[br]she wasn't claustrophobic any more.
+
+00:45:18.15,00:45:21.52
+A lot more people believe in[br]past lives than don't.
+
+00:45:21.62,00:45:24.18
+I'm sure that makes her[br]feel a lot better.
+
+00:45:24.29,00:45:29.07
+This lady screams in her sleep today,[br]right now. I don't care who she was.
+
+00:45:29.17,00:45:31.65
+I want to know who she is.
+
+00:45:34.21,00:45:37.04
+Do you believe what you saw was real?
+
+00:45:37.13,00:45:40.54
+It seemed real. Yeah.
+
+00:45:40.64,00:45:43.20
+Stick with the junk man.[br]He's on the right track.
+
+00:45:43.31,00:45:45.55
+- I'll tell you why.[br]- Look...
+
+00:45:46.64,00:45:49.09
+Sometimes a trauma in a present life
+
+00:45:49.19,00:45:52.18
+can lead you back[br]to a trauma in a past life.
+
+00:45:52.27,00:45:54.64
+If you resolve that past-life trauma,
+
+00:45:54.74,00:45:57.73
+you got a good chance[br]of finding out who you are.
+
+00:45:57.82,00:46:02.19
+You take knowledge from this life,[br]use it in the next. That's karma.
+
+00:46:02.29,00:46:05.61
+Isn't it I do something bad now,[br]I'm a termite next time?
+
+00:46:05.71,00:46:11.05
+You ask me, you're already a termite[br]in this life in a shitty suit, OK?
+
+00:46:11.13,00:46:15.46
+What good is learning if you'll be[br]with different people each time?
+
+00:46:15.55,00:46:18.12
+You won't be with different people.
+
+00:46:18.22,00:46:21.59
+Thanks to fate, the cosmic force[br]with a tragic sense of humour,
+
+00:46:21.68,00:46:26.09
+you burn somebody in one life,[br]they get to burn you in this one.
+
+00:46:26.19,00:46:30.72
+It's the karma credit plan.[br]Buy now, pay forever.
+
+00:46:34.07,00:46:37.44
+Excuse me. It's my karmic burden[br]to load some cat food.
+
+00:46:39.74,00:46:41.69
+Come on.
+
+00:46:51.05,00:46:53.41
+Tell me something, Mike.
+
+00:46:54.22,00:46:57.54
+Why is it that I can recognise[br]certain smells,
+
+00:46:57.64,00:47:00.80
+that I know my right hand[br]from my left,
+
+00:47:00.89,00:47:03.93
+but I can't remember[br]what my favourite colour is
+
+00:47:04.02,00:47:09.36
+or my favourite flower[br]or what kind of wine I like.
+
+00:47:09.94,00:47:12.06
+- Maybe you're lucky.[br]- How so?
+
+00:47:12.15,00:47:16.73
+There must be a certain freedom[br]living only in the present.
+
+00:47:16.83,00:47:21.28
+At least you don't have to spend[br]every day trying to forget your past.
+
+00:47:23.54,00:47:25.57
+Excuse me.
+
+00:47:33.09,00:47:35.57
+So Roman's guard on death row[br]wrote this?
+
+00:47:35.68,00:47:37.75
+This is the press coverage?
+
+00:47:37.85,00:47:41.54
+I spent three hours in the file[br]morgue looking for that stuff.
+
+00:47:41.64,00:47:45.34
+How's it going with Jane Doe?[br]Getting anywhere? Trying to?
+
+00:47:45.44,00:47:47.77
+Gray Baker.[br]She mentioned him today.
+
+00:47:47.86,00:47:51.89
+- You think she's married?[br]- He wrote every single one of these?
+
+00:47:51.99,00:47:55.36
+- I've known her two days.[br]- Sometimes that's all it takes.
+
+00:47:55.45,00:47:58.94
+- Think Baker's still around?[br]- He'd be a million years old.
+
+00:47:59.04,00:48:01.44
+I notice you're staying in tonight.
+
+00:48:01.54,00:48:06.29
+Why don't you find someone from that[br]paper who knows what happened to him.
+
+00:48:08.63,00:48:10.67
+Shut up.
+
+00:48:11.18,00:48:14.63
+- Hello, Pete.[br]- You're talking!
+
+00:48:16.18,00:48:19.96
+Yeah. I hope it's OK,[br]I borrowed more clothes.
+
+00:48:20.27,00:48:22.09
+Sure, fine.
+
+00:48:23.82,00:48:26.97
+Don't worry.[br]I didn't mess with your stuff.
+
+00:48:29.61,00:48:31.60
+I like your voice.
+
+00:48:32.66,00:48:35.22
+I like being able to finally use it.
+
+00:48:35.33,00:48:37.36
+You don't want to be late.
+
+00:48:37.45,00:48:39.49
+- For what?[br]- For whatever.
+
+00:48:40.25,00:48:43.70
+- Right. She's living here?[br]- Let me know when you find Baker.
+
+00:48:43.80,00:48:46.04
+Need some? I got one in my wallet.
+
+00:48:49.76,00:48:52.84
+It was really nice of you[br]to eat the whole dinner.
+
+00:48:52.93,00:48:56.92
+- No. It was really good.[br]- I don't have company that often.
+
+00:48:57.02,00:49:01.18
+You'll love this. We can have[br]a few drinks, maybe dance off dinner.
+
+00:49:01.27,00:49:04.18
+I know the owner.[br]He'll take good care of us.
+
+00:49:06.28,00:49:08.31
+Ray, how you doing?
+
+00:49:09.82,00:49:12.52
+We're closed, Mike.[br]It's going to rain.
+
+00:49:12.62,00:49:15.78
+- You're kidding. No music tonight?[br]- Al's sick.
+
+00:49:17.50,00:49:20.37
+I'm trying to have[br]a romantic evening.
+
+00:49:20.46,00:49:22.70
+You want to get her drunk?
+
+00:49:24.67,00:49:27.58
+Two glasses of wine.[br]We'll sit outside. You can leave.
+
+00:49:27.68,00:49:29.83
+- We lost our liquor licence.[br]- No.
+
+00:49:29.93,00:49:33.62
+- The neighbours.[br]- How about some coffee?
+
+00:49:33.72,00:49:35.84
+I got tea.
+
+00:49:35.94,00:49:39.09
+- Tea is fine.[br]- Tea is fine.
+
+00:49:39.19,00:49:42.10
+What the hell[br]happened to this place?
+
+00:49:42.19,00:49:45.44
+I can't believe there's no booze.[br]What's going on?
+
+00:50:03.80,00:50:06.20
+Is this from your opera?
+
+00:50:30.91,00:50:35.41
+Father Tim made us take piano[br]lessons. He said it was therapeutic.
+
+00:50:41.67,00:50:44.67
+Tea's up. Jesus! I'm sorry.
+
+00:50:44.76,00:50:48.25
+Let's see how else[br]I can screw up this evening.
+
+00:50:48.35,00:50:50.38
+- It's OK.[br]- You OK?
+
+00:50:50.47,00:50:52.80
+It's OK.
+
+00:50:56.90,00:50:59.22
+- It's OK.[br]- OK.
+
+00:51:04.66,00:51:08.98
+- Cold?[br]- No, I'm not cold.
+
+00:51:09.62,00:51:11.65
+I'm just scared.
+
+00:51:12.67,00:51:15.83
+- Of what?[br]- I don't know.
+
+00:51:19.13,00:51:21.46
+It's like...
+
+00:51:21.55,00:51:24.71
+someone's following me.
+
+00:51:25.89,00:51:29.51
+And I can't see who it is.
+
+00:51:29.60,00:51:30.93
+I can't...
+
+00:51:34.11,00:51:36.26
+see behind me.
+
+00:51:36.36,00:51:40.10
+But you will. It takes time.
+
+00:51:40.20,00:51:42.27
+Mike, someone wants to kill me.
+
+00:51:42.36,00:51:46.22
+Those are just dreams.[br]They're not real.
+
+00:51:46.33,00:51:49.24
+Nobody is going to hurt you now.
+
+00:51:50.42,00:51:54.66
+When you know who you are,[br]you're not going to be so afraid.
+
+00:51:57.38,00:52:02.58
+If it makes you feel any better,[br]I can read tea bags.
+
+00:52:02.68,00:52:08.09
+- You're gonna tell me my future?[br]- I'm going to tell you your past.
+
+00:52:12.52,00:52:17.64
+Let's see. You were born in ldaho.[br]Your father was a potato farmer.
+
+00:52:17.74,00:52:21.06
+You tell jokes real well.[br]You're a great cook.
+
+00:52:21.16,00:52:25.36
+You never get seasick, except maybe[br]that one time on your honeymoon.
+
+00:52:25.45,00:52:27.28
+I'm married?
+
+00:52:27.37,00:52:29.70
+To Jim Tannenbaum, the Potato Prince.
+
+00:52:29.79,00:52:32.91
+The Potato Prince? So I'm rich?
+
+00:52:33.00,00:52:35.83
+No, but you have each other,[br]so it doesn't matter.
+
+00:52:35.92,00:52:39.17
+Your favourite colour's red.[br]Favourite flowers are roses.
+
+00:52:39.26,00:52:41.29
+How did I lose my memory?
+
+00:52:41.39,00:52:44.76
+Once a month, you take[br]six homeless women bungee jumping
+
+00:52:44.85,00:52:47.63
+off the Cal Fed building[br]on Miracle Mile.
+
+00:52:47.73,00:52:53.22
+Last week, you bumped your head and[br]wandered around the Wilshire district
+
+00:52:53.32,00:52:55.39
+until you ended up at St Audrey's.
+
+00:52:55.49,00:52:58.56
+- Bungee jumping?[br]- You're a thrill seeker.
+
+00:52:58.66,00:53:00.69
+What's my name?
+
+00:53:04.62,00:53:06.45
+Grace.
+
+00:53:08.17,00:53:10.12
+Grace.
+
+00:53:10.96,00:53:14.12
+That's what the tea bag says,[br]that my name is Grace.
+
+00:53:14.21,00:53:17.67
+I had this kindergarten teacher,[br]Sister Grace.
+
+00:53:17.76,00:53:20.29
+You remind me of her.
+
+00:53:21.10,00:53:23.80
+Would this be the[br]big, fat sister Grace?
+
+00:53:23.89,00:53:27.18
+No, this would be the
+
+00:53:27.27,00:53:33.02
+big, beautiful, Sister Grace.
+
+00:53:37.53,00:53:41.94
+OK. Grace it is.
+
+00:53:42.04,00:53:44.74
+OK. To Grace.
+
+00:53:50.96,00:53:55.58
+Mike, why is it[br]Father Timothy asked you to help me?
+
+00:53:55.68,00:53:59.42
+I owe Tim a lot of favours.[br]I was not the greatest kid.
+
+00:53:59.51,00:54:02.67
+I always had this kind of temper.
+
+00:54:02.77,00:54:06.63
+I used to beat up on the other kids.[br]He straightened me out.
+
+00:54:06.73,00:54:12.31
+In fact, if it wasn't for him,[br]I'd be in some jail somewhere.
+
+00:54:12.40,00:54:16.77
+Don't you think it's strange we both[br]just showed up at St Audrey's?
+
+00:54:16.87,00:54:20.81
+Not strange. Just one of those[br]things. It's coincidence.
+
+00:54:24.46,00:54:26.49
+I wonder.
+
+00:54:27.21,00:54:29.45
+You wonder what?
+
+00:54:32.97,00:54:36.04
+I wonder how[br]the Potato Prince would feel
+
+00:54:36.14,00:54:39.38
+about us walking together[br]around a moonlit lake.
+
+00:54:39.47,00:54:42.63
+I'm sure he's a very[br]understanding guy.
+
+00:54:44.44,00:54:47.43
+Then again,[br]maybe there is no Potato Prince.
+
+00:54:47.52,00:54:49.56
+Maybe not.
+
+00:54:51.90,00:54:54.61
+- It's sprinkling.[br]- That's nothing.
+
+00:54:54.70,00:54:57.82
+- Do you remember how to dance?[br]- I don't know.
+
+00:54:57.91,00:55:00.86
+- Let's go up to my roof and see.[br]- Your roof?
+
+00:55:00.96,00:55:04.57
+It's where I take all the women[br]I date with no memory.
+
+00:55:04.67,00:55:08.04
+- It's going to rain.[br]- It never rains in LA.
+
+00:55:08.71,00:55:10.75
+I think it is going to rain.
+
+00:55:35.41,00:55:37.74
+- We'll ruin it.[br]- It's already ruined.
+
+00:55:37.83,00:55:40.39
+This is what happened[br]with Roman and Margaret.
+
+00:55:40.50,00:55:42.53
+I'm not Roman.
+
+00:56:04.27,00:56:06.10
+We can always go back inside.
+
+00:56:07.86,00:56:11.72
+No, I'm hungry.[br]Let's go someplace, see what I like.
+
+00:56:11.82,00:56:14.44
+Maybe Syd would give you[br]your old table back.
+
+00:56:14.54,00:56:16.40
+Kathryn?
+
+00:56:19.62,00:56:21.91
+Kathryn!
+
+00:56:22.00,00:56:24.33
+Thank God, you're all right.
+
+00:56:25.51,00:56:27.79
+- You don't recognise me, do you?[br]- No.
+
+00:56:27.88,00:56:30.08
+In a few days, it'll all come back.
+
+00:56:30.18,00:56:33.71
+- Who the hell are you?[br]- I'm sorry. Doug O'Malley.
+
+00:56:33.81,00:56:35.92
+- So?[br]- This is my fiancée.
+
+00:56:38.85,00:56:41.97
+When I got home and[br]you weren't there, I went crazy.
+
+00:56:42.07,00:56:44.43
+Then I saw your picture in the paper.
+
+00:56:44.53,00:56:48.65
+- Why doesn't she recognise you?[br]- It must be the Dalmane.
+
+00:56:48.74,00:56:53.15
+- The what?[br]- Dalmane. It's for insomnia.
+
+00:56:53.24,00:56:56.61
+- "Kathryn Pierce"?[br]- Sometimes it causes memory lapse.
+
+00:56:58.79,00:57:01.36
+- Are those his?[br]- This has happened before?
+
+00:57:01.46,00:57:05.29
+Once when she took too much,[br]but I was around that time.
+
+00:57:05.38,00:57:08.71
+- Whose clothes are these?[br]- Where were you this time?
+
+00:57:08.80,00:57:12.96
+- I had a job interview back east.[br]- What kind of ring does she wear?
+
+00:57:17.15,00:57:21.56
+It's an lrish wedding band.[br]I gave it to her in high school.
+
+00:57:22.49,00:57:25.85
+I'm still going to need[br]a little more.
+
+00:57:25.95,00:57:30.07
+I found this near the front door.[br]You must have dropped it.
+
+00:57:34.29,00:57:38.37
+- Why can't I remember you?[br]- You will. I swear you will.
+
+00:57:44.51,00:57:46.33
+I promise.
+
+00:57:50.35,00:57:53.13
+Is there some sort of fee[br]involved here?
+
+00:57:53.23,00:57:55.26
+Forget it.
+
+00:57:57.15,00:57:59.68
+You should get something[br]for your trouble.
+
+00:57:59.78,00:58:03.52
+- Let me pay for your expenses.[br]- Just...
+
+00:58:07.45,00:58:09.65
+Just take good care of her.
+
+00:58:09.74,00:58:12.49
+I don't know what...
+
+00:58:15.71,00:58:18.04
+Thank you for everything, Mr Church.
+
+00:58:23.30,00:58:25.33
+Have a nice life.
+
+00:58:35.52,00:58:38.31
+The car's up here.[br]We'll go straight to the doctor.
+
+00:58:38.40,00:58:40.43
+I got your other glove.
+
+00:58:45.24,00:58:48.93
+Man, you were this close.
+
+00:58:49.04,00:58:51.86
+This glove thing was a nice touch.
+
+00:58:51.96,00:58:54.03
+I don't know what you mean.
+
+00:58:54.13,00:58:57.49
+There's only one[br]teeny little problem.
+
+00:58:58.09,00:59:01.92
+It's for the wrong hand, Doug.
+
+00:59:14.77,00:59:16.81
+Son of a bitch!
+
+00:59:50.86,00:59:52.89
+You son of a...
+
+01:00:03.29,01:00:06.44
+That fucking guy[br]look like he knew karate to you?
+
+01:00:06.54,01:00:08.41
+I really believed him. Who was he?
+
+01:00:08.50,01:00:10.53
+You got people chasing you[br]in every life.
+
+01:00:10.63,01:00:12.91
+The sooner we find out[br]who you are, the better.
+
+01:00:15.55,01:00:18.00
+In light of today's events,
+
+01:00:19.05,01:00:22.21
+I think we should[br]move along a little faster.
+
+01:00:22.31,01:00:26.38
+Therefore, my dear,[br]I want you to think about
+
+01:00:26.48,01:00:32.39
+when things started to turn sour[br]for Roman and Margaret.
+
+01:00:32.48,01:00:36.89
+All right, then? The door has opened.
+
+01:00:39.07,01:00:43.90
+It all started[br]the night of Otto Kline's party.
+
+01:00:51.75,01:00:56.62
+It was one of Otto's[br]weird costume things.
+
+01:00:56.72,01:00:59.00
+Roman didn't want to go.
+
+01:00:59.10,01:01:02.42
+Margaret was convinced[br]that something was wrong,
+
+01:01:03.18,01:01:07.51
+but Roman would only say[br]that things were wonderful.
+
+01:01:07.61,01:01:12.10
+Welcome, my dear friends.[br]Let the party begin!
+
+01:01:20.91,01:01:23.74
+Margaret, darling! Margaret, hello!
+
+01:01:23.83,01:01:27.95
+- You look so lovely.[br]- You look stunning, beautiful.
+
+01:01:28.04,01:01:31.70
+Strauss, you old Kraut.[br]There you are.
+
+01:01:31.80,01:01:34.62
+- How are you?[br]- Excuse me.
+
+01:01:34.72,01:01:37.46
+Of course, I love what you do.
+
+01:01:39.26,01:01:43.09
+- Otto, I love your costume![br]- What luck I have.
+
+01:01:43.19,01:01:47.76
+- May I have a word in private?[br]- Sure. What's on your mind?
+
+01:01:47.86,01:01:50.47
+- I need some money.[br]- You?
+
+01:01:58.33,01:02:02.57
+- I'm offering you a job.[br]- I can't write music for the movies.
+
+01:02:02.67,01:02:06.16
+I tried it once. You yourself said[br]it wasn't any good.
+
+01:02:06.25,01:02:09.79
+No. I told you it was too good[br]for the damn picture.
+
+01:02:09.88,01:02:13.63
+It doesn't matter. I've turned[br]the library into a music room.
+
+01:02:13.72,01:02:16.96
+If I can just finish this opera,[br]I know things will change.
+
+01:02:17.06,01:02:20.17
+- There you are, you naughty boy.[br]- Darling!
+
+01:02:24.40,01:02:28.17
+- Mission dry, please.[br]- What a coincidence.
+
+01:02:29.11,01:02:30.60
+Mr Baker.
+
+01:02:30.70,01:02:33.48
+- Mrs Strauss.[br]- How are you?
+
+01:02:33.57,01:02:36.78
+- Still miss the war?[br]- Matter of fact, I do.
+
+01:02:38.66,01:02:41.66
+- Thank you.[br]- To friendship.
+
+01:02:43.04,01:02:45.95
+- Cheers.[br]- Cheers.
+
+01:02:49.13,01:02:52.17
+- Is it really good to smoke so much?[br]- No.
+
+01:02:54.35,01:02:58.42
+That's why I started rolling my own.[br]Figured it will slow me down.
+
+01:02:58.52,01:03:02.43
+- Has it?[br]- No. I just roll them faster.
+
+01:03:17.20,01:03:19.91
+- You look like you're somebody.[br]- Do l?
+
+01:03:20.00,01:03:22.28
+- You in the business?[br]- The business?
+
+01:03:22.38,01:03:25.79
+- You know, pictures, movies.[br]- No. I'm a composer.
+
+01:03:25.88,01:03:28.58
+In that case, you're not anybody.
+
+01:03:34.10,01:03:37.51
+It's cold.[br]I think we should go inside.
+
+01:03:39.56,01:03:42.18
+How are things at home, Margaret?
+
+01:03:42.27,01:03:44.56
+Writing gossip these days, Mr Baker?
+
+01:03:44.65,01:03:47.98
+You meet someone on their[br]wedding day, it's been a while,
+
+01:03:48.07,01:03:50.86
+it's natural to inquire[br]how things are going.
+
+01:03:50.95,01:03:54.11
+- Especially if you're a reporter.[br]- Especially.
+
+01:03:54.20,01:03:57.28
+- How are things?[br]- Fine. Wonderful.
+
+01:03:57.37,01:04:00.58
+- Go inside, everyone.[br]- This cutting cold!
+
+01:04:00.67,01:04:04.29
+Make yourself comfortable.[br]Roman, it's freezing out there.
+
+01:04:12.18,01:04:16.97
+- I could be a good friend, Margaret.[br]- What makes you such a good friend?
+
+01:04:17.56,01:04:20.60
+I can talk baseball to a man
+
+01:04:20.69,01:04:24.85
+and pay a stupid compliment[br]to a woman, what else is there?
+
+01:04:25.78,01:04:28.48
+Who's going to win[br]the series this year?
+
+01:04:29.33,01:04:31.15
+Very nice.
+
+01:04:33.41,01:04:35.86
+Impressive piece ofjewellery.
+
+01:04:38.92,01:04:42.75
+May I get close to it?
+
+01:04:43.97,01:04:45.50
+Yes.
+
+01:04:51.27,01:04:53.66
+This must be worth a fortune.
+
+01:04:55.48,01:04:57.51
+Yes, it is.
+
+01:05:01.49,01:05:06.40
+I know I shouldn't say this,[br]but the first time I saw you...
+
+01:05:08.08,01:05:12.02
+- Hello, Margaret.[br]- Roman. Where have you been?
+
+01:05:12.12,01:05:14.66
+Inside with everyone else.
+
+01:05:17.09,01:05:18.91
+How are you, Mr Strauss?
+
+01:05:19.00,01:05:21.87
+I'm curious what you were[br]doing with my wife's leg.
+
+01:05:21.97,01:05:24.25
+- I was only trying...[br]- Really, Roman.
+
+01:05:24.34,01:05:28.84
+- Mr Baker's just a friend.[br]- This man is no friend of yours.
+
+01:05:28.93,01:05:32.97
+This is none of my business[br]but Margaret just needed somebody...
+
+01:05:34.02,01:05:35.93
+Roman!
+
+01:05:42.15,01:05:44.98
+- Where do you get such ideas?[br]- I don't know.
+
+01:05:45.07,01:05:47.52
+Maybe when I saw him[br]holding your leg.
+
+01:05:47.62,01:05:52.03
+He was looking at the anklet[br]you specifically asked me to wear
+
+01:05:52.12,01:05:55.37
+so everybody could see[br]how rich we are, or were.
+
+01:05:55.46,01:05:58.83
+- So you told him we're broke?[br]- I didn't say anything.
+
+01:05:58.92,01:06:00.83
+No, you just lifted up your dress!
+
+01:06:00.92,01:06:03.13
+Is everything all right,[br]Mr Strauss?
+
+01:06:03.93,01:06:07.55
+Yes. Everything is fine.
+
+01:06:13.23,01:06:15.85
+I may not be[br]as successful as Gray Baker...
+
+01:06:15.94,01:06:21.52
+I don't care about Gray Baker![br]You can be so stupid sometimes.
+
+01:06:30.92,01:06:36.62
+What happened to the man who said[br]that nothing could separate us.
+
+01:06:38.63,01:06:41.54
+That we're two halves[br]of the same person?
+
+01:06:42.39,01:06:45.50
+He became a nobody.
+
+01:06:59.78,01:07:02.18
+Only in his eyes.
+
+01:07:06.12,01:07:08.49
+You're not a nobody, Roman.
+
+01:07:12.84,01:07:14.87
+And you're my husband.
+
+01:07:18.13,01:07:20.17
+I love you.
+
+01:07:34.61,01:07:36.44
+No, no...
+
+01:07:37.66,01:07:40.65
+- No![br]- Mr Strauss?
+
+01:07:43.79,01:07:48.41
+- Yes, Frankie?[br]- The phone rang. Mother answered.
+
+01:07:48.50,01:07:53.50
+I'm not sure,[br]but I think it's for you.
+
+01:07:56.59,01:07:58.71
+Thank you, Frankie.
+
+01:08:06.19,01:08:09.39
+I called to apologise[br]about the other night.
+
+01:08:09.48,01:08:14.02
+Not at all. I'm hoping[br]that we can all forget what happened.
+
+01:08:14.11,01:08:19.45
+Margaret, I think there's some things[br]you should know about Roman's money.
+
+01:08:23.04,01:08:27.66
+- Who was on the phone earlier?[br]- Just an old friend.
+
+01:08:29.00,01:08:31.04
+The flute player.
+
+01:08:33.67,01:08:35.50
+Oboe.
+
+01:08:39.72,01:08:41.76
+How is he?
+
+01:08:48.11,01:08:50.14
+She's fine.
+
+01:08:59.87,01:09:01.69
+Good.
+
+01:09:12.88,01:09:14.92
+What are you doing?
+
+01:09:17.85,01:09:20.13
+I was giving you this.
+
+01:09:20.23,01:09:23.51
+It's a charm for good luck.
+
+01:09:23.60,01:09:28.10
+Frankie, do you know what happened[br]to my pearl earrings?
+
+01:09:28.19,01:09:31.27
+No, I don't.
+
+01:09:31.36,01:09:33.44
+They were in this drawer last night.
+
+01:09:33.53,01:09:38.15
+I wouldn't steal anything from you,[br]Mrs Strauss.
+
+01:09:38.24,01:09:44.32
+I don't have to.[br]Roman is very good to us.
+
+01:10:06.40,01:10:08.23
+You're overreacting.
+
+01:10:08.32,01:10:10.60
+I caught him[br]with his hand in my drawer.
+
+01:10:10.70,01:10:15.15
+He was giving you a charm.[br]They're like that, superstitious.
+
+01:10:15.24,01:10:19.57
+- I want you to fire them.[br]- I can't fire them.
+
+01:10:19.67,01:10:22.57
+- They've been with me for years.[br]- That's no reason...
+
+01:10:22.67,01:10:25.62
+- They saved my life.[br]- What are you talking about?
+
+01:10:25.71,01:10:28.16
+They got me out of Germany.
+
+01:10:28.26,01:10:32.59
+After my wife died, I became ill.
+
+01:10:32.68,01:10:36.92
+Frankie and lnga risked their[br]own lives by remaining with me.
+
+01:10:37.02,01:10:41.18
+They made many sacrifices. They...
+
+01:10:42.23,01:10:45.77
+You can't ask me to[br]fire these people, Margaret.
+
+01:10:45.86,01:10:50.19
+Why have you never told me you got[br]all your money from your first wife?
+
+01:10:51.12,01:10:53.07
+Because it isn't true. Who...?
+
+01:10:53.16,01:10:56.65
+Why would a woman with a bad heart[br]travel over mountains?
+
+01:10:56.75,01:11:00.99
+We had no choice. It would have[br]been worse had we stayed.
+
+01:11:03.50,01:11:07.92
+Have I answered all[br]of Mr Baker's questions?
+
+01:11:09.76,01:11:12.50
+He's been feeding you[br]this nonsense, hasn't he?
+
+01:11:12.60,01:11:15.80
+What is it between you and Mr Baker?
+
+01:11:15.89,01:11:19.30
+- Roman, don't start this.[br]- Where do you two meet?
+
+01:11:19.40,01:11:21.51
+Don't you walk away from me!
+
+01:11:25.86,01:11:27.94
+Wake up, sweetheart.
+
+01:11:29.07,01:11:33.15
+- Roman?[br]- No. These are for you.
+
+01:11:39.92,01:11:45.04
+- You were in the house.[br]- What house?
+
+01:11:45.76,01:11:49.13
+Roman and Margaret's house.
+
+01:11:49.22,01:11:52.17
+You saw Mr Church in the past?
+
+01:11:52.27,01:11:54.94
+He had a pair of scissors.
+
+01:11:57.19,01:11:59.39
+He was going to kill me.
+
+01:11:59.48,01:12:03.81
+- Come on.[br]- This means that you're finally...
+
+01:12:03.90,01:12:06.15
+coming into the present.
+
+01:12:06.24,01:12:12.32
+- I'm on her mind, that's all.[br]- You were there.
+
+01:12:12.41,01:12:16.87
+We could always regress you, Mr[br]Church, take you back 40 years.
+
+01:12:17.59,01:12:19.91
+- Forget it.[br]- Well, why not?
+
+01:12:20.00,01:12:23.95
+That way, if you walk through[br]the door and out onto Miami Beach,
+
+01:12:24.05,01:12:27.04
+- at least we'd know for certain.[br]- I'm not Roman.
+
+01:12:27.97,01:12:30.00
+But you were there.
+
+01:12:31.60,01:12:33.63
+It was real.
+
+01:12:57.59,01:13:00.50
+Yes. I'm coming. Yeah?
+
+01:13:00.59,01:13:02.58
+- Mike, this is Pete.[br]- Yeah?
+
+01:13:02.68,01:13:06.17
+- I got a line on Gray Baker.[br]- So he's still alive?
+
+01:13:06.26,01:13:09.71
+I got a post office box[br]in the Valley.
+
+01:13:09.81,01:13:13.93
+- I want to send him a message.[br]- Hold on. Go ahead.
+
+01:13:14.02,01:13:18.02
+You have it say, "Margaret wants[br]to know if you still miss the war."
+
+01:13:18.11,01:13:20.48
+- What?[br]- No name. Just my number.
+
+01:13:21.86,01:13:24.77
+Maybe Gray Baker[br]can make sense out of this.
+
+01:13:24.87,01:13:28.78
+- I'm afraid of you, Mike.[br]- You're afraid of a dead man.
+
+01:13:29.87,01:13:32.35
+You heard what Dr Carlisle said,
+
+01:13:32.46,01:13:35.49
+about how two people[br]keep meeting again and again.
+
+01:13:35.59,01:13:39.00
+Say that's true.[br]Why would I hurt you?
+
+01:13:39.09,01:13:42.38
+- Why would Roman hurt Margaret?[br]- I'm not Roman!
+
+01:13:42.47,01:13:44.50
+Trudy! Will you shut up?
+
+01:13:45.14,01:13:47.59
+OK, take these.
+
+01:13:48.77,01:13:50.97
+- Take them![br]- Well, I don't want them.
+
+01:13:51.06,01:13:54.22
+I want you to have them,[br]so just take them.
+
+01:13:54.32,01:13:56.52
+OK, all right.
+
+01:13:57.65,01:14:01.19
+- Will you stop...[br]- Take the fucking scissors, Grace!
+
+01:14:01.28,01:14:05.40
+Come on. I got some more.[br]Come on! Let's clear this thing up.
+
+01:14:07.96,01:14:11.12
+- Mike, don't![br]- We can't be too careful.
+
+01:14:11.21,01:14:13.88
+I might scratch your eyes out[br]with them.
+
+01:14:13.96,01:14:17.50
+I know we got some more.[br]There's got to be some in here.
+
+01:14:17.59,01:14:20.50
+Mike, please stop it! Stop it!
+
+01:14:20.59,01:14:23.92
+Here, take it. Sleep with it.[br]Put it under your pillow.
+
+01:14:24.01,01:14:27.13
+- I come near you, blow my head off.[br]- No!
+
+01:14:27.23,01:14:32.05
+If you're so fucking afraid of me,[br]you should be glad to have it!
+
+01:14:32.94,01:14:34.77
+No!
+
+01:14:47.46,01:14:51.45
+I'm sorry. It's OK.
+
+01:14:53.21,01:14:55.25
+I would never hurt you, Margaret.
+
+01:15:03.06,01:15:04.88
+All right.
+
+01:15:07.31,01:15:09.47
+Let us begin with the staircase.
+
+01:15:11.07,01:15:15.81
+As you continue down, you become[br]aware of a door at the bottom.
+
+01:15:16.74,01:15:18.77
+As you move through this door,
+
+01:15:18.87,01:15:21.86
+you will recall a memory,[br]any memory at all.
+
+01:15:22.87,01:15:26.86
+Just tell me the first thing you see[br]as you go through the door.
+
+01:15:26.96,01:15:30.53
+Remember,[br]you are no longer an observer.
+
+01:15:30.63,01:15:32.45
+Where are you?
+
+01:15:32.55,01:15:35.62
+- In a hallway.[br]- Whose hallway?
+
+01:15:35.72,01:15:38.67
+- My hallway.[br]- Who are you?
+
+01:15:38.76,01:15:42.97
+- I don't know.[br]- Have a look at yourself.
+
+01:15:43.89,01:15:45.80
+What do you see?
+
+01:15:45.90,01:15:48.51
+My leg? I don't know.
+
+01:15:49.48,01:15:51.60
+I see a candlestick.
+
+01:15:52.74,01:15:57.40
+I'm going through a door.[br]It's a bedroom, it's my bedroom.
+
+01:15:58.70,01:16:01.86
+I see pictures[br]on the walls, a chair...
+
+01:16:01.95,01:16:05.20
+I don't know,[br]there's this dressing table.
+
+01:16:07.04,01:16:10.24
+Mr Church, what else do you see?
+
+01:16:10.84,01:16:13.79
+The chair. I see a mirror.
+
+01:16:13.88,01:16:18.63
+- And in the mirror?[br]- I see myself.
+
+01:16:18.72,01:16:21.80
+Do you know your name?
+
+01:16:21.89,01:16:24.01
+Yes.
+
+01:16:24.10,01:16:26.14
+- Well, what is it?[br]- Strauss.
+
+01:16:31.28,01:16:35.31
+What do you see, Mr Church?[br]What do you see?
+
+01:16:36.20,01:16:38.73
+Stop this. Jealous... Have to...
+
+01:16:40.12,01:16:41.95
+Have to stop this.
+
+01:16:42.04,01:16:45.53
+I have to stop this.[br]I have to stop this.
+
+01:16:48.00,01:16:51.75
+No, Mr Baker.[br]There's nothing to say. Goodbye.
+
+01:17:02.65,01:17:04.68
+I think we've heard enough.
+
+01:17:04.77,01:17:09.56
+No, you haven't.[br]I'm not Roman, and you were not...
+
+01:17:09.65,01:17:11.48
+Hello!
+
+01:17:11.57,01:17:13.73
+Mike, I was hoping you'd be here.
+
+01:17:13.82,01:17:16.07
+Hi, Amanda.
+
+01:17:17.37,01:17:21.45
+- Who?[br]- That's your name, Amanda Sharp.
+
+01:17:21.54,01:17:24.74
+Your ID's inside.[br]Apparently, you're an artist.
+
+01:17:24.84,01:17:29.08
+You live on High Tower, the old[br]Carl Kay house, with the elevator?
+
+01:17:29.17,01:17:31.21
+Your neighbour saw the picture.
+
+01:17:31.30,01:17:34.59
+When they couldn't[br]reach Mike, they called the paper.
+
+01:17:34.68,01:17:36.59
+No!
+
+01:17:40.40,01:17:42.60
+I got to get out of here.
+
+01:17:51.57,01:17:53.61
+Are you OK?
+
+01:17:54.20,01:17:57.44
+Look out![br]There's no reason to be so upset.
+
+01:17:57.54,01:18:00.45
+She's got no husband,[br]no fiancé, no nothing.
+
+01:18:00.54,01:18:03.08
+- You butthead![br]- I checked.
+
+01:18:03.17,01:18:07.29
+We're talking about a profound state[br]of unattachment.
+
+01:18:09.97,01:18:14.46
+- Did you hear what I said?[br]- Yeah. It doesn't matter any more.
+
+01:18:14.56,01:18:17.63
+Watch the feet, for Christ's sake.[br]What's the matter with you?
+
+01:18:19.81,01:18:21.85
+Let me get this straight.
+
+01:18:21.94,01:18:25.60
+- You were this Margaret Strauss?[br]- That's right.
+
+01:18:25.69,01:18:28.77
+The lady with no memory[br]was your husband?
+
+01:18:28.86,01:18:30.69
+Roman Strauss.
+
+01:18:30.78,01:18:35.61
+And 40 years ago, she killed you,[br]and now she's back again.
+
+01:18:35.71,01:18:37.78
+Right.
+
+01:18:37.87,01:18:40.62
+It all makes perfect sense.
+
+01:18:40.71,01:18:44.79
+This gender switching shit[br]happens all the time.
+
+01:18:44.88,01:18:48.13
+You can be Bob in one life[br]and then Betty in the next.
+
+01:18:48.22,01:18:52.76
+- Husband in one, wife in the next.[br]- Two halves of the same person.
+
+01:18:52.85,01:18:55.72
+From this picture,[br]you look more like him.
+
+01:18:55.81,01:18:59.05
+- But what a babe you were.[br]- Come on.
+
+01:19:07.87,01:19:09.90
+What happens now?
+
+01:19:10.24,01:19:13.40
+Fucking do her, man. Blow her away.
+
+01:19:13.50,01:19:17.66
+- What?[br]- One shot, right here.
+
+01:19:17.75,01:19:21.79
+- You telling me to kill her?[br]- You do her before she does you.
+
+01:19:21.88,01:19:25.04
+I thought karma meant[br]learning from previous lives.
+
+01:19:25.13,01:19:28.79
+That's what you learned[br]from this life.
+
+01:19:29.60,01:19:32.84
+Karmically,[br]self-defence is quite cool.
+
+01:19:32.93,01:19:34.97
+Besides, what you've told me,
+
+01:19:35.06,01:19:38.89
+I doubt it's any different today[br]than it was 40 years ago.
+
+01:19:38.98,01:19:41.68
+Maybe Roman Strauss[br]didn't kill his wife.
+
+01:19:41.78,01:19:45.90
+You know that's not true. He caught[br]her on the phone and killed her.
+
+01:19:45.99,01:19:51.65
+- I didn't see him kill her.[br]- If I were you, I'd forget her.
+
+01:19:51.91,01:19:56.66
+I can't forget her.[br]I don't know what to do.
+
+01:20:09.18,01:20:11.26
+Why would she want[br]to kill me now?
+
+01:20:11.35,01:20:14.47
+Why do women do anything?
+
+01:20:14.56,01:20:17.93
+Your neighbour said[br]you were mugged one night.
+
+01:20:18.03,01:20:21.85
+You seemed OK,[br]but the next night you were gone.
+
+01:20:21.95,01:20:24.19
+Your work's still here, though.
+
+01:20:30.37,01:20:32.57
+My God!
+
+01:20:34.29,01:20:38.33
+- I live here?[br]- Give yourself some time.
+
+01:20:49.06,01:20:51.22
+But I don't recognise anything.
+
+01:20:53.61,01:20:55.68
+Nothing.
+
+01:20:55.77,01:20:58.23
+But you will, my dear. You will.
+
+01:20:58.32,01:21:00.35
+She used to paint seascapes.
+
+01:21:01.07,01:21:05.52
+Her mind has obviously been stealing[br]visits to the past for some time
+
+01:21:05.62,01:21:09.65
+until, apparently, she woke up[br]one night stranded there.
+
+01:21:10.87,01:21:15.12
+Why don't you forget all this[br]metaphysical stuff and call Mike?
+
+01:21:15.21,01:21:18.37
+I don't think that would[br]be a good idea at all.
+
+01:21:18.47,01:21:22.00
+Let me be very honest.[br]At this point, I think it best
+
+01:21:22.10,01:21:26.34
+you have no contact whatsoever[br]with Mr Church. None.
+
+01:21:26.43,01:21:29.47
+You don't honestly think[br]Mike would hurt her.
+
+01:21:29.56,01:21:32.01
+I think they could hurt each other.
+
+01:21:32.11,01:21:35.02
+I promise you, my dear,[br]within 24 hours,
+
+01:21:35.61,01:21:39.23
+Mr Church will come riding up[br]that lovely old elevator
+
+01:21:39.32,01:21:43.61
+with nothing but the sweetest words[br]and the very best intentions.
+
+01:21:43.70,01:21:48.74
+He'll have a perfect explanation as[br]to why everything will be just fine.
+
+01:21:48.83,01:21:51.91
+Before you know it,[br]you'll be in each other's arms
+
+01:21:52.00,01:21:54.54
+and you'll feel warm and safe.
+
+01:21:54.63,01:21:57.50
+But I'm telling you[br]right here and now,
+
+01:21:57.59,01:22:01.00
+any security you feel[br]will be an illusion.
+
+01:22:01.10,01:22:04.01
+I'm telling you,[br]any relationship with Mr Church
+
+01:22:04.10,01:22:06.22
+can end only one way - violently.
+
+01:22:06.31,01:22:09.39
+I've known Mike forever.[br]He'd never hurt her.
+
+01:22:09.48,01:22:13.89
+Mr Dougan, we're talking about fate.[br]If fate works at all,
+
+01:22:13.98,01:22:18.35
+it's because people think that[br]this time, it isn't going to happen.
+
+01:22:18.45,01:22:20.27
+I don't...
+
+01:22:21.45,01:22:26.03
+I've got to run down to the paper for[br]a while. I'll check on you tonight.
+
+01:22:26.12,01:22:28.91
+What about tomorrow night[br]and the night after?
+
+01:22:29.00,01:22:31.79
+How am I supposed to keep him away?
+
+01:22:31.88,01:22:35.33
+If you can't keep him[br]away with words, use this.
+
+01:22:37.01,01:22:39.71
+Sorry.[br]It's been in my shop for years.
+
+01:22:39.80,01:22:43.72
+It belonged to a famous gangster,[br]Stinky somebody.
+
+01:22:43.81,01:22:47.55
+- I can't use that.[br]- It's old, but it still fires.
+
+01:22:47.65,01:22:51.34
+- I can't shoot anybody.[br]- Take it all the same.
+
+01:22:51.44,01:22:56.02
+You don't honestly believe this[br]stuff, do you? Does Mike?
+
+01:22:56.11,01:22:58.19
+He found you again, didn't he?
+
+01:22:58.28,01:23:00.57
+I saw you two together[br]the other night.
+
+01:23:00.66,01:23:03.53
+You looked good. You looked happy.
+
+01:23:04.37,01:23:07.41
+What about that man[br]you told me about?
+
+01:23:07.50,01:23:12.12
+That mailman[br]who chopped up his wife and family.
+
+01:23:14.88,01:23:17.63
+How happy were they[br]when they first met?
+
+01:23:27.77,01:23:32.06
+Yeah? This is Mike Church.[br]Somebody called me.
+
+01:23:32.15,01:23:36.65
+Mr Church, someone would[br]like to see you, a Mr Gray Baker.
+
+01:23:43.83,01:23:48.29
+He'll ask, but whatever you do,[br]don't let him smoke.
+
+01:24:02.27,01:24:04.09
+Gray Baker?
+
+01:24:05.82,01:24:09.51
+- Can I have a cigarette?[br]- You're not supposed to smoke.
+
+01:24:09.61,01:24:12.81
+I'm dying.[br]What the fuck is the difference?
+
+01:24:12.91,01:24:16.65
+I don't want to get in trouble.[br]I just want to...
+
+01:24:16.74,01:24:21.07
+You claim someone says[br]they're Margaret Strauss.
+
+01:24:21.62,01:24:25.70
+I said that they said that they...
+
+01:24:26.46,01:24:28.58
+They were Margaret Strauss.
+
+01:24:30.01,01:24:34.00
+You know, in a past life.
+
+01:24:38.10,01:24:42.64
+He said it wasn't over.[br]That's what he said to me.
+
+01:24:44.19,01:24:48.27
+I assume he meant[br]I hadn't heard the last of him.
+
+01:24:48.36,01:24:51.52
+I read a book[br]by Roman's guard on death row.
+
+01:24:51.61,01:24:54.07
+He said right before[br]Roman was executed,
+
+01:24:54.16,01:24:56.94
+you asked him if he[br]really killed his wife.
+
+01:24:57.04,01:25:00.90
+The guard said Roman[br]whispered the answer in your ear.
+
+01:25:02.08,01:25:04.75
+- What did he say?[br]- Why do you want to know?
+
+01:25:04.84,01:25:07.20
+Mr Baker, did Roman kill his wife?
+
+01:25:10.18,01:25:11.58
+No.
+
+01:25:11.68,01:25:16.38
+Although, at the time,[br]I honestly thought he did,
+
+01:25:16.48,01:25:21.01
+until I went to see him on death row.
+
+01:25:21.11,01:25:22.93
+What did he say?
+
+01:25:23.02,01:25:26.48
+- Can I have a cigarette?[br]- I don't have any. What did he say?
+
+01:25:26.57,01:25:29.31
+- In your pocket.[br]- What did Roman tell you?
+
+01:25:29.41,01:25:32.11
+What did Roman tell you?[br]What did Roman tell you?
+
+01:25:32.20,01:25:34.23
+Tell me, Mr Baker!
+
+01:25:35.20,01:25:38.11
+Take it easy. Are you OK?
+
+01:25:38.21,01:25:40.24
+Jesus. Just...
+
+01:25:41.34,01:25:43.37
+Want me to get someone?
+
+01:25:58.52,01:26:02.97
+May I please have a cigarette?
+
+01:26:03.07,01:26:04.89
+Yeah.
+
+01:26:37.44,01:26:40.56
+No. Keep them. Really. I just quit.
+
+01:26:42.74,01:26:44.35
+He didn't say anything.
+
+01:26:44.45,01:26:46.98
+Come on. I gave you[br]a fucking cigarette.
+
+01:26:47.07,01:26:49.86
+I'm telling the truth. I asked him...
+
+01:26:49.95,01:26:52.40
+But you still killed her.
+
+01:26:55.04,01:26:56.99
+Didn't you?
+
+01:27:06.68,01:27:09.75
+- He kissed me.[br]- What?
+
+01:27:09.85,01:27:15.64
+He kissed me. The bastard[br]leaned over and kissed me,
+
+01:27:15.73,01:27:20.18
+and I have not written a word since.
+
+01:27:20.28,01:27:24.48
+Who killed her?
+
+01:27:25.57,01:27:29.82
+- I don't know.[br]- You've been a big help. Thanks.
+
+01:27:29.91,01:27:31.95
+Sit down.
+
+01:27:32.50,01:27:37.45
+If anyone would know,[br]it would be the housekeeper.
+
+01:27:37.55,01:27:40.75
+- The housekeeper? lngrid something?[br]- Inga.
+
+01:27:40.84,01:27:43.51
+She knew everything[br]that went on in that house.
+
+01:27:43.59,01:27:46.55
+- She's still alive?[br]- Perhaps.
+
+01:27:46.64,01:27:51.01
+Last I heard, they had opened[br]some sort of shop.
+
+01:27:51.10,01:27:53.34
+Antiques.
+
+01:27:56.69,01:27:59.14
+She and the son[br]opened an antique shop?
+
+01:27:59.24,01:28:01.39
+Antiques.
+
+01:28:04.07,01:28:07.69
+The Laughing...[br]The Laughing something.
+
+01:28:07.79,01:28:10.19
+- On Robertson.[br]- On Robertson.
+
+01:28:40.36,01:28:44.36
+Don't forget the rings and jewellery[br]in the bureau drawer.
+
+01:28:44.45,01:28:47.86
+Our client wants it to[br]look like simple robbery.
+
+01:28:47.96,01:28:51.45
+- That's very important.[br]- OK.
+
+01:28:51.54,01:28:53.87
+Let me just check the address again.
+
+01:28:55.42,01:28:58.16
+Hi, lnga.
+
+01:29:02.18,01:29:05.55
+You know who I am.[br]We don't have much time.
+
+01:29:05.64,01:29:09.05
+So before I call the police,[br]I thought I'd stop by,
+
+01:29:09.15,01:29:12.26
+see if you'd tell me[br]why you murdered Margaret Strauss.
+
+01:29:12.36,01:29:15.22
+What are you doing here?[br]Where's Frankie?
+
+01:29:15.32,01:29:17.69
+You know what I'm doing here.
+
+01:29:17.78,01:29:21.69
+You loved Roman. I want the truth.[br]I'm not leaving without it.
+
+01:29:21.78,01:29:24.32
+You don't know anything.
+
+01:29:35.67,01:29:43.76
+I never for a moment thought[br]I was actually in love with him.
+
+01:29:43.85,01:29:50.05
+- Until he met Margaret.[br]- First I was really glad.
+
+01:29:50.15,01:29:54.18
+Margaret was good to Roman.
+
+01:29:54.28,01:29:58.05
+For a while,[br]she was good to Frankie and me, too.
+
+01:30:00.37,01:30:06.73
+But then they got married[br]and it all went to hell.
+
+01:30:07.79,01:30:12.70
+The day of the murder, I decided[br]to tell Roman how I really felt,
+
+01:30:12.80,01:30:16.04
+that we were so much happier[br]before in Germany,
+
+01:30:16.14,01:30:19.46
+that we would be happier[br]there now, together.
+
+01:30:19.56,01:30:20.96
+I love you.
+
+01:30:21.06,01:30:23.38
+But Roman said[br]he could never love me.
+
+01:30:23.48,01:30:27.22
+I tried to explain it to Frankie,[br]but he couldn't understand
+
+01:30:27.31,01:30:30.68
+that Roman and Margaret[br]truly loved each other.
+
+01:30:30.78,01:30:34.35
+Mr Baker,[br]I don't want you to call me any more.
+
+01:30:34.45,01:30:38.11
+No, Mr Baker, there's nothing to say.[br]Goodbye.
+
+01:30:44.54,01:30:46.94
+- I'm so sorry.[br]- Roman...
+
+01:30:50.51,01:30:53.87
+I'm sorry, too.[br]I haven't been very understanding.
+
+01:30:53.97,01:30:57.29
+I know you've been unhappy[br]these past months.
+
+01:30:59.31,01:31:01.38
+I just couldn't admit it.
+
+01:31:04.44,01:31:07.11
+I couldn't admit that[br]you might be unhappy with me.
+
+01:31:07.19,01:31:09.35
+Unhappy with you?
+
+01:31:09.44,01:31:13.19
+Margaret, I love you.
+
+01:31:17.83,01:31:24.27
+So Roman loved Margaret and not me,[br]and Frankie hated her for it.
+
+01:31:25.38,01:31:27.45
+I just didn't know how much.
+
+01:31:29.21,01:31:31.61
+That same terrible night,
+
+01:31:31.72,01:31:35.92
+we heard Roman's opera[br]echoing through the house
+
+01:31:36.01,01:31:39.63
+for the first and the last time.
+
+01:31:42.40,01:31:46.34
+I didn't know what was happening[br]until it was...
+
+01:31:47.69,01:31:49.68
+all over.
+
+01:31:50.99,01:31:52.81
+Who's there?
+
+01:31:52.91,01:31:54.94
+After the murder,
+
+01:31:57.87,01:32:03.45
+Frankie's speech problem[br]got worse and worse,
+
+01:32:03.54,01:32:08.61
+so I took him to England,[br]to a specialist.
+
+01:32:10.55,01:32:16.67
+The guy used hypnosis to cure him.
+
+01:32:16.77,01:32:22.05
+He told him about the subconscious[br]and about reincarnation.
+
+01:32:23.02,01:32:25.06
+And from that moment on,
+
+01:32:25.15,01:32:31.11
+the boy was obsessed with the idea[br]that Margaret would come after him.
+
+01:32:31.20,01:32:38.24
+And when he found your article[br]in the newspaper, he knew.
+
+01:32:38.33,01:32:42.11
+So he hired Dougie the fiancé[br]to take her from me?
+
+01:32:42.21,01:32:45.41
+His real name's Mark.[br]He's just an actor.
+
+01:32:45.51,01:32:49.08
+Jesus![br]I left Grace alone with your son.
+
+01:32:49.18,01:32:51.21
+Wait a minute.
+
+01:32:58.35,01:33:00.80
+I'm through protecting him.
+
+01:33:35.56,01:33:38.80
+- It's all right.[br]- I had to tell him.
+
+01:33:39.77,01:33:43.77
+It's all right, Mother.[br]You should be in bed.
+
+01:33:50.08,01:33:52.11
+Up we go.
+
+01:34:00.09,01:34:01.91
+There.
+
+01:34:07.93,01:34:10.30
+Just couldn't live with it any more.
+
+01:34:12.39,01:34:14.43
+I understand.
+
+01:34:16.40,01:34:18.80
+Good night, Frankie.
+
+01:34:26.07,01:34:28.11
+Good night, Mother.
+
+01:35:06.70,01:35:08.65
+Shit!
+
+01:36:50.31,01:36:53.72
+- Grace, it's Mike. Let me in.[br]- Go away!
+
+01:36:53.82,01:36:57.23
+- I need to talk to you.[br]- I'm calling the police.
+
+01:37:09.29,01:37:11.49
+I know you're upset.[br]If you'll just listen...
+
+01:37:11.59,01:37:13.62
+What did you do to the phone?
+
+01:37:13.71,01:37:16.46
+- What are you talking about?[br]- The line is dead.
+
+01:37:16.55,01:37:20.04
+It's windy out. Lines are[br]probably out all over the hills.
+
+01:37:20.14,01:37:22.51
+- Will you listen?[br]- Just go away!
+
+01:37:38.33,01:37:43.36
+Will you just listen to me, OK?
+
+01:37:45.08,01:37:47.32
+Don't shoot. Take it easy, Grace.
+
+01:37:47.42,01:37:49.24
+Where are you going?
+
+01:37:49.34,01:37:51.37
+- I won't hurt you![br]- Go away!
+
+01:37:51.46,01:37:54.08
+Take it easy. Look. Listen. Watch.
+
+01:37:54.18,01:37:57.04
+Roman did not kill his wife.[br]He was writing the opera.
+
+01:37:57.14,01:37:59.42
+Listen, this is for you.
+
+01:38:27.88,01:38:29.79
+My god.
+
+01:38:30.92,01:38:32.96
+What have I done?
+
+01:38:42.35,01:38:45.10
+- Mr Madson.[br]- Good evening.
+
+01:38:49.94,01:38:51.98
+I shot him.
+
+01:38:52.70,01:38:57.53
+Thank you. Less work for Frankie.
+
+01:38:58.83,01:39:02.07
+Who's there? Frankie?
+
+01:39:10.55,01:39:12.92
+Antiques.
+
+01:39:19.64,01:39:21.68
+This is for you!
+
+01:39:22.73,01:39:25.26
+And this is for my mother!
+
+01:40:52.33,01:40:54.15
+Margaret?
+
+01:41:29.29,01:41:31.74
+It's all over, Frankie!
+
+01:41:34.62,01:41:38.24
+- Mike, don't![br]- Pete, stop it!
+
+01:41:39.63,01:41:41.91
+Don't!
+
+01:41:51.48,01:41:54.18
+I, for one,
+
+01:41:54.27,01:41:57.35
+am very interested...
+
+01:41:58.78,01:42:00.14
+to see...
+
+01:42:01.82,01:42:03.65
+what's going to happen next.
+
+01:42:03.74,01:42:06.22
+Somebody help me!
+
+01:43:17.19,01:43:20.60
+- I'm so sorry. I'm sorry.[br]- It's OK.
+
+01:43:21.32,01:43:23.40
+It's OK.
+
+01:43:26.00,01:43:28.53
+The door just closed.
+

@@ -1,0 +1,1158 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{1153}{1227}Once upon a time|in a far away land...
+{1233}{1324}a young prince|lived in a shining castle.
+{1330}{1402}Although he had everything|his heart desired...
+{1408}{1539}the prince was spoiled,|selfish and unkind.
+{1545}{1594}But then,|one winter's night...
+{1600}{1659}an old beggar woman|came to the castle...
+{1665}{1731}and offered him|a single rose...
+{1737}{1814}in return for shelter|from the bitter cold.
+{1820}{1874}Repulsed by her|haggard appearance...
+{1880}{1994}the prince sneered at the gift|and turned the old woman away.
+{2000}{2079}But she warned him not to be|deceived by appearances...
+{2085}{2157}for beauty is found within.
+{2163}{2275}And when he dismissed her again,|the old woman's ugliness melted away...
+{2281}{2371}to reveal|a beautiful enchantress.
+{2377}{2445}The prince tried to apologize,|but it was too late...
+{2451}{2535}for she had seen that|there was no love in his heart.
+{2541}{2624}And as punishment, she transformed him|into a hideous beast...
+{2630}{2760}and placed a powerful spell|on the castle and all who lived there.
+{2766}{2822}Ashamed of|his monstrous form...
+{2828}{2896}the beast concealed himself|inside his castle...
+{2902}{3031}with a magic mirror as|his only window to the outside world.
+{3037}{3088}The rose she had offered...
+{3094}{3150}was truly an enchanted rose...
+{3156}{3238}which would bloom|until his 21st year.
+{3244}{3305}If he could learn|to love another...
+{3311}{3428}and earn her love in return|by the time the last petal fell...
+{3434}{3509}then the spell|would be broken.
+{3515}{3575}If not,|he would be doomed...
+{3581}{3685}to remain a beast|for all time.
+{3691}{3737}As the years passed...
+{3743}{3870}he fell into despair|and lost all hope...
+{3876}{4011}for who could ever learn|to love a beast?
+{4609}{4733}{y:i}Little town|{y:i}It's a quiet village
+{4739}{4852}{y:i}Every day|{y:i}like the one before
+{4858}{4959}{y:i}Little town|{y:i}full of little people
+{4965}{5127}{y:i}Waking up to say
+{5187}{5274}{y:i}There goes the baker|{y:i}with his tray like always
+{5280}{5352}{y:i}The same old|{y:i}bread and rolls to sell
+{5358}{5400}{y:i}Every morning|{y:i}just the same
+{5406}{5443}{y:i}Since the morning|{y:i}that we came
+{5449}{5506}{y:i}- To this poor provincial town|- Good morning, Belle.
+{5512}{5553}- Morning, monsieur.|- Where you off to?
+{5559}{5631}The bookshop. I just finished|the most wonderful story...
+{5637}{5692}- about a beanstalk and an ogre and...|- That's nice.
+{5698}{5773}Marie, the baguettes!|Hurry up!
+{5779}{5857}{y:i}Look, there she goes|{y:i}The girl is strange, no question
+{5863}{5940}{y:i}Dazed and distracted|{y:i}Can't you tell
+{5946}{6029}{y:i}- Never part of any crowd|{y:i}- 'Cause her head's up on some cloud
+{6035}{6132}{y:i}No denying she's a funny girl|{y:i}that Belle
+{6138}{6180}- Bonjour|{y:i}- Good day
+{6186}{6221}{y:i}How is your family
+{6227}{6272}- Bonjour|{y:i}- Good day
+{6278}{6313}{y:i}How is your wife
+{6319}{6397}{y:i}- I need six eggs|{y:i}- That's too expensive
+{6403}{6498}{y:i}There must be more|{y:i}than this provincial life
+{6504}{6557}- Ah, Belle!|- Good morning.
+{6563}{6628}- I've come to return|the book I borrowed.|- Finished already?
+{6634}{6692}Oh, I couldn't put it down.|Have you got anything new?
+{6698}{6737}Not since yesterday.
+{6743}{6820}That's all right.|I'll borrow this one.
+{6826}{6881}That one?|But you've read it twice!
+{6887}{6934}Well, it's my favourite!|Far-off places...
+{6940}{7012}daring sword fights, magic spells,|a prince in disguise.
+{7018}{7090}If you like it all that much,|it's yours.
+{7096}{7131}- But, sir!|- I insist.
+{7137}{7207}Well, thank you.|Thank you very much.
+{7213}{7296}{y:i}Look, there she goes|{y:i}That girl is so peculiar
+{7302}{7376}{y:i}I wonder if|{y:i}she's feeling well
+{7382}{7460}{y:i}- With a dreamy, far-off look|{y:i}- And her nose stuck in a book
+{7466}{7559}{y:i}What a puzzle|{y:i}to the rest of us is Belle
+{7565}{7621}{y:i}Oh
+{7627}{7708}{y:i}Isn't this amazing
+{7714}{7770}{y:i}It's my favourite part
+{7776}{7931}{y:i}Because you'll see
+{7937}{8079}{y:i}Here's where|{y:i}she meets Prince Charming
+{8085}{8179}{y:i}But she won't|{y:i}discover that it's him
+{8185}{8262}{y:i}Till chapter three
+{8268}{8301}Hey-hey!|Hey-hey-hey!
+{8307}{8394}{y:i}Now it's no wonder|{y:i}that her name means beauty
+{8400}{8471}{y:i}Her looks have got|{y:i}no parallel
+{8477}{8561}{y:i}But behind that fair facade|{y:i}I'm afraid she's rather odd
+{8567}{8607}{y:i}Very different|{y:i}from the rest of us
+{8613}{8651}{y:i}She's nothing like the rest of us
+{8657}{8787}{y:i}Yes, different from the rest of us|{y:i}is Belle
+{8890}{8935}Wow! You didn't|miss a shot, Gaston!
+{8941}{9004}- You're the greatest hunter|in the whole world!|- I know.
+{9010}{9065}No beast alive stands|a chance against you...
+{9071}{9136}- and no girl, for that matter.|- It's true, Lefou.
+{9142}{9197}And I've got my sights|set on that one.
+{9203}{9256}- The inventor's daughter?|- She's the one!
+{9262}{9311}- The lucky girl I'm going to marry.|- But she...
+{9317}{9365}- The most beautiful girl in town.|- I know, but...
+{9371}{9424}That makes her the best!
+{9430}{9516}- And don't I deserve the best?|- Well, of course! I mean, you do!
+{9522}{9597}{y:i}Right from the moment|{y:i}when I met her, saw her
+{9603}{9611}{y:i}Right from the moment|{y:i}when I met her, saw her
+{9617}{9691}{y:i}I said she's gorgeous|{y:i}and I fell
+{9697}{9740}{y:i}Here in town|{y:i}there's only she
+{9746}{9784}{y:i}Who is beautiful as me
+{9790}{9883}{y:i}So I'm making plans|{y:i}to woo and marry Belle
+{9889}{9978}{y:i}Look, there he goes|{y:i}Isn't he dreamy
+{9984}{10055}{y:i}Monsieur Gaston|{y:i}Oh, he's so cute
+{10061}{10142}{y:i}Be still my heart|{y:i}I'm hardly breathing
+{10148}{10251}{y:i}He's such a tall, dark, strong|{y:i}and handsome brute
+{10257}{10280}- Bonjour|{y:i}- Good day
+{10286}{10330}{y:i}- You call this bacon|{y:i}- What lovely grapes
+{10336}{10361}{y:i}- Some cheese|{y:i}- Ten yards
+{10367}{10415}{y:i}- Excuse me|{y:i}- I'll get the knife|{y:i}- Please let me through
+{10421}{10494}{y:i}- This bread, it's stale|{y:i}- Those fish, they smell|{y:i}- Madame's mistaken
+{10500}{10586}{y:i}There must be more than|{y:i}this provincial life
+{10592}{10687}{y:i}Just watch, I'm going|{y:i}to make Belle my wife
+{10693}{10766}{y:i}Look, there she goes, a girl|{y:i}who's strange but special
+{10772}{10846}{y:i}A most peculiar|{y:i}mademoiselle
+{10852}{10930}{y:i}It's a pity and a sin|{y:i}She doesn't quite fit in
+{10936}{10988}{y:i}'Cause she really is|{y:i}a funny girl
+{10994}{11148}{y:i}A beauty but a funny girl|{y:i}She really is a funny girl
+{11154}{11289}{y:i}That Belle
+{11372}{11441}- Hello, Belle.|- "Bonjour", Gaston.
+{11447}{11491}Gaston, may I have|my book, please?
+{11497}{11554}How can you read this?|There's no pictures!
+{11560}{11611}Well, some people|use their imagination.
+{11617}{11676}Belle, it's about time you got|your head out of those books...
+{11682}{11742}and paid attention|to more important things.
+{11748}{11816}Like me.
+{11822}{11874}The whole town's|talking about it.
+{11880}{11924}It's not right|for a woman to read.
+{11930}{11991}Soon she starts|getting ideas and thinking.
+{11997}{12093}- Gaston, you are positively primeval.|- Why, thank you, Belle.
+{12099}{12149}What do you say you and me|take a walk over to the tavern...
+{12155}{12223}- and take a look at my trophies?|- Maybe some other time.
+{12229}{12307}- What's wrong with her?|- She's crazy.|- He's gorgeous!
+{12313}{12395}Please, Gaston, I can't.|I have to get home to help my father.
+{12401}{12434}Goodbye.
+{12440}{12527}That crazy old loon!|He needs all the help he can get.
+{12533}{12578}Don't talk about|my father that way!
+{12584}{12642}Yeah! Don't talk about|her father that way!
+{12648}{12741}My father is not crazy.|He's a genius!
+{13037}{13130}- Papa?|- How on earth did that happen?
+{13136}{13196}- Doggone it!|- Are you all right, Papa?
+{13202}{13302}I-I'm a... I'm about ready|to give up on this hunk of junk.
+{13308}{13378}- You always say that.|- I mean it this time!
+{13384}{13450}I'll never get this|boneheaded contraption to work!
+{13456}{13532}Yes, you will, and you'll win|first prize at the fair tomorrow.
+{13538}{13632}- Hmph!|- And become a world-famous inventor.
+{13638}{13723}- You really believe that?|- I always have.
+{13729}{13829}Well, what are we waitin' for?|I'll have this thing fixed in no time.
+{13835}{13907}Hand me that... the... the...|the dog-legged clincher there.
+{13913}{13977}So, did you have a good time|in town today?
+{13983}{14034}I got a new book.
+{14040}{14107}Papa, do you think I'm odd?
+{14113}{14158}My daughter? Odd?
+{14164}{14208}Where would you get|an idea like that?
+{14214}{14314}Oh, I don't know. It's just that|I'm not sure I fit in here.
+{14320}{14364}There's no one I can really talk to.
+{14370}{14450}What about that Gaston?|H-He's a handsome fella.
+{14456}{14541}He's handsome, all right,|and rude and conceited and...
+{14547}{14639}- Oh, Papa, he's not for me.|- Well, don't you worry...
+{14645}{14733}'cause this invention's gonna be|the start of a new life for us.
+{14739}{14846}I think that's done it.|Now, let's give it a try.
+{15154}{15237}- It works!|- It does?
+{15243}{15288}- It does!|- You did it!
+{15294}{15336}You really did it!
+{15342}{15457}Hitch up Philippe, girl.|I'm off to the fair!
+{15465}{15519}Goodbye, Papa.|Good luck!
+{15525}{15636}Goodbye, Belle.|Take care while I'm gone.
+{16024}{16046}We should be there by now.
+{16052}{16072}We should be there by now.
+{16078}{16126}Maybe we missed a turn.
+{16132}{16248}I guess I should've taken...|Wait a minute.
+{16316}{16402}No. Let's go this way.
+{16624}{16744}Come on, Philippe, it's a short cut.|We'll be there in no time.
+{17184}{17257}This can't be right.|Where have you taken us, Philippe?
+{17263}{17358}We better turn around.
+{17364}{17494}Whoa. Whoa, boy.|Whoa, now, whoa, Philippe.
+{17510}{17565}Oh! Oh!|Look out! No!
+{17571}{17627}Oh! Oh!|Look out! No!
+{17660}{17772}Whoa!|Whoa, boy!
+{17778}{17840}Back up, back up, back up!
+{17846}{17931}Good boy! Good boy.|That's good, that's... Back up!
+{17937}{17996}Steady, steady, now.|Steady.
+{18002}{18105}Steady. No, Philippe!
+{18239}{18331}Philippe?
+{18333}{18414}Oh.
+{18904}{18979}Help!|Is... Is someone there?
+{18985}{19058}Help!
+{19126}{19205}Oh!
+{19679}{19785}Wha... Oh!
+{19876}{19961}Hello?
+{19978}{20007}Hello!
+{20013}{20065}Poor fellow must have|lost his way in the woods.
+{20071}{20140}Keep quiet.|Maybe he'll go away.
+{20146}{20215}Is someone there?
+{20221}{20280}Not a word, Lumiere.|Not one word!
+{20286}{20385}I-I don't mean to intrude,|but I've lost my horse...
+{20391}{20456}and... and I need a place|to stay for the night.
+{20462}{20509}Oh, Cogsworth, have a heart.
+{20515}{20567}Shh!
+{20573}{20601}O-O-Ow! Ow! Ow!
+{20607}{20656}Of course, monsieur,|you are welcome here.
+{20662}{20695}Who said that?
+{20701}{20743}Over here.
+{20749}{20836}- Where?|- Hello.
+{20883}{20921}Incredible!
+{20927}{20967}Well, now you've done it, Lumiere.
+{20973}{21036}Splendid! Just peachy!
+{21042}{21119}- How is this accomplished?|- Put me down at once!
+{21125}{21224}Stop that! Hee-hee-hee.|Stop that, I say!
+{21339}{21394}Sir, close that at once!
+{21400}{21453}- Do you mind?|- I-I beg your pardon?
+{21459}{21576}It's... It's just that I've|never seen a clock that...
+{21742}{21789}Oh, you are soaked|to the bone, monsieur.
+{21795}{21841}Come.|Warm yourself by the fire.
+{21847}{21924}- Thank you.|- No, no, no!
+{21930}{21975}You know what the master will do|if he finds him here.
+{21981}{22063}I demand that you stop|right there!
+{22069}{22096}Oh, no, no!|Not the master's chair!
+{22102}{22184}Oh, no, no!|Not the master's chair!
+{22204}{22262}I'm not seeing this!|I'm not seeing this!
+{22268}{22393}Well, hello there, boy.
+{22456}{22508}- Oh, what service!|- All right!
+{22514}{22588}This has gone far enough.|I'm in charge here...
+{22594}{22683}Ah, would you like a spot of tea, sir?|It'll warm you up in no time.
+{22689}{22804}No! No tea. No tea!
+{22827}{22887}His mustache tickles, Mama!
+{22893}{23009}Oh! Hello!
+{23074}{23150}Uh-oh.
+{23325}{23367}There's a stranger here.
+{23373}{23446}Master, allow me to explain.|The gentleman was lost in the woods.
+{23452}{23543}He was cold and wet, so...
+{23565}{23634}Master, I'd like to take|this moment to say...
+{23640}{23689}I was against this from the start.|It was all his fault.
+{23695}{23807}I tried to stop them.|Would they listen to me? No, no...
+{23894}{23944}Who are you?|What are you doing here?
+{23950}{24004}I-I-I was lost in the woods and...
+{24010}{24104}- You are not welcome here!|- I-I-I'm sorry.
+{24110}{24157}- What are you staring at?|- N-Nothing.
+{24163}{24247}So, you've come to stare|at the beast, have you?
+{24253}{24331}Please, I meant no harm!|I-I just needed a place to stay.
+{24337}{24492}- I'll give you a place to stay!|- No, no, please! No! No!
+{24573}{24669}Oh, boy. Belle's gonna get|the surprise of her life, huh, Gaston?
+{24675}{24780}Yep, this is her lucky day.
+{24817}{24887}I'd like to thank you all|for coming to my wedding.
+{24893}{25016}First I better go in there|and propose to the girl.
+{25030}{25096}And you, Lefou, now, when|Belle and I come out that door...
+{25102}{25202}Oh, I know! I know!|I-I strike up the band!
+{25258}{25352}- Not yet!|- Sorry.
+{25548}{25582}Oh!
+{25588}{25664}Gaston,|what a pleasant surprise.
+{25670}{25746}Isn't it, though?|I'm just full of surprises.
+{25752}{25853}You know, Belle,|there's not a girl in town who|wouldn't love to be in your shoes.
+{25859}{25934}This is the day...
+{25971}{25984}This is the day|your dreams come true.
+{25990}{26027}This is the day|your dreams come true.
+{26033}{26098}What do you know|about my dreams, Gaston?
+{26104}{26178}Plenty!|Here. Picture this.
+{26184}{26304}A rustic hunting lodge,|my latest kill roasting on the fire...
+{26310}{26379}and my little wife|massaging my feet...
+{26385}{26449}while the little ones|play on the floor with the dogs.
+{26455}{26504}- We'll have six or seven.|- Dogs?
+{26510}{26543}No, Belle.
+{26549}{26605}- Strapping boys like me.|- Imagine that.
+{26611}{26672}- Do you know who that|little wife will be?|- Let me think.
+{26678}{26725}- You, Belle.|- Gaston, I'm...
+{26731}{26786}I'm speechless.
+{26792}{26847}I really don't know|what to say.
+{26853}{26948}- Say you'll marry me.|- I'm very sorry, Gaston, but...
+{26954}{27088}but I just don't deserve you!
+{27385}{27444}So, how'd it go?
+{27450}{27517}I'll have Belle for my wife.
+{27523}{27624}Make no mistake about that.
+{27630}{27708}Touchy!
+{27837}{27905}Is he gone?
+{27911}{27983}Can you imagine?|He asked me to marry him.
+{27989}{28089}Me, the wife of that|boorish, brainless...
+{28095}{28136}{y:i}Madame Gaston
+{28142}{28184}{y:i}Can't you just see it
+{28190}{28271}{y:i}Madame Gaston|{y:i}his little wife
+{28277}{28361}{y:i}No, sir, not me|{y:i}I guarantee it
+{28367}{28455}{y:i}I want much more than|{y:i}this provincial life
+{28461}{28523}{y:i}I want much more than|{y:i}this provincial life
+{28692}{28808}{y:i}I want adventure|{y:i}in the great wide somewhere
+{28814}{28919}{y:i}I want it more|{y:i}than I can tell
+{28925}{29001}{y:i}And for once|{y:i}it might be grand
+{29007}{29103}{y:i}To have someone understand
+{29109}{29306}{y:i}I want so much more|{y:i}than they've got planned
+{29311}{29335}Philippe! What are you|doing here? Where's...
+{29341}{29400}Philippe! What are you|doing here? Where's...
+{29406}{29490}Where's Papa? Where is he, Philippe?|What happened?
+{29496}{29611}Oh, we have to find him.|You have to take me to him.
+{29912}{29985}What is this place?
+{29991}{30084}Philippe, please, steady.
+{30085}{30178}Steady.
+{30202}{30234}Papa!
+{30240}{30304}Couldn't keep quiet,|could we?
+{30310}{30366}Just had to invite him to stay,|didn't we?
+{30372}{30444}Serve him tea,|sit in the master's chair.
+{30450}{30547}- Pet the pooch!|- I was trying to be hospitable.
+{30553}{30649}Hello?|Is anyone here?
+{30655}{30709}Hello?
+{30715}{30791}Papa? Papa?
+{30797}{30843}Are you here?
+{30849}{30915}Mama, there's a girl|in the castle.
+{30921}{30993}Now, Chip, I'll not have you|making up such wild stories.
+{30999}{31051}Really, Mama.|I saw her.
+{31057}{31103}- Not another word. Into the tub.|- But... What...
+{31109}{31194}A girl!|I saw a girl in the castle!
+{31200}{31240}See, I told ya!
+{31246}{31343}Irresponsible, devil-may-care,|waxy eared, slack-jawed...
+{31349}{31406}Papa?
+{31412}{31491}Did you see that?
+{31497}{31567}- It's a girl!|- I know it's a girl.
+{31573}{31647}Don't you see? She's the one!|The girl we have been waiting for!
+{31653}{31757}- She has come to break the spell!|- Wait a minute! Wait a minute!
+{31809}{31873}Papa?
+{31879}{31945}Papa?
+{31964}{32024}Hello?|Is someone here?
+{32030}{32147}Wait!|I'm looking for my father. L...
+{32180}{32290}That's funny.|I'm sure there was someone.
+{32296}{32333}I-Is anyone here?
+{32339}{32445}- Belle?|- Papa!
+{32455}{32530}- H-H-How did you find me?|- Oh, your hands are like ice.
+{32536}{32606}- We have to get you out of there.|- Belle, I want you to leave this place.
+{32612}{32667}- Who's done this to you?|- No time to explain.
+{32673}{32727}- You must go. Now!|- I won't leave you.
+{32733}{32778}- What are you doing here?|- Run, Belle!
+{32784}{32889}- Who's there? Who are you?|- The master of this castle.
+{32895}{32959}I've come for my father.|Please let him out.
+{32965}{33041}- Can't you see he's sick?|- Then he shouldn't have trespassed here!
+{33047}{33112}But he could die.|Please, I'll do anything.
+{33118}{33210}There's nothing you can do.|He's my prisoner.
+{33216}{33333}Oh, there must be some way|I can... Wait!
+{33441}{33540}- Take me instead.|- You?
+{33546}{33615}You would take his place?
+{33621}{33670}Belle, no! You don't know|what you're doing!
+{33676}{33741}If I did,|would you let him go?
+{33747}{33893}Yes, but you must promise|to stay here forever.
+{33917}{34021}Come into the light.
+{34241}{34373}No, Belle!|I won't let you do this!
+{34382}{34477}- You have my word.|- Done!
+{34533}{34610}No, Belle, listen to me.|I'm old. I've lived my life.
+{34616}{34703}- Wait!|- Belle!|- Wait!
+{34703}{34766}No! Please spare my daughter.|Please!
+{34772}{34850}She's no longer your concern.|Take him to the village.
+{34856}{34914}Let me out.|Please let me out!
+{34920}{35057}Let me out!|Please! Please!
+{35161}{35188}- Master?|- What?
+{35194}{35287}Uh, since the girl is going to be|with us for quite some time...
+{35293}{35443}I was thinking that you might want|to offer her a more comfortable room.
+{35446}{35520}Then again, maybe not.
+{35550}{35609}You didn't even let me|say goodbye.
+{35615}{35664}I'll never see him again.
+{35670}{35779}- I didn't get to say goodbye.|- I'll show you to your room.
+{35785}{35866}My room?|But I thought...
+{35872}{35917}- You wanna... You wanna|stay in the tower?|- No.
+{35923}{36018}Then follow me.
+{36463}{36544}- Say something to her.|- Huh? Oh.
+{36550}{36670}I, uh, hope you like it here.
+{36689}{36786}The castle is your home now,|so you can go anywhere you like|except the west wing.
+{36792}{36895}- What's in the west...|- It's forbidden!
+{37023}{37100}Now, if you need anything,|my servants will attend you.
+{37106}{37165}Dinner. Invite her to dinner.
+{37171}{37305}You will join me for dinner.|That's not a request!
+{37709}{37803}Who does she think she is? That girl|has tangled with the wrong man.
+{37809}{37877}- No one says no to Gaston!|- Darn right!
+{37883}{37982}Dismissed! Rejected!|Publicly humiliated!
+{37988}{38027}Why, it's more|than I can bear.
+{38033}{38113}- More beer?|- What for? Nothing helps.
+{38119}{38202}- I'm disgraced.|- Who, you? Never!
+{38208}{38296}Gaston, you've got to|pull yourself together.
+{38302}{38373}{y:i}Gosh, it disturbs me|{y:i}to see you, Gaston
+{38379}{38446}{y:i}Looking so|{y:i}down in the dumps
+{38452}{38523}{y:i}Every guy here'd|{y:i}love to be you, Gaston
+{38529}{38602}{y:i}Even when taking|{y:i}your lumps
+{38608}{38680}{y:i}There's no man in town|{y:i}as admired as you
+{38686}{38764}{y:i}You're everyone's|{y:i}favourite guy
+{38770}{38835}{y:i}Everyone's awed|{y:i}and inspired by you
+{38841}{38918}{y:i}And it's not very hard
+{38924}{39046}{y:i}To see why
+{39056}{39124}{y:i}No one's
+{39130}{39201}{y:i}Slick as Gaston|{y:i}No one's quick as Gaston
+{39207}{39278}{y:i}No one's neck's as|{y:i}incredibly thick as Gaston
+{39284}{39372}{y:i}For there's no man in town|{y:i}half as manly
+{39378}{39434}{y:i}Perfect|{y:i}A pure paragon
+{39440}{39517}{y:i}You can ask any|{y:i}Tom, Dick or Stanley
+{39523}{39643}{y:i}And they'll tell you whose team|{y:i}they prefer to be on
+{39649}{39721}{y:i}No one's
+{39727}{39795}{y:i}Been like Gaston|{y:i}a kingpin like Gaston
+{39801}{39870}{y:i}No one's got a swell cleft|{y:i}in his chin like Gaston
+{39876}{39962}{y:i}As a specimen|{y:i}yes, I'm intimidating
+{39968}{40038}{y:i}My, what a guy|{y:i}that Gaston
+{40044}{40119}{y:i}Give 5 hurrahs|{y:i}Give 12 hip-hips
+{40125}{40248}{y:i}Gaston is the best|{y:i}and the rest is all drips
+{40254}{40324}{y:i}No one
+{40330}{40395}{y:i}Fights like Gaston|{y:i}Douses lights like Gaston
+{40401}{40474}{y:i}In a wrestling match|{y:i}nobody bites like Gaston
+{40480}{40557}{y:i}For there's no one|{y:i}as burly and brawny
+{40563}{40635}{y:i}As you see|{y:i}I've got biceps to spare
+{40641}{40730}{y:i}- Not a bit of him scraggly or scrawny|- That's right!
+{40736}{40809}{y:i}And every last inch of me's|{y:i}covered with hair
+{40815}{40877}{y:i}- No one hits like Gaston|{y:i}- Matches wits like Gaston
+{40883}{40957}{y:i}In a spitting match|{y:i}nobody spits like Gaston
+{40963}{41056}{y:i}I'm especially good at expectorating
+{41062}{41126}- Ptooey!|{y:i}- Ten points for Gaston
+{41132}{41199}{y:i}When I was a lad|{y:i}I ate four dozen eggs
+{41205}{41284}{y:i}Every morning|{y:i}to help me get large
+{41290}{41360}{y:i}And now that I'm grown|{y:i}I eat five dozen eggs
+{41366}{41504}{y:i}So I'm roughly the size|{y:i}of a barge
+{41510}{41588}{y:i}No one
+{41594}{41624}{y:i}Shoots like Gaston|{y:i}Makes those beauts like Gaston
+{41630}{41667}{y:i}Shoots like Gaston|{y:i}Makes those beauts like Gaston
+{41673}{41746}{y:i}Then goes tromping around|{y:i}wearing boots like Gaston
+{41752}{41840}{y:i}I use antlers in all|{y:i}of my decorating
+{41846}{41901}{y:i}My, what a guy
+{41907}{42104}{y:i}Gaston
+{42150}{42214}- Help! Someone help me!|- Maurice?
+{42220}{42269}Please! Please, I need your help.
+{42275}{42329}He's got her... He's got her|locked in the dungeon!
+{42335}{42380}- Who?|- Belle. We must go.
+{42386}{42425}Not... Not a minute to lose.
+{42431}{42481}Whoa! Slow down, Maurice.
+{42487}{42531}Who's got Belle|locked in a dungeon?
+{42537}{42668}A beast!|A horrible, monstrous beast!
+{42757}{42791}- Is it a big beast?|- Huge!
+{42797}{42869}- With a long, ugly snout?|- Hideously ugly!
+{42875}{42961}- And sharp, cruel fangs?|- Yes, yes! Will you help me?
+{42967}{43018}All right, old man.|We'll help you out.
+{43024}{43065}You will? Oh, thank you,|thank you, thank you!
+{43071}{43153}You will? Oh, thank you,|thank you, thank you!
+{43166}{43221}Crazy old Maurice.
+{43227}{43310}He's always good|for a laugh.
+{43316}{43407}Crazy old Maurice, hmm?
+{43413}{43486}Crazy old Maurice. Hmm.
+{43492}{43576}{y:i}Lefou, I'm afraid|{y:i}I've been thinking
+{43582}{43656}{y:i}- A dangerous pastime|{y:i}- I know
+{43662}{43729}{y:i}But that wacky old coot|{y:i}is Belle's father
+{43735}{43804}{y:i}And his sanity's|{y:i}only so-so
+{43810}{43885}{y:i}Now, the wheels in my head|{y:i}have been turning
+{43891}{43960}{y:i}Since I looked at|{y:i}that loony old man
+{43966}{44001}{y:i}See, I promised myself|{y:i}I'd be married to Belle
+{44007}{44045}{y:i}See, I promised myself|{y:i}I'd be married to Belle
+{44051}{44149}{y:i}And right now|{y:i}I'm evolving a plan
+{44155}{44208}- If I...|- Yes?
+{44214}{44282}- Then we...|- No, would she?
+{44288}{44321}- Guess!|- Now I get it!
+{44327}{44377}- Let's go!|- Let's go!
+{44383}{44444}{y:i}No one
+{44450}{44519}{y:i}Plots like Gaston|{y:i}Takes cheap shots like Gaston
+{44525}{44597}{y:i}Plans to persecute harmless|{y:i}crackpots like Gaston
+{44603}{44735}{y:i}So his marriage|{y:i}we soon will be celebrating
+{44741}{44792}{y:i}My, what a guy
+{44798}{44935}{y:i}Gaston
+{44980}{45098}Will no one help me?
+{45255}{45348}- Who is it?|- Mrs Potts, dear.
+{45359}{45405}I thought you might like|a spot of tea.
+{45411}{45459}But you're...|You're a...
+{45465}{45547}- Oh! Careful.|- This is impossible!
+{45553}{45613}I know it is,|but here we are.
+{45619}{45681}I told you she was pretty, Mama,|didn't I?
+{45687}{45761}All right, Chip, now, that'll do.|Slowly now.
+{45767}{45851}- Don't spill.|- Thank you.
+{45857}{45943}Wanna see me|do a trick?
+{45943}{46010}- Chip!|- Oops, sorry.
+{46016}{46072}That was a very brave thing|you did, my dear.
+{46078}{46151}- We all think so.|- But I've lost my father...
+{46157}{46199}my dreams, everything.
+{46205}{46319}Cheer up, child.|It'll turn out all right in the end.
+{46325}{46377}You'll see.|Oh, listen to me...
+{46383}{46439}jabberin' on while there's|a supper to get on the table.
+{46445}{46519}- Chip?|- Bye!
+{46525}{46586}Well, now, what shall we|dress you in for dinner?
+{46592}{46651}Oh, let's see what I got|in my drawers.
+{46657}{46744}Oh, how embarrassing!
+{46750}{46809}Ahem.|Ah, here we are!
+{46815}{46857}You'll look ravishing|in this one!
+{46863}{46942}That's very kind of you,|but I'm not going to dinner.
+{46948}{47006}Ah, but you must!
+{47012}{47065}Ahem, ahem, ahem, ahem, ahem.
+{47071}{47176}Dinner is served.
+{47191}{47271}What's taking so long?|I told her to come down.
+{47277}{47359}- Why isn't she here yet?|- Oh, try to be patient, sir.
+{47365}{47442}The girl has lost her father|and her freedom all in one day.
+{47448}{47492}Master, have you thought|that perhaps...
+{47498}{47547}this girl could be the one|to break the spell?
+{47553}{47615}Of course I have!|I'm not a fool.
+{47621}{47684}Good!|So, you fall in love with her...
+{47690}{47744}she falls in love with you,|and poof!
+{47750}{47818}The spell is broken.|We'll be human again by midnight.
+{47824}{47891}Oh, it's not that easy, Lumiere.|These things take time.
+{47897}{47943}But the rose has already|begun to wilt.
+{47949}{48001}Oh, it's no use.
+{48007}{48129}She's so beautiful and I'm...|Well, look at me!
+{48154}{48215}Oh, you must help her|to see past all that.
+{48221}{48267}I don't know how.
+{48273}{48334}Well, you can start by|making yourself more presentable.
+{48340}{48383}Straighten up.|Try to act like a gentleman.
+{48389}{48485}Ah, yes. When she comes in,|give her a dashing, debonair smile.
+{48491}{48548}Come, come.|Show me the smile.
+{48554}{48641}- But don't frighten the poor girl.|- Impress her with your rapier wit.
+{48647}{48677}But be gentle.
+{48683}{48726}- Shower her with compliments.|- But be sincere.
+{48732}{48835}And above all,|you must control your temper!
+{48841}{48921}Here she is!
+{48926}{48973}Good evening.
+{48979}{49023}Well, where is she?
+{49029}{49137}Who? Oh, ha ha ha!|The girl, yes. The girl.
+{49143}{49233}Well, actually,|she's in the process of...
+{49239}{49284}Circumstances|being what they are...
+{49290}{49367}Uh, she's not coming.
+{49373}{49408}What!
+{49414}{49487}Oh, dear. Your Grace!|Your Eminence!
+{49493}{49572}Let's not be hasty!
+{49604}{49688}- I thought I told you|to come down to dinner!|- I'm not hungry.
+{49694}{49772}You'll come out or I'll... I'll...|I'll break down the door!
+{49778}{49869}Master, I could be wrong,|but that may not be...
+{49875}{49926}the best way to win|the girl's affections.
+{49932}{50012}Please attempt|to be a gentleman.
+{50018}{50080}But she is being so difficult.
+{50086}{50185}Gently, gently.
+{50191}{50268}- Will you come down to dinner?|- No!
+{50274}{50327}Suave, genteel.
+{50333}{50426}It would give me|great pleasure...
+{50432}{50476}if you would|join me for dinner.
+{50482}{50525}And we say please.
+{50531}{50562}- Please.|- No, thank you.
+{50568}{50616}- You can't stay in there forever!|- Yes, I can.
+{50622}{50729}Fine! Then go ahead|and starve!
+{50735}{50905}If she doesn't eat with me,|then she doesn't eat at all!
+{50930}{50989}Oh, dear. That didn't|go very well at all, did it?
+{50995}{51068}Lumiere, stand watch|at the door...
+{51074}{51144}and inform me at once|if there is the slightest change.
+{51150}{51203}You can count on me,|{y:i}mon capitaine.
+{51209}{51348}Well, we might as well|go downstairs and start cleaning up.
+{51354}{51409}I ask nicely, but she refuses.
+{51415}{51497}Wh-Wh-What...|What does she want me to do, beg?
+{51503}{51593}Show me the girl.
+{51599}{51683}{y:i}But the master's really not so bad|{y:i}once you get to know him.
+{51689}{51776}{y:i}- Why don't you give him a chance?|{y:i}- I don't want to get to know him.
+{51782}{51791}{y:i}I don't want to have|{y:i}anything to do with him.
+{51797}{51885}{y:i}I don't want to have|{y:i}anything to do with him.
+{51896}{51940}I'm just fooling myself.
+{51946}{51999}She'll never see me|as anything...
+{52005}{52104}but a monster.
+{52178}{52263}It's hopeless.
+{52645}{52687}- Oh, no.|- Oh, yes.
+{52693}{52753}- Oh, no.|- Oh, yes, yes, yes!
+{52759}{52859}I've been burnt by you before.
+{52889}{52975}{y:i}Zut alors!|She has emerged!
+{53048}{53165}Come on, Chip. Into the cupboard|with your brothers and sisters.
+{53170}{53206}But I'm not sleepy.
+{53212}{53284}- Yes, you are.|- No, I'm not.
+{53290}{53363}I work and I slave all day long,|and for what?
+{53369}{53438}A culinary masterpiece|gone to waste!
+{53444}{53517}Oh, stop your grousing.|It's been a long night for all of us.
+{53523}{53593}Well, if you ask me,|she was just being stubborn!
+{53599}{53635}After all, he did say please.
+{53641}{53719}But if the master|doesn't learn to control that temper,|he'll never break the...
+{53725}{53801}Splendid to see you|out and about, mademoiselle.
+{53807}{53924}I am Cogsworth,|head of the household.
+{53925}{53995}- This is Lumiere.|{y:i}- Enchanté, chérie.
+{54001}{54086}If there's... stop that...|anything we... please... can do...
+{54092}{54153}to make your stay|more comfortable...
+{54159}{54210}- I am a little hungry.|- You are?
+{54216}{54251}Hear that?|She's hungry!
+{54257}{54328}Stoke the fire. Break out the silver.|Wake the china.
+{54334}{54388}Remember what|the master said.
+{54394}{54468}Oh, pish tosh! I'm not about|to let the poor child go hungry.
+{54474}{54541}All right, fine. Glass of water,|crust of bread and then...
+{54547}{54606}Cogsworth,|I am surprised at you!
+{54612}{54665}She's not a prisoner.|She's our guest!
+{54671}{54758}We must make her feel welcome here.|Right this way, mademoiselle.
+{54764}{54804}Well, keep it down.
+{54810}{54863}If the master finds out about this,|it will be our necks.
+{54869}{54915}Of course, of course.
+{54921}{54999}But what is dinner|without a little music?
+{55005}{55074}Music?
+{55128}{55207}It is with deepest pride|and greatest pleasure...
+{55213}{55253}that we welcome you tonight.
+{55259}{55283}And now|we invite you to relax.
+{55289}{55317}And now|we invite you to relax.
+{55323}{55436}Let us pull up a chair|as the dining room proudly presents...
+{55442}{55502}your dinner.
+{55508}{55594}{y:i}Be our guest
+{55600}{55676}{y:i}Be our guest|{y:i}Put our service to the test
+{55682}{55790}{y:i}Tie your napkin 'round your neck, chérie|{y:i}and we provide the rest
+{55796}{55847}{y:i}Soup du jour|{y:i}Hot hors d'oeuvres
+{55853}{55901}{y:i}Why, we only live to serve
+{55907}{55956}{y:i}Try the grey stuff|{y:i}It's delicious
+{55962}{56011}{y:i}Don't believe me|{y:i}Ask the dishes
+{56017}{56066}{y:i}They can sing|{y:i}They can dance
+{56072}{56126}{y:i}After all, miss|{y:i}this is France
+{56132}{56218}{y:i}And a dinner here|{y:i}is never second best
+{56224}{56278}{y:i}Go on, unfold your menu
+{56284}{56355}{y:i}Take a glance and then|{y:i}you'll be our guest
+{56361}{56433}{y:i}"Oui", our guest|{y:i}Be our guest
+{56439}{56539}{y:i}Beef ragout, cheese soufflé|{y:i}Pie and pudding en flambé
+{56545}{56641}{y:i}We'll prepare and serve with flair|{y:i}a culinary cabaret
+{56647}{56746}{y:i}You're alone and you're scared|{y:i}but the banquet's all prepared
+{56752}{56802}{y:i}No one's gloomy|{y:i}or complaining
+{56808}{56857}{y:i}While the flatware's entertaining
+{56863}{56955}{y:i}We tell jokes, I do tricks|{y:i}with my fellow candlesticks
+{56961}{57049}{y:i}"Und" it's all in perfect taste|{y:i}that you can bet
+{57055}{57153}{y:i}Come on and lift your glass|{y:i}You've won your own free pass
+{57159}{57209}{y:i}To be our guest|{y:i}if you're stressed
+{57215}{57257}{y:i}It's fine dining|{y:i}we suggest
+{57263}{57391}{y:i}Be our guest, be our guest|{y:i}Be our guest
+{57407}{57515}{y:i}Life is so unnerving|{y:i}for a servant who's not serving
+{57521}{57595}{y:i}He's not whole without|{y:i}a soul to wait upon
+{57601}{57638}Get off!
+{57644}{57731}{y:i}Ah, those good old days|{y:i}when we were useful
+{57737}{57845}- Huh?|{y:i}- Suddenly those good old days are gone
+{57851}{57917}- Oh!|{y:i}- Ten years we've been rusting
+{57923}{57976}{y:i}Needing so much more|{y:i}than dusting
+{57982}{58105}{y:i}Needing exercise|{y:i}A chance to use our skills
+{58111}{58220}{y:i}Most days wejust|{y:i}lay around the castle
+{58226}{58301}{y:i}Flabby, fat and lazy|{y:i}You walked in and upsy-daisy
+{58307}{58392}{y:i}It's a guest, it's a guest|{y:i}Sakes alive, well, I'll be blessed
+{58398}{58487}{y:i}Wine's been poured and thank the Lord|{y:i}I've had the napkins freshly pressed
+{58493}{58582}{y:i}With dessert, she'll want tea|{y:i}And my dear, that's fine with me
+{58588}{58671}{y:i}While the cups do their soft-shoein'|{y:i}I'll be bubblin', I'll be brewin'
+{58677}{58765}{y:i}I'll get warm, pipin'hot|{y:i}Heaven sakes, is that a spot
+{58771}{58845}{y:i}Clean it up|{y:i}We want the company impressed
+{58851}{58942}{y:i}We've got a lot to do|{y:i}Is it one lump or two
+{58948}{58997}{y:i}- For you, our guest|{y:i}- She's our guest
+{59003}{59058}{y:i}- She's our guest|{y:i}- Be our guest
+{59064}{59137}{y:i}- Be our guest, be our guest|{y:i}Our command is your request|- Let's go, people. Fun's over.|Over here. Line up.
+{59143}{59227}{y:i}It's ten years since we've had|{y:i}anybody here and we're obsessed
+{59233}{59321}{y:i}With your meal, with your ease|{y:i}Yes, indeed, we aim to please
+{59327}{59384}{y:i}While the candlelight's|{y:i}still glowing
+{59390}{59487}{y:i}Let us help you|{y:i}We'll keep going
+{59493}{59598}{y:i}Course by course
+{59604}{59649}{y:i}One by one
+{59655}{59717}{y:i}Till you shout|{y:i}Enough, I'm done
+{59723}{59809}{y:i}Then we'll sing you off to sleep|{y:i}as you digest
+{59815}{59900}{y:i}Tonight you'll prop your feet up|{y:i}But for now, let's eat up
+{59906}{59947}{y:i}Be our guest
+{59953}{60019}{y:i}Be our guest|{y:i}Be our guest
+{60025}{60100}{y:i}Please be our
+{60106}{60289}{y:i}Guest
+{60308}{60415}- Bravo! That was wonderful!|- Thank you.
+{60421}{60543}Thank you, mademoiselle.|Good show, wasn't it? Everyone!
+{60549}{60652}My goodness, look at the time.|Now it's off to bed, off to bed.
+{60658}{60713}Oh, I couldn't possibly|go to bed now.
+{60719}{60763}It's my first time|in an enchanted castle.
+{60769}{60816}Enchanted!
+{60822}{60895}Who said anything about|the castle being enchanted?
+{60901}{61020}- It was you, wasn't it?|- I figured it out for myself.
+{61037}{61084}I'd like to look around,|if that's all right.
+{61090}{61166}- Oh, would you like a tour?|- Wait a second. Wait a second.
+{61172}{61224}I'm not sure|that's such a good idea.
+{61230}{61353}We can't let her go poking around in|certain places, if you know what I mean.
+{61359}{61467}Perhaps you'd like to take me.|I'm sure you know everything|there is to know about the castle.
+{61473}{61544}Oh, well! Actually, I...
+{61550}{61604}Yes, I do.
+{61610}{61693}As you can see,|the pseudo-facade was stripped away...
+{61699}{61749}to reveal|the minimalist rococo design.
+{61755}{61826}Note the unusual|inverted vaulted ceilings.
+{61832}{61909}This is yet another example|of the late neoclassic Baroque period.
+{61915}{62044}And, as I always say,|if it's not Baroque, don't fix it.
+{62063}{62112}Where was I?
+{62118}{62167}As you were!
+{62173}{62281}Now, then, if I may draw your attention|to the flying buttresses above the...
+{62287}{62358}Uh, mademoiselle?
+{62459}{62511}- What's up there?|- Where? There? Oh, nothing.
+{62517}{62564}Absolutely nothing of interest|at all in the west wing.
+{62570}{62630}Dusty, dull, very boring.
+{62636}{62692}Ah, so that's the west wing!
+{62698}{62747}Nice going.
+{62753}{62808}I wonder what|he's hiding up there.
+{62814}{62904}- Hiding? The master is hiding nothing.|- Then it wouldn't be forbidden.
+{62910}{63012}That's, uh, uh... Mademoiselle would,|uh, like to, uh, uh, see something else?
+{63018}{63078}We have exquisite tapestries|dating all the way back to...
+{63084}{63133}- Maybe later.|- Uh, the... the gardens...
+{63139}{63185}or, or the...|the library perhaps?
+{63191}{63230}You have a library?
+{63236}{63282}- Yes! Oh, indeed.|- With books.
+{63288}{63350}- Scads of books!|- Mountains of books!
+{63356}{63382}- Forests of books!|- Cascades!
+{63388}{63414}- Cloudbursts!|- Swamps of books!
+{63420}{63484}More books than you'll ever|be able to read in a lifetime.
+{63490}{63538}Books on every subject|ever studied...
+{63544}{63570}by every author|who ever set pen to paper.
+{63576}{63652}By every author|who ever set pen to paper.
+{64863}{64944}Oh, oh.
+{66014}{66086}- Why did you come here?|- I'm... I'm sorry.
+{66092}{66180}- I warned you never to come here!|- I didn't mean any harm.
+{66186}{66257}Do you realize|what you could have done?
+{66263}{66297}Please! Stop!
+{66303}{66406}- Get out!|- No!
+{66406}{66520}Get out!
+{66763}{66812}- Where are you going?|- Promise or no promise...
+{66818}{66860}I can't stay here|another minute.
+{66866}{66985}No, wait, please!|Please wait!
+{68751}{68828}No!
+{70457}{70557}Here, now. Don't do that.
+{70611}{70693}Just hold still.
+{70699}{70768}- That hurts!|- If you'd hold still,|it wouldn't hurt as much!
+{70774}{70823}Well, if you hadn't have run away,|this wouldn't have happened.
+{70829}{70911}If you hadn't frightened me,|I wouldn't have run away.
+{70917}{70979}Well, you shouldn't have been|in the west wing!
+{70985}{71073}Well, you should learn|to control your temper!
+{71119}{71234}Now, hold still.|This might sting a little.
+{71272}{71413}By the way, thank you|for saving my life.
+{71484}{71569}You're welcome.
+{71688}{71785}I don't usually leave the asylum|in the middle of the night...
+{71791}{71913}but he said you'd make it|worth my while.
+{71919}{71992}- I'm listening.|- It's like this.
+{71998}{72063}I've got my heart set|on marrying Belle.
+{72069}{72148}But she needs a little persuasion.
+{72154}{72205}Turned him down flat!
+{72211}{72265}Everyone knows|her father's a lunatic.
+{72271}{72353}He was in here tonight raving|about a beast in a castle.
+{72359}{72393}Maurice is harmless.
+{72399}{72470}The point is,|Belle would do anything...
+{72476}{72549}to keep him|from being locked up.
+{72555}{72639}Yeah, even marry him.
+{72668}{72728}So you want me to throw her father|into the asylum...
+{72734}{72813}unless she agrees to marry you.
+{72819}{72973}Oh, that is despicable!|I love it!
+{72994}{73063}If no one will help me,|then I'll go back alone!
+{73069}{73138}Yes, is that everything?|I don't care what it takes!
+{73144}{73203}I'll find that castle|and somehow, I...
+{73209}{73297}I'll get her out of there.
+{73404}{73467}- Belle! Maurice!|- Oh, well.
+{73473}{73524}Guess it's not gonna work after all.
+{73530}{73583}They have to come back sometime.
+{73589}{73676}And when they do,|we'll be ready for them.
+{73682}{73780}Lefou, don't move from that spot...
+{73786}{73831}until Belle|and her father come home.
+{73837}{73910}But... But I...
+{73916}{74010}Ah, nuts!
+{74504}{74611}I've never felt this way|about anyone.
+{74616}{74705}I want to do something|for her, but what?
+{74711}{74755}Well, there's the usual things.
+{74761}{74833}Flowers, chocolates,|promises you don't intend to keep.
+{74839}{74932}Ah, no, no, it has to be|something very special.
+{74938}{75061}Something that sparks her interest.|Wait a minute!
+{75079}{75120}Belle?
+{75126}{75224}There's something|I want to show you.
+{75228}{75324}But first,|you have to close your eyes.
+{75338}{75451}It's a surprise.
+{75636}{75721}- Can I open them?|- No, no. N-Not yet.
+{75727}{75828}Wait here.
+{75892}{76032}- Now can I open them?|- All right. Now!
+{76196}{76257}I can't believe it!
+{76263}{76311}I've never seen so many books|in all my life.
+{76317}{76387}- You... You like it?|- It's wonderful!
+{76393}{76488}- Then it's yours.|- Oh, thank you so much.
+{76494}{76563}- Would you look at that!|- I knew it would work.
+{76569}{76623}What? What works?
+{76629}{76703}- It's very encouraging.|- Isn't this exciting?
+{76709}{76766}- I didn't see anything.|- Come along, Chip.
+{76772}{76820}There's chores to be done|in the kitchen.
+{76826}{76947}But what are they talking about?|What's going on? Come on, Mom.
+{78030}{78115}{y:i}There's something sweet|{y:i}and almost kind
+{78121}{78202}{y:i}But he was mean|{y:i}and he was coarse and unrefined
+{78208}{78299}{y:i}And now he's dear|{y:i}and so unsure
+{78305}{78445}{y:i}I wonder why|{y:i}I didn't see it there before
+{78717}{78804}{y:i}She glanced this way|{y:i}I thought I saw
+{78810}{78892}{y:i}And when we touched|{y:i}she didn't shudder at my paw
+{78898}{78987}{y:i}No, it can't be|{y:i}I'll just ignore
+{78993}{79124}{y:i}But then she's never looked at me|{y:i}that way before
+{79149}{79288}{y:i}New and a bit alarming
+{79294}{79353}{y:i}Who'd have ever thought
+{79359}{79512}{y:i}That this could be
+{79518}{79565}{y:i}True
+{79571}{79658}{y:i}That he's no Prince Charming
+{79664}{79722}{y:i}But there's something in him
+{79728}{79854}{y:i}That I simply didn't see
+{79860}{79905}{y:i}- Well, who'd have thought|{y:i}- Well, bless my soul
+{79911}{79955}{y:i}- Well, who'd have known|{y:i}- Well, who indeed
+{79961}{80020}{y:i}And who'd have guessed|{y:i}they'd come together on their own
+{80026}{80084}{y:i}- It's so peculiar, wait and see|{y:i}- We'll wait a see
+{80090}{80134}{y:i}A few days more
+{80140}{80242}{y:i}There may be something there|{y:i}that wasn't there before
+{80248}{80262}{y:i}There may be something there|{y:i}that wasn't there before
+{80268}{80363}{y:i}You know, perhaps there is something|{y:i}there that wasn't there before
+{80369}{80408}What?
+{80414}{80497}{y:i}There may be something there|{y:i}that wasn't there before
+{80503}{80562}- What's there, Mama?|- Shh.
+{80568}{80671}I'll tell you when you're older.
+{80691}{80724}Right, then, you all know|why we're here.
+{80730}{80809}We have exactly 12 hours,|36 minutes and 15 seconds...
+{80815}{80855}to create the most magical,|spontaneous...
+{80861}{80976}romantic atmosphere|known to man or beast.
+{81082}{81140}Right. Need I remind you...
+{81146}{81217}that as the last petal falls|from this rose...
+{81223}{81317}the spell will never be broken!
+{81323}{81379}Very well. You all know|your assignments.
+{81385}{81464}Half of you to the west wing,|half of you to the east wing...
+{81470}{81570}the rest of you,|come with me.
+{81638}{81723}Lighten up, Cogsworth,|and let nature take its course.
+{81729}{81777}It's obivious there's a spark|between them.
+{81783}{81864}Yes, but there's no harm|in fanning the flames, you know...
+{81870}{81902}a little.
+{81908}{81990}Besides, they must fall in love tonight|if we ever expect to be human again.
+{81996}{82062}- Ah, human again.|- Human again.
+{82068}{82191}Yes, think what that means.
+{82210}{82323}{y:i}I'll be cooking again|{y:i}Be good-looking again
+{82329}{82415}{y:i}With a mademoiselle|{y:i}on each arm
+{82421}{82504}{y:i}When I'm human again|{y:i}Only human again
+{82510}{82597}{y:i}Poised and polished|{y:i}and gleaming with charm
+{82603}{82687}{y:i}I'll be courting again|{y:i}Chic and sporting again
+{82693}{82779}{y:i}Which should cause|{y:i}several husbands alarm
+{82785}{82861}{y:i}I'll hop down off this shelf|{y:i}and tout suite be myself
+{82867}{82988}{y:i}I can't wait to be human again
+{83006}{83080}{y:i}Be human again|{y:i}Only human again
+{83086}{83166}{y:i}We'll be knick-knacks|{y:i}and what-nots no more
+{83172}{83248}{y:i}When we're human again|{y:i}Good and human again
+{83254}{83334}{y:i}Oh, cherie,|{y:i}we'll be only top drawer
+{83340}{83422}{y:i}I'll wear lipstick and rouge|{y:i}and I won't be so huge
+{83428}{83504}{y:i}Why I'll easily fit through that door
+{83510}{83556}{y:i}I'll exude savoir faire
+{83562}{83600}{y:i}I'll wear gowns|{y:i}I'll have hair
+{83606}{83741}{y:i}It's my birth|{y:i}to be human again
+{83803}{83880}{y:i}When we're human again|{y:i}Only human again
+{83886}{83963}{y:i}When the world once more|{y:i}starts making sense
+{83969}{84004}{y:i}I'll unwind for a change
+{84010}{84042}{y:i}Really that would be strange
+{84048}{84128}{y:i}Can I help it if I'm t-t-tense
+{84134}{84207}{y:i}In a shack by the sea|{y:i}I'll sit back sipping tea
+{84213}{84288}{y:i}Let my early retirement commence
+{84294}{84379}{y:i}Far from fools made of wax|{y:i}I'll get down to brass tacks
+{84385}{84502}{y:i}- And relax|{y:i}- When I'm human again
+{84508}{84583}{y:i}So sweep fast|{y:i}round the floor
+{84589}{84670}{y:i}Let's let some light in the room
+{84676}{84737}{y:i}I can feel I can tell|{y:i}Someone might break the spell
+{84743}{84833}{y:i}Any day now
+{84839}{84908}{y:i}Shine up the brass|{y:i}on the door
+{84914}{84980}{y:i}Alert the dustbin and broom
+{84986}{85073}{y:i}If it all goes as planned|{y:i}Our time may be at hand
+{85079}{85156}{y:i}Any day now
+{85162}{85238}{y:i}Open the shutters|{y:i}and let in some air
+{85244}{85337}{y:i}Put these here|{y:i}and put those over there
+{85343}{85416}{y:i}Sweep up the years|{y:i}of sadness and tears
+{85422}{85570}{y:i}And throw them away
+{85638}{85741}{y:i}We'll be human again|{y:i}Only human again
+{85747}{85825}{y:i}When the girl finally|{y:i}sets us all free
+{85831}{85904}{y:i}Cheeks a-bloomin' again|{y:i}We're assumin' again
+{85910}{85992}{y:i}We'll assume our long lost|{y:i}joie de vivre
+{85998}{86071}{y:i}We'll be playin' again|{y:i}Holidayin' again
+{86077}{86155}{y:i}And we're prayin' its' A.S.A.P.
+{86161}{86196}{y:i}We will push|{y:i}We will shove
+{86202}{86252}{y:i}They will both fall in love
+{86258}{86391}{y:i}And we'll finally be human again
+{86397}{86450}"There never was a story|of more woe"
+{86456}{86554}"Than this of Juliet|and her Romeo"
+{86574}{86647}- Could you read it again?|- Here, why don't you read it to me?
+{86653}{86747}Uh, all right.
+{86819}{86882}- I can't.|- You mean, you never learned?
+{86888}{86958}I learned... a little.
+{86964}{87023}It's just been so long.
+{87029}{87080}Well, here, I'll help you.
+{87086}{87193}- Let's start here.|- Here.
+{87200}{87247}- Okay. "Twoh..."|- "Two."
+{87253}{87365}"Two." I knew that.|"Two households..."
+{87371}{87510}{y:i}We'll be dancing again|{y:i}We'll be twirling again
+{87516}{87591}{y:i}We'll be whirling around|{y:i}with such ease
+{87597}{87664}{y:i}When we're human again|{y:i}Only human again
+{87670}{87753}{y:i}We'll go waltzing|{y:i}those old one-two-threes
+{87759}{87831}{y:i}We'll be floating again|{y:i}We'll be gliding again
+{87837}{87918}{y:i}Stepping, striding|{y:i}As fine as you please
+{87924}{87999}{y:i}Like a real human does
+{88005}{88084}{y:i}I'll be all that I was
+{88090}{88185}{y:i}On that glorious morn|{y:i}when we're finally reborn
+{88191}{88280}{y:i}And we're all of us human
+{88286}{88535}{y:i}Again
+{88715}{88799}Tonight is the night.
+{88816}{88890}- I'm not sure I can do this.|- You don't have time to be timid.
+{88896}{88945}You must be bold, daring.
+{88951}{89035}Bold! Daring!
+{89076}{89169}There will be music,|romantic candlelight...
+{89175}{89217}provided by myself.
+{89223}{89313}And when the moment is right,|you confess your love.
+{89319}{89364}Yes, I con...
+{89370}{89414}I, I... No, I can't.
+{89420}{89505}- You care for the girl, don't you?|- More than anything.
+{89511}{89595}Well, then you must tell her.
+{89601}{89688}Voila! Oh, you look so... so...
+{89694}{89737}Stupid.
+{89743}{89792}Not quite the word|I was looking for.
+{89798}{89900}Perhaps a little more|off the top.
+{89958}{90054}Your lady awaits.
+{90598}{90701}{y:i}Tale as old as time
+{90724}{90827}{y:i}True as it can be
+{90846}{90907}{y:i}Barely even friends
+{90913}{90970}{y:i}Then somebody bends
+{90976}{91070}{y:i}Unexpectedly
+{91098}{91205}{y:i}Just a little change
+{91218}{91275}{y:i}Small to say the least
+{91281}{91337}{y:i}Both a little scared
+{91343}{91400}{y:i}Neither one prepared
+{91406}{91521}{y:i}Beauty and the beast
+{91543}{91666}{y:i}Everjust the same
+{91666}{91771}{y:i}Ever a surprise
+{91791}{91897}{y:i}Ever as before|{y:i}Everjust as sure
+{91903}{92026}{y:i}As the sun will rise
+{92026}{92133}{y:i}Tale as old as time
+{92151}{92251}{y:i}Tune as old as song
+{92266}{92380}{y:i}Bittersweet and strange|{y:i}Finding you can change
+{92386}{92509}{y:i}Learning you were wrong
+{92509}{92615}{y:i}Certain as the sun
+{92626}{92685}{y:i}Rising in the east
+{92691}{92817}{y:i}Tale as old as time|{y:i}Song as old as rhyme
+{92823}{92891}{y:i}Beauty and the beast
+{92897}{92961}Shh.
+{92967}{93040}{y:i}Tale as old as time
+{93046}{93140}{y:i}Song as old as rhyme
+{93146}{93322}{y:i}Beauty and the beast
+{93328}{93380}Off to the cupboard|with you now, Chip.
+{93386}{93472}It's past your bedtime.
+{93478}{93562}Good night, love.
+{94090}{94174}Belle?
+{94181}{94252}Are you happy here with me?
+{94258}{94342}Yes.
+{94403}{94465}What is it?
+{94471}{94555}If only I could see my father again|just for a moment.
+{94561}{94667}I miss him so much.
+{94735}{94819}There is a way.
+{94846}{94902}This mirror|will show you anything...
+{94908}{94972}anything you wish to see.
+{94978}{95091}I'd like to see my father, please.
+{95214}{95282}Papa! Oh, no!
+{95288}{95452}He's sick. He may be dying,|and he's all alone.
+{95541}{95652}- Then you-you must go to him.|- What did you say?
+{95658}{95737}I release you.|You're no longer my prisoner.
+{95743}{95815}You mean, I'm free?
+{95821}{95910}- Yes.|- Oh, thank you.
+{95916}{96010}Hold on, Papa. I'm on my way.
+{96043}{96105}Take it with you|so you'll always have a way...
+{96111}{96251}to look back and remember me.
+{96281}{96386}Thank you for understanding|how much he needs me.
+{96556}{96615}Well, Your Highness, I must say...
+{96621}{96670}everything is going|just swimmingly.
+{96676}{96742}I knew you had it in you.
+{96748}{96793}I let her go.
+{96799}{96860}Yes, yes, splen...
+{96866}{96963}You what?|How could you do that?
+{96969}{97072}- I had to.|- Yes, but, but, but... but why?
+{97078}{97160}Because I love her.
+{97166}{97201}He did what?
+{97207}{97301}- Yes, I'm afraid it's true.|- She's going away?
+{97307}{97351}But he was so close.
+{97357}{97461}After all this time,|he's finally learned to love.
+{97467}{97527}That's it then.|That should break the spell!
+{97533}{97637}But it's not enough.|She has to love him in return.
+{97643}{97745}Now it's too late.
+{97909}{98018}Papa? Papa?
+{98328}{98416}They're back.
+{98422}{98475}- Belle!|- Shh.
+{98481}{98572}It's all right, Papa. I'm home.
+{98578}{98654}I thought I'd never see you again.
+{98660}{98715}- I missed you so much!|- But the beast...
+{98721}{98784}- Did you... How did you escape?|- I didn't escape, Papa.
+{98790}{98869}- He... He let me go.|- That horrible beast?
+{98875}{99011}But he's different now, Papa.|He's changed somehow.
+{99106}{99186}- Hi!|- Oh, a stowaway.
+{99192}{99257}Why, hello there, little fella.
+{99263}{99315}Y... Didn't think I'd see you again.
+{99321}{99380}Belle, why'd you go away?
+{99386}{99434}Don't you like us any more?
+{99440}{99563}Oh, Chip. Of course I do.|It's just that...
+{99599}{99680}- May I help you?|- I've come to collect your father.
+{99686}{99747}- My father?|- Don't worry, mademoiselle.
+{99753}{99841}We'll take good care of him.
+{99847}{99920}- My father's not crazy!|- He was raving like a lunatic!
+{99926}{100017}- We all heard him, didn't we?|- Yes!
+{100023}{100091}- No, I won't let you!|- Belle?
+{100097}{100157}Maurice, tell us again, old man.
+{100163}{100246}Just how big was the beast?
+{100252}{100332}He was... I mean,|he was... he was, uh, enormous!
+{100338}{100472}I'd... I'd say at least eight,|uh, no, more like ten feet!
+{100478}{100562}Well, you don't get|much crazier than that!
+{100568}{100617}It's true, I tell you!
+{100623}{100695}- Get him out of here!|- Let go of me!
+{100701}{100778}No! You can't do this!
+{100784}{100855}Poor Belle.|Oh, it's a shame about your father.
+{100861}{100922}You know he's not crazy, Gaston.
+{100928}{101044}I might be able to clear up|this little misunderstanding if...
+{101050}{101113}- If what?|- If you marry me.
+{101119}{101165}- What?|- One little word, Belle.
+{101171}{101215}- That's all it takes.|- Never!
+{101221}{101340}- Have it your way!|- Belle? Let go of me!
+{101346}{101404}My father's not crazy|and I can prove it!
+{101410}{101500}Show me the beast.
+{101574}{101647}- Is it dangerous?|- Oh, no, no, he'd never hurt anyone.
+{101653}{101771}Please, l-I know he looks vicious,|but he's really kind and gentle.
+{101777}{101825}- He's my friend.|- If I didn't know better...
+{101831}{101899}I'd think you had feelings|for this monster.
+{101905}{101991}He's no monster, Gaston.|You are!
+{101997}{102063}She's as crazy as the old man!
+{102069}{102119}The beast will make off|with your children.
+{102125}{102167}- He'll come after them in the night.|- No!
+{102173}{102228}We're not safe till his head|is mounted on my wall!
+{102234}{102296}I say we kill the beast!
+{102302}{102375}{y:i}- We're not safe until he's dead|{y:i}- He'll come stalking us at night
+{102381}{102462}{y:i}Set to sacrifice our children|{y:i}to his monstrous appetite
+{102468}{102550}{y:i}He'll wreak havoc on our village|{y:i}if we let him wander free
+{102556}{102640}{y:i}So it's time|{y:i}to take some action, boys
+{102646}{102806}{y:i}It's time to follow me
+{102811}{102875}{y:i}Through the mist, through the woods|{y:i}through the darkness and the shadows
+{102881}{102955}{y:i}It's a nightmare|{y:i}but it's one exciting ride
+{102961}{103037}{y:i}Say a prayer, then we're there|{y:i}at the drawbridge of a castle
+{103043}{103119}{y:i}And there's something|{y:i}truly terrible inside
+{103125}{103188}{y:i}It's a beast|{y:i}He's got fangs, razor sharp ones
+{103194}{103267}{y:i}Massive paws, killer claws|{y:i}for the feast
+{103273}{103354}{y:i}Hear him roar, see him foam|{y:i}But we're not coming home
+{103360}{103433}{y:i}Till he's dead|{y:i}Good and dead
+{103439}{103488}{y:i}- Kill the beast|- No, I won't let you do this.
+{103494}{103550}If you're not with us,|you're against us.
+{103556}{103622}- Bring the old man!|- Get your hands off me!
+{103628}{103687}We can't have them running off|to warn the creature!
+{103693}{103774}- Let us out!|- We'll rid the village of this beast!
+{103780}{103848}- Who's with me?|- I am! I am!
+{103854}{103897}- I am!|{y:i}- Light your torch, mount your horse
+{103903}{103945}{y:i}Screw your courage|{y:i}to the sticking place
+{103951}{104016}{y:i}We're counting on Gaston|{y:i}to lead the way
+{104022}{104090}{y:i}Through a mist, to a wood|{y:i}where within a haunted castle
+{104096}{104163}{y:i}Something's lurking|{y:i}that you don't see every day
+{104169}{104256}{y:i}It's a beast|{y:i}One as tall as a mountain
+{104262}{104326}{y:i}We won't rest|{y:i}till he's good and deceased
+{104332}{104408}{y:i}Sally forth, tally-ho|{y:i}Grab your sword and your bow
+{104414}{104446}{y:i}Praise the Lord and here we go
+{104452}{104547}We'll lay siege to the castle|and bring back his head!
+{104553}{104624}I have to warn the beast.|This is all my fault.
+{104630}{104678}Oh, Papa, what are we going to do?
+{104684}{104807}Now, now.|We'll think of something.
+{104926}{104997}{y:i}We don't like what we don't understand|{y:i}In fact, it scares us
+{105003}{105084}{y:i}And this monster|{y:i}is mysterious at least
+{105090}{105159}{y:i}Bring your guns, bring your knives|{y:i}Save your children and your wives
+{105165}{105235}{y:i}We'll save our village|{y:i}and our lives
+{105241}{105285}{y:i}We'll kill the beast
+{105291}{105363}I knew it. I knew it was foolish|to get our hopes up.
+{105369}{105460}Maybe it would have been better|if she'd never come at all.
+{105466}{105507}- Could it be?|- Is it she?
+{105513}{105567}"Sacrebleu!" Invaders!
+{105573}{105631}- Encroachers!|- And they have the mirror!
+{105637}{105705}Warn the master. If it's a fight|they want, we'll be ready for them.
+{105711}{105753}Who's with me?
+{105759}{105803}Take whatever booty|you can find.
+{105809}{105877}But remember,|the beast is mine!
+{105883}{105948}{y:i}Hearts ablaze, banners high|{y:i}We go marching into battle
+{105954}{106027}{y:i}Unafraid although the danger|{y:i}just increased
+{106033}{106103}{y:i}Raise the flag, sing the song|{y:i}Here we come 50 strong
+{106109}{106178}{y:i}And 50 Frenchmen can't be wrong
+{106184}{106235}{y:i}Let's kill the beast
+{106241}{106306}- Pardon me, Master.|- Leave me in peace.
+{106312}{106368}But, sir,|the castle is under attack!
+{106374}{106461}{y:i}Kill the beast|{y:i}Kill the beast
+{106467}{106550}- This isn't working.|- Oh, Lumiere, we must do something!
+{106556}{106609}Wait! I know!
+{106615}{106705}{y:i}Kill the beast|{y:i}Kill the beast
+{106708}{106757}What shall we do, Master?
+{106763}{106848}It doesn't matter now.|Just let them come.
+{106854}{106928}{y:i}Kill the beast|{y:i}Kill the beast
+{106934}{107042}{y:i}Kill the beast
+{107274}{107366}Now!
+{107793}{107877}Yes!
+{107912}{107988}Here we go!
+{108035}{108093}What the devil?
+{108099}{108195}Belle, look out!
+{108286}{108391}You guys gotta try this thing.
+{108461}{108529}Up here, you scurvy scum.
+{108535}{108641}Now!
+{110241}{110333}And stay out!
+{111008}{111086}Get up!
+{111092}{111130}Get up!
+{111136}{111209}What's the matter, beast?
+{111215}{111323}Too kind and gentle|to fight back?
+{111463}{111564}No!
+{111567}{111682}- Belle!|- No, Gaston, don't!
+{111781}{111887}Let's go, Philippe.
+{112417}{112513}Come on out and fight!
+{112519}{112583}Were you in love with her,|beast?
+{112589}{112648}Did you honestly think|she'd want you...
+{112654}{112775}when she had someone like me?
+{112990}{113119}It's over, beast!|Belle is mine!
+{113213}{113287}Let me go! Let me go!|Please, don't hurt me.
+{113293}{113398}I'll do anything. Anything!
+{113681}{113742}Get out!
+{113748}{113863}- Beast!|- Belle.
+{114046}{114134}Belle?
+{114213}{114301}You came back.
+{115195}{115288}You... You came back.
+{115294}{115342}Of course I came back.
+{115348}{115440}I couldn't let them...|Oh, this is all my fault.
+{115446}{115490}If only I'd gotten here sooner.
+{115496}{115598}Maybe it's better...|it's better this way.
+{115604}{115657}Don't talk like that.
+{115663}{115717}You'll be all right.
+{115723}{115863}We're together now. Everything's|going to be fine, you'll see.
+{115869}{115913}At least...
+{115919}{116061}I got to see you one last time.
+{116286}{116349}No! No!
+{116355}{116410}Please! Please!
+{116416}{116508}Please don't leave me.
+{116545}{116647}I love you.
+{118949}{119060}Belle, it's me!
+{119391}{119475}It is you!
+{120226}{120270}Lumiere!
+{120276}{120335}Cogsworth!
+{120341}{120400}Mrs Potts!
+{120406}{120492}- Look at us!|- Mama! Mama!
+{120587}{120702}- Oh, my goodness!|- It is a miracle!
+{120900}{120990}Ah, "l'amour".
+{121051}{121129}Well, Lumiere, old friend.|Shall we let bygones be bygones?
+{121135}{121199}Of course, "mon ami".|I told you she would break the spell.
+{121205}{121310}I beg your pardon, old friend, uh,|but I believe I told you.
+{121316}{121360}No, you didn't. I told you!
+{121366}{121449}You most certainly did not,|you pompous, paraffin-headed peabrain!
+{121455}{121532}{y:i}En garde,|you-you overgrown pocket watch!
+{121538}{121628}- Take that!|- Stop shoving.
+{121663}{121737}Are they gonna live|happily ever after, Mama?
+{121743}{121800}Of course, my dear.
+{121806}{121855}Of course.
+{121861}{121961}Do I still have to sleep|in the cupboard?
+{122010}{122127}{y:i}Certain as the sun
+{122133}{122185}{y:i}Rising in the east
+{122191}{122312}{y:i}Tale as old as time|{y:i}Song as old as rhyme
+{122318}{122457}{y:i}Beauty and the beast
+{122463}{122527}{y:i}Tale as old as time
+{122533}{122612}{y:i}Song as old as rhyme
+{122618}{122780}{y:i}Beauty and the beast
+{123346}{123486}{y:i}Tale as old as time
+{123494}{123632}{y:i}True as it can be
+{123646}{123715}{y:i}Barely even friends
+{123721}{123792}{y:i}Then somebody bends
+{123798}{123942}{y:i}Unexpectedly
+{123944}{124069}{y:i}Just a little change
+{124096}{124163}{y:i}Small to say the least
+{124169}{124239}{y:i}Both a little scared
+{124245}{124313}{y:i}Neither one prepared
+{124319}{124467}{y:i}Beauty and the beast
+{124471}{124613}{y:i}Everjust the same
+{124619}{124765}{y:i}Ever a surprise
+{124771}{124909}{y:i}Ever as before|{y:i}and everjust as sure
+{124915}{125057}{y:i}As the sun will rise
+{125666}{125810}{y:i}Everjust the same
+{125815}{125958}{y:i}Ever a surprise
+{125964}{126034}{y:i}Ever as before
+{126040}{126107}{y:i}Everjust as sure
+{126113}{126240}{y:i}As the sun will rise
+{126344}{126473}{y:i}Tale as old as time
+{126491}{126625}{y:i}Tune as old as song
+{126643}{126712}{y:i}Bittersweet and strange
+{126718}{126786}{y:i}Finding you can change
+{126792}{126932}{y:i}Learning you were wrong
+{126941}{127010}{y:i}Certain as the sun
+{127016}{127085}{y:i}Certain as the sun
+{127091}{127160}{y:i}Rising in the east
+{127166}{127232}{y:i}Tale as old as time
+{127238}{127309}{y:i}Song as old as rhyme
+{127315}{127461}{y:i}Beauty and the beast
+{127466}{127532}{y:i}Tale as old as time
+{127538}{127615}{y:i}Song as old as rhyme
+{127621}{127831}{y:i}Beauty and the beast
+{128366}{128623}{y:i}Beauty and the beast
+{128648}{128798}Professional Translation Services|www.gts-translation.com

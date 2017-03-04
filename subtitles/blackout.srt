@@ -1,0 +1,911 @@
+{1}{1}24.000
+{26}{176}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{1748}{1825}There is no chance
+{1826}{1898}no destiny...
+{1899}{1985}no fate
+{1986}{2095}There's only|what you take from the world
+{2097}{2151}and what|the world takes from you.
+{5720}{5829}I miss you...
+{5830}{5871}you know?
+{5973}{6085}Sometimes I think about|the way you were,
+{6086}{6166}the way|you treated me,
+{6167}{6278}the good times,
+{6279}{6338}the bad times
+{6416}{6488}And I just wish I could have|another chance at things.
+{6593}{6649}Stop me if you've|heard this one before
+{6743}{6828}You will always be my girl.
+{6830}{6878}Karl?
+{6922}{6954}Sorry, I didn't mean|to interrupt.
+{6956}{6979}No, I'm fine.
+{7013}{7070}We've been|through all this before.
+{7071}{7102}Are those for Mommy?
+{7103}{7126}Yeah
+{7128}{7173}Did you pick them?|Mm-hmm
+{7174}{7219}They're pretty.
+{7276}{7306}Nikky's bag's|in the car
+{7307}{7344}I can go grab it|if you two want to be alone.
+{7346}{7423}Actually, I wanted to...
+{7477}{7505}I meant to ask you,
+{7506}{7582}do you think maybe you could|keep her till tomorrow?
+{7583}{7609}But, Daddy,|you promised.
+{7610}{7642}I got something|I need to take care of
+{7643}{7704}I know, baby.|Look, I'm sorry.
+{7706}{7781}I'll make it up to you.
+{7782}{7820}Please
+{7822}{7844}Just this once?
+{7846}{7879}Oh, it's not a problem.
+{7881}{7910}But can we
+{7911}{8006}Hey, Nikky,|did you want to play something?
+{8007}{8034}Do you want to play|Marco Polo?
+{8036}{8071}Yeah.|Go on
+{8195}{8218}So what's going on?
+{8220}{8250}Is it something|at the hospital?
+{8251}{8302}Something like that,|yeah.
+{8303}{8378}I'm worried about you.
+{8380}{8413}I'm doing better|and better
+{8414}{8462}Daddy, I'm ready.
+{8463}{8491}Marco
+{8493}{8517}Polo
+{8579}{8608}Yet we always seem|to find you here.
+{8610}{8667}I like to come visit
+{8669}{8742}You know, I like to tell her|what I've been up to.
+{8743}{8778}I just...
+{8780}{8838}Nikky's been making|so much progress.
+{8840}{8890}Come on, Daddy!
+{8892}{8914}Marco
+{8916}{8956}Polo!
+{8958}{9094}I feel like coming here|sets her back a little, you know?
+{9095}{9137}Seeing you like this,|I think she worries,
+{9138}{9194}after what|her mother did,
+{9196}{9278}that you, if you got|depressed enough, might-
+{9279}{9306}Never
+{9308}{9356}Look, I love Nikky|more than anything in the world.
+{9358}{9418}Nothing's going|to happen to her.
+{9419}{9478}Nothing.|I promise.
+{9480}{9504}Marco
+{9506}{9528}Polo!
+{9530}{9562}I'll bring her by|at 2:30 tomorrow
+{9563}{9586}Great
+{9587}{9622}Sharp.|Sure
+{9697}{9720}Boo!
+{9788}{9838}See you tomorrow, okay?
+{9840}{9840}Dr. Tewis, call ER stat.
+{9889}{9892}Dr. Tewis, call ER stat.
+{9894}{9962}Dr. Tewis, call ER stat.
+{10372}{10403}Miss Matera?
+{10405}{10434}I want to see her
+{10436}{10543}Yeah, Claudia,|you will.
+{10545}{10598}I just think we should|have a word first
+{10600}{10656}Okay, tell me.
+{10658}{10691}We did our best,
+{10693}{10741}and the operation|was successful,
+{10742}{10842}but with patients her age,
+{10844}{10932}the body just can't|handle the stress
+{10934}{10990}I'm sorry.
+{10991}{11057}At this point,|it's a matter of time
+{13231}{13254}Hey.
+{13255}{13286}Hi, Karl.
+{13287}{13342}Listen, just to confirm,|we do need you tonight.
+{13343}{13366}What about Dr Stark?
+{13367}{13418}He asked for a day off.
+{13420}{13448}Again?|Jesus Christ
+{13450}{13477}That guy takes more days off-
+{13478}{13517}I know,|but we need you, Karl.
+{13518}{13578}I know, but I can't.|I physically can't.
+{13580}{13622}You know, I'm sorry,|but I'm not on call
+{13623}{13650}You're out of the city?
+{13651}{13679}I've got something|I have to do
+{13681}{13704}Something you have to-
+{13706}{13738}Yeah, something|for my daughter.
+{13740}{13776}Yeah, okay, Karl.|Well, thanks anyway.
+{13778}{13801}I'm sorry to bother you.
+{13802}{13897}Okay, bye.
+{16682}{16734}Oh, hello, ladies,|let me give you-
+{16735}{16776}Here, let me help you|with some of that stuff
+{16778}{16807}Oh, thank you so much.
+{16809}{16856}You heading away|for the 4th of July, Miss Maurie?
+{16858}{16896}Oh, they're|turning us out again.
+{16898}{16950}Units ready,|units not ready,
+{16951}{16974}this building.
+{17039}{17062}Okay.
+{17063}{17130}Can you manage?
+{17131}{17157}Good-bye, Lana.
+{17158}{17182}Bye. Thank you.
+{17183}{17213}Good-bye, Karl.
+{17214}{17261}Chloe. Hey.
+{17262}{17293}Thanks
+{17294}{17330}And stay out of the heat,|ladies
+{17331}{17366}Oh, I will.
+{18074}{18134}That's comforting.
+{18639}{18708}You know,|they don't always open.
+{18710}{18749}I've seen|some nasty accidents.
+{18750}{18778}Yeah,|I'll keep that in mind.
+{19596}{19669}Okay, what did you hit, kid?
+{19670}{19693}I didn't hit anything.
+{19694}{19734}I'm kidding.
+{19735}{19798}We'll be up and running|any second now.
+{20722}{20773}Any second now.
+{21083}{21118}Told you|it didn't sound good.
+{21164}{21197}It could be a silent alarm
+{21198}{21237}We're not in a bank
+{21238}{21262}I have my phone.
+{21406}{21429}There's no service
+{21623}{21684}Yeah, I probably shouldn't|use any more minutes anyhow.
+{21707}{21730}That's clever
+{21732}{21758}Lighten up, kid.
+{21759}{21784}Look, I got somewhere to be,|okay?
+{21786}{21816}Well, I don't,|you know?
+{21818}{21864}I was actually hoping|this might happen.
+{21866}{21907}God, Christ,|my life is empty.
+{22038}{22118}I have just captured|the perfect image of angst.
+{22119}{22154}Erase the picture.
+{22155}{22178}Why?
+{22179}{22207}Just do it
+{22234}{22274}Just fuckin' do it
+{22324}{22373}Okay?
+{22786}{22834}She needs it
+{22836}{22865}Sorry.
+{23336}{23366}Claudia?
+{23438}{23498}Claudia,|where did you put them?
+{23499}{23526}Put what?
+{23527}{23564}Oh, don't be|coy with me.
+{23566}{23610}They were right here.
+{23678}{23754}I don't go around|hiding your asthma inhaler.
+{23755}{23866}My inhaler's not gonna kill me.
+{23867}{23905}50 years from now,|who knows?
+{23906}{23938}Mm, scientists.
+{23940}{23962}There you go.
+{24126}{24200}Aren't you going to join me?
+{24202}{24225}No, I can't.
+{24226}{24258}I have a to-do list|a mile long.
+{24260}{24321}I should have never|gone to bed last night.
+{24411}{24504}Are you going out|like that?
+{24506}{24562}I left my black veil|at the cleaners
+{24564}{24641}I want more skin,|not less
+{24642}{24694}We live on the beach.|What are you, a nun?
+{24696}{24754}Yes, Abuela,|I am a nun
+{24778}{24854}When I was your age,|I set this town on fire
+{24856}{24890}Let's go to the beach.
+{24892}{24945}Uh-uh.|I can't
+{24946}{24979}Mid-terms|start next week
+{25037}{25074}Life is for living.
+{25076}{25102}I know I know
+{25103}{25126}I'm trying to do that.
+{25127}{25152}I just...
+{25154}{25190}have to take care|of some stuff first
+{25238}{25330}Listen, I love you,|so don't take this the wrong way,
+{25331}{25402}but you|are starting to suck.
+{25404}{25460}If you don't break,|you'll bend.
+{25462}{25553}Isn't it, if you don't bend,|you'll break, I think?
+{25554}{25622}No, no.|No, it's not.
+{25623}{25740}I mean, if you don't start|taking breaks and breathe,
+{25742}{25823}you'll mist|into someone really horrible.
+{25825}{25889}Okay, we'll go|to the beach,
+{25890}{25945}just for a little while.
+{26344}{26414}Keep Calm.
+{26416}{26498}You are not in danger.
+{26551}{26587}Got any water|in here, dude?
+{26589}{26621}In most cases,
+{26622}{26720}the elevator mechanic|will arrive in 30 minutes
+{26722}{26778}01:38|and counting.
+{27374}{27402}Hey.
+{27403}{27429}Hey.
+{27430}{27458}Where you going?
+{27459}{27511}Where do you think?|The ladies bathroom
+{27596}{27634}You look good tonight.
+{27682}{27764}I think your friends-|I think they're leaving.
+{28274}{28342}I think|we're at floor level
+{28344}{28389}What do you think?
+{28390}{28460}Yeah, it's worth a look.|Yeah
+{28522}{28553}Be careful.|Be careful
+{28554}{28594}Hey, can you|give us a hand?
+{28595}{28640}What do you expect me to do?|My hands are sweaty too.
+{28642}{28673}Maybe you'll let me see that.
+{28782}{28830}Shit
+{28930}{28969}You always carry this|around with you, kid?
+{28970}{29002}A lot of dangerous people|out there
+{29204}{29242}Oh, shit.
+{29390}{29418}Somebody help!
+{29420}{29452}Hello?
+{29454}{29478}Help!
+{29479}{29514}Can anybody hear us?
+{29516}{29551}Shh. Do you hear something?
+{29553}{29594}I don't hear|anything at all.
+{29596}{29658}Hello?
+{29659}{29721}Hello!
+{29722}{29785}We need help|with the elevator
+{31203}{31226}Let it go on three.
+{31227}{31295}One, two, three.
+{31297}{31358}Shit
+{31359}{31388}Somebody must've heard us.
+{31390}{31423}This building|is empty, man.
+{31425}{31462}Even the freaking|Golden Girls are gone.
+{31464}{31508}Wait.|Who else lives in the building?
+{31510}{31554}There's got to be-|there's that couple, right?
+{31555}{31605}They have a newborn baby.
+{31606}{31647}People don't go|on vacations with babies
+{31649}{31673}Really?
+{31674}{31703}Have you been|on an airplane lately?
+{31705}{31734}Hey, we're|all in this together.
+{31736}{31762}You don't have|to be an asshole
+{31764}{31802}So I can't even|disagree with you?
+{31804}{31826}My God,|what a fascist
+{31828}{31881}- That's not-|- Look!
+{31882}{31907}Let's calm down, okay?
+{31996}{32025}With this heat wave,
+{32026}{32093}every air-conditioner|in the city's running.
+{32094}{32125}It's a blackout
+{32126}{32176}Well, then, that means the power|should be back on soon
+{32178}{32213}Well, the one a few years ago|lasted almost mo days.
+{32214}{32250}Someone died|in a fucking elevator.
+{32251}{32274}They died?
+{32275}{32301}It's not a blackout
+{32302}{32336}How do you explain|the emergency lights?
+{32338}{32368}It's a back-up generator, genius.
+{32370}{32418}My hospital|has a back-up generator.
+{32419}{32464}Banks have|back-up generators.
+{32466}{32494}Well, what if|the elevator's broken?
+{32496}{32518}Huh?
+{32520}{32543}Wait, wait, wait.
+{32545}{32582}How many units have been rented?
+{32620}{32652}I think it's,|like, half finished.
+{32654}{32686}Half finished?
+{32688}{32782}There's five
+{32813}{32865}Well, there's-|okay, this is three.
+{32866}{32905}You live with|your parents, right?
+{32906}{32929}Where are they?
+{32930}{32955}I don't know Aruba
+{32957}{32998}Okay, Maurie sisters.|That makes four
+{33000}{33046}And the couple who are staying|with their relatives
+{33048}{33082}while they're having|their plumbing redone.
+{33084}{33118}They got a baby in tow.
+{33120}{33158}That makes five
+{33310}{33357}This could be a while
+{33394}{33441}Shit
+{34106}{34142}It's a gateway drug.
+{34144}{34187}You got to start somewhere.
+{35252}{35320}Tommy?
+{35322}{35350}I wanted|to ask you something.
+{35386}{35466}Someone told Olivia|at school that
+{35467}{35530}last year, you were banging Evie,
+{35532}{35577}among others.
+{35753}{35842}Sometimes I just worry|that you do this with everyone,
+{35844}{35973}that your promises,|things you say...
+{35974}{36041}I don't think|it's an act, but...
+{36329}{36384}Help us!
+{36386}{36423}I need|to get out of here!
+{36425}{36447}Don't yell!
+{36449}{36478}Help!|Oh, God!
+{36479}{36502}Tommy, calm-
+{36535}{36579}Hey, listen,|calm down
+{36581}{36611}Hey, calm down.|Calm down
+{36613}{36636}No, get off me!
+{36917}{36980}Oh, my God.|Oh, shit.
+{36982}{37004}You motherfucker
+{37006}{37030}I'm really sorry.
+{37032}{37054}Oh, Jesus,|let me get a look at that.
+{37055}{37078}Please
+{37126}{37148}You got to keep|pressure on the lip.
+{37150}{37178}Without ice,|that's going to swell.
+{37179}{37202}Get off me, man!
+{37204}{37227}Hey, stop yelling.
+{37229}{37251}Don't tell me what to do!
+{37253}{37279}Calm down
+{37281}{37322}Look, I have got|somewhere to be, and if this-
+{37324}{37398}We all do!|We all do!
+{37400}{37529}Okay, the air is getting|really thin in here, okay?
+{37552}{37594}We need to relax
+{37596}{37658}We need to think logically, okay?
+{37721}{37744}Let me get that knife.
+{38125}{38172}Okay.
+{38221}{38261}The mountains it ain't,
+{38262}{38310}but it's not bad
+{38610}{38710}I know I didn't know you then,|and I shouldn't care, but...
+{38711}{38767}Look Evie
+{38769}{38806}it was a drunk thing.
+{38807}{38874}It was once
+{38875}{38903}And you...
+{38905}{38969}You're pretty much|the only right choice
+{38970}{39038}I've ever made|in my life.
+{39039}{39067}And you know that l-
+{39069}{39100}Francesca!
+{39102}{39149}Shh
+{39150}{39192}Francesca?
+{39194}{39225}Fuck. It's early.
+{39226}{39274}He must've lost.|He must've lost bad
+{39275}{39316}Lost at what?|Cards
+{39318}{39341}Get dressed
+{39366}{39418}You never told me|your father gambles.
+{39419}{39469}Doesn't everyone?
+{39470}{39498}Did you put it somewhere?
+{39500}{39541}Where is the mail?
+{39542}{39566}Is he-I mean,|are you going to be okay?
+{39568}{39666}One fucking thing for me,|and you can't even do that.
+{39668}{39693}Francesca!
+{39694}{39730}You said your father|was an accountant
+{39732}{39755}You said he never drinks
+{39757}{39787}He's not,|and he does
+{39789}{39820}I'll tell you the rest|of the gory details later,
+{39822}{39854}but right now,|you need to get out.
+{39855}{39916}I'm the only one that can|calm him when he loses
+{39918}{39971}He can't stay mad|at his little girl.
+{40022}{40045}Go
+{40862}{40910}Hey.
+{40915}{40938}Hey.
+{40940}{40975}Hey, sorry|to sneak up on you.
+{40977}{41020}Just-|Who the fuck are you?
+{41022}{41080}Dad, Dad,|this is my friend Tommy.
+{41117}{41140}Hey, easy, easy.
+{41142}{41165}No, Dad, just don't. Don't.
+{41229}{41265}In my house?
+{41270}{41305}In my house?
+{41364}{41387}Fuck!
+{41577}{41616}What the hell?
+{41810}{41857}Calm down.|It's cool
+{41858}{41882}It's cool
+{43066}{43135}It's okay.
+{43285}{43319}You have a family?
+{43321}{43352}I have a daughter,|yeah.
+{43381}{43431}She's eight.
+{43433}{43475}She's coming at 2:30 tomorrow.
+{43477}{43537}I don't think I've ever|seen her around here
+{43538}{43606}We have a house|outside the city.
+{43607}{43637}I bought this apartment
+{43638}{43710}for nights I work late|at the hospital.
+{43743}{43774}You have a wife?
+{43775}{43829}She's, um...
+{43830}{43857}she passed away,
+{43858}{43910}unfortunately.
+{43952}{44066}Yeah, she passed away,|unfortunately.
+{44068}{44154}Oh, I'm so sorry.
+{44160}{44198}Yeah, well, it was hard.
+{44200}{44292}It was hard|for a long time.
+{44294}{44386}But, you know, when I look|at my daughter now,
+{44387}{44498}I can still-|I can still see my wife in her.
+{44500}{44551}You know,|she's never really gone.
+{44823}{44862}I think I can handle one more
+{45191}{45260}It's really so nice|to finally hang out with a guy
+{45262}{45342}and not have to worry about...
+{45344}{45406}not have to worry about,|you know?
+{45408}{45459}Yeah, I know|what you mean.
+{46293}{46338}Go on
+{46946}{46983}Okay, one, two, three.
+{47086}{47122}What do you see|up there?
+{47123}{47146}Is there a door?
+{47227}{47260}The one back here is wall
+{47262}{47306}but there's another|about 15 feet up there.
+{47307}{47357}Maybe I can try|to open it.
+{47358}{47401}Do you think|you can climb up there?
+{47402}{47431}You need help up there?
+{47433}{47482}No, no. It's all right. I can reach it.
+{47484}{47528}Oh, thank God.
+{47530}{47570}We're gonna be okay.
+{47702}{47725}Shit
+{47726}{47750}Oh, God.
+{48115}{48174}I'm sorry|about before,
+{48175}{48208}when I hit him
+{48210}{48256}Oh, it's all right.
+{48258}{48323}You had to do something.
+{48325}{48382}I was afraid|it might upset you.
+{48398}{48442}I'm fine
+{48444}{48494}Besides, he seems|to be over it
+{49601}{49637}I feel like I'm never going to graduate.
+{49638}{49687}I wish your grandfather|could've seen you...
+{49689}{49728}Worked in response...
+{49730}{49755}Life is for living?
+{49757}{49789}What does that|even mean?
+{49848}{49876}I am living my life right now.
+{49878}{49916}You were just wonderful.
+{49918}{49941}Life is work
+{49942}{49981}That's what I have to do
+{49982}{50006}I want better things for you.
+{50007}{50038}Maybe it'll change at some point.
+{50039}{50076}Better and better
+{50381}{50472}As soon as we get out of here,|there's something I have to do
+{50474}{50538}Something about... that?
+{50540}{50573}I mean the blood
+{50574}{50679}Some kind of accident?
+{50681}{50704}It's okay.
+{50706}{50736}You don't have to
+{51234}{51300}I have something|I need to do too
+{51302}{51366}Does it have to do|with your daughter?
+{51368}{51446}More like|for my daughter.
+{51448}{51547}She's getting dropped off|here tomorrow, 2:30.
+{51549}{51586}And I really need|to clean up.
+{51587}{51622}She might not like|what she'd find
+{51786}{51820}Come here
+{51822}{51924}Sit down
+{51926}{51981}Would you like|some wine?
+{51982}{52011}Yeah, I'd love some.
+{52013}{52092}Red?|White?
+{52094}{52179}Pink?
+{52181}{52244}White sounds good.
+{52246}{52279}Okay.
+{52663}{52691}Thanks
+{52781}{52838}Come on.|Get loose
+{52840}{52874}Feel like you're at home.
+{52943}{52990}Put your head back.
+{52992}{53072}This place, it's kind of like|my bachelor pad, you know?
+{53074}{53113}I usually use it for alone time.
+{53214}{53242}What is it, porn?
+{53243}{53328}Do I look|like that kind of guy?
+{53330}{53394}Yes, porn.
+{53460}{53556}Let yourself go.
+{53558}{53626}Let go.
+{53627}{53650}Lose it with me
+{54339}{54370}Uh!
+{54873}{54921}Oh, my God.
+{55057}{55089}Shit
+{55135}{55186}What the hell was that?
+{55227}{55279}What the fuck|did you do up there?
+{55281}{55347}Hey, are you okay up there?
+{55382}{55406}Don't touch my leg.
+{55407}{55437}Don't touch it.|Don't touch it
+{55438}{55498}Ugh.
+{55581}{55620}It's that bad, huh?
+{55622}{55652}What the fuck|did you do up there?
+{55654}{55676}Karl, help me, please.
+{55678}{55722}No, no, no!|No, no.
+{55724}{55755}- Hey.
+{55757}{55798}Karl, please!
+{55799}{55846}Please
+{55863}{55894}Oh, fuck.
+{55896}{55918}Ah!
+{55920}{55959}Grab that knife
+{56138}{56170}Oh, God.
+{56171}{56223}Oh, God.
+{56225}{56264}Well, it's definitely broken.
+{56266}{56297}Is he going to be okay?
+{56298}{56329}If we get out of here soon, yes.
+{56330}{56356}We don't-
+{56358}{56380}Wait. I don't want|to lose my leg.
+{56382}{56414}Yeah, well|that's a long ways off.
+{56415}{56444}But we can do something.
+{56446}{56488}I have some pills,|some painkillers.
+{56490}{56534}I have water here
+{56646}{56683}You could've|mentioned that sooner
+{56685}{56714}Sorry.
+{56715}{56765}For the pain, Tommy.
+{56827}{56854}I|Just don't drink it all|okay?
+{56856}{56884}That's all we have
+{56886}{56909}That's it
+{57329}{57357}What does it say?
+{57392}{57429}Your emerg-
+{57430}{57458}Help!
+{57459}{57503}Help!|We need medical attention in here
+{57505}{57555}Please help!
+{57557}{57589}I think it only works|one way.
+{57590}{57626}Please help us!
+{57627}{57658}Please
+{57659}{57713}We're aware of your emergency.
+{57714}{57746}Please stay calm.
+{57748}{57834}An elevator mechanic|will be with you shortly.
+{57836}{57882}And make it quick.
+{57884}{57918}Thank God
+{57968}{58007}Any second now.
+{58049}{58093}How do you think they're|going to pull us out of here?
+{58094}{58130}Let them worry|about the logistics.
+{58132}{58169}Right now, I just want|to get out of here.
+{58170}{58270}We're aware of your emergency.
+{58272}{58321}Please stay calm.
+{58322}{58401}An elevator mechanic|will be with you shortly.
+{58528}{58633}We're aware|of your emergency.
+{58634}{58686}Please stay calm.
+{58687}{58762}An elevator mechanic|will be with you shortly.
+{59193}{59318}We're aware|of your emergency.
+{59320}{59438}Please stay calm.
+{60034}{60060}Almost 4:00 in the morning.
+{60101}{60156}Been in here|nine hours
+{60269}{60310}Severe internal bleeding.
+{60311}{60390}Her organs|are beyond repair.
+{60391}{60487}If she wasn't such a fighter,|she'd be gone already.
+{60564}{60621}Is she in pain?
+{60643}{60684}She's sedated,|but she's conscious
+{60686}{60719}Does she know?
+{60760}{60855}I was under explicit orders|not to feed her any bullshit.
+{61019}{61142}Do you want me to call anyone,|parents, an aunt or uncle?
+{61194}{61241}No, there's, um...
+{61298}{61382}There's nobody.
+{61383}{61478}It's always just been me|and my grandma, pretty much, so...
+{61601}{61651}I'd like to see her now
+{61802}{61826}Help me!
+{62461}{62510}Maybe we should sleep in shifts.
+{62512}{62538}What's that going to do, kid?
+{62539}{62575}If this elevator collapses,
+{62577}{62631}it's going to do it whether|or not we're keeping guard.
+{62633}{62680}Remember, it's going to be|daylight soon.
+{62725}{62821}And if one of us hears something,|like people outside,
+{62822}{62934}we should be able to yell.
+{62936}{62959}Tommy's right.
+{62961}{63016}Of course he's right.
+{63018}{63078}He disagreed with me.
+{63079}{63121}So you want to go first?
+{63702}{63753}I can't take this anymore.
+{63853}{63950}What are we going to do?
+{63951}{64024}What can I do?
+{64145}{64194}Tet's run away.
+{64195}{64227}After last night,|he'll come back
+{64229}{64270}And things are only|gonna get worse.
+{64272}{64300}You know it
+{64302}{64330}That's crazy.
+{64331}{64359}What's crazy|is staying here with him.
+{64361}{64420}We don't have|the money for that.
+{64422}{64459}No, but my father does.
+{64461}{64536}And I know|where he keeps it.
+{64538}{64561}My father...
+{64654}{64727}He always keeps some cash|around the house for betting.
+{64729}{64790}I found a wad yesterday.
+{64791}{64814}Take it
+{64815}{64842}He owes you.
+{64843}{64866}If he finds out it's missing-
+{64867}{64917}No, we'll be|at the airport.
+{64918}{64966}Tonight?
+{65058}{65125}Tonight.
+{65193}{65315}We need to think about|rationing that water.
+{65317}{65348}He needs it
+{65350}{65412}Yeah, well, he's going|to need it in six hours too
+{65414}{65454}And we'll need it|in six hours
+{65492}{65567}We weren't the ones|who tried to play superhero.
+{65569}{65606}We're gonna be|out of here by then.
+{65608}{65659}Yeah?
+{65661}{65684}I hope so.
+{66634}{66670}Hey.
+{66672}{66694}No way.
+{66696}{66730}Excuse me?
+{66732}{66780}Please don't.|I have asthma
+{67054}{67094}I'll blow my smoke|out the opening.
+{67095}{67134}Sorry. No.
+{67135}{67166}Look, it's been a long time, lady.
+{67167}{67216}I don't know if you've|ever had an addiction-
+{67218}{67241}Oh, I don't know|if you've ever had
+{67242}{67274}your throat close up|on you before.
+{67276}{67309}Well, you have|your inhaler, right?
+{67310}{67342}Yeah, but that's|not he point-
+{67344}{67388}Well, you know,|you'll be fine.
+{67390}{67445}I'm a doctor|remember? '
+{67561}{67594}Tommy?
+{67630}{67663}Tommy!
+{67797}{67830}Tommy, I know you're in there.
+{67832}{67902}I saw your motorcycle outside.
+{67981}{68034}Thanks a lot,|asshole
+{68138}{68161}Put it out
+{68162}{68242}I have asthma
+{68243}{68298}I said, "Cut it out."
+{68299}{68348}I asked you|to put it out, now.
+{68350}{68394}I'm telling you|to put that thing out.
+{68396}{68425}I'm almost done
+{68426}{68458}It's blowing back|in the room
+{68460}{68490}No, it isn't.
+{68491}{68514}Stop fighting.
+{68588}{68622}This isn't good|for any of us.
+{68623}{68663}Jesus Christ,|calm down, Claudia.
+{68665}{68693}Maybe you should have one.
+{68694}{68736}Oh, okay, you want|to fucking pollute the air?
+{68738}{68785}Go ahead. We'll just|close the fucking door.
+{68786}{68809}Ow!
+{68810}{68833}Sorry.
+{68834}{68869}Fucking bitch!
+{68870}{68917}And everything|for a fucking cigarette!
+{68992}{69033}Great. Now we got|a regular gimp collection.
+{69034}{69070}I said I'm sorry.
+{69072}{69127}It's been five hours, and we're already|like ord of the flies
+{69129}{69151}I said I'm sorry, okay?
+{69153}{69178}Just like a woman!
+{69180}{69206}Look, this isn't helping.
+{69287}{69322}And, you know,|it's true, kid.
+{69324}{69376}You used to be able to smoke|anywhere, fucking anywhere:
+{69378}{69465}Movie theaters, airplanes,|hospitals, supermarkets.
+{69466}{69520}Fucking moral majority's|taken over!
+{69522}{69550}Calm down
+{69551}{69614}Oh, God,|I need to get out of here.
+{69616}{69650}Let us out of here!
+{69651}{69685}I hate this God damn-
+{69730}{69770}Let us the fuck out!
+{69771}{69798}Oh, my God,|you have a temper.
+{69799}{69822}God!
+{69824}{69852}What, just like a woman?
+{69854}{69897}Exactly, just like a woman|to set a guy off...
+{69946}{70023}And then calmly criticize him|for blowing up!
+{70025}{70062}What the fuck|is your problem?
+{70126}{70151}This is it
+{70324}{70382}Nobody move.
+{70383}{70406}Shit
+{70675}{70702}Don't fucking move.
+{70704}{70729}Shh
+{70784}{70814}Tommy?
+{70999}{71046}Tommy?
+{71919}{71990}We were born in these lives,|Francesca
+{71991}{72034}We didn't have a choice
+{72035}{72114}But it's time that we take over|and do it for ourselves
+{72690}{72718}help me!
+{73122}{73172}Don't cry.
+{73174}{73238}Abuela, I'm sorry.
+{73315}{73399}When it's your turn,|it's your turn.
+{73500}{73547}Shh, don't talk.
+{73549}{73587}It's okay.
+{73589}{73638}I have to
+{73639}{73730}Last chance|to piss you off.
+{73732}{73792}Abuela,|it's not funny.
+{73794}{73885}Remember
+{73886}{73966}you'll have to bend-
+{73967}{74004}Isn't it "break"?
+{74006}{74053}Whatever
+{74100}{74157}I just need you|to get me something.
+{74158}{74270}The photograph|on my table.
+{74272}{74362}I need him with me|when my time comes.
+{74364}{74410}I'll get you|the photograph.
+{74411}{74451}At this point, it's a matter of time.
+{74490}{74514}How long?
+{74547}{74591}Uh, maybe tomorrow,
+{74593}{74634}maybe...
+{74636}{74681}in a few hours
+{74721}{74745}Claudia
+{74746}{74805}Hurry.
+{74865}{74915}I love you.
+{74937}{74981}Hurry.
+{75680}{75733}You've been holding out on us.
+{75818}{75840}What?
+{75842}{75869}First water
+{75870}{75916}Now candy?
+{75918}{75962}Fucking convenience store|you got there.
+{76076}{76102}Asshole.|What the-
+{76104}{76149}what are you doing?
+{76150}{76183}What the-
+{76250}{76273}Give it to me
+{76274}{76319}Give me|the candy bar.
+{76511}{76550}No
+{76552}{76598}Don't.|Jesus, don't.
+{76600}{76638}Here
+{76639}{76665}Give it back, please.
+{76666}{76708}What the fuck?
+{76710}{76752}That isn't cool, man.
+{76778}{76819}Give it back to me, please.
+{76821}{76854}I'd rather not
+{76918}{77013}Chill out, man.
+{77086}{77110}Now, look...
+{77178}{77211}We're not going|to get out of here
+{77213}{77265}until we stop|yelling at each other
+{77266}{77292}and start working together.
+{77294}{77382}And we need one person, one,
+{77384}{77407}to make all the decisions
+{77409}{77497}We need a strong leader.
+{77498}{77557}Now, I'm just|strengthening my hand.
+{77558}{77592}And don't worry.
+{77594}{77638}I'll give you a hit|when you need one,
+{77639}{77702}if you behave.
+{77841}{77888}What kind of a monster are you?
+{77937}{77977}Monster?
+{78039}{78098}Don't you think you're being|a bit dramatic?
+{78392}{78456}Maybe I'm just destined|for something else.
+{78480}{78520}I don't know
+{78522}{78590}I'd like to think I'm meant|for higher things, though, you know?
+{78592}{78649}Higher things.
+{78710}{78757}My father always told me,
+{78758}{78824}"To endure|is to conquer our fate."
+{78826}{78849}Fate?
+{78850}{78875}Yeah
+{78877}{78902}Do you really believe|that shit?
+{78946}{78983}I like your eyes.
+{78985}{79024}Destiny sucks.
+{79675}{79713}You'll be fine
+{79714}{79753}Yeah, you'll be fine.
+{80183}{80214}There's no chance
+{80380}{80404}No destiny.
+{80474}{80521}No fate
+{80643}{80698}There's only|what you take from the world
+{80699}{80742}and what the world|takes from you.
+{80807}{80833}You know that now,
+{80834}{80925}don't you...
+{80926}{80976}my darling?
+{81734}{81806}What the hell are you doing, man?
+{81807}{81881}Just making sure everything still works.
+{82147}{82227}She's pretty good-looking, isn't she?
+{82229}{82286}I got a girlfriend, man.
+{82287}{82334}At least I did
+{82336}{82378}God, I hope|she's okay.
+{82379}{82412}He's going to know by now.
+{82414}{82477}Oh, boo-hoo.
+{82478}{82522}My little girl sees|the mess I made upstairs,
+{82524}{82548}let me just say,
+{82550}{82584}her idea of me|as the perfect father
+{82586}{82631}is going to be|severely tested.
+{82633}{82662}2:30
+{82664}{82743}She's going|to be up there at 2:30.
+{82745}{82793}And her lips|were trembling,
+{82794}{82861}and I take this blade,|and I cut her up.
+{82862}{82926}And it's beautiful.|It's fucking beautiful.
+{82927}{82976}We were supposed|to run away to Paris.
+{83054}{83085}Do people still run away?
+{83086}{83134}I thought|we placated all you kids
+{83135}{83210}with cell phones|and video games.
+{83211}{83237}Shut up, man.
+{83238}{83265}No, I'm just|kidding around.
+{83266}{83326}Paris, it's a great city.
+{83327}{83367}The food
+{83369}{83398}Some of the women there
+{83399}{83482}are even more sexually|adventurous than I am,
+{83483}{83531}and that's|saying something.
+{83607}{83671}We're going to have|to get something on these cuts.
+{83673}{83722}What do you think|she's like?
+{83776}{83798}What do you mean?
+{83800}{83856}Usually the hot ones,
+{83858}{83882}they just lay there.
+{83883}{83934}You're out of line, man.
+{83936}{83974}It's true
+{83975}{84010}Bitches are so used|to getting there way.
+{84011}{84063}And why?
+{84065}{84102}Just 'cause|they look pretty.
+{84170}{84206}Salt
+{84362}{84404}Up and down.
+{84487}{84517}She seems|like she likes this
+{84518}{84546}Salt
+{84666}{84738}They get all the jobs.
+{84740}{84836}They get|all the attention
+{84838}{84889}But what about|the rest of us, Tommy?
+{84890}{84930}What about us?
+{84931}{84974}Sometimes I wonder
+{84975}{85091}why was I born|in such a fucked-up era?
+{85093}{85134}Yeah, man.
+{85135}{85158}Fucked up.
+{85160}{85187}Yeah
+{85189}{85326}Well, you'll see what I mean|someday, buddy.
+{85454}{85477}Pills, man.
+{85478}{85520}Please.|Please
+{85803}{85869}7:30
+{85870}{85936}Hope.
+{85938}{85994}Let's have|some fucking hope.
+{86170}{86215}They're gonna find her.
+{86217}{86256}They're gonna find her.
+{86983}{87042}Can you feel me now?
+{87238}{87330}Can you feel me now?
+{88001}{88028}The building, man.
+{88030}{88115}Do you think...
+{88117}{88163}Do you think|it was terrorists?
+{88165}{88215}Terrorists?
+{88217}{88286}In the Bifrost Bridge Building?
+{88288}{88310}Yeah
+{88312}{88370}You know what?
+{88372}{88451}I'd say it was|definitely terrorists.
+{88453}{88486}But how do you think|they made it past
+{88487}{88527}all the security downstairs?
+{88560}{88647}Maybe it was aliens, man.
+{88750}{88800}Like in|The Twilight Zone,
+{88802}{88858}when the electricity goes out,
+{88860}{88953}and everybody thinks|it was everyone else.
+{88954}{89021}But really,
+{89022}{89079}it was aliens
+{89081}{89142}Well
+{89144}{89198}I don't know|about that
+{89199}{89263}But there's one thing|I do know,
+{89265}{89390}and that is that if I don't|get out of here soon,
+{89392}{89476}I'm going to cut|your fucking throat...
+{89478}{89534}and I'm going to rape|the shit out of that cunt
+{89622}{89645}What?
+{91699}{91781}Oh, God, how many cigarettes|have you smoked?
+{91782}{91830}Please give me|my inhaler.
+{91957}{91980}Give it to me
+{92011}{92051}Please give me|my inhaler.
+{92200}{92223}Please
+{92383}{92422}God damn it
+{92423}{92509}You'll get over it.
+{92510}{92582}I want to show you|something.
+{92583}{92614}Look
+{92657}{92688}Come here
+{92754}{92782}Look
+{92806}{92838}Fire alarm
+{92894}{92922}You hold this
+{92924}{93004}underneath the sensor
+{93006}{93062}and we'll be hearing sirens|before you've even climbed down.
+{93063}{93094}I'm having|a hard time breathing.
+{93096}{93118}- You want a hit?|- Please
+{93121}{93182}- Okay.|- No
+{93251}{93283}And since you're going up there anyway...
+{93453}{93592}Now, look, I really,|really need to excuse myself
+{93594}{93710}from this elevator
+{93712}{93837}So don't you dream|of coming back here
+{93838}{93901}without setting|that alarm off
+{95823}{95879}Come on.|You can do this
+{95881}{95917}You can do this
+{95918}{95958}Come on
+{96690}{96738}Come on
+{97524}{97556}What the
+{97599}{97680}Fuck
+{97682}{97682}Claudia?
+{97715}{97723}Claudia?
+{97725}{97764}My daughter|should be here by now.
+{97766}{97861}Oh, you are dead,|you fucking cunt.
+{98048}{98070}Claudia
+{98072}{98143}Claudia?
+{98403}{98430}Hey.
+{98432}{98454}I'm right here.
+{98456}{98486}Are you okay?
+{98488}{98537}Yeah, listen, I was on the top|of the elevator right now.
+{98538}{98562}Jesus
+{98658}{98681}What's going on?
+{98682}{98714}Karl
+{98716}{98761}Can you imagine how|she's going to react?
+{98762}{98785}What?
+{98786}{98836}My little girl,
+{98838}{98870}Nikky.
+{98871}{98914}Nobody should need|to see that kind of thing.
+{99002}{99037}I protected her|the first time
+{99038}{99063}What are you talking about, Karl?
+{99065}{99088}I did
+{99090}{99114}Why are you-
+{99116}{99186}You can plan|your whole life out.
+{99264}{99336}You can plot|the most complex course.
+{99396}{99427}But sooner or later
+{99429}{99494}you're going to walk|into some piece-of-shit elevator.
+{99495}{99526}Karl?
+{99528}{99554}Listen to me.|listen
+{99555}{99590}I was on top|of the elevator right now.
+{99592}{99631}I looked over the side,
+{99633}{99677}and I could see that|we're almost at floor level
+{99678}{99751}The optimism of youth.
+{99753}{99860}It's remarkably enduring.
+{99862}{99928}In fact
+{99930}{99993}it's usually|the last thing to go
+{99994}{100050}when I cut some bitch up.
+{100052}{100087}Fuck
+{100089}{100253}Their eyes pleading|and hoping to the end.
+{100322}{100380}You can almost|hear them thinking,
+{100382}{100406}"This isn't me"
+{100408}{100454}No, this isn't me.
+{100456}{100479}Get the fuck|away from me.
+{100481}{100514}This isn't my life.
+{100515}{100542}I got class tonight.
+{100543}{100574}I can't be late for class"
+{100576}{100606}Get the fuck|away from me.
+{100608}{100641}Why do they always say that?
+{100642}{100689}Stop it.
+{100690}{100754}Hey, you want|to play something?
+{100756}{100784}Marco
+{100810}{100876}Come on, guys.
+{100878}{100918}Marco
+{100919}{100953}Please stop.
+{100985}{101024}The way it goes:
+{101026}{101087}Marco
+{102181}{102259}You killed him
+{102261}{102317}Finally,
+{102318}{102386}some privacy.
+{102388}{102430}You killed him
+{102628}{102660}What's the point, Claudia?
+{102662}{102687}We all know|how this ends
+{102689}{102722}Please
+{102724}{102781}You think the others|didn't say please?
+{102782}{102814}I can get us out of here.
+{102816}{102844}Give me the knife
+{102846}{102890}You have got|to be kidding me.
+{102891}{102955}Okay, I won't tell anyone.
+{102957}{103044}Please have a conscience
+{103046}{103077}Think about|your daughter.
+{103078}{103111}Daddy.
+{103113}{103136}What are you doing?
+{103206}{103238}Please
+{103239}{103309}Daddy, you're not playing well.
+{103363}{103390}What conscience?
+{103456}{103510}She'll never learn!
+{103511}{103566}So now learn!
+{103912}{103944}Oh!
+{104163}{104190}Get off!
+{104284}{104350}Ah!
+{104674}{104726}Uh!
+{104728}{104760}Get fucking back here!
+{106724}{106776}police radio chatter
+{108829}{108861}Hey, Claudia.
+{108904}{108947}Claudia?
+{109066}{109178}How is she?
+{109179}{109239}My grandmother;|how is she?
+{109241}{109281}We'll talk about it later
+{109370}{109401}Tell me now
+{109492}{109557}I'm sorry.
+{109719}{109869}I didn't get her|the photograph.
+{109870}{109923}I tried
+{110006}{110078}Why do things|like this happen?
+{110154}{110230}I used to think|about that too
+{110231}{110278}After working here|for a while
+{110306}{110401}I don't think|there is any reason,
+{110402}{110482}no pattern.
+{110483}{110546}Yeah
+{110548}{110584}You get some rest, okay?
+{110609}{110759}Please rate this subtitle at www.osdb.link/k699|Help other users to choose the best subtitles

@@ -1,0 +1,1171 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{2203}{2261}Akelei. Akelei.
+{3277}{3337}Claire?
+{3489}{3564}- Move up.|- Thank you.
+{3772}{3861}Roast mules go topsy-turvy.
+{3865}{3942}Ten letters ending in "T."
+{3946}{4005}- I'm hopeless at this.|- Me too.
+{4009}{4079}"Somersault. "
+{4128}{4164}Bletchley.
+{4457}{4504}It's a walk.
+{4508}{4561}I know.
+{4565}{4626}I've been here before.
+{4695}{4741}This bus for Yardley--
+{4818}{4864}This bus for--
+{5376}{5485}Hello? Yes.|I'll try that extension for you.
+{5489}{5541}Please hold the line.
+{5545}{5623}I'm just putting you through.
+{5627}{5687}Yes, you're through.
+{5691}{5737}- Mr Skynner?|- Come in.
+{5741}{5796}It's been a pleasure, sir.
+{5825}{5886}I never wanted you back.
+{5890}{5944}Logie says he needs you.
+{5985}{6060}Well...
+{6064}{6118}he's got you.
+{6155}{6264}Conference in half an hour.|And keep your mouth shut.
+{6268}{6332}You're only there for show.
+{7060}{7151}Oh, dear, oh, dear, oh, dear.|You do look bloody terrible.
+{7240}{7343}- We missed you, Tom.|- I know why you want me back, Guy.
+{7347}{7428}You've lost the crown jewels,|haven't you? You've lost Shark.
+{7492}{7579}We got a call from one of the|intercept stations in Scarborough.
+{7583}{7665}And they started picking up a single|word broadcast on the hour, every hour...
+{7669}{7725}coming out of U-boat headquarters|in Sainte-Assise.
+{7729}{7793}- In Morse?|- No, it was a human voice.
+{7796}{7848}- "Akelei. "|- Meaning what?
+{7852}{7934}- It's a flower.|- I know it's a bloody flower, Guy.
+{7938}{8022}Aquilegia. Columbine.|But what did it mean?
+{8026}{8110}It meant,|"Change the weather code. "
+{8114}{8219}The Germans have switched their U-boats to|a new code book, and we're blacked out again.
+{8223}{8279}Is that why the Yanks are here?
+{8283}{8332}Skynner's in a panic.
+{8336}{8404}They want to take over his empire.
+{8437}{8490}Here comes our team.
+{8654}{8764}- You! You!|- Hello.
+{8793}{8883}- You in the Royal Navy?|- Oh, I'm sorry.
+{8887}{8966}- Only for a day or two. I mean, actually on a ship.|- What was your ship?
+{8970}{9065}Look, I can't be expected|to remember every little thing.
+{9069}{9134}Sorry.
+{9138}{9222}Welcome to Bletchley Park, sir.
+{9226}{9285}Three convoys left New York|in the past week...
+{9289}{9355}and are presently at sea.
+{9359}{9410}Convoy SC 122.
+{9414}{9506}Fifty merchant ships|carrying fuel oil, tanks...
+{9510}{9626}iron ore, bauxite,|also meat, sugar and wheat.
+{9630}{9706}Convoy HX 229 departed|New York on Monday.
+{9710}{9791}Forty merchant vessels|carrying explosives, manganese...
+{9795}{9857}timber, powdered milk.
+{9861}{9946}Convoy 229-A left New York|on Tuesday...
+{9950}{10026}carrying steel, timber,|powdered milk.
+{10030}{10086}I don't want a shopping list.|What's the total?
+{10090}{10178}One hundred and forty-one merchant ships,|gross tonnage just under a million tons.
+{10182}{10258}- Plus cargo of another million.|- And where are the U-boats?
+{10322}{10398}A submarine tracking rumour|had three U-boat packs operational...
+{10402}{10492}in the North Atlantic|as of 00 hundred Thursday...
+{10496}{10564}here, here and here.
+{10568}{10642}Midnight Wednesday?
+{10646}{10728}- So where are the U-boats now?|- I'm afraid I have no idea.
+{10769}{10886}I thought that was why we were here.|Our intelligence has been shut off.
+{10890}{10966}You're telling us that the largest|assembly of merchant shipping...
+{10970}{11020}we've ever sent|across the North Atlantic...
+{11024}{11095}is now steaming towards|the largest concentration of U-boats...
+{11099}{11166}the Germans have ever put|in the North Atlantic...
+{11170}{11259}and you don't know where the hell|the goddam U-boats are?
+{11263}{11316}- Gentlemen, if I may--|- Shut up.
+{11391}{11453}What are our convoys making, hmm?
+{11457}{11511}Something over 220 miles a day.
+{11552}{11634}Well, I'd say we have|four days, maximum...
+{11638}{11752}before the convoys come in operational|range of where you last had the enemy.
+{11756}{11823}So, Leonard, this blackout--
+{11827}{11885}will it be over in four days?
+{11889}{11939}Uh, it's possible.
+{11943}{11996}Yes, well, all things are possible,|Leonard, but is it likely?
+{12000}{12092}Is it likely that you can break this|code, this, um-- What'd you call this?
+{12096}{12186}This Shark? Before our convoys come|in range of the U-boats.
+{12190}{12280}- We'll give it every priority.|- Yes, I know damn well you'll give it every priority, Leonard.
+{12284}{12412}- That's not the question.|- Well, sir, as you press me, yes, I think we may be able to do it.
+{12582}{12640}Is that what you all believe?
+{12644}{12736}Um, well, I suppose you could say we know more|about Shark now than we did the last time.
+{12740}{12868}If Guy thinks we can do it,|I would certainly respect his opinion.
+{12872}{12949}And you?
+{12953}{13008}You don't seem|to have much to say.
+{13012}{13144}Tom Jericho. He's the one who got us into|reading Shark. If there’s anyone alive--
+{13148}{13228}Can you break Shark again|in four days?
+{13358}{13432}Have you any idea|what you’re talking about?
+{13436}{13511}Tom's been on sick leave for the last month,|so I don't think he's fully in the picture--
+{13515}{13591}Enigma is a very sophisticated|enciphering machine...
+{13595}{13659}and Shark|is its ultimate refinement...
+{13662}{13759}so we're not talking|about The Times' crossword.
+{13792}{13856}It weighs 26 pounds,|battery included...
+{13860}{13910}and goes anywhere.
+{13914}{13996}The Enigma machine.|The Germans have thousands of them.
+{14000}{14046}What's it do?
+{14050}{14116}It turns plain-text messages|into gobbledygook.
+{14120}{14185}Then the gobbledygook|gets transmitted in Morse.
+{14189}{14305}At the receiving end, there's another Enigma|machine to turn it back into the original message.
+{14309}{14384}Press the same key any number of times,|it will always come out different.
+{14388}{14481}- And you have one of your own.|- Courtesy of the Polish Cipher Bureau.
+{14485}{14561}So what's the problem?
+{14565}{14618}Problem?
+{14622}{14743}The problem is the machine has 115 million|million million ways of doing it...
+{14747}{14840}according to how you set these three|rotors and how you connect these plugs.
+{14844}{14887}And that's Shark.
+{14891}{14965}No. No, no, no.|This is the one we can break.
+{14969}{15068}Shark is enciphered on a machine with a fourth|rotor specially developed for U-boats...
+{15072}{15187}which gives it about 4, 000 million|billion different starting positions.
+{15226}{15296}And, uh, we've never seen one.
+{15300}{15379}Holy shit!
+{15383}{15448}I haven't understood a word.
+{15452}{15528}Can somebody give me a straight answer|to a straight question?
+{15532}{15642}- Will this blackout definitely be over in--|- Nobody can say definitely, sir.
+{15646}{15687}Yes or no?
+{15787}{15891}- No.|- Thank you.
+{15895}{16021}So it isn't over in four days.|When will it be over, hmm?
+{16025}{16073}Hmm? Hmm? You.
+{16134}{16247}Well, all I have to measure it by is how long|it took last time when Shark first came in.
+{16251}{16330}- And how long did it take?|- Ten months.
+{16372}{16438}Well, this is a great day|for Adolf Hitler.
+{16442}{16495}Ten months?
+{16499}{16565}But you did break it?
+{16569}{16611}Yes.
+{16615}{16705}- How?|- I'm afraid I can't tell you that.
+{16884}{16931}I think it's time we--
+{16935}{17010}I think it's time|I got back to London.
+{17380}{17485}It's not just a million tons of shipping.|It's a million tons of shipping every week!
+{17489}{17578}It's our capability to supply Russia,|to support the army in North Africa...
+{17582}{17636}to invade Europe|and drive the Germans out.
+{17640}{17723}- It's the whole fucking war.|- Sir.
+{17903}{18037}Satisfied? Now, send the stupid bugger|back to where he came from.
+{18172}{18222}Don't waste a match.
+{18308}{18354}Back to Mayfair?
+{18358}{18404}No.
+{18434}{18498}How many people knew|about the German weather code...
+{18501}{18554}how important it was to us?
+{18558}{18611}A dozen, maybe. Why?
+{18615}{18671}Make me a little list?
+{18708}{18762}What are you doing here,|Mr Wigram?
+{18766}{18834}You think there's a spy|in Bletchley Park?
+{18933}{19021}I'm Cave.|Naval Intelligence.
+{19025}{19128}I'll be liaising with the admiralty.|They've given me an office in your hut.
+{19198}{19259}I'm ultra-cleared.
+{19263}{19346}- What does that mean?|- That means I know how you broke Shark, in principle.
+{19350}{19427}You used a captured copy|of the German Navy's weather code book.
+{19431}{19515}Gave you a pretty good idea of what their|weather signals were supposed to be saying.
+{19519}{19565}Can I see it?
+{19611}{19693}Midnight, two days ago,|the Germans changed to a new book.
+{19697}{19832}- So we lost that crib.|- Well, why do you think they did that just then?
+{19836}{19898}Don't know.
+{19902}{19949}And the other one?
+{19953}{20011}Short signal code book.
+{20015}{20105}The U-boats employ it for reporting|their position, course and speed.
+{20109}{20191}Unfortunately, if you don't know where|the U-boat is or what it's doing...
+{20195}{20272}the short signal code book|isn't much help as a crib.
+{20415}{20474}Two men died|saving those little books...
+{20478}{20551}from a sinking submarine.
+{20555}{20609}Fasson and Grazier.
+{20651}{20732}We caught the U-boat|on the surface in the eastern Med.
+{20813}{20922}The sub went down when they were inside|trying to bring out its four-rotor Enigma.
+{21002}{21082}November '42.|I was in destroyers.
+{21086}{21153}It was my last ship.
+{21197}{21291}Bletchley is the lucky number|in this war.
+{21297}{21362}- One and six, please.|- One and six.
+{21507}{21568}Here you are.
+{21747}{21796}Girls, guess I'm off.
+{21800}{21864}- See you later.|- Yes, I'll see you later.
+{22117}{22182}Miss Wallace?
+{22186}{22259}Mr Jericho.|When did you get back?
+{22263}{22365}Just today.|How, uh-- How are you?
+{22402}{22447}How am I?
+{22451}{22530}Yeah, all right.|How is she?
+{22534}{22608}She's-- She's Claire.
+{22667}{22747}- Well, will you tell her?|- If I see her.
+{22751}{22824}She hasn't been sleeping|at home the last two nights.
+{22862}{22923}Sorry.
+{23153}{23214}Good morning, sir.
+{23453}{23529}- Worrying about your babies?|- Puck.
+{23533}{23606}Thomas.
+{23656}{23720}So, they say you’re|not crazy any more.
+{23808}{23860}- It thinks it's found a possible.|- "It thinks"?
+{23864}{23947}- Why not?|- Been in the hut?
+{23951}{24020}- Come on. Get it over with.|- No, I'm fine, Puck.
+{24024}{24070}Sure, you are.
+{24107}{24163}Hey, Betty, wait for me!
+{24219}{24286}Gentlemen, we have a ghost.
+{24290}{24336}Tom, how the hell are you?
+{24340}{24389}- Well. Very well.|- Have you escaped, or what?
+{24393}{24445}- I thought this was the asylum.|- How are you?
+{24449}{24499}- Good.|- Bloody hell!
+{24503}{24572}- How's the revolution, Alec?|- Coming along, comrade. Coming along.
+{24576}{24653}- T-- T-- T--|- Yes, it's me.
+{24657}{24724}I, uh-- I want to see all the Shark|traffic we haven't been able to break.
+{24831}{24881}- In at the deep end.|- Why not?
+{24885}{24958}- Yes, why not?|- Have you got yesterday's Porpoises?
+{24962}{25027}Open the file.
+{25031}{25131}Besides, it wasn't really Shark|that made you crazy.
+{25135}{25189}Was it, Tom?
+{25228}{25289}I suppose you all know.
+{25293}{25378}You think I made a fool of myself?
+{25382}{25433}Forget about it.|You're among friends.
+{25530}{25584}So, what about the code breakers?
+{25588}{25713}King come, De Brooke,|Upjohn, Pukowski.
+{25717}{25822}- Spot the odd one out.|- Puck lost his parents when Poland was invaded.
+{25826}{25922}His kid brother is missing in action.|He hates the Germans.
+{25926}{26012}Pinker?|Bit of an arty, isn't he?
+{26016}{26067}He writes detective stories.
+{26071}{26147}Baxter. They say he sleeps with|a picture of Stalin under his pillow.
+{26151}{26202}Perhaps you haven't heard.|Stalin's on our side now.
+{26206}{26302}- And Jericho. The famous Mr Jericho.|- Mathematician.
+{26306}{26423}Went off his trolley, didn't he?|About some girl.
+{26427}{26492}We took him out of Cambridge|on the first day of the war.
+{26496}{26608}He worked himself into a breakdown, so we|shipped him back to Cambridge to get well.
+{26612}{26674}And that's all there is to it.
+{26678}{26757}It's never all there is|to anything.
+{26812}{26880}Shift's not over yet, ladies!
+{26884}{26970}The 3:00's from Beaumanor|all need blisting.
+{27087}{27185}You know, without your glasses,|you don't look half bad.
+{27189}{27270}Do you know, without my glasses,|nor do you?
+{29187}{29247}Claire?
+{29251}{29304}I'm here.
+{29334}{29387}Sorry it took an age.
+{29391}{29440}Well, now you know where I am.
+{29444}{29541}It's, um, off the beaten track.
+{29545}{29611}Yes, well, it's better|than being snooped on by landladies.
+{29615}{29679}Welfare found out I had a spare room,|so I had to share.
+{29682}{29782}But Hester's a sweetie, really. Oh, there's|no sugar, I'm afraid, but it's lapsang.
+{29786}{29871}And I always think sugar would|rather spoil lapsang, don’t you?
+{29875}{29963}Don't know.|You're my first lapsang.
+{30001}{30075}I knew you’d ask me out.
+{30079}{30207}- I thought you asked me out.|- Well, I had to get you started. Aren't there any pretty girls in Hut 8?
+{30210}{30314}- How do you know where I work?|- We've got an interesting men tracking room in Hut 3.
+{30318}{30401}- You're not supposed to tell me where you--|- Besides, you're rumoured to have done something very clever...
+{30405}{30467}and I want to know what it is.
+{30471}{30538}Oh, my God.|Where did they find you?
+{30542}{30618}Oh, where did they find any of us?|I'm the lucky one.
+{30622}{30702}You know, they've got perfectly clever|girls working like post office clerks.
+{30706}{30783}Not like me|on the German book.
+{30787}{30834}I want that for my scrapbook.
+{30915}{30992}- Can I see it?|- If you want. It's upstairs.
+{31072}{31119}That's Hester.
+{31199}{31257}And this is me.
+{31487}{31546}You've been busy.
+{31550}{31678}- Where is this?|- Loch Feochan, in Scotland, where I'd like to be old.
+{31682}{31776}If I'm ever old.|Do you think it's beautiful?
+{32842}{32938}Why are you a mathematician?|Do you like sums?
+{32979}{33044}I like numbers.
+{33048}{33146}Because with numbers,|truth and beauty are the same thing.
+{33150}{33250}You know you’re getting somewhere|when the equations start looking...
+{33254}{33322}beautiful.
+{33326}{33427}And you know the numbers are taking you|closer to the secret of how things are.
+{33480}{33568}A rose is just plain text.
+{35794}{35884}My God.|What have you done?
+{35888}{35941}What has she done?
+{35945}{36013}- Mr Jericho?|- Miss Wallace.
+{36017}{36115}I came looking for Claire.|I was worried about her.
+{36147}{36202}I could fill a bus with men|who are worried about Claire Romilly...
+{36206}{36267}but that's no reason why|I shouldn't go to the police.
+{36271}{36355}She'd be the first person|they'd arrest.
+{36420}{36478}Miss Wallace,|please put that poker down.
+{36482}{36566}And if you know where she is,|for God's sake, tell me.
+{36674}{36722}She's gone missing.
+{36773}{36819}What are those, exactly?
+{36865}{36936}Intercepts. German signals.
+{36940}{37007}Yes, I know that much.
+{37011}{37104}Five- letter groups. German Navy signals|are sent in four-letter groups.
+{37108}{37174}So this must be army|or Luftwaffe.
+{37178}{37224}Picked up by the radio scanners|at Beaumanor.
+{37228}{37356}All sent between 9:30 and midnight|on April 17, nine days ago.
+{37359}{37463}- But never deciphered.|- How do you know that?
+{37467}{37558}Well, if it'd gone through the machine,|then plain text would be stuck on the back.
+{37562}{37648}All from the same source.|"ADU. ADU. "
+{37652}{37729}Does the call sign ADU|mean anything to you, Miss Wallace?
+{37787}{37838}Miss Wallace?
+{37895}{37941}"Angels Dance Upwards. "
+{37945}{37991}- What?|- Well, that's how we'd reference it.
+{37995}{38090}- Who is it? Who is ADU?|- I don't know.
+{38094}{38170}But you could find out.
+{38174}{38255}Do you have any idea|what you’re saying?
+{38259}{38374}We can't just go digging through Bletchley looking|for information about missing cryptograms.
+{38378}{38475}Ifwewant to find Claire, then we need|to find out what she was hiding.
+{38524}{38591}- You think Claire is a traitor.|- Would it matter if she were?
+{38624}{38688}Of course it matters.|Look...
+{38691}{38784}she was probably flirting with an officer|and forgot to file those intercepts...
+{38788}{38849}so she hid them|rather than get told off.
+{38853}{38922}Or she stole them|and then she ran away.
+{38969}{39018}You really are mad,|aren't you?
+{39022}{39143}And I would have to be even madder to have any|part in this little amateur sleuthing adventure.
+{39147}{39224}Miss Wallace.|Miss Wallace!
+{39228}{39294}You said yourself|that she was missing.
+{39298}{39400}Now, is that normal?|Is that her habit?
+{39404}{39515}Well, she does always come home|to change her clothes.
+{39519}{39572}Well, there you are.
+{39650}{39715}Is she seeing anyone,|do you know?
+{39750}{39809}What exactly is your interest here?
+{39850}{39939}You can reach me at Armstrong's|Guest House in Albion Street.
+{40055}{40108}ADU, Miss Wallace.
+{40112}{40181}Angels Dance Upwards.
+{40363}{40431}They call it Black Bottom|the new twister
+{40435}{40484}It's sure got 'em|and, oh, sister
+{40488}{40594}They clap their hands|and do a raggedy flop and a hop
+{40598}{40649}Old fellows with lumbago
+{40653}{40704}And high yellow|The waves they go
+{40708}{40790}They jump right in|and give us all that they've got
+{40794}{40908}They say that when that river bottom's|covered with ooze
+{41024}{41099}You silly, silly girl.
+{41269}{41318}These people keep|such funny hours.
+{41322}{41405}I haven't heard--|Oh, Mr Jericho!
+{41409}{41511}You have a visitor.|You can have the parlour.
+{41565}{41633}We don't have guests|in the bedrooms after 10:00.
+{41637}{41701}Oh, Mrs Armstrong, it's perfectly|sweet of you to worry...
+{41705}{41774}but I don't mind taking|the risk just this once.
+{41778}{41893}Well, I suppose it's all right|if you’re from the park.
+{41983}{42089}Mr Wigram, would you care|for a cup of Ovaltine?
+{42093}{42137}Ovaltine?
+{42141}{42203}I haven't had Ovaltine since--|no, no--
+{42207}{42282}Ovaltine. Thank you.|I don't think my system could take it.
+{42331}{42375}What a charming house.
+{42379}{42490}And hunting prints.|Do you hunt?
+{42722}{42786}Where are you based?|Here?
+{42889}{42935}Bliss.
+{42980}{43048}What can I do for you,|Mr, um, Wigram?
+{43052}{43140}There's something|I've been wondering about.
+{43144}{43209}You're the man|who broke the U-boat code.
+{43213}{43286}Hmm?|Champagne all around.
+{43290}{43381}Happy days are here again,|all right?
+{43385}{43439}Then you fell out of your pram.
+{43478}{43525}So what happened?
+{43529}{43578}It was personal.
+{43582}{43634}I can keep a secret.
+{43730}{43785}Wonderful thing about war--
+{43825}{43899}Peacetime is about keeping|the people in their place.
+{43903}{44019}But then war breaks out,|and life was never so glorious.
+{44063}{44132}The toiling masses|turn into heroes...
+{44136}{44217}and their little women start dropping|their drawers like debutantes.
+{44221}{44306}- Well, if that’s all you--|- And best of all, the swots.
+{44310}{44401}Dragged out in a cloud of dandruff|from some dim backwater...
+{44405}{44470}and invited to the ball.
+{44474}{44584}At Bletchley, you're as glamorous|as fighter pilots.
+{44588}{44640}Girls you couldn't even hope to meet|go weak at the knees...
+{44644}{44725}at the thought of the size|of your brain, isn't that right?
+{44729}{44802}If talking through your arse|is what they teach you in spy school--
+{44806}{44881}I'm talking about you|and a girl called Claire Romilly.
+{44915}{44961}|We're rather worried about her.
+{44965}{45093}Officially been missing for 14 hours, give or take.|When in fact, it's more like 48 hours.
+{45097}{45178}She hasn't been seen|since she went off-duty on Thursday.
+{45236}{45326}Rather a good friend|of yours, I gather.
+{45364}{45430}I- I haven't seen her since befo--|since before I--
+{45434}{45509}Quite.|Heard from her?
+{45540}{45626}- No.|- Apart from the postcard.
+{45671}{45729}Let's try to remember everything.
+{45733}{45790}It saves misunderstandings.
+{45898}{45989}Did you go to the cottage tonight?|Don't think about it.
+{45993}{46036}- Yes.|- Yes.
+{46065}{46112}Yes.
+{46178}{46238}Mind if I sit down?
+{46242}{46327}I've been away for a month.|I wanted to look her up.
+{46331}{46410}You ever discuss|your work with her?
+{46414}{46528}- Of course not.|- Um, how about a gun?
+{46532}{46585}- Any guns?|- A gun?
+{46589}{46667}A gun from that museum of yours...
+{46671}{46771}liberated from a captured U-boat along with the code|books, the captain's teddy bear and what have you.
+{46775}{46861}All very improper and unsigned for,|but I turned a blind eye.
+{46865}{46951}But no reason why you should know,|a chap like you.
+{47044}{47105}Mind if I check the coat?
+{47593}{47676}While we're at it--
+{47932}{47987}- You sure you don't mind?|- I'm beginning to.
+{48103}{48150}You see my point, though,|don’t you?
+{48154}{48250}One day the Germans black us out|in the North Atlantic.
+{48254}{48335}Next day, girlfriend|of crack code breaker disappears--
+{48339}{48396}vanishes.
+{48400}{48505}- Code breaker returns, shiny new shooter goes missing.|- She's not my girlfriend.
+{48509}{48589}Hmm? What is she, then?
+{48593}{48672}We were-- I suppose the phrase is|"seeing each other"...
+{48676}{48732}for about a month.
+{48778}{48843}Is that what happened to you?
+{48847}{48893}What?
+{48897}{48986}Is Claire Romilly|what happened to you?
+{49212}{49266}There was a concert.
+{49319}{49376}I went on my own.
+{49958}{50025}Oh, it’s you.|You found my slipper.
+{50124}{50232}Afterwards, Claire, Hester--|Miss Wallace, who shares the cottage--
+{50236}{50302}and I, we came out together.
+{50306}{50355}Next week was going to be Bach.
+{50359}{50405}Oh, we must go.
+{50409}{50473}Oh, I can't.|I'm on the night shift.
+{50476}{50525}Oh, Hester. Poor you.
+{50529}{50607}"Poor you, " she said.|That's one of her phrases.
+{50611}{50677}So, I asked her.
+{50681}{50788}I say, I hope you don't think it|fresh of me, but should we go together?
+{50792}{50933}Of course you did.|And, uh, after that?
+{50937}{51001}After that?
+{51004}{51076}I had the happiest month|of my whole life.
+{51080}{51145}Not happiest. Something.
+{51268}{51340}- You can! You can.|- I can't.
+{51344}{51415}You can. Yes.
+{51419}{51517}Ready? One, two, three,|four, five, six, seven, eight.
+{51555}{51653}- Sorry.|- No, you can't.
+{51657}{51711}- Claire!|- Aaron!
+{51715}{51764}- May I?|- Do you mind?
+{51768}{51832}No.
+{52158}{52204}It's my favorite club.
+{52208}{52306}- Mine too.|- Oh, yes, I'm sure.
+{52310}{52372}How do you get the petrol coupons to go|zipping up and down to London?
+{52376}{52468}Secret, darling.|I know a chap.
+{52472}{52551}- No, but how?|- It's not what you think.
+{52555}{52601}Do you have to know everything?
+{52605}{52678}I don't know why you want me.|Let's get married before it stops.
+{52682}{52776}- Tom, don't.|- I love you!
+{52780}{52846}They say you shouldn't fall in love|in a war. You never know what's coming.
+{52892}{52993}I love you.|I really love you.
+{53448}{53504}No cottage.
+{53508}{53573}- Is that code, darling?|- Yes.
+{53577}{53655}- I want to see where you sleep.|- Landlady has rules.
+{53659}{53733}So have I.|Hester's at home.
+{53737}{53783}Oh.
+{53787}{53861}I'll be quiet as a mouse.|Promise.
+{53932}{53978}Shh. Shh.
+{54268}{54332}Sleep with her?
+{54360}{54417}I'll take that as a yes.
+{54458}{54515}And then you quarreled?
+{54519}{54601}Quarreled? No.
+{54660}{54729}Claire? Darling?
+{54800}{54866}Sorry, darling.
+{54870}{54916}Go back to sleep.
+{54954}{55071}- What are you doing?|- I'm just looking through your things.
+{55075}{55141}No photographs?
+{55145}{55206}You've never given me|a photograph.
+{55340}{55394}You're all secrets,|aren’t you?
+{55398}{55459}I've no secrets from you.|Please come back to bed.
+{55607}{55736}What's this? What's the|entscheidungs problem when it's at home?
+{55740}{55793}That's just something|I was working on at Cambridge.
+{55797}{55862}It's a-- It's a theoretical|machine that--
+{55866}{55975}- Theoretical. So it doesn't exist?|- Please, come back to bed.
+{55979}{56072}Well, this will do.|I want something of yours to keep.
+{56076}{56124}Give it back.
+{56128}{56233}- Why?|- Because it means nothing|to you and a lot to me.
+{56237}{56314}- Aren't I clever enough, darling?|- Please, Claire!
+{56318}{56387}No!
+{56391}{56442}Give it back.|Give it back.
+{56674}{56726}It's not funny, Claire!
+{57004}{57066}Claire, I'm sorry.|Please forgive me.
+{57070}{57137}I'm really, really sorry.
+{57171}{57213}Claire--
+{57217}{57282}She moved on.
+{57286}{57356}Why won’t you answer my letters?
+{57409}{57533}Are you seeing someone else?
+{57537}{57606}I'm always seeing someone else.
+{57682}{57731}Yes.
+{57762}{57826}She moved on.
+{57859}{57914}Not right, Mr Jericho.
+{57967}{58021}Can't quite put my finger on it...
+{58025}{58128}but definitely not right.
+{58310}{58391}Were you surprised when they told you|that Admiral Doenitz...
+{58395}{58446}had changed the German Navy|weather code?
+{58450}{58514}Any bells go off?
+{58517}{58565}Germans were always nervous|about Enigma.
+{58569}{58641}Well, the Germans are supposed to think|that Enigma's an unbreakable system...
+{58645}{58721}because it would take thousands of years|to go through every setting...
+{58725}{58806}to find the one that turns|the code back into the plain text.
+{58810}{58912}Next day, it's different again. Using|human beings, Enigma is safe forever...
+{58916}{58990}but we don't use|human beings for that.
+{59050}{59089}Do we...
+{59093}{59163}Mr Jericho?
+{59167}{59235}- No.|- No.
+{59239}{59301}And that is the secret|inside the secret.
+{59305}{59383}All they know thus far is that the weather|code opened a crack in the system...
+{59387}{59456}because somebody told them.
+{59509}{59621}But what if somebody tells them|just how we do do it?
+{59625}{59737}Your thinking machine.|Clackety- clack, day and night.
+{59741}{59811}Programmed with a menu,|thanks to your big brain...
+{59815}{59877}that reduces the odds|to just a few million to one...
+{59881}{59936}till it locks on to|the winning combination.
+{59988}{60040}There goes thewar.
+{60149}{60210}Oh.
+{60214}{60283}I've got a little list.
+{60287}{60340}You're on it.
+{60344}{60448}Communists, foreign nationals...
+{60452}{60519}geniuses just this side|of barking mad.
+{60523}{60571}Altogether, a security nightmare.
+{60575}{60681}But of all these names, Mr Jericho,|you are the only one...
+{60685}{60820}who got himself fucked into|a nervous breakdown by a missing blonde.
+{60824}{60885}You live quietly from now on.
+{61060}{61122}Where does one pee around here?
+{61126}{61182}To the right.
+{62025}{62097}Good night, Mrs Armstrong.
+{62426}{62511}Talk to me!|What do you want to know?
+{62540}{62601}Do you want to know about Shark?|Do you want to know about Shark?
+{62605}{62693}Any secret. Ask me.|Ask me! I'll tell you!
+{62697}{62792}Poor you. I really got|under your skin, didn't I?
+{63063}{63109}Good morning.
+{63113}{63164}- Good morning.|- You look tired, sir.
+{63168}{63214}Morning!
+{63412}{63450}- Have you heard the latest?|- No.
+{63454}{63532}Utility knickers--|one Yank, and they're off.
+{63536}{63588}Naughty, naughty.
+{63677}{63795}- Came through the door for you.|- If there is some other way
+{63799}{63865}To prove that I love you
+{63869}{63981}I swear I don't know how
+{64156}{64237}Preserve my body and soul|into everlasting peace.
+{64241}{64345}Take and eat this in remembrance|that Christ died for you.
+{64349}{64407}Thank you for your note.
+{64411}{64520}I take it it's about Claire.|Have you heard anything?
+{64524}{64588}She hasn't turned up,|if that's what you mean.
+{64591}{64681}- But you’ve got something.|- Take this and eat this in remembrance that Christ died for you.
+{64685}{64734}I don't know why I'm doing this.
+{64826}{64907}The body of our Lord,|Jesus Christ, which was given freely.
+{64911}{64957}Preserve my body and soul--
+{64961}{65085}ADU is the call sign|of Nachtrichten, Regiment 537...
+{65089}{65153}a motorized German|Army signals unit based...
+{65156}{65208}in the Ukraine.
+{65420}{65534}Its messages are encoded in the standard|cipher for the Russian campaign.
+{65538}{65635}- We call it Kestrel.|- Kestrel.
+{65936}{65987}Seven messages|with the call sign ADU...
+{65991}{66055}were intercepted|in March and April...
+{66058}{66169}not counting the last four|on April the 17th, which you found.
+{66173}{66270}I've written down the dates|and times of interception.
+{66471}{66574}A spy doesn't steal the enemy's signals.|And anyway, they were never de--
+{66578}{66674}They were never decoded. Why would|she steal four messages she can't read?
+{66678}{66729}She must have stolen them|to read them.
+{66733}{66807}She stole them to read them.|But there's no way she could have.
+{66811}{66885}- Why not?|- She couldn't. It just--
+{66889}{66955}Just take my word for it.
+{66959}{67044}God preserve me.|Another one.
+{67048}{67120}I seem to move, Mr Jericho,|in an endless round...
+{67124}{67195}from one patronizing male|to another...
+{67199}{67271}forever being told what I am|and what I am not allowed to know.
+{67275}{67324}Well, that ends here.
+{67380}{67436}So, what would she need|to read them?
+{67440}{67517}I'm sorry.|You can't ask me that.
+{67521}{67607}But you can ask me to sneak into the Index|Room and risk getting hung up by my thumbs.
+{67723}{67795}- Good morning.|- Cheerio, then.
+{67799}{67858}Oh, Chr-- Miss Wallace.
+{67888}{67952}Miss Wallace!
+{67955}{68025}She'd need--|She'd need a Typex machine.
+{68075}{68147}Every day, our Typex machines|have to be set...
+{68151}{68202}the same way the Germans|set their Enigmas.
+{68206}{68283}Otherwise, you just get|nonsense from nonsense.
+{68316}{68392}And working out each day's settings|is the hard part.
+{68396}{68457}That's where|the code breakers come in.
+{68461}{68584}- How?|- Well, you-- you need a crib.
+{68588}{68658}- I'll see you later, then.|- Suppose that gravestone was in code.
+{68662}{68757}If I knew who was buried here, more|or less, I'd know what the code meant.
+{68804}{68850}That's a crib.
+{68854}{68937}And when you've set the machine,|you type in the coded message.
+{68941}{69007}If it comes out nonsense,|the settings are wrong.
+{69011}{69063}If it comes out|"Mary Jane Hawkins"...
+{69067}{69113}you've broken Enigma for that day.
+{69166}{69257}Why would Claire get hold of the|Kestrel settings for April the 17th?
+{69261}{69335}She couldn't have,|unless she had help.
+{69339}{69426}Kestrel would be filed in Hut 6.
+{69430}{69483}It’s your hut.
+{69522}{69587}So now I'm a traitor too.
+{69591}{69715}Well, maybe she got access|to one of the Typex machines from you.
+{69719}{69798}Typex girls work around the clock.
+{69802}{69840}Sorry.
+{69879}{69925}Stuck.
+{69963}{70024}Look.
+{70028}{70105}The first seven ADUs were decoded.
+{70109}{70168}Now, what happens|to decoded messages?
+{70172}{70262}They get written into the German book.|That's Claire's job.
+{70266}{70313}Then what?
+{70317}{70391}Well, then they get filed with|everything else in the main registry.
+{70395}{70489}- Ever been in there?|- Once or twice to check some--
+{70493}{70571}No. No, no, no, no.
+{70672}{70748}Oh, dear, would you like some tea?
+{70792}{70838}- Reference or loan?|- Reference.
+{70878}{70936}- Section?|- Hut 6. Control.
+{71026}{71106}- What are they?|- Kestrel intercepts, March and April.
+{71314}{71420}- He's been a dark horse, hasn't he?|- Hmm. Surprise a minute.
+{71424}{71488}But there are complications.
+{71491}{71548}Sorry to have been so long.
+{71552}{71613}I've never come across this before.
+{71659}{71729}- The file was empty?|- There was a typewritten note...
+{71733}{71773}dated April the 17th...
+{71777}{71841}referring all inquiries|to the Office of the Director General.
+{71845}{71952}And that night, four final ADU|messages got in under the wire...
+{71956}{72017}never deciphered, never filed...
+{72021}{72076}taken home by Claire and hidden.
+{72080}{72137}Who is the Director General?
+{72184}{72245}Chief of the Special|Intelligence Service.
+{72249}{72339}And he gets his orders straight|from the prime minister.
+{72381}{72428}We're stuck again.
+{72432}{72502}Maybe. Maybe not.
+{72579}{72662}I've got the hang|of this detective work.
+{72666}{72740}But I've been told|that everything's okay
+{72854}{72908}You're out of bounds!
+{72962}{73028}- Mr Mermagen.|- What are you doing?
+{73085}{73138}Can you help me?
+{73142}{73222}Machine Room needs the Kestrel settings|for the last couple of weeks.
+{73226}{73314}They've found a batch of intercepts|fallen behind a desk.
+{73318}{73408}- They've done what?|- I know.
+{73412}{73515}But please don't tell.|It was actually a friend of mine.
+{73552}{73633}Ah, you girls.
+{73786}{73888}You know, I should really|report you for this...
+{73892}{73934}but--
+{73977}{74053}One good turn|deserves another, hmm?
+{74057}{74151}Why, Mr Mermagen.
+{74190}{74295}What will your wife say?
+{74299}{74403}The Kestrel settings|for the whole of March and April.
+{74407}{74451}Christ.
+{74455}{74556}So, at least there's still a chance we can|read the ones you found in Claire's bedroom.
+{74560}{74608}- I've burnt them.|- You what?
+{74612}{74662}Hello, Tom.|Mind if we join you?
+{74666}{74761}- You can't m-m-m-mean it.|- Well, of course I mean it.
+{74765}{74857}Drowning herself was Virginia Woolf's greatest|contribution to English literature.
+{74861}{74949}- Actually, we were just leaving.|- Waste not, want not.
+{74953}{74999}Whale meat.|Brain food, Tom.
+{75003}{75114}- You burned them!|- I had a close call with that lounge lizard Wigram from Special Intelligence.
+{75118}{75213}I panicked. But the worst of it is,|I could have read them.
+{75217}{75273}- How?|- I didn't need a Typex machine.
+{75277}{75339}We've got a real Enigma|in the museum.
+{75343}{75453}- Well, when did you find that out?|- Well, I knew. I just-- I just forgot.
+{75457}{75517}You forgot?
+{75521}{75588}And you're the genius.
+{75679}{75753}You know, I won a newspaper|crossword competition.
+{75757}{75864}I beat two men. All three of us|were recruited for Bletchley.
+{75868}{75918}They're cryptanalysts now.
+{75922}{75987}And I'm a glorified file clerk.
+{75991}{76095}'Course, if I'd been a daddy's girl|from some posh finishing school--
+{76099}{76184}God, look, it's time|to go back on shift.
+{76188}{76253}- You?|- Not for a bit.
+{76290}{76338}Right.
+{76342}{76407}Did she ever say anything about me?
+{76488}{76534}Well, she must like you.
+{76593}{76659}The way she talks about the others--
+{76663}{76717}A bus load, you said?
+{76752}{76808}The Romilly effect.
+{76812}{76926}One look, and they're "Romillied. "
+{76930}{77018}Who was she seeing?|I only mean it might be a way forward.
+{77022}{77109}- I know what you think about me.|- No, you don't.
+{77158}{77202}Well, I feel like an idiot.
+{77206}{77318}And you aren't the one standing here with|the Kestrel settings stuffed into your knickers.
+{77402}{77481}Look, I don't know|who she was seeing...
+{77485}{77598}and I really think|we'd better call this a day.
+{77602}{77648}Don’t you?
+{77779}{77843}Bye, then.
+{77877}{77930}Miss Wallace.
+{78000}{78062}I haven't been lookin'|to the right or left...
+{78066}{78189}so there's something|I didn't see clearly.
+{78193}{78264}What's that?
+{78268}{78322}That you’re a remarkable--
+{78388}{78448}I think you’re simply wonderful.
+{78765}{78859}Tom, nice of you to turn up.
+{78863}{78954}- Look, I don't known what Skynner's been saying.|- Shut the door.
+{79063}{79116}He wants you out.
+{79120}{79210}"Send him back to Cambridge,|and this time make the bugger walk. "
+{79214}{79266}I got you the rail pass.
+{79270}{79344}- Not now!|- No, you can't do that, Guy. Tell them|you want to give me a couple of days.
+{79348}{79409}- Why?|- To see if I can find a way back into Shark.
+{79413}{79482}Tom, it was you that announced|that it couldn't be done in four days.
+{79486}{79546}It was you that made Skynner look|a fool in front of his clients.
+{79550}{79656}Now you want me to go back and|tell him-- Piss off, for God's sake!
+{79660}{79767}Sorry, Guy. Hello, Thomas.|You'd better come and hear this.
+{79771}{79829}Two long signals from U-boat|headquarters in the last 12 hours.
+{79833}{79907}One just before midnight,|one just after. Rebroadcast twice.
+{79911}{80010}- Then nothing. U-boat fleet is on radio silence.|- Christ.
+{80014}{80097}They're on battle stations.
+{80101}{80178}Say 12 U-boats 20 miles apart...
+{80182}{80237}possibly two lines,|possibly three.
+{80241}{80333}An ambush covering|hundreds of miles of ocean.
+{80337}{80414}And this time,|we don't know where.
+{80418}{80499}And one golden rule--|absolute radio silence.
+{80503}{80565}- And wh-- wh--|- What then?
+{80569}{80707}Either the convoy is lucky and misses|the ambush, or it isn't lucky.
+{80711}{80801}And the first U-boat to make contact|with the convoy breaks radio silence.
+{80805}{80885}- How?|- Minimally, using the short signal book.
+{80889}{80957}It compresses the necessary information|to a few letters--
+{80961}{81027}sighting of convoy,|position, course and speed.
+{81031}{81116}That's repeated every two hours. As it's|picked up by the other U-boats in the line...
+{81120}{81205}they start to converge on the convoy|and send a contact signal in their turn.
+{81209}{81271}Contact signal.
+{81275}{81364}They'll shadow the convoy till nightfall.|They prefer to attack in the dark.
+{81406}{81522}We haven't got as much time as we'd thought.|I'd say, a day, a day and a half at the outside.
+{81603}{81726}- Mary Jane Hawkins.|- The oracle has spoken.
+{81730}{81844}They changed the weather code, but they|didn't change the short signal code book.
+{81848}{81940}It's our way back into Shark,|so long as the U-boats find our convoy.
+{82002}{82048}Don’t you see?|It's our convoy.
+{82052}{82123}We know what the U-boats are sending.|It's the crib that we've been looking for.
+{82127}{82194}- Would you get enough material?|- How many signals do you need?
+{82198}{82268}One group of letters|for the convoy sighted...
+{82272}{82338}two groups for grid reference, one group|for course, one group for speed.
+{82342}{82410}Five groups of letters|per contact signal every two hours.
+{82414}{82506}Shadowing the convoy for maybe 10 hours,|12-- that's 25 groups of letters.
+{82510}{82570}And how many U-boats joining in?|Eight, ten?
+{82574}{82663}Each one a contact signal|every two hours.
+{82667}{82750}My God, he's right.|He's found us a crib.
+{82754}{82869}- Brilliant.|- A-A-Appalling.
+{82873}{82959}We've never had an operation on this scale. The contact|signals could easily build up to give us a crib...
+{82963}{83051}of 100 group of letters and we've got|the short signal code book in the museum.
+{83055}{83116}He's right, Guy.
+{83150}{83204}Where are the keys to the museum?
+{83208}{83314}Good Christ, Tom. We have to protect|the convoys, not sacrifice them.
+{83318}{83393}You know what it's like out there.
+{83397}{83454}The success of this plan|depends on arranging a massacre.
+{83458}{83539}No. No, we are not arranging anything.|What happens is going to happen.
+{83543}{83618}But if we can use it to our advantage,|we'll be able to decipher every signal...
+{83622}{83690}sent by every U-boat|on the high seas for 24 hours!
+{83694}{83759}- Including the weather reports.|- Yeah. We'll have the plain text.
+{83763}{83810}We can make a start on reconstructing|the new weather code.
+{83814}{83914}- This puts us back in the fight.|- And there will be many more convoys to protect.
+{84127}{84173}You're back in business,|old thing.
+{84950}{85024}Garbled text from Beaumanor.|Somebody get on the blower.
+{85028}{85111}Miss Chamberlain, would you?|Get them to check their file copy.
+{85244}{85337}Pam, does Beaumanor keep copies|of everything they send us?
+{85341}{85420}- Yes. It's all there on file.|- Thank you.
+{85424}{85495}Hello. Could I have Beaumanor 392?
+{85538}{85602}Miss Wallace!
+{85922}{85978}No female visitors upstairs.|That's the rule!
+{86043}{86111}Mr Jericho, wake up.|It's not over.
+{86115}{86182}- We need to borrow your Enigma machine.|- Didn’t you hear?
+{86804}{86896}Top copy goes straight to|your people by teleprinter...
+{86900}{86979}or by dispatch rider,|depending on priority.
+{86983}{87079}The second copy we keep,|in case of garbles.
+{87083}{87139}Can we see?
+{87143}{87229}Well, if you want.|There's not much to it.
+{87233}{87329}It's a treat for us, you know, a visit|from head office to the country cousins.
+{87333}{87390}It's good of you to say so,|but, um...
+{87394}{87488}a fat lot of use we'd be|without your intercepts, Major.
+{87544}{87639}We keep them a couple of months,|filed chronologically.
+{87727}{87848}These sets are tuned to the|Eastern Front-- Kestrel, Buzzard, Kite.
+{87852}{87923}- And you're intercepting everything?|- Absolutely.
+{87927}{87994}Except that time|the other week, of course.
+{87998}{88038}Kestrel, wasn't it?
+{88042}{88179}Yes, your Miles Mermagen came|on the blower in a frightful panic.
+{88183}{88254}"No more ADU, thank you very much.|Not now, not ever. "
+{88258}{88322}- What's that about?|- Orders from above.
+{88326}{88404}We'd just sent him|four good, clean signals.
+{88408}{88475}It was Kay here who handled|our mystery station.
+{88479}{88516}Carry on.
+{88520}{88621}Yeah, he has a good fist, ADU.|Touch like a concert pianist.
+{88625}{88681}He's still transmitting?
+{88685}{88791}Of course, I don't take him down any|more, but he was awful busy last week.
+{88795}{88826}Oh, excuse me, sir.
+{88924}{88994}What was it you said|you did again, Mr--
+{88998}{89044}- Jericho.|- Jericho.
+{89048}{89135}Can't say, I'm afraid.|Catch you up.
+{89234}{89343}- Major, how many machines did you say you have here?|- We have 48 here.
+{90303}{90359}Excuse me.
+{90474}{90540}He's on now,|if you’re interested, sir.
+{91466}{91526}Thank you.
+{91530}{91604}I don't mean|to bother you, sir...
+{91608}{91659}but it is important,|isn't it?
+{91663}{91759}I know I shouldn't ask.|I mean, no one ever tells us.
+{91763}{91820}You are making sense of it?|It is important?
+{91824}{91870}Yes.
+{91874}{91969}This is our only war, you see,|in here-- beep, beep, bloody beep.
+{91973}{92030}And it's always nonsense,|nonsense, nonsense.
+{92034}{92117}Yes, we are|making sense of it...
+{92121}{92187}and it is important.
+{92272}{92351}Eleven ADU signals|and launchings.
+{92475}{92561}That's the car.|Man, woman, two-seater roadster.
+{92871}{92917}Invite him to stop, shall we?
+{93426}{93466}Take him, man! Take him!
+{94078}{94150}Mr Jericho, stop! Stop! Stop!
+{94178}{94218}Look out!
+{94492}{94559}Shit.
+{94598}{94686}Bravo, Mr Jericho.
+{94690}{94754}Reckon, given the circumstances,|Miss Wallace...
+{94757}{94808}we might now risk|first names.
+{94870}{94934}Hester.
+{94937}{94983}Tom.
+{95073}{95163}This might be good.|It looks deserted enough.
+{95167}{95213}Well spotted.
+{95482}{95522}Bliss.
+{95592}{95657}- What would they do to us if they knew?|- Feed us to the dogs.
+{95661}{95720}Charming.
+{95853}{95912}Right.
+{95916}{95993}March and April|Beaumanor log sheets...
+{95997}{96069}and the intercepts|from March 28th...
+{96073}{96202}April 3rd, April 9th,|15th, 16th, 17th...
+{96206}{96304}and Kestrel settings--|last one first.
+{96308}{96370}Might tell us|why Claire disappeared.
+{96374}{96441}Right. April 17, rotor order.
+{96445}{96501}3- 5-4.
+{96505}{96588}3- 5-4.
+{96653}{96731}R- X-O.
+{96770}{96878}- Plug board settings.|- A-O-E-M.
+{96992}{97050}The current passes|from the keyboard...
+{97054}{97103}to the lamps by way|of the rotors and the plugs.
+{97107}{97195}And every time you press a key,|it changes the path of the current.
+{97199}{97311}Press the same key ten times, it comes out|ten different ways on the lamp board.
+{97315}{97427}You never know which letters|will light up. Simply brilliant.
+{97613}{97670}Message key X-A-T.
+{97757}{97828}- Ready?|- Ready.
+{97851}{97923}- "Y. "|- "K. "
+{97927}{97999}- "E. "|- "A. "
+{98003}{98057}"W. "
+{98061}{98095}"C. "
+{98099}{98161}- "U. "|- Zed.
+{98205}{98269}"M. "
+{98272}{98330}"V. "
+{98445}{98497}- "Q. "|- "X. "
+{98572}{98652}It's not right, is it?|This isn't German.
+{98656}{98708}Keep going. Sometimes the operator|pads out with nonsense.
+{99011}{99067}Keep going.
+{99071}{99143}- Um, "K. "|- Zed.
+{99192}{99232}- "E. "|- "R. "
+{99260}{99324}- "O. "|- "A. "
+{99379}{99419}- "F. "|- "D. "
+{99454}{99546}Isn't German.|Come on, genius!
+{99799}{99851}I'm sorry. It's double coded,|or the settings must be wrong.
+{99855}{99894}It's all been for nothing.
+{101009}{101056}I'm afraid I have to ask you|to hurry up.
+{102295}{102346}Search the barn.
+{102523}{102626}This is Mr Leveret.|Detective Inspector Leveret.
+{102630}{102723}He wants to know what you've been up to.|But first things first.
+{103143}{103191}You've been here before?
+{103278}{103324}And you?
+{103444}{103508}Line up in the street|and search the area.
+{103571}{103618}Have a look at this, sir.|It's down there.
+{103622}{103689}- Right, sir.|- There?
+{103693}{103752}Drag the river.
+{103971}{104093}Please talk to me! What do you want to|know? I'll tell you anything you want.
+{104156}{104229}Give me your hand.
+{104267}{104347}Do you wanna know about Shark?|Any secret. Ask me!
+{104393}{104471}Come this way.
+{104475}{104584}I've got something to show you.|Get your notebook out.
+{104657}{104704}Miss Wallace first.
+{104777}{104903}I am showing the witness|one ladies' coat, colour grey...
+{104907}{104966}trimmed with black velvet.
+{104970}{105066}Label: Hunters, Burlington Arcade.
+{105100}{105237}- And the witness responded--|- Yes. It's hers.
+{105270}{105301}Yes.
+{105356}{105462}Next, one ladies' shoe...
+{105466}{105523}black high heel.
+{105527}{105584}Uh, heel snapped off.
+{105641}{105682}And the witness responded--
+{105716}{105787}Yes.
+{105812}{105876}It's an old quarry.
+{105879}{105937}They built the town|with what they dug out.
+{105941}{106024}That makes sense,|making one hole out of another.
+{106028}{106138}- How deep is it?|- Sixty, seventy foot in the middle.
+{106213}{106259}Christ, we'll need a submarine.
+{106389}{106451}I would very much like|to arrest you...
+{106455}{106514}but we don't have a body.
+{106566}{106642}It's a quarter to 8:00.|Mr Leveret will take you back.
+{106646}{106706}I believe your day|is just beginning.
+{106990}{107052}Chaps.
+{107113}{107218}Easy, everyone.|Just stopped by to wish you luck.
+{107222}{107318}I'm sure you’re all aware,|as I am, what's at stake here.
+{107322}{107411}I don't think I'm exaggerating|when I say...
+{107415}{107486}this could be one of|the decisive nights of the war.
+{107490}{107554}- So shut up, then.|- A mighty battle.
+{107557}{107606}Probably...
+{107610}{107686}the greatest convoy battle|of all time is about to start.
+{107690}{107777}Three hours ago,|convoys HX 229A...
+{107781}{107852}229 and SC 122...
+{107856}{107942}had entered the presumed|operational area...
+{107946}{107989}of the U-boat packs.
+{108023}{108084}Now, in our long island history...
+{108088}{108169}we have picked up the gauntlet|more than a few times.
+{108173}{108217}|Shakespeare coming up.
+{108221}{108349}"Out of this nettle, danger,|may we pluck this flower, safety. "
+{108442}{108520}So, gentlemen, go to it.
+{109000}{109056}Come and dance.|Boop- boop
+{109095}{109129}Come on. Come and dance.
+{109161}{109217}- No, I can't.|- Yes, you can. It's easy.
+{109264}{109333}- No, really, you do it.|- Right, left.
+{109337}{109396}Left, left.
+{109400}{109464}Ah! You're getting the hang of it.
+{109916}{109967}C- Can someone remind me?
+{109971}{110084}A- Are w-we hoping for the U-boats|to find the convoys, o-o-or not?
+{110088}{110142}- Not.|- I am.
+{110146}{110246}- Yes, well, you would, Baxter.|- Y-You'd sacrifice o-o-our--
+{110250}{110341}Sacrifice a convoy|to get back into Shark? Of course.
+{110345}{110436}How many men has Stalin had|to sacrifice so far? Five million?
+{110440}{110496}It's called the greater good.
+{110500}{110603}Spoken, of course,|by someone who doesn't happen to be|in the North Atlantic at the moment.
+{110607}{110727}You can only fight your own war.|What do you think, Tom?
+{110771}{110830}About what?
+{111337}{111438}So, Claire,|what were you doing?
+{111442}{111510}What were you hiding?
+{112131}{112176}Right.
+{112180}{112244}Start at the beginning.
+{112276}{112353}Kestrel settings, March.
+{112588}{112644}Atlantic time|is two hours behind.
+{112648}{112701}It's still dark.
+{113194}{113248}Here, mate,|I got a lighter.
+{113252}{113300}Thanks.
+{114975}{115046}"Urgent. "
+{115050}{115106}Mary Jane Hawkins.
+{115110}{115162}It is German.
+{116075}{116168}Signal 7-3-6-9-K-C-S.
+{116186}{116238}We're in business.
+{116242}{116282}Direction finders have a fix.
+{116336}{116414}Scarborough, 2-5-9 degrees.
+{116497}{116590}Witt, 2-4-6, 30 degrees.
+{116714}{116771}Flower down, 2-6-8 degrees.
+{116872}{116994}There she is--|37.5, 49.5.
+{116998}{117081}She's shadowing convoy HX 229.
+{117085}{117147}No air cover. Sitting ducks.
+{117151}{117202}Grid square?
+{117297}{117341}B- D-1491.
+{117345}{117401}- Convoy course?|- Seventy degrees.
+{117405}{117454}- Convoy speed.|- Ten knots.
+{117962}{118039}- From the code book, we have C-K-S-A for convoy sighted.|- First message?
+{118043}{118127}K- A-F-B-N-W-Zed-Jacob|for position.
+{118131}{118232}Q- K-D-X for course, Q-R-Zed-A for speed.|That's five four-letter groups.
+{118236}{118357}Message setting, B-H-B.
+{118579}{118665}"A- V, V-K, A-K. "
+{118669}{118708}Check.
+{118814}{118870}Yeah, me too.
+{118947}{119018}- "M-S, S-M. "|- Check.
+{119022}{119093}Two loops. Confirmed?
+{119097}{119156}And no clashes.
+{119160}{119208}10:04.
+{119212}{119254}One down.
+{119258}{119308}Now the wolves|will be gathering.
+{119925}{119989}Still nonsense. Why?
+{119992}{120123}Can you fix B-D-1611?|Convoy speed and direction same.
+{120127}{120229}New position:|K- A-F-V, N-C-L-A.
+{120233}{120304}Skynner's offered a bottle of Scotch|to the first man to come up with a menu.
+{120308}{120387}- Does he know I'm still here?|- He didn't ask.
+{120391}{120443}Oh, Puck, there's a message|left for you at the switchboard.
+{120447}{120520}It's Adelphi 4-2-4-3.
+{120524}{120601}There's no name,|and I'm not your social secretary.
+{120605}{120683}- Message key: R-M-U.|- Sorry, Guy.
+{120687}{120758}How much more material|do you need?
+{120762}{120868}We've got 9 signals.|Another 20, 25 would be better.
+{120872}{120943}Suppose it starts|before you have them.
+{121163}{121231}Naval grid square B-D-1386.
+{121235}{121319}Course: 70 degrees.|Speed of convoy: 10 knots.
+{121422}{121508}I'm pretty sure there's enough|for a stab at a menu. Let's try it.
+{121512}{121611}- You have 17 contacts, Mr Jericho.|- It's not enough.
+{121615}{121665}Well, why the hell not?
+{121711}{121788}When I'm done, we'll be looking|for a needle in a haystack...
+{121792}{121886}but if we stop now it'll be|a hundred thousand haystacks.
+{121944}{121990}You know that.
+{121994}{122102}Full moon.|Ten U-boats, somewhere.
+{122106}{122206}Thirty- seven merchants, five escorts,|one of which has lost contact with the convoy.
+{122210}{122289}No rescue ship|and no air cover.
+{122293}{122344}Eighteen.
+{122348}{122427}- Flower down, 2-6-8 degrees.|- It's what you might call a bitch.
+{122891}{122943}- Twenty-three.|- Not enough.
+{123613}{123677}- What have you got?|- I need one more link.
+{123680}{123738}I can't see it.
+{123810}{123881}Names. They're names.
+{123885}{123952}- You?|- No.
+{123956}{124037}Getting a very bad feeling now.
+{124073}{124130}Polish names.
+{124331}{124389}- There.|- Yes.
+{124585}{124684}- Menu.|- Let's hope to God it works.
+{124833}{124916}It's started. Bastards.
+{125556}{125634}Don’t you have homes to go to?
+{126145}{126215}- How's it going?|- Four hits so far.
+{126219}{126276}Probably 300 men lost.
+{126280}{126380}A Dutch cargo and a Norwegian freighter|went straight to the bottom.
+{126384}{126452}And an American liberty ship's|on fire.
+{126456}{126539}Half the crew are drowning.|The other half are trying to save them.
+{126636}{126733}Tom. Unfinished business.
+{126794}{126856}Congratulations.
+{126860}{126924}It's a half bottle,|as it turns out.
+{126953}{127014}Typical Skynner.
+{127018}{127082}That should go back.
+{127086}{127134}Where's the museum key?
+{127138}{127199}Oh, sorry, Guy.|I've still got it.
+{127203}{127286}Tsk, tsk.|Security around here.
+{127290}{127362}Then get off home, old thing.
+{127366}{127445}- Haven't you got a girl waiting for you?|- She's dead.
+{128660}{128708}Tom.
+{128760}{128842}Oh, my God. Come on.
+{128846}{128910}- What?|- Come on.
+{128913}{128956}It's Polish.
+{128960}{129006}Polish names, all of them.
+{129010}{129084}The Germans|found a mass grave.
+{129088}{129185}Look, doesn't it say|4, 000 corpses?
+{129231}{129352}"Polish officers buried|in the forest at Katyn in 1940...
+{129356}{129427}"during the Soviet occupation.
+{129431}{129482}Shot in the back of the head. "
+{129486}{129539}Murdered by the Russians.
+{129543}{129604}By our Russian allies.
+{129608}{129677}They were comrades-in-arms|against the Nazis.
+{129681}{129754}My God.
+{129758}{129840}That's why the file was empty--|on the orders of Secret Intelligence.
+{129844}{129963}And that's why Beaumanor was ordered|to stop intercepting the signals.
+{129967}{130015}It was too big a secret.
+{130019}{130103}Just knowing that|can get you killed.
+{130107}{130197}And Claire discovered it.
+{130201}{130270}Copied it into the German book,|and she had to tell...
+{130274}{130334}someone.
+{130480}{130541}- Adam Pukowski.|- What?
+{130545}{130585}Missing in action.
+{130589}{130659}Kid brother of Jozef Pukowski.
+{130663}{130700}Claire stole those intercepts|for Puck...
+{130704}{130786}because he was looking|for his brother's name.
+{130790}{130864}- Puck!|- Wait! Please!
+{130868}{130936}This Puck killed her. Why?
+{130940}{131059}Because he had a secret, too,|and she could've given him away.
+{131063}{131116}- What secret?|- I can't tell you that!
+{131120}{131163}Tom!
+{131722}{131817}Hello. Could you get me|London Adelphi 4-2-4-3, please?
+{131821}{131885}I'm sorry. That number|is not in service.
+{131985}{132084}What the hell is this about, you and|some skirt waltzing around Beaumanor?
+{132088}{132172}Leonard, unless you're asking me|to dance, let go of my arm!
+{132176}{132280}I should've cooked your goose when you made|a fool of yourself over that blonde...
+{132373}{132423}who fucked half the park.
+{132427}{132470}What?
+{133713}{133786}Stand away! Stand away!
+{133927}{133975}What the bloody hell|do you think you’re doing?
+{134044}{134113}He's two carriages up.|Snug as a bug in a rug.
+{134148}{134180}Morning, sir.
+{134503}{134547}You knew?
+{134551}{134607}About Pukowski?
+{134611}{134685}We had no proof,|but when Miss Romilly went missing--
+{134689}{134796}- Puck and Claire were having an--|- Were seeing each other, as you like to put it.
+{134800}{134853}Seeing each other's|brains out.
+{134857}{134937}Jozef Pukowski, who'd been wondering|what could have happened...
+{134941}{135028}to all those Polish officers who hadn't been|heard from since the first year of the war...
+{135032}{135078}and Claire Romilly...
+{135082}{135189}who was reading the Wermacht traffic|from the Eastern Front.
+{135193}{135264}They were made for each other.
+{135268}{135339}And lo, mass graves.
+{135343}{135417}Polish uniforms, names.
+{135421}{135523}- We've been bracing ourselves for the Nazi propaganda.|- Propaganda?
+{135565}{135651}Four thousand Poles|murdered by Stalin?
+{135655}{135726}It's what Hitler would|give his last ball for.
+{135730}{135831}Think of all those Polish names|in the U. S. of A.
+{135835}{135927}Think of our convoys|full of American goods...
+{135931}{135979}some of them|in American ships...
+{135983}{136079}running the U-boat gauntlet so our|supplies can keep Stalin in business.
+{136083}{136151}- But it's true, isn't it?|- The Katyn massacre?
+{136155}{136281}Oh, really, do shut up. There's a war|to win, and Stalin's helping us win it.
+{136285}{136318}And they hate|the Russians, you know.
+{136322}{136381}They've hated them|for centuries.
+{136385}{136444}So what's Pukowski|going to do to get back at them?
+{136448}{136514}Help the enemy. That's what.
+{136518}{136598}His enemy's enemy.
+{136602}{136713}And he's got a big piece of knowledge|that can help the Germans-- Shark.
+{136717}{136814}- The weather code.|- Claire couldn't have known what he'd do. She wasn't a traitor.
+{136818}{136874}I'm sure you’re right.
+{136878}{136960}But then Pukowski heard|that you were coming back.
+{136964}{137078}Jericho, the lover who wouldn't let go,|who'd cracked once before.
+{137082}{137166}The swot who was invited to the ball,|found Cinderella's slipper...
+{137170}{137216}and went so crazy|he would've told her anything.
+{137220}{137321}And you would have, wouldn’t you?|About how we lost Shark.
+{137325}{137393}And the rumour that there was a mole|in the park, probably in your hut.
+{137397}{137507}How long would it have taken Claire to work out|that the traitor was Puck? About a minute.
+{137511}{137557}So he killed her.
+{137679}{137748}One- way to Manchester,|according to the ticket collector.
+{137752}{137801}Change the watch.
+{137865}{137986}Well, let's see where|and to whom he will lead us, hmm?
+{138220}{138275}Train approaching, platform three.
+{138279}{138369}It's the 3:15 to Manchester.
+{138440}{138507}How do you get the petrol coupons|to go zipping up and down to London?
+{138511}{138618}Secret, darling. I know a chap.
+{138704}{138825}Train standing, platform three.|3:15 for Manchester only.
+{139319}{139390}Manchester, next stop.
+{139394}{139449}That's it for you.
+{139488}{139560}Go home, keep your head down...
+{139564}{139635}and I might try and forget about you and|your moll breaking the Highway Code...
+{139639}{139692}and the Official Secrets Act|on the same day.
+{139717}{139769}Train standing, platform three.
+{139773}{139863}3:15 to Manchester only.
+{139867}{139995}You've been trying to frighten me into keeping|my head down right from the start. Why?
+{139999}{140071}Because somehow|I frighten you. Why?
+{140075}{140169}Because of Claire.|My connection with Claire.
+{140203}{140249}Be careful now.
+{140364}{140436}The night you came to my room, you|already had Pukowski in your sights...
+{140440}{140506}yet you went out of your way|to play the heavy with me.
+{140510}{140581}And then you were more concerned about|Claire Romilly than you were about Shark.
+{140585}{140663}- A girl who'd missed her shift? Why?|- Why? She was his girlfriend.
+{140667}{140750}Oh, no. She was more than that.
+{140754}{140851}She was working for you.|Claire was your agent.
+{140855}{140950}She told you everything,|even how I found her shoe.
+{141054}{141162}As you said, Bletchley was a security nightmare,|so you put a girl in the park to do your dirty work.
+{141166}{141215}Surely you mean|her patriotic duty.
+{141219}{141322}Everything that she did, she did because|you told her. You had her fucking for England.
+{141385}{141457}And then when she got to Pukowski,|it went wrong. She took pity on him...
+{141461}{141520}and she told him what she was|writing in the German book.
+{141573}{141622}No wonder you were frightened.
+{141626}{141743}You'd made a terrible mistake, and your|agent paid for it with her life. Claire.
+{141781}{141827}He's jumped!
+{141972}{142014}He's gone!
+{142115}{142205}Come on! Back it up!|Back the train up!
+{142412}{142463}What are they doing?
+{142880}{143011}Sir, please. The station's clear.|Roadblocks are in place.
+{143015}{143103}- Search the train again.|- He's not on the train!
+{143107}{143185}- We'll have to let it go.|- Please be patient.
+{143745}{143845}Oh, Puck, there's a message left for you|at the switchboard. It's Adelphi 4-2-4-3.
+{144085}{144135}- Keep the change.|- Thank you very much.
+{144139}{144198}- To the station, rather fast, please.|- Ma'am.
+{146120}{146193}You bloody idiot.|This time I can't save you.
+{146197}{146243}You broke Skynner's cheekbone.
+{146298}{146368}Tom. Well, weather code is,|uh, c-c-cracking open.
+{146372}{146433}Where's Puck?
+{146518}{146565}- Check our weather report--|- How bad is it?
+{146569}{146618}It's bad.
+{146622}{146701}But we are reading Shark,|thanks to you lot.
+{146775}{146887}- What's this?|- Grid square A-M-2-9. We think it's a garbled signal.
+{146891}{146955}- Signal to a U-boat?|- Mmm. U-617.
+{146959}{147041}Ordered out of battle|to proceed immedi--
+{147045}{147078}Yes?
+{147082}{147125}Where is this?
+{147129}{147251}Loch Feochan, in Scotland, where|I'd like to be old. If I'm ever old.
+{147255}{147376}So, it's the real thing.|U- 671, rendezvous in 24 hours.
+{147380}{147461}Our turn to find a sitting duck.
+{147465}{147501}My God.
+{148255}{148301}- Be careful.|- I will.
+{149798}{149828}Damn it.
+{150303}{150365}- I'm on the chosen frequency.|- Sir.
+{150369}{150461}- There's probably interference.|- Swing around. I'll fine-tune it.
+{150465}{150511}Perfect.
+{150515}{150586}Just in time to bugger up|the whole operation.
+{150963}{151057}- Do you want to abort?|- Are you serious?
+{151738}{151837}- I didn't kill her.|- I know.
+{151841}{151905}Do you think|I'm here for that?
+{152008}{152102}- That's right, my darling.|- They're ready.
+{152106}{152179}Up you come.
+{152183}{152229}What about the rest of it?
+{152233}{152317}The real secret you want to tell the Germans,|about how we really broke the code?
+{152321}{152417}- About my machines!|- Thomas, Thomas.
+{152421}{152475}- You can have your enemy. Let me have mine.|- No.
+{152479}{152530}Well, shoot me, then.
+{152534}{152625}- It's your show, but your man--|- He is not my man.
+{152629}{152679}Serve it up.
+{152742}{152837}- Go ahead.|- Tell Auntie Mae the package is ready.
+{153241}{153278}Dinner's ready.
+{154026}{154051}Bulls eye!
+{155121}{155235}- Run out a couple of yards there.|- You're looking in the wrong place.
+{155264}{155315}Oh, it's Mr Jericho.
+{155393}{155449}Come home again|with his batteries dried out.
+{155453}{155506}You turned out to be|some swot.
+{155510}{155645}- I tip my hat to you.|- She's not there. Didn’t you hear me?
+{155649}{155727}She's moved on.
+{155783}{155869}The murder scene was like|a pile of clothes left on a beach.
+{155873}{155929}Sometimes it means|somebody's dead.
+{155933}{156004}Sometimes it means|somebody wanted to disappear.
+{156008}{156079}Like an agent who'd been|turned by her target.
+{156083}{156154}It was you|who saw it before I did.
+{156158}{156207}What makes you think that?
+{156211}{156283}Pukowski was on the train,|and you were letting him run.
+{156287}{156408}He knew the secret that could lose us|the war. Remember? The thinking machine.
+{156412}{156480}You were holding back to see|who he would lead you to.
+{156484}{156566}Who the hell could it be|to make you take that risk?
+{156570}{156612}Only Claire.
+{156616}{156672}Well, I was wrong, wasn't I?
+{156676}{156726}She wasn't with Pukowski.
+{156730}{156841}She was waiting for him up the line to take|him to her little Scottish hideaway...
+{156845}{156922}where a couple of runaway lovers|could sit out the rest of the war.
+{156926}{156995}Do you think I didn't check?
+{156999}{157097}She loved him, and Pukowski brought her|all the way to the brink...
+{157101}{157155}but then he had to tell her|what she didn't know...
+{157159}{157251}about the U-boat|coming to pick him up, and why.
+{157255}{157307}If they got caught,|they'd both hang.
+{157311}{157418}But there was no going back.|Only forward, to Germany.
+{157422}{157472}But then,|he didn't know Claire.
+{157476}{157540}She was no traitor.
+{157581}{157650}She's out there, somewhere...
+{157654}{157742}like a sword|hanging over your head.
+{157771}{157820}In different ways,|she fooled us all.
+{157824}{157900}She was unreadable.
+{157951}{158085}- Stick to sums.|- I think I've got something! Easy does it!
+{158089}{158151}What have you got there?
+{158155}{158197}Steady.
+{158201}{158267}- We're losing her, lads.|- Do you want it to be her?
+{158271}{158327}Steady, now.
+{158359}{158452}False alarm!
+{158456}{158526}Shut up.
+{158530}{158589}Keep looking.
+{158620}{158680}Oh, I will.
+{158684}{158739}I will.
+{160905}{160979}- Sorry I'm late.|- It's all right.
+{160983}{161077}I was getting worried|about you two.
+{161102}{161252}Please rate this subtitle at www.osdb.link/43796|Help other users to choose the best subtitles

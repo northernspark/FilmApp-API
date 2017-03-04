@@ -1,0 +1,1412 @@
+{1}{1}23.976
+{26}{176}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{3858}{3928}Nice fat deposit.|You're sure in the right business, Sally.
+{3930}{3958}Thank you.
+{3971}{4020}Good morning.
+{4054}{4078}Deposit.
+{4307}{4333}Another nice deposit.
+{4336}{4386}You and Sally are sure|in the right business.
+{4388}{4425}I'm in a hurry, please.
+{5616}{5645}Hi, Kate.
+{6581}{6633}Have you cleaned up the house|across the way?
+{6635}{6668}I haven't had time yet.
+{6670}{6722}You should always do that one first.
+{6912}{6940}Anne!
+{7091}{7121}Come here.
+{7225}{7285}Did you ever see that kid out there before?
+{7295}{7348}I think maybe he was in the bar last night.
+{7350}{7378}Send Joe in.
+{7406}{7430}Joe.
+{7569}{7608}Hello, Pretty Boy.
+{7735}{7813}- Call me, Kate?|- Yeah. Take a look out the window.
+{7815}{7908}There's a kid who's been following me|all the way to the bank and back.
+{8517}{8576}Come here, you young squirt, come here.
+{8620}{8709}- You want me?|- What's the idea of throwing that stone?
+{8739}{8788}Any law against throwing stones?
+{8803}{8854}You're tough? Come here!
+{8943}{9009}What are you hanging around here for,|anyway?
+{9059}{9102}- Would she talk to me?|- Kate?
+{9119}{9183}What for? What do you want?
+{9253}{9303}Just wanna talk to her.
+{9314}{9385}- What do you want, you?|- Nothing.
+{9431}{9470}You live around here?
+{9498}{9566}- In Monterey?|- Salinas.
+{9568}{9599}What's your name?
+{9620}{9693}You're not talking? Now, look...
+{9694}{9745}why are you following Kate around?
+{9760}{9791}What's the idea, squirt?
+{9792}{9864}Any law against following|around the town...
+{9896}{9936}madam, whatever you call her?
+{9938}{10015}I don't know if there's any law against it,|but she don't like it.
+{10017}{10070}She owns that house over there, too,|don't she?
+{10072}{10154}But don't you go hanging|around there, squirt. You're too young.
+{10156}{10211}Now come on. Now beat it.
+{10213}{10255}Is that her real name?
+{10292}{10399}- Kate. Is that her real name?|- Sure, as far as I know. Why?
+{10431}{10473}What's her last name?
+{10475}{10541}Nobody's got any last name|around here, kid. Why?
+{10644}{10717}You tell her I hate her.
+{11289}{11353}I should have gone right on in there.
+{11374}{11433}Should have gone right on in there|and talked to her.
+{11989}{12061}Cal wasn't home all night.|Boy, is he gonna catch it from Dad.
+{12062}{12125}- You know what the girls in class call him?|- No, what?
+{12127}{12166}The Prowler.
+{12168}{12216}- I'll tell him that.|- You better not, Aron.
+{12218}{12251}- Promise me you won't.|- Why not?
+{12254}{12308}Please don't. I don't want you...
+{12342}{12381}- Hi, Cal.|- Hi.
+{12383}{12420}Hello, Cal.
+{12435}{12472}Excuse me for talking.
+{12475}{12541}We're going down to see the icehouse|that Dad's gonna buy.
+{12543}{12582}- Do you want to come?|- What icehouse?
+{12584}{12639}The one he's buying|to freeze the vegetables with.
+{12641}{12707}He's been talking about it every night|for the last week.
+{12709}{12739}Is Dad gonna be there?
+{12741}{12791}Why sure, he's gonna buy it.
+{12837}{12873}I'll skip it.
+{12892}{12945}You're gonna have|to see him sometime, Cal.
+{12947}{13015}- Come on.|- Hey, Aron.
+{13017}{13040}Yeah?
+{13056}{13139}- Why don't you ask me where I've been?|- Would you tell me?
+{13161}{13222}- No.|- Then what's the use of my asking?
+{13291}{13347}- Is Dad mad at me?|- Well, you were out all night.
+{13349}{13402}He was worried.
+{13425}{13455}Yeah, I bet.
+{13507}{13547}You gonna come or not?
+{13609}{13671}Okay. I'll see you at supper.
+{13678}{13706}He's coming.
+{13739}{13773}He's coming.
+{13941}{14002}You see, Will, I got the idea|from an article I read.
+{14004}{14068}They dug up a mastodon|somewhere in Siberia.
+{14070}{14154}Been in the ice for thousands of years|and the meat was still good.
+{14156}{14179}Mastodon?
+{14302}{14360}What have you got to say for yourself?
+{14446}{14486}This is my son, Cal.
+{14511}{14583}When you were his age,|I imagine you thought it only right...
+{14585}{14649}to let your father know|before you stayed out all night.
+{14650}{14738}Or at least to offer some kind|of apology when you did come home.
+{14744}{14785}Well, times change.
+{14814}{14896}As I was saying,|a mastodon is a kind of elephant.
+{14898}{14950}Hasn't lived on the Earth for a long while.
+{14952}{15028}- And the meat was still fresh?|- Sweet as a pork chop.
+{15030}{15113}You're more excited about this|than you've been for a long time.
+{15114}{15156}Now, I seem to be, don't I?
+{15158}{15232}See, Will, I've been sort of|in a rut out there in the ranch.
+{15234}{15324}- Sixteen, 17 years, I've kept out of things.|- I know.
+{15326}{15407}But now I feel that|if I could only do something...
+{15409}{15524}some little thing for, before I die,|some little thing for progress...
+{15535}{15592}for people, maybe.|Call it anything you want.
+{15594}{15673}I might make up for all the years|I've been lying fallow.
+{15675}{15770}So, lately I've been reading up all I can|about refrigeration.
+{15771}{15858}And I can't get it out of my head|that you can keep anything good...
+{15860}{15948}as long as you can get it cold enough.|Like that mastodon there.
+{15950}{16006}- Good afternoon, Abra.|- Good afternoon, Mr. Trask.
+{16008}{16039}- Hello, Mr. Hamilton.|- Hello.
+{16040}{16069}- Hello, Son.|- Hi, Dad.
+{16071}{16171}Now my son, Aron, that is,|thinks I may have a good idea here.
+{16173}{16223}Dad wrapped a head of lettuce|in wax paper...
+{16225}{16279}and kept it in our icebox|for over three weeks...
+{16281}{16329}and it still came out fresh and good.|Right?
+{16331}{16357}Quite right, Son.
+{16358}{16461}- Dad, is it all right if we look around?|- 'Course, Aron. Belongs to us now.
+{16500}{16581}Do you know where the biggest market|for vegetables is in the winter?
+{16583}{16625}- Where?|- New York City.
+{16626}{16672}And they can't raise them there.
+{16674}{16741}But the railroad had promised me|those fruit cars.
+{16779}{16844}Don't you have anything to say to me, Cal?
+{16846}{16899}- Yeah.|- It's about time. Well?
+{16932}{17012}I read in the Monterey newspaper...
+{17014}{17085}that if we get into this war...
+{17087}{17152}there are gonna be some fortunes made.
+{17158}{17265}But you're gonna make them|in beans and corn, and stuff like that.
+{17296}{17359}- You don't need all this ice.|- You're perfectly right.
+{17362}{17400}Beans are up to 3 cents.
+{17402}{17449}You wanna make a profit, you plant beans.
+{17451}{17499}And they keep, too, don't they?
+{17501}{17579}But I'm not particularly interested|in making a profit, Cal.
+{17723}{17760}Look here, Will.
+{17762}{17833}I'm not an inventor nor a scientist...
+{17835}{17887}but I know I have an idea here.
+{17889}{17977}I come from a whole family of inventors.|People full of ideas like this one.
+{17979}{18029}I'm the only one that didn't have an idea...
+{18031}{18073}and the only one that ever made a dime.
+{18075}{18127}You wanna make a profit, you plant beans.
+{18129}{18201}Put out that cigarette!|That place is full of sawdust!
+{18278}{18390}- Come on, Adam, he's just thoughtless.|- Thoughtless? He's inconsiderate.
+{18392}{18454}I don't know.|I'm at my rope's end with that boy.
+{18456}{18501}I don't understand him. I never have.
+{18503}{18569}Aron I've understood since he was a child.
+{18669}{18696}Help me up.
+{18791}{18850}- He doesn't like anybody, does he?|- Who, Dad?
+{18853}{18892}No, Cal.
+{18917}{18958}It's dark in here and spooky.
+{18986}{19028}Why is he so alone all the time?
+{19030}{19106}- He wants to be.|- Nobody wants to be alone all the time.
+{19108}{19182}Dad's made a wonderful buy, hasn't he?|We'll freeze vegetables.
+{19184}{19238}It'll really give him something|to live for now.
+{19239}{19312}What's the matter, Abra,|don't you like Cal?
+{19313}{19372}- I guess I don't know him very well.|- I love him.
+{19374}{19457}Well, naturally, he's your brother.|He's scary.
+{19470}{19523}- Scary?|- When he looks at you.
+{19534}{19581}Sort of like an animal.
+{19583}{19627}I don't know, he scares me.
+{19643}{19709}Aron, when are we gonna get married?
+{19730}{19803}Just as soon as I get through|with that darned school.
+{19824}{19865}I wish it was right now.
+{19915}{19955}- So do I.|- Do you?
+{20162}{20214}Abra.
+{20215}{20251}- When we get...|- I love you, Aron.
+{20253}{20314}When we get married,|it's going to be perfect.
+{20324}{20385}Everything about it is going to be perfect.
+{20998}{21062}You're gonna make|a wonderful mother, Abra.
+{21089}{21132}- I hope so.|- You are.
+{21154}{21191}A perfect one.
+{21231}{21300}You don't remember your mother at all,|do you, Aron?
+{21313}{21375}No, she died|right after Cal and I were born.
+{21391}{21458}Must be hard never to have had a mother.
+{21509}{21572}- What's that?|- Look, what's he doing up there?
+{21596}{21640}- Crazy guy.|- He's watching us.
+{21642}{21692}- No, he isn't.|- Yes, he is, too.
+{21694}{21761}Let's move over here. Aron.
+{22036}{22119}- He's not watching us.|- I feel as if he can still see us.
+{22262}{22319}I love you, Aron.
+{22321}{22363}Really, I do. Really.
+{22397}{22450}Sure. I love you, too.
+{22908}{22972}Cal, stop! Stop that, Cal!
+{22974}{23019}What are you doing? Stop it!
+{23078}{23160}"Blessed is he|whose transgression is forgiven...
+{23162}{23199}"whose sin is covered.
+{23223}{23315}"Blessed is the man unto whom|the Lord imputeth not iniquity...
+{23356}{23413}"and in whose spirit there is no guile."
+{23457}{23508}And you are forgiven, Cal.
+{23540}{23627}I think there is no iniquity|in your actions...
+{23630}{23683}only something I do not know.
+{23730}{23794}Why did you push that ice down?
+{23884}{23915}I don't know.
+{23945}{23972}Was it...
+{23993}{24068}Was it vengeance? Anger?
+{24088}{24176}Fear that I would punish you|for not coming home last night?
+{24194}{24221}What was it?
+{24269}{24335}I wanted to see it slide down the chute.
+{24373}{24454}- Perhaps you had better read from here on.|- I'll read it, Dad.
+{24458}{24512}No, it's for Cal to read.
+{24513}{24565}Start at the fifth verse.
+{24600}{24632}Verse 5.
+{25061}{25139}"I acknowledge my sin unto thee,|and mine iniquity have I not hid.
+{25141}{25207}"I said, I will confess my transgressions|unto the Lord...
+{25209}{25269}"and thou forgavest|the iniquity of my sin. Selah."
+{25271}{25295}Go on.
+{25429}{25457}Six.
+{25459}{25512}And I suggest a little slower, Cal.
+{25513}{25575}And you don't have to read|the verse numbers.
+{25584}{25680}"For this shall every one that is godly|pray unto thee.
+{25682}{25732}"And surely in the floods of great waters...
+{25733}{25811}"they shall not come nigh unto him.|Selah."
+{25813}{25837}Seven.
+{25839}{25876}Not the numbers, Cal.
+{25880}{25975}"Thou art my hiding place,|thou shalt preserve me from trouble...
+{25977}{26070}"thou shalt compass me about|with songs of deliverance. Selah."
+{26108}{26183}- Eight.|- You have no repentance! You're bad!
+{26188}{26222}Through and through, bad.
+{26224}{26293}Excuse me. I'll go out and wait for Abra.
+{26512}{26592}You're right. I am bad.|I knew that for a long time.
+{26594}{26665}I didn't mean that, Cal. I spoke in anger.
+{26667}{26719}Well, it's true.
+{26747}{26788}Aron's the good one.
+{26796}{26840}I guess there's just a certain amount...
+{26842}{26890}of good and bad you get|from your parents...
+{26893}{26951}- and I just got the bad.|- That's not true.
+{26953}{26987}Cal, listen to me.
+{27001}{27052}You can make of yourself|anything you want.
+{27054}{27110}It's up to you. A man has a choice.
+{27113}{27174}That's where he's different from an animal.
+{27239}{27295}You don't listen. You'll never remember.
+{27458}{27488}My mother...
+{27595}{27647}she's not dead and gone to heaven...
+{27673}{27697}is she?
+{27746}{27783}Why do you ask that?
+{27795}{27839}She's not dead at all.
+{27863}{27934}She's not buried in the East|like you said, either.
+{27947}{27979}She's alive.
+{27980}{28036}- What makes you think so?|- I heard from a guy.
+{28038}{28076}- Who?|- I don't know his name.
+{28077}{28130}He was just passing through.
+{28159}{28227}How come you told Aron and me she died?
+{28229}{28292}- I thought it would save you pain.|- Pain?
+{28457}{28519}If she was still alive,|where do you think she'd be?
+{28521}{28594}I have no idea. She went East.
+{28599}{28633}How do you know?
+{28645}{28747}When she left the ranch we lived on|when you and Aron were born...
+{28769}{28808}I heard she went East.
+{28834}{28882}What was she like? Was she bad?
+{28902}{28953}I guess she...
+{28975}{29060}I never really knew what she was like.|She wasn't like other people.
+{29063}{29120}There was something she seemed to lack.
+{29156}{29212}Kindness, maybe. Conscience.
+{29264}{29314}I never knew what she was after.
+{29326}{29392}- How come she left you?|- I never knew that, either.
+{29394}{29486}She was so full of hate.
+{29488}{29551}- Hate for you?|- For everything.
+{29650}{29715}You won't tell Aron that she didn't die?
+{29734}{29758}No.
+{29775}{29834}Must not do anything to hurt Aron.
+{29938}{30005}Where'd you get that scar|you got on your shoulder, Father?
+{30007}{30050}I've told you, Cal.
+{30060}{30147}It's an old wound I got|in the Indian campaigns.
+{30154}{30247}- Why do you ask that now?|- What'd she look like? Was she pretty?
+{30280}{30359}She had the most lovely hands.
+{30361}{30395}Like ivory.
+{30423}{30474}She took such good care of them.
+{30505}{30541}Her mother had arthritis.
+{30542}{30620}She was always afraid|it would come to her in her hands.
+{30769}{30811}Talk to me, Father.
+{30925}{30995}I got to know who I am.|I got to know who I'm like.
+{30997}{31030}I got to know...
+{31067}{31098}Where is she?
+{31121}{31179}I'm telling you, truthfully, Cal...
+{31200}{31254}after she left, I never heard from her.
+{31327}{31375}Cal, wait. I want to talk more with you.
+{31377}{31457}If you leave this room now|we may never be able to talk again.
+{31476}{31512}You coming home tonight, Cal?
+{31514}{31589}What's the difference?|You're home. You're the one he wants.
+{31591}{31652}Good evening, Cal.
+{31684}{31737}High strung. Very high strung.
+{31745}{31815}Good evening, Abra.|Where is my chess victim?
+{31820}{31872}- He's waiting for you, Mr. Albrecht.|- Good.
+{31874}{31930}What do you suppose he meant by that?
+{32265}{32312}Go on, beat it!
+{32363}{32409}Your wife has called up three times.
+{32411}{32506}- My wife's a...|- I know she is. Now beat it.
+{32738}{32777}Joe!
+{32891}{32959}All right, fella, you've run out of money.
+{32960}{33006}Mr. Hawks.
+{33107}{33160}- What do you want?|- I want...
+{33162}{33248}- What do you want to drink?|- Beer.
+{33524}{33557}Hey!
+{33579}{33641}- Where's my drink?|- All right.
+{33657}{33702}That's not very neat, is...
+{33722}{33748}It's okay.
+{33812}{33856}- You'd better get out of here.|- How come?
+{33859}{33911}You're the one who followed Kate|this morning.
+{33913}{33973}- It's a free country, isn't it?|- It's a free country.
+{33975}{34047}Only, Joe said if I saw you again,|I was supposed to tell him.
+{34049}{34098}You can tell him if you want to.
+{34124}{34187}You're just a kid, ain't you?
+{34215}{34277}- I'm older than you are.|- Yeah, sure, but that isn't...
+{34279}{34317}- Hey!|- All right.
+{34357}{34383}Kid, please...
+{34385}{34447}you oughtn't to go around|throwing stones and things.
+{34448}{34510}That isn't nice. And drinking beer.
+{34563}{34592}There's Joe.
+{34618}{34695}Look, kid, please go.|You don't want to get yourself hurt.
+{34716}{34794}You could tell him now, if you want to.|There's your chance.
+{34826}{34889}You sure have got a nerve, haven't you?
+{35067}{35142}- Do you know Kate?|- This is Kate's place.
+{35144}{35219}- She's treating you okay?|- Sure.
+{35221}{35263}I gotta go now, kid.
+{35265}{35298}Is she nice?
+{35310}{35343}Don't let Joe see you, please.
+{35345}{35401}She doesn't treat you rough|or anything, does she?
+{35403}{35474}Please, kid, I gotta go now.|It was nice meeting you.
+{35475}{35538}Isn't there anything nice about her at all?
+{35564}{35603}What's the matter, kid?
+{35626}{35687}- She had pretty hands. Did you see them?|- Hands?
+{35689}{35717}Did you look at them?
+{35718}{35796}No, I don't think I ever saw them.|She always wears gloves.
+{35905}{35932}Where is she?
+{35934}{35979}- You mean now?|- Yeah.
+{35981}{36052}- Back in her office, probably.|- Where's that?
+{36054}{36095}Back that way.
+{36097}{36129}Will you show me?
+{36217}{36284}Look, kid, please don't start any trouble.
+{36286}{36349}I'm not gonna start any trouble. Come on.
+{36352}{36421}We... You can just point the door to me,|and I'll go there.
+{36423}{36451}No, honest.
+{36453}{36524}This is a tough place. I can't lose this job.
+{36526}{36585}- I'm not very good at it, anyway.|- You won't lose it.
+{36587}{36665}If I step out of line|Kate will throw me out on my ear.
+{36687}{36745}Come on, will you?
+{36747}{36803}You can just show me where the door is.
+{36815}{36843}Come on.
+{36884}{36923}Be a sport.
+{37001}{37035}Come on.
+{37380}{37420}There's the door.
+{37430}{37478}Thank you. You can go back now.
+{37500}{37540}What are you gonna do?
+{37554}{37615}Please, kid, don't make any trouble.
+{37652}{37763}I'm not gonna make any trouble.|I'm gonna wait till you're gone. Okay?
+{39033}{39108}Will you let me talk to you? Please.
+{39152}{39208}I gotta talk to you.
+{39321}{39378}Joe!
+{39395}{39483}Get out of here! Joe! Tex!
+{39546}{39611}Call the sheriff! Get him out!
+{39627}{39711}Call the sheriff! Get him out of here!
+{39773}{39828}I want to talk to her!
+{40040}{40097}I want to talk to you!
+{40136}{40195}Please, talk to me!
+{40197}{40282}Talk to me, please! Mother!
+{40324}{40403}Is there any law against a guy|trying to see his own mother?
+{40404}{40459}No, I guess there isn't.
+{40479}{40507}Here.
+{40509}{40583}Put this on your cheek. Here.
+{40718}{40752}Drink some coffee.
+{40791}{40841}How did you find out about Kate, anyway?
+{40843}{40913}That guy I saw you talking to|in the bar the other night?
+{40915}{40978}The one they call "Rabbit."
+{40990}{41070}I thought so. He never was any good.
+{41072}{41145}I remember when he used|to work on your father's ranch.
+{41169}{41267}Well, he won't be around anymore, Cal.|He's left town for good.
+{41337}{41408}- What do you hang around bars for?|- Any law against hanging...
+{41411}{41467}Yes, there is! I'm the law.
+{41475}{41518}Get that through your head.
+{41552}{41588}Shut up!
+{41736}{41814}Does Adam know that you...
+{41816}{41866}roam around over here at night?
+{41967}{42043}Adam's an old friend of mine,|you know, Cal, from...
+{42046}{42102}way back in his ranch days.
+{42122}{42205}I was afraid when you moved here|last year...
+{42219}{42291}that you might find out something|about Kate.
+{42317}{42384}But then she was over here on the Bay...
+{42386}{42467}and you were way over on the other side|of the mountains in Salinas.
+{42469}{42565}- So I figured it'd be all right.|- You think he'll ever find out about her?
+{42575}{42629}He'd never come over here.
+{42752}{42799}Here. You might as well look at this now.
+{42801}{42894}It's a picture of your father|and your mother on their wedding day.
+{42913}{42978}You're the first person|I've ever showed it to.
+{43103}{43140}I knew it.
+{43189}{43235}I knew it was true.
+{43289}{43355}When that old guy told me in the bar,|I knew it.
+{43427}{43477}How did you know it was true?
+{43479}{43556}'Cause she ain't no good|and I ain't no good.
+{43558}{43623}I knew there was a reason why I wasn't.
+{43815}{43843}I hate her.
+{43851}{43905}And I hate him, too.
+{43936}{43987}Come on, I'll take you home.
+{44018}{44112}- You don't have to drive me home!|- I know I don't have to take you home!
+{44141}{44168}Here.
+{44188}{44255}A little bit of the hair|of the dog that bit you.
+{44269}{44297}Come on now.
+{44623}{44667}How did Dad meet her?
+{44699}{44740}Where did she come from?
+{44762}{44823}Nobody ever knew|where she come from, really.
+{44847}{44922}There were a lot of drifters in those days.
+{44924}{44986}Of all the people.
+{45079}{45118}How come he married her?
+{45131}{45195}You have no idea how pretty she was, Cal.
+{45197}{45253}Young and full of spirit.
+{45255}{45319}And your father hadn't been|off the ranch much, you know.
+{45322}{45370}He's not a worldly man.
+{45600}{45692}- Did she shoot him?|- Yes, she did.
+{45732}{45768}How come?
+{45803}{45836}I don't know.
+{45897}{45946}Did he do something to her?
+{45967}{46009}- Did he hurt her?|- No.
+{46016}{46063}It wasn't in him to hurt her.
+{46074}{46179}After she left him, he died.|He walked around, but he died.
+{46263}{46326}He must have done something to hurt her.
+{46336}{46385}No. No, sir.
+{46386}{46466}He gave her everything|that any woman could ask for.
+{46545}{46604}You see, your father has more kindness...
+{46619}{46718}and more conscience|than any man that I've ever known.
+{46972}{47066}He's a good man, Cal.|Don't sell him short, boy.
+{47692}{47738}It's going to work.
+{47741}{47815}If only I can keep them|cold enough long enough.
+{48068}{48103}It's going to work.
+{48494}{48573}All right, there she is. Let's try it.|Step back, girls.
+{48768}{48825}All right, bring her on. Come on.
+{48909}{48953}Now do you think it'll work?
+{49459}{49521}- Good morning, Mr. Trask.|- Good morning.
+{49588}{49647}Somebody swiped our coal chute|right off the wagon.
+{49649}{49708}Dear, dear.|Times are getting pretty lawless.
+{49710}{49736}It's this war in Europe.
+{49738}{49825}There's a wave of lawlessness|spreading through the country.
+{49827}{49873}Anyway, somebody swiped our chute.
+{49875}{49912}- Is that where you're loading?|- Yes.
+{49915}{49960}We'll move on, then. Good day, Mr. Trask.
+{49962}{50002}It's this war in Europe.
+{50342}{50386}Do you know where Aron is?
+{50415}{50466}He's out in the fields. He's checking.
+{50468}{50495}Can I do something for you?
+{50497}{50575}No. There were just some matters|I want to talk over with him.
+{50577}{50617}What have you got there?
+{50637}{50724}I figured it would save some time. So I...
+{50726}{50814}It's very ingenious, Cal. Very ingenious.|Did you think of it?
+{50816}{50855}Yep.
+{50857}{50916}I'm very pleased|with the way you're taking hold...
+{50919}{50958}and are working so well, Cal.
+{50960}{51002}Thanks. Thanks, Dad.
+{51130}{51205}Think you better have your lunch now.|It's time.
+{51267}{51291}Hi, Cal.
+{51344}{51410}- Aron's out in the field.|- I brought his lunch.
+{51443}{51505}- Okay, I'll take it to him.|- Cal.
+{51794}{51844}Lydia, vamoose.
+{52180}{52212}He'll be here in a minute.
+{52214}{52302}I've been fixing Aron's lunch.|I'll fix yours, too, if you like, after this.
+{52304}{52343}No, thanks.
+{52392}{52445}Would you be eating with her|if I weren't here?
+{52447}{52472}Who?
+{52562}{52617}No, I didn't ask her to come up here.
+{52714}{52763}Girls follow you around, don't they?
+{52765}{52837}- Does she bother you?|- She doesn't bother me.
+{52857}{52886}Who is she?
+{52951}{53002}I never saw her before in my life.
+{53041}{53073}I'll bet.
+{53140}{53218}You're really working|at this lettuce business, aren't you, Cal?
+{53229}{53272}Do you think it'll turn out all right?
+{53274}{53341}Your father will lose quite a lot of money|if it doesn't.
+{53343}{53382}Just about all he's got.
+{53398}{53447}I like your father.
+{53477}{53501}Do you?
+{53615}{53681}I threw away about $3,000 once.
+{53695}{53719}Yeah?
+{53758}{53808}- When I was 13.|- You threw it away?
+{53809}{53853}It was a diamond ring worth about that.
+{53855}{53916}At least, my father told me|that's what he paid for it.
+{53918}{54001}I threw it in the river.|Made Dad terribly angry.
+{54054}{54099}I reckon it would.
+{54101}{54165}But I forgave him.|And it's been all right ever since.
+{54168}{54204}- You forgave him?|- Yes.
+{54271}{54360}You forgave him 'cause you threw|a ring of his worth $3,000 into the river?
+{54363}{54401}- That's right.|- And you forgave him?
+{54403}{54442}That's right.
+{54444}{54495}Is there an egg in this basket?
+{54535}{54621}You see, I thought he didn't love me.|That made me feel awful.
+{54659}{54713}Girls love their fathers terribly.
+{54727}{54759}Do they?
+{54787}{54831}My mother died when I was 13...
+{54833}{54909}and Dad got married again soon after that.|Did you know that?
+{54911}{54958}No, I didn't know that.
+{54987}{55038}Are you interested in hearing about me?
+{55040}{55066}Yeah.
+{55157}{55240}When Dad got married again,|it made me sick.
+{55265}{55306}I just hated everybody.
+{55324}{55376}I used to sit and just glare at people...
+{55378}{55445}or I wouldn't even answer|when they spoke to me.
+{55496}{55569}- Why you telling me all this?|- I want to.
+{55585}{55667}I was that way for months.|I just hated everybody.
+{55669}{55725}I thought nobody in the world loved me.
+{55772}{55826}And it was awful.
+{55879}{55950}Then I found this ring|that Dad gave my new mother...
+{55984}{56051}- so I took it and threw it in the river.|- Good.
+{56086}{56129}I thought you'd like that.
+{56164}{56208}- Did he ever find it?|- Never.
+{56260}{56297}They tried.
+{56325}{56359}What'd they do to you?
+{56361}{56429}Dad punished me. Not badly, I guess.
+{56431}{56494}But I felt|he shouldn't have punished me at all.
+{56496}{56580}I felt he should have loved me more|because I did it.
+{56591}{56620}But he didn't.
+{56640}{56691}Isn't it funny?
+{56713}{56761}I'm grown up now...
+{56762}{56824}but I still understand kids better|than I do grownups.
+{56826}{56854}You're not so grown-up.
+{56857}{56910}- I'm very grown-up.|- That's a matter of opinion.
+{56912}{56948}I'm very grown-up.
+{56950}{57034}More so than Dad, because I forgave him|for not understanding.
+{57099}{57159}And the minute I forgave him in my mind...
+{57177}{57214}I felt better.
+{57395}{57436}Now we get along fine.
+{57464}{57558}We love each other.|Not like we did when I was 13...
+{57560}{57632}but enough so we can live together|till I get married.
+{57722}{57806}He's just my father now.|Nothing to rave about.
+{57826}{57902}I still don't like her much,|but then, she's a woman.
+{58207}{58285}My, that girl just hates me, doesn't she?
+{58308}{58364}You better tell her I'm your brother's girl.
+{58366}{58431}I don't have to explain anything|to anybody.
+{58502}{58559}I'll go now and leave the field to her.
+{58656}{58707}My, your hair's in a mess.
+{58794}{58840}Dad, what's that?
+{58842}{58922}That's something Cal rigged up.|It's a good idea.
+{58924}{58976}Aron! I brought your lunch.
+{58991}{59050}Looks like a coal chute.
+{59058}{59101}Coal chute?
+{59184}{59224}Okay, woman, where's the beans?
+{59227}{59250}Cal!
+{59315}{59406}What makes you think you have the right|to come and take something like this?
+{59408}{59488}You probably lost those men their jobs.|Now, you take it back.
+{59669}{59749}He's praising Cal and Cal is lapping it up.
+{59751}{59814}Aron! Look, have one of those|made of wood.
+{59816}{59871}- It'll save a lot of time.|- Yes, sir!
+{59952}{60006}- Good waste of time and money.|- And lettuce.
+{60009}{60084}- What'd you say?|- I said, it's a good idea if it works.
+{60086}{60145}It's gonna work, 'cause it's gotta work.
+{60147}{60198}It's gotta work, 'cause I said so.
+{60246}{60296}If it don't work, it ain't that kid's fault.
+{60298}{60354}I never saw anybody work|so hard in my life.
+{60437}{60498}Let's go, Pete. Now, Leonard!
+{60571}{60627}Good luck, Adam.
+{61431}{61503}Do you know the principle|of the internal combustion engine?
+{61505}{61566}No, I'm afraid not.|Will, I'll never be able to...
+{61568}{61618}Sure you will. You just listen to Roy.
+{61619}{61674}He's been to the automobile school|in Chicago.
+{61676}{61746}Mr. Trask has just revolutionized|the entire vegetable market.
+{61748}{61813}- Wait till those cars get to New York.|- Don't you worry.
+{61814}{61864}It's about time he owned|his own automobile...
+{61867}{61909}and about time he learned to drive it.
+{61911}{61972}- Now don't you think so, Roy?|- I'll do my best.
+{61974}{62022}Now pay strict attention, boys.
+{62045}{62073}Don't touch that!
+{62075}{62114}Wait till it's explained to you.
+{62116}{62189}No, now for heaven's sake,|don't touch anything, anybody.
+{62209}{62280}The power of the explosion|is exerted on a piston...
+{62283}{62370}and through connecting rod|and crankshaft...
+{62372}{62464}through transmission,|thence to rear wheels.
+{62466}{62531}- Got that so far?|- Sure, he's got that.
+{62533}{62606}Now, we go on|to the operation of the automobile.
+{62633}{62679}This here's the ignition key.
+{62701}{62768}Would you mind putting out|that cigarette, please.
+{62771}{62847}Turn this doohickey here to the left.|That puts her on battery.
+{62849}{62898}- See where it says "bat"?|- Yes.
+{62900}{62983}- Bat, short for battery.|- That's right. Good boy.
+{62994}{63030}Thank you. Thank you very much.
+{63032}{63069}First you gotta retard the spark.
+{63071}{63159}If you don't retard the spark,|she'll probably kick your blasted arm off.
+{63162}{63200}Now remember that.
+{63203}{63241}This here is the spark.
+{63243}{63321}You push her way up. Listen.
+{63355}{63428}- This here's the gas. You push her...|- Down.
+{63447}{63526}- You had lessons before.|- No, I just saw you do it.
+{63548}{63616}- You're a pretty smart old buzzard.|- Thank you very much.
+{63618}{63678}- Keep your eyes open, don't you?|- Try to.
+{63693}{63736}Now, this here is the crank.
+{63738}{63815}See this wire sticking out of the radiator?|That's the choke.
+{63816}{63885}Now watch careful.|Grab hold of the crank like this.
+{63887}{63922}Push in till she catches.
+{63924}{63960}See how my thumb is turned down?
+{63962}{63999}I noticed that. Why do you do that?
+{64001}{64069}If you put her around this way|with my thumb around her...
+{64071}{64119}she'd probably knock|my blasted thumb off.
+{64121}{64217}Dear, dear. First you lose your blasted arm|and then you lose your blasted thumb.
+{64219}{64269}- That's kind of wrong way around.|- How's that?
+{64271}{64349}He made a joke.|I never did see him so happy.
+{64361}{64435}You pull out this choke|turn her around to suck gas in.
+{64450}{64499}Then you give her a hard spin.
+{64508}{64586}- She caught, first time!|- Caught on what?
+{64606}{64649}Advance the spark and retard the gas.
+{64651}{64716}Reach over real quick and switch|to mag. That's magneto.
+{64718}{64763}So, there you are.
+{64765}{64826}Isn't that wonderful?
+{64828}{64889}Of course, it isn't exactly|going anywhere, is it?
+{64891}{64915}That's the easy part.
+{64917}{64963}- Adam.|- I want you all to repeat after me.
+{64964}{65027}Spark up, gas down.
+{65029}{65061}Switch to bat.
+{65063}{65130}Crank to compression, thumb down.
+{65132}{65179}You get that? Let's have it again.
+{65181}{65231}Spark up, gas down.
+{65232}{65285}- What's the matter?|- Big snow slide.
+{65288}{65358}Closed the pass and stopped the cars|about 100 miles out.
+{65361}{65426}Can see water running out of the cars.
+{65736}{65809}It's still a good idea.|Cold can preserve things.
+{65811}{65857}Someday, somebody'll prove it.
+{65901}{65958}- It was your idea.|- No!
+{65960}{66028}It was presumptuous of me|to think it would be I.
+{66078}{66146}Guess we bit off more lettuce|than we could chew.
+{66187}{66272}What do you know about that?|I thought he'd really be hurt.
+{66306}{66360}You don't understand him.
+{66388}{66442}- You can't go in there.|- I gotta see Will Hamilton.
+{66444}{66502}He won't be through for an hour.|They just started.
+{66503}{66553}- Let me see him.|- There's a war in Europe.
+{66555}{66627}These boys are trying|to get themselves in shape. So beat it.
+{66629}{66667}Right, left.
+{67010}{67054}Now, deep knee bends, follow me.
+{67361}{67405}- What's that?|- That's the fire bell.
+{67406}{67447}We better have a look.
+{67499}{67582}- It may be the Germans.|- Fire, Germans, who cares? I surrender.
+{67626}{67665}- Howdy, Mr. Albrecht.|- Hello, Cal.
+{67667}{67712}- Mr. Hamilton.|- There's a fire somewhere.
+{67714}{67749}- No. I rang the bell.|- You rang it?
+{67751}{67776}Yeah. I had to see you.
+{67778}{67825}You know, you're crazy.|You're really crazy.
+{67827}{67884}I knew it when you pushed that ice|down the chute.
+{67887}{67956}Let's get out of here|before they start up that piano again.
+{67958}{68037}There must be some easier way|to stop the Germans than this, anyway.
+{68039}{68124}- You see, I gotta make some money.|- Sure, everybody's got to.
+{68158}{68235}Remember, you said that|if you wanna make money...
+{68236}{68267}you ought to raise beans?
+{68270}{68324}Yeah, beans are up 3.5 cents now.
+{68326}{68380}Now, the way I figure it, it's like you said.
+{68382}{68433}The country's gonna get into war, isn't it?
+{68435}{68480}I don't see any way out.
+{68482}{68567}- War's good for business.|- The best there is.
+{68569}{68652}See, that's why I wanna go into beans.
+{68664}{68749}See, I gotta get enough money|to give my father back what he lost.
+{68794}{68827}I see.
+{68857}{68911}You think you can make|all that money back?
+{68913}{68946}I gotta.
+{68948}{68994}You know, you're crazy.
+{69006}{69061}Look, Cal, don't you know...
+{69063}{69130}that you gotta have money|in order to make money?
+{69140}{69188}- I'll get some money.|- How?
+{69207}{69235}I'll get it.
+{69249}{69333}Look, don't get so near to me.|I don't wanna get all hot again.
+{69335}{69404}- How much money could you get?|- What do you think I need?
+{69406}{69458}If you had $5,000...
+{69562}{69594}$5,000?
+{69612}{69709}It's a little different when you start|putting it into figures, isn't it?
+{69773}{69816}I know you wanna help your father...
+{69818}{69893}but a kid your age can't be expected|to put his hands on $5,000.
+{69895}{69982}Maybe if you could raise $100 or so,|we could let you have a little share.
+{69984}{70043}I don't want a little share,|I want the whole thing.
+{70045}{70112}- I'll get $5,000.|- Maybe if you and Aron went in together...
+{70114}{70178}Aron ain't got nothing to do with this.|This is my deal.
+{70180}{70205}I'll get the $5,000.
+{70207}{70255}What're you gonna do, borrow it?
+{70311}{70335}Yeah.
+{70363}{70418}All right. If you can borrow $5,000...
+{70420}{70486}I know a farmer who's got over 800 acres.
+{70488}{70558}- It's under cultivation.|- All right. What do we do?
+{70572}{70640}If we can guarantee him 5 cents a pound...
+{70642}{70701}and make him a seed loan,|he'll plant beans.
+{70703}{70738}So will a lot of other farmers.
+{70740}{70809}Why, we can contract|all the bean acreage you want.
+{70856}{70940}That's it. That's great. When do we start?
+{70963}{71022}How do you know the price|will go above 5, though?
+{71025}{71070}Did you read the newspapers|this morning?
+{71072}{71126}We're apt to be in war any minute.
+{71128}{71217}You know I got a contract|with the British Purchasing Agency...
+{71219}{71275}and I got a friend in|the Quartermaster Corps.
+{71277}{71335}Do you know|that we could sell all the dry beans...
+{71337}{71389}that we can find|at 10 cents a pound or more?
+{71391}{71458}That's what I want. That's it. See?
+{71478}{71537}- How much will I make?|- Enough for what you want.
+{72701}{72766}- What does Cal stand for?|- Caleb.
+{72788}{72828}It's in the Bible.
+{72893}{72955}- What's your brother's name?|- Aron.
+{72982}{73024}That's in the Bible, too.
+{73126}{73158}What's he like?
+{73210}{73256}He looks like you.
+{73309}{73348}Is he like me?
+{73350}{73400}No. He's good.
+{73499}{73533}I'm more like you.
+{73625}{73658}How's Adam?
+{73677}{73713}How's your father?
+{73752}{73797}I don't wanna talk about him.
+{74002}{74062}- You don't?|- No.
+{74256}{74327}I didn't know who you were|when you were here before.
+{74341}{74385}I knew you didn't.
+{74476}{74529}Aren't you afraid|to come around here again?
+{74531}{74592}Yeah, I am. No. Well, kind of.
+{74711}{74745}What do you want?
+{74801}{74848}Just to look at me?
+{74981}{75027}I want $5,000.
+{75348}{75411}All right, come on in. Sit down.
+{75428}{75456}Come in.
+{75496}{75528}Try that chair.
+{75602}{75641}You got your father's eyes.
+{75670}{75721}That's all I can see of him.
+{75753}{75825}- You're a nice looking boy.|- Yes, ma'am.
+{75924}{75989}- I was very beautiful once.|- Yes, ma'am.
+{76096}{76136}Caleb and Aron.
+{76146}{76213}Your father still thinks|he's living in the Bible, huh?
+{76215}{76248}Them's just names.
+{76261}{76324}Joe says that you go to school in Salinas.
+{76326}{76372}Are you good in your studies?
+{76416}{76463}I get by with them.
+{76465}{76513}Does Aron get by with them?
+{76515}{76543}He's bright.
+{76574}{76658}What are you gonna do when you finish?|You're going to college?
+{76679}{76703}Maybe.
+{76714}{76785}Or back to some ranch?
+{76788}{76855}No, I don't like the ranch.
+{76878}{76919}You take after me.
+{76936}{77020}Makes me mad just to think about a ranch.
+{77061}{77092}Sit down.
+{77209}{77233}Thanks.
+{77411}{77466}What do you want with $5,000?
+{77484}{77526}I want to go into business.
+{77528}{77608}- You're a little young for that, aren't you?|- I'm old enough.
+{77620}{77681}Yeah, I guess you're right. I guess you are.
+{77699}{77760}- What business do you wanna go into?|- Beans.
+{77835}{77901}Beans are up to 3.5 cents now.
+{77903}{77966}And if we get into war,|they're gonna go up to 10, 12.
+{77968}{78035}- Lf we get into the war.|- That's a gamble you have to take.
+{78037}{78088}- Will Hamilton says that...|- Will?
+{78090}{78146}You going into business|with Will Hamilton?
+{78148}{78181}You see...
+{78228}{78312}my father, he lost about all he had in...
+{78314}{78386}Yeah, I know. I heard about that.
+{78426}{78500}I wanna make enough to pay him back.
+{78520}{78599}What's the matter with him?|Can't he make any money?
+{78601}{78624}Yeah.
+{78691}{78715}Only...
+{78748}{78832}Only he's too good to bother with money.
+{78912}{78936}Okay.
+{79048}{79120}What makes you think I'd give you $5,000?
+{79234}{79284}I don't know who else to ask.
+{79341}{79386}You got a lot of nerve coming to me.
+{79388}{79457}Why? I didn't do anything to you.
+{79595}{79650}It's a good business venture.
+{79723}{79789}I'll pay you back. I'll give you interest.
+{79791}{79855}You're a business woman, ain't you?
+{79857}{79893}One of the best, Son.
+{79924}{80040}You know, Sam told me that you think|I ought to be run out of town.
+{80119}{80217}You're afraid that your father and Aron|might find out about me, is that it?
+{80313}{80366}This $5,000, now.
+{80368}{80436}That wouldn't be|any kind of blackmail, would it?
+{80438}{80480}I never thought about that.
+{80500}{80560}But now that you do, it's a good idea, huh?
+{80594}{80643}- I guess, maybe.|- It's not.
+{80746}{80830}Anyway, I'm not gonna hurt|your precious father or your brother.
+{80847}{80902}- Do they know anything about me?|- No.
+{80910}{80962}Father thinks you're in the East...
+{80994}{81039}and Aron thinks you're dead.
+{81065}{81160}Then, there's no reason to think|that they ever will find out about me.
+{81162}{81238}We don't exactly move in the same circles.
+{81392}{81433}What are you staring at?
+{81480}{81516}How come you did it?
+{81540}{81564}Did what?
+{81606}{81636}Shot my father?
+{81657}{81716}Did he tell you that?
+{81784}{81854}How come you ran away from all of us?|How come you shot him?
+{81856}{81936}- Ran away and did all that kind of stuff?|- None of your business.
+{81969}{82026}I shot him because he tried to stop me.
+{82049}{82112}I could have killed him if I'd wanted to,|but I didn't.
+{82114}{82168}I just wanted him to let me go.
+{82184}{82268}- Why?|- Because he tried to hold me.
+{82310}{82340}He wanted to tie me down.
+{82342}{82405}He wanted to keep me|on a stinking little ranch...
+{82407}{82461}away from everybody.|Keep me all to himself.
+{82463}{82516}Nobody holds me.
+{82530}{82577}- But he loved you.|- Love.
+{82618}{82665}He wanted to own me.
+{82680}{82743}He wanted to bring me up|like a snot-nosed kid...
+{82745}{82834}and tell me what to do.|Nobody tells me what to do.
+{82870}{82950}Always so right himself.|Knowing everything.
+{82969}{83020}Reading the Bible at me.
+{83040}{83096}- What are you grinning at?|- Nothing.
+{83129}{83184}Maybe you know what I'm talking about?
+{83214}{83256}Always so right himself?
+{83271}{83301}- Yeah.|- Yeah.
+{83338}{83416}Maybe like you said out there,|maybe you are more like me.
+{83500}{83542}Yeah, you got sense.
+{83555}{83633}Maybe you don't fall for that slop|any more than I do.
+{83635}{83725}Maybe you know what people|are really like. What they want.
+{83727}{83801}I got the toughest house on the coast...
+{83803}{83859}and the finest clientele.
+{83911}{83972}Half the stinking city hall go there.
+{84010}{84050}They sneak in at night...
+{84052}{84122}and I walk in this front door|in the daytime, see.
+{84143}{84190}And I built it up from nothing.
+{84220}{84273}Now you want $5,000 of my money...
+{84275}{84343}to go into business|to pay your father back what he lost.
+{84348}{84384}You know, that's funny.
+{84408}{84474}I don't think he'll know where I got it.
+{84476}{84533}No, but it's funny just the same.
+{84554}{84588}Your father.
+{84606}{84663}He's the purest man there is, isn't he?
+{84691}{84772}He thought he had me all tied up|with his purity.
+{84788}{84867}And now I give you $5,000|of the money that I made...
+{84869}{84923}to save him his purity.
+{84943}{85026}If you don't think that's funny,|you'd better not go to college.
+{85261}{85285}Okay.
+{85384}{85439}Tell Will Hamilton to come and see me.
+{85502}{85544}He's a good businessman.
+{85625}{85713}How'd he ever happen to let you go|into this bean business, anyway?
+{85725}{85755}I don't know.
+{85792}{85843}I do. Maybe he likes you.
+{85872}{85896}Maybe.
+{85966}{86015}You're a likeable kid.
+{86241}{86284}You give this to him.
+{86318}{86390}If he wants to gamble|that we get into the war...
+{86392}{86425}it's okay with me.
+{86895}{86933}You're a likeable kid.
+{87119}{87165}Go on, get out of here.
+{87233}{87295}Go on, get out. I'm running a business.
+{88318}{88365}- Them Germans can't fight.|- No.
+{89028}{89053}Hi, partner.
+{89066}{89140}Every day in every way,|we're getting richer and richer.
+{89259}{89287}Kaiser.
+{89289}{89368}All we have to do is call his bluff.|He'll come to heel like a dog.
+{89518}{89613}We'll be there to clean up this mess|for those foreigners in a couple of weeks.
+{89984}{90023}Cal, stop it.
+{90074}{90102}There's Cal.
+{90242}{90310}- Hi, boy. Hey, want some?|- Hello, Cal.
+{90323}{90347}Thanks.
+{90556}{90653}Your own Woodrow Wilson said you gotta|make the country safe for democracy.
+{90663}{90716}- Didn't he say that?|- Yes, he said that.
+{90718}{90745}Will you go?
+{90747}{90797}I think the war will be over. I don't think...
+{90799}{90886}If you believe in all this, why don't you?|If you really think it's right.
+{90888}{90927}I didn't say it was right, Aron.
+{90929}{90977}No, I guess you didn't.
+{91033}{91092}Why don't you go back|and join the parade?
+{91243}{91329}Nothing'll ever make me go. Nothing.
+{91367}{91419}I just don't believe it's right.
+{91823}{91877}- Did you water them good?|- Sure, lots of water.
+{91879}{91932}- Not too much, though.|- No, just right.
+{92371}{92440}Marty Hopps got a telegram today.|His boy was killed.
+{92442}{92493}I remember the day we sent him off.
+{92553}{92619}A lot of troop ships have sunk|they don't tell us about.
+{92621}{92682}- It's gonna be a long war.|- Those Germans got an army.
+{92684}{92725}They're a military nation.
+{92734}{92784}Go back where you came from, German!
+{92786}{92825}Go on home, German!
+{93005}{93037}This is just the start.
+{93039}{93097}That rock through the window|is just the beginning.
+{93099}{93141}The German people don't want this war.
+{93143}{93209}And the stories they tell|of what the Germans are doing...
+{93211}{93261}it simply is not true. Not the good ones.
+{93263}{93343}I've been wondering lately|if we shouldn't all go back to the ranch.
+{93345}{93400}You can't get away from it there, Dad.
+{93418}{93502}I don't know, somehow, on a ranch,|I don't know...
+{93504}{93588}War seems to be|city people's business somehow.
+{93619}{93692}Farmers. What's a farmer got to do|with war?
+{93740}{93771}You tired, Dad?
+{93810}{93894}My eyes, I guess.|I work too hard at the Draft Board.
+{93929}{94008}Better have my glasses looked at,|see if they're all right.
+{94071}{94141}I had a look at the bank account|the other day...
+{94143}{94206}not much left after my great fiasco.
+{94271}{94338}Let's not worry about money, Dad.
+{94340}{94390}Let's not worry about money, Dad.
+{94476}{94522}Let's don't worry about money.
+{94750}{94793}Hey, Rantani!
+{94822}{94866}Ain't this some sight?
+{94868}{94903}Beans!
+{94923}{94970}Yeah, boy, some beans.
+{94972}{95037}You come here everyday, boy,|what do you think...
+{95039}{95089}you gonna make them grow quicker?
+{95316}{95347}He's crazy.
+{95511}{95591}Hey, where have you been?
+{95593}{95661}Come on.
+{95663}{95710}We're gonna have lots of fun tonight.
+{96001}{96061}- You won another cigar.|- Wait a minute.
+{96092}{96156}You wanna try one? No?
+{96223}{96254}Pick up my cigar.
+{96256}{96313}- I'm waiting for somebody.|- You're waiting for me.
+{96315}{96340}No, I'm not.
+{96342}{96392}Why don't you let me|take you for a nice ride?
+{96394}{96460}If you don't stop bothering me,|I'll have to call someone.
+{96462}{96509}- Hello, Cal.|- What's the matter?
+{96512}{96592}I was trying to tell this gentleman|that I was waiting for somebody.
+{96594}{96665}This is a lousy place|to keep your girlfriend waiting for you.
+{96667}{96712}- Sir, it won't happen again.|- I hope not.
+{96714}{96782}Lots of lousy characters around here.|Sorry, miss.
+{96804}{96837}Here I am, lady.
+{96881}{96933}That's the first time|that ever happened to me.
+{96935}{97000}- What're you doing out here?|- I'm meeting Aron.
+{97002}{97073}I thought I'd come out early|and look around.
+{97075}{97159}- You never been out here before?|- Not at night, no.
+{97190}{97235}- What time you gonna meet him?|- At 8:00.
+{97237}{97312}Thought I'd try and cheer him up.|He's been so depressed lately.
+{97314}{97339}Yeah, I know.
+{97341}{97393}I'm so glad you happened to be here.
+{97536}{97560}8:00?
+{97591}{97629}You got a half hour?
+{97746}{97801}How are you, Cal?|We never see you around anymore.
+{97803}{97829}I'm around.
+{97831}{97911}I've been over to the house several times,|but you were never there.
+{97913}{97993}- I never go home anymore.|- Aron says he hardly ever sees you.
+{98025}{98071}I feel awfully sorry for him.
+{98212}{98267}You're terrible.
+{98269}{98338}That's the first time|that ever happened to me, too.
+{98367}{98420}Wonder if we can see Aron from here.
+{98447}{98512}I feel awfully sorry for him.|He's right, you know.
+{98514}{98589}I mean, it's awful, the war and people|killing each other.
+{98591}{98659}Why feel sorry for Aron?|Feel sorry for the people.
+{98661}{98725}But it just seems to affect him|so personally.
+{98727}{98773}I'll agree with that.
+{98802}{98832}He's right.
+{98864}{98907}He's always right.
+{98910}{98959}And he has always been right.
+{98961}{99003}Now let's talk about something else.
+{99005}{99031}All right.
+{99070}{99097}8:00.
+{99104}{99142}We got a lot to see.
+{99171}{99221}Will we be back in time for Aron?
+{99305}{99346}All right. I'd love to.
+{99532}{99556}Easy.
+{100147}{100231}Here's your cigar,|and where have you been hiding?
+{100315}{100346}- Who was that?|- Who?
+{100348}{100399}- That girl.|- I don't see nobody.
+{100401}{100492}She was standing right...|Girls follow you around, don't they?
+{100531}{100582}What are girls like that like?
+{100596}{100622}All right, never mind.
+{100624}{100694}These Huns have been the aggressors|in every war in Europe...
+{100696}{100732}since the time of Julius Caesar.
+{100734}{100822}I couldn't attempt to describe to you|the horrors committed by the Germans.
+{100824}{100850}Look.
+{100852}{100886}Would we have time?
+{100893}{100941}...after the Germans had been through...
+{100943}{101002}- the women of the town...|- That German's here again.
+{101004}{101078}It is not true. It is lies, all lies.
+{101088}{101171}Come on, Cal. Is it scary?
+{101228}{101260}Here we go.
+{101502}{101557}It is lies, all lies.
+{101559}{101620}I'd like to give that guy|a piece of my mind.
+{101629}{101673}See over there. That's Castroville.
+{101675}{101717}Everything looks so small down there.
+{101719}{101762}{Y:i}Higher and higher and higher and higher
+{101764}{101790}What?
+{101792}{101848}{Y:i}Growing and growing|and growing and growing
+{101850}{101943}- What are you talking about?|- I'll tell you sometime.
+{102059}{102100}Does Aron really love me?
+{102151}{102199}I seem to have sort of lost him.
+{102201}{102292}I mean, we're going|to be married someday, but...
+{102294}{102355}Well, if he does love me, he doesn't...
+{102377}{102415}I can't tell anymore.
+{102482}{102529}Cal, can I ask you something?
+{102551}{102582}Yeah, go ahead.
+{102625}{102684}These girls that you always|go around with.
+{102686}{102767}You know, remember there was|that little Mexican girl once.
+{102769}{102816}What are girls like that like?
+{102909}{102961}You don't really love them, do you?
+{103007}{103082}Why do you go out with them?|Is it because you're bad?
+{103117}{103158}You're not angry, are you?
+{103230}{103314}- Well, why do you, then? Are you bad?|- Do you think I'm bad?
+{103371}{103404}I don't know.
+{103434}{103516}I guess I don't know|what is good and what's bad.
+{103518}{103573}I mean, Aron is so good...
+{103587}{103625}and I'm not.
+{103627}{103677}Not good enough for Aron, anyway.
+{103679}{103736}Because sometimes when I'm with Aron...
+{103750}{103808}Aron likes to talk about our being in love...
+{103810}{103874}and think about it|and that's all right, but...
+{103902}{103977}These girls that you go out with, do you...
+{104007}{104070}Maybe I don't know what love is, exactly.
+{104088}{104172}I know love is good the way Aron says...
+{104222}{104279}but it's more than that, it's got to be.
+{104331}{104383}I shouldn't talk to you this way...
+{104385}{104439}but I don't know who else to talk to.
+{104453}{104510}Sometimes I think I'm really bad.
+{104539}{104594}Sometimes I don't know what to think.
+{104660}{104725}- Aron'll knock that out of you.|- Will he?
+{104755}{104783}He's got to.
+{104805}{104854}The way I figure it out...
+{104875}{104926}Aron never having had a mother...
+{104956}{105027}he's made her everything good|that he can think of...
+{105043}{105086}and that's what he thinks I am.
+{105088}{105156}That's who he's in love with.|It's not me at all.
+{105197}{105270}'Cause I'm not a bit like that made-up one.|Not a bit.
+{105279}{105348}I don't mean I think I'm really bad.
+{105422}{105458}Look at that star.
+{105495}{105549}It must be a planet, it's so bright.
+{105573}{105597}Probably.
+{105724}{105798}I bet that girl's waiting for you|down there somewhere.
+{105839}{105882}She can just wait.
+{105894}{105930}She was pretty.
+{106028}{106095}You've been awfully nice, Cal,|taking care of me.
+{106594}{106652}I love Aron. I do, really I do.
+{106755}{106792}I do.
+{106934}{106963}To give these fiends a lesson that...
+{106965}{107001}Have you seen Abra, Mr. Albrecht?
+{107003}{107030}Lies. All lies.
+{107032}{107077}What's the matter with you tonight, Gus?
+{107079}{107118}Gus, come on.
+{107133}{107167}There's Aron.
+{107199}{107239}You're a good shoemaker.
+{107289}{107331}There's Aron, down there.
+{107333}{107381}Major, why don't you stay out of politics?
+{107383}{107412}Mr. Albrecht.
+{107433}{107512}They're pushing him around.|What are they doing?
+{107545}{107587}That'd kill Dad if he knew that.
+{107589}{107654}Hey, operator,|when does this thing move again.
+{107656}{107679}Hey!
+{107884}{107930}Cal, don't!
+{107932}{107976}Watch yourself, get back!
+{108010}{108061}Please. Somebody pull him back.
+{108086}{108121}Don't bother me!
+{108124}{108164}Come on.
+{108342}{108420}- Gus, come on, have a drink.|- No, Charlie, no drink.
+{108575}{108616}What are you waiting for?
+{108684}{108741}Mr. Albrecht, calm down.|They're not bad fellows.
+{108743}{108793}Aron, you are a child.
+{108919}{108974}All I tried to do was buy him a drink.
+{109017}{109043}Gustav.
+{109045}{109071}Silence.
+{109073}{109140}You all loved him a few weeks ago,|what's gotten into you?
+{109142}{109190}I'm sick of him sticking up|for the Germans.
+{109192}{109259}- You a friend of the Germans?|- I'm a friend of this German.
+{109261}{109352}There are rose plants in that border there.|Please be careful where you step.
+{109354}{109433}We liked him. He made us laugh|because of his funny German accent.
+{109435}{109496}Let him read this|in his funny German accent.
+{109507}{109571}- What is it?|- Let him come down and read it.
+{109573}{109642}- He doesn't have to read anything.|- I will read it.
+{109653}{109688}Here, give it to me.
+{109816}{109883}"The Government, with deep regret,|informs...
+{110032}{110127}"that your son was killed in action,|15th of April.
+{110161}{110211}"He died a hero and an American."
+{110330}{110386}I'm sorry, Mrs. Hopps. I did not...
+{110388}{110426}You're not sorry enough.
+{110428}{110508}- I don't think he's sorry.|- He's not sorry at all.
+{110510}{110585}- Listen, why don't we all go on home...|- You're not sorry enough.
+{110587}{110637}Why aren't you in the war?
+{110639}{110680}This will make you sorry.
+{111405}{111437}Hello, Charlie.
+{111455}{111517}Danny, what are you fellows|doing here, anyway?
+{111519}{111543}Get up.
+{111557}{111621}Loretta, I didn't expect to find you here.
+{111633}{111666}Evening, Rose.
+{111697}{111779}Looks like they messed up|your rose garden a little here, Gus.
+{111789}{111834}Somebody owes you an apology.
+{112017}{112094}How about you folks all going home now?
+{112100}{112145}I think this'll do for tonight.
+{112275}{112322}Good evening, Mrs. Albrecht.
+{112339}{112372}- May I?|- Come in.
+{112495}{112565}This place will be fixed up|just like it was before.
+{112567}{112642}{Y:i}- I'm gonna see to it.|- Ja. He will see to it.
+{112842}{112874}Where were you?
+{112942}{112986}Where did you get his coat?
+{113265}{113295}You all right?
+{113334}{113423}You had to start slugging, didn't you?|Were you showing off for her?
+{113433}{113475}You had to start slugging.
+{113489}{113562}- I was trying to help you.|- I don't need your help.
+{113587}{113669}If you want to slug people,|do it for yourself and not for me.
+{113671}{113770}- And don't lie to me about trying to...|- Aron, I tried to help you!
+{113888}{113974}- Great big Aron.|- You finished?
+{114007}{114107}- No!|- Cal, stop it! Don't.
+{114109}{114139}- Don't.|- Don't do that.
+{114141}{114201}- Don't.|- Abra, don't do that!
+{114428}{114455}Wait here.
+{115401}{115443}I was trying to help him.
+{115518}{115568}Who am I kidding?
+{115583}{115626}I tried to kill him.
+{115686}{115724}Mike, give me a drink.
+{115794}{115834}- Don't drink any more.|- Why?
+{115836}{115909}- No, please. It's not good for you.|- It's good for me.
+{115917}{116019}- No, you're gonna get drunk.|- Yeah, I'm gonna get drunk.
+{116060}{116138}Please forget it, what happened up|on the ferris wheel.
+{116146}{116202}It didn't mean anything, really.
+{116206}{116266}Please, forget it. It didn't mean anything.
+{116297}{116350}Say it didn't. Please, say it didn't.
+{116419}{116528}Someday he's gonna know|who his real son is.
+{116554}{116578}What?
+{116622}{116664}Someday he's gonna know.
+{116746}{116800}I don't understand you. You scare me.
+{116882}{116953}- I know. I scare myself.|- Abra.
+{117432}{117474}Fix me another drink.
+{117625}{117727}- I want that money. Now you give it to me.|- You know I haven't any money here.
+{117822}{117846}Okay.
+{117865}{117933}- When will you get it?|- In the morning, I suppose.
+{117962}{118023}Okay. I'll sleep here.
+{118071}{118135}Come on. You've gotta go home.
+{118137}{118190}If you still feel the same way|in the morning...
+{118192}{118235}you come back, we'll go to the bank...
+{118237}{118303}and I'll see that you get everything|that's coming to you.
+{118305}{118389}I'll buy out your share.|I'll go on and make a fortune with it.
+{118413}{118520}Okay. That seems fair to me, Will.
+{119157}{119181}Abra.
+{119266}{119298}What?
+{119333}{119365}- Who is it?|- Cal.
+{119421}{119448}- Cal?|- Yeah.
+{119486}{119559}- What on earth are you doing here?|- I want to see you.
+{119583}{119636}Wait till I put something on.
+{120077}{120151}I gotta tell you something.|Can you keep a secret?
+{120164}{120216}Yes. What is it?
+{120248}{120312}What's the matter? You look terrible.
+{120392}{120446}- I got it.|- What?
+{120517}{120600}Remember that money? Dad lost?
+{120602}{120644}On that lettuce business?
+{120711}{120799}- I got it.|- You mean you earned it all back?
+{120801}{120868}- I've earned every cent.|- That's wonderful, Cal.
+{120967}{121051}You got any time off tomorrow|from the hospital?
+{121092}{121146}I get an hour at lunchtime. Why?
+{121166}{121207}Thursday's Dad's birthday.
+{121282}{121334}And I'm gonna give a party for him.
+{121407}{121525}And I want you and me,|you and Aron and me...
+{121550}{121586}to be there.
+{121640}{121726}I'm gonna give him that money|just like it was a birthday present.
+{121739}{121805}You could come|and help me get some junk...
+{121807}{121875}- and we could decorate the house.|- Sure.
+{121907}{121965}And we'll get balloons...
+{122030}{122130}- and all that kid stuff, birthday stuff.|- We can go to the five and 10.
+{122192}{122249}- Will you do it?|- I'd like to.
+{122652}{122717}I'm sort of...
+{122900}{122935}Why did I hit Aron?
+{122999}{123054}Why did I hit him so hard?
+{123327}{123390}Will you help me?
+{123392}{123448}Will you really help me?
+{123502}{123538}I'll help you, Cal.
+{123658}{123685}Be careful.
+{123794}{123829}How'd I get up here?
+{124108}{124179}- Is your father coming?|- Yeah.
+{124181}{124254}- Cal, don't get nervous.|- I think it looks beautiful.
+{124266}{124310}Don't you? I love the way it looks.
+{124312}{124366}- It looks festive, doesn't it?|- Yes, it does.
+{124368}{124408}Yes, Cal, it looks very pretty.
+{124410}{124468}- Do you think this is childish?|- Not a bit.
+{124470}{124543}The room looks lovely.|Your father's going to love it.
+{124568}{124622}- How's the turkey?|- It's a good turkey.
+{124624}{124676}- Smells ready.|- It'll be ready.
+{124678}{124758}- Aron didn't get him anything?|- He told me he had something.
+{124967}{125033}- What?|- He didn't tell me what it was.
+{125224}{125288}- It won't stack up against mine, will it?|- No.
+{125302}{125343}- Do you wanna see mine?|- I'd like to.
+{125345}{125384}- I got it wrapped up.|- Show it to me.
+{125386}{125411}- Wanna see it?|- Yes.
+{125413}{125439}Okay.
+{125492}{125526}- You like it?|- It's pretty.
+{125528}{125566}You think it's pretty?
+{125607}{125649}Don't drink any more wine.
+{125735}{125807}- Did Aron tell you what the present was?|- No.
+{125837}{125906}- You sure?|- Honestly, he didn't.
+{125923}{125983}I'd tell you if he did. Honestly, I would.
+{126011}{126094}Now everything's gonna go off fine. Here.
+{126135}{126169}The brooms.
+{126179}{126241}- Don't you do anything to give me away.|- I wouldn't.
+{126243}{126308}We'll let him come in|and let the house speak for itself.
+{126310}{126407}- We'll act like it was any other old day.|- Yes. Wait, Cal.
+{126468}{126498}Cal.
+{126612}{126654}You look wonderful.
+{126694}{126718}Thanks.
+{126964}{127001}But I need my son.
+{127003}{127079}It isn't that he doesn't want|to fight for his country. He does.
+{127081}{127113}I need him to work the farm.
+{127115}{127173}Things can't be as bad as you say,|Mr. Piscora.
+{127175}{127235}You must be making plenty of money|out of your crops.
+{127237}{127321}No money. I sold this year's crop|for 5 cents before I even planted it.
+{127323}{127353}Everything cost so much now.
+{127355}{127419}And now I got to sell next year crop.|So I need my boy.
+{127421}{127469}I can do nothing about it, Mr. Piscora.
+{127471}{127530}In all conscience,|I cannot excuse your son.
+{127532}{127605}- Come on, Poppa.|- I don't like it.
+{127621}{127688}I'm telling you. I don't like it.
+{127796}{127845}Hello, Abra. Nice to see you.
+{127847}{127925}- Gonna stay to dinner?|- Yes, I am. Is something the matter?
+{127927}{128021}No, nothing. I guess I shouldn't|have taken that job in the Draft Board.
+{128038}{128108}- Did you notice the snow on Mount Toro?|- Yes, I saw it.
+{128110}{128166}Say, that means we got|a good year coming in.
+{128168}{128252}- We could use it.|- Let's go in.
+{128749}{128808}- Happy birthday, Dad.|- Happy birthday, Mr. Trask.
+{128810}{128871}Is it possible? I'm very touched.
+{128873}{128953}- Are you surprised?|- I had no idea. I'd forgotten completely.
+{128955}{129046}- We knew you had, didn't we?|- Completely. I don't know what to say.
+{129140}{129179}We got turkey.
+{129181}{129267}- And champagne.|- Champagne, and we got all the things.
+{129336}{129400}- We got the trimmings here.|- Isn't that pretty?
+{129521}{129597}Got something for you.
+{129599}{129671}Presents, too. Isn't that nice. Look.
+{129790}{129847}- Ain't you gonna open it up?|- Yes.
+{129849}{129954}Dad, Abra and I have one for you, too,|only we can't exactly give it to you.
+{129991}{130080}I didn't tell Abra I was going to do this,|but we're engaged.
+{130161}{130233}I couldn't have wished for anything nicer.
+{130269}{130340}A lovely birthday present.
+{130368}{130425}- You have my blessings.|- Thank you, Dad.
+{130457}{130522}- But you haven't opened Cal's present yet.|- No.
+{130576}{130649}But I can't imagine having|anything better than this.
+{130677}{130703}Excuse me.
+{130739}{130841}'Course I suspected it right along.|But, Cal, coming on my birthday.
+{130944}{130972}What's this?
+{131022}{131057}What is this?
+{131133}{131237}I made it. And it's for you.|It's all the money you lost on the lettuce.
+{131239}{131294}You made it? But how?
+{131349}{131374}Go on.
+{131411}{131443}- Beans.|- Beans?
+{131483}{131561}Yes, we bought futures at 5 cents...
+{131577}{131693}and the war came along|and the price went sky-high.
+{131725}{131805}So, that's for you.
+{131835}{131905}It's all the money you lost|in the lettuce business.
+{131936}{131967}It's for you.
+{132015}{132084}- I made it for you.|- You will have to give it back.
+{132144}{132261}No, I made it for you, Dad.|I want you to have it.
+{132278}{132357}- You will have to give it back.|- Who? I can't give it...
+{132359}{132448}- To the people you got it from.|- No, the British Purchasing Agency?
+{132450}{132517}- I can't give it back.|- Give it to the farmers you robbed.
+{132519}{132557}We didn't rob anybody, Dad.
+{132559}{132651}We paid 2 cents a pound,|2 cents over market for that stuff.
+{132673}{132757}I sign my name|and boys go out and some die...
+{132770}{132824}and some live helpless|without arms and legs.
+{132826}{132872}Not one will come back untorn.
+{132887}{132956}Do you think I could take|a profit from that?
+{133020}{133085}I don't want the money, Cal!|I couldn't take it!
+{133099}{133167}- I thank you for the thought, but...|- I'll keep it for you.
+{133169}{133238}I'll wrap it up|and we'll just keep it in here...
+{133240}{133274}I'll never take it!
+{133276}{133356}Son, I'd be happy if you'd give me...
+{133358}{133432}something like your brother's given me.
+{133434}{133529}Something honest and human and good.|Don't be angry, Son.
+{133549}{133621}If you want to give me a present,|give me a good life.
+{133624}{133672}That's something I could value.
+{134364}{134398}I hate you!
+{134831}{134873}What are you doing?
+{135026}{135080}He doesn't want anything from me.
+{135090}{135121}Cal, don't.
+{135186}{135215}Please, don't.
+{135435}{135459}Abra!
+{135980}{136028}Don't you ever touch her again.
+{136094}{136127}I don't trust you.
+{136196}{136227}You're no good.
+{136250}{136348}You're mean and vicious and wild.|And you always have been.
+{136357}{136401}You know it, too, don't you?
+{136410}{136470}Father and I have put up|with every vicious thing...
+{136472}{136572}you could think of since you were a child.|And we've always forgiven you.
+{136586}{136643}But now I don't want you to go near Abra.
+{136645}{136723}I don't want you to talk with her.|Just stay away from her!
+{137389}{137457}- You want to go some place with me?|- Why should I?
+{137537}{137581}I got something to show you.
+{137618}{137709}- Think you'll find it very interesting.|- What are you talking about?
+{137736}{137816}Maybe our mother didn't die|and go to heaven after all, Aron.
+{137833}{137904}- What do you mean by that?|- Maybe she didn't.
+{137906}{137951}Maybe she's alive someplace.
+{138002}{138042}What are you up to now?
+{138044}{138130}Remember when we were kids,|we used to make up stories about her?
+{138145}{138258}You said she must have looked|like heaven's youngest angel, remember?
+{138288}{138343}Remember that time I shot that rabbit?
+{138360}{138407}You cried and you said...
+{138410}{138485}that she would have cried, too,|'cause she was so tenderhearted.
+{138487}{138555}And you said I was bad,|you remember that?
+{138579}{138663}I just want to show you something.|It's not gonna take very long.
+{138665}{138697}What's the matter, you afraid?
+{138699}{138758}I'm not afraid to look at anything|you could show me.
+{138760}{138859}Can you look at the truth, just once?
+{138917}{139025}Come on, you can look|at the truth just once. Can't you?
+{139062}{139086}Come on.
+{139128}{139201}I want to show you something.|It won't take very long.
+{140043}{140072}Oh, Cal.
+{140125}{140149}Hello.
+{140736}{140845}Mother, this is your other son, Aron.
+{140897}{140953}Aron is everything that's good, Mother.
+{141167}{141213}Say hello to your mother.
+{141566}{141614}Say hello to your mother, Aron!
+{141641}{141698}Joe!
+{141986}{142034}- Play another song!|- Quiet!
+{142096}{142121}Five!
+{142133}{142225}"I'm thinking of the lilac trees|that shook their purple plumes
+{142252}{142330}"I'm thinking of the rivulet|with its cool and silvery flow
+{142344}{142440}"Of the old gray rock that shadowed it|and the peppermint below"
+{142580}{142662}- Where is Aron?|- I don't know. I'm not my brother's keeper.
+{142664}{142704}- Where did you go?|- For a ride.
+{142706}{142759}- What did you quarrel about?|- You.
+{142767}{142835}- You're angry about the money.|- No, I'm not angry.
+{142843}{142889}I like it. I think it's great.
+{142907}{142958}I'm gonna go away|and take that money with me.
+{142960}{143045}I think I'll start me a little business.|Just like my mother did.
+{143047}{143146}- What do you know about your mother?|- I know where she is and what she is.
+{143148}{143216}And I know why she left you.|Couldn't stand it.
+{143229}{143297}You didn't really love her|any more than you do me.
+{143314}{143375}Because of your goodness, your rightness.
+{143377}{143443}You never gave either one of us|an inch, ever...
+{143445}{143489}from what you thought was right.
+{143491}{143585}You kept on forgiving us,|but you never really loved us.
+{143605}{143655}I know why you didn't love me.
+{143657}{143692}Because I'm like my mother...
+{143694}{143765}and you never forgave yourself|for having loved her.
+{143817}{143913}I'm not gonna forgive him.|I'm never gonna forgive him.
+{143915}{144025}- Where is Aron?|- He's with her, with his mother.
+{144046}{144106}She's over there in Monterey,|if you want to know.
+{144108}{144152}She owns one of them houses.
+{144187}{144252}I took Aron there tonight|because I was jealous.
+{144275}{144378}I've been jealous all my life.|Jealous, I couldn't even stand it.
+{144486}{144543}Tonight, I even tried to buy your love.
+{144594}{144643}But now I don't want it anymore.
+{144707}{144797}- I can't use it anymore.|- Don't talk to your father like that.
+{144888}{144943}I don't want any kind of love anymore.
+{144989}{145025}It doesn't pay off.
+{145038}{145082}No future in it.
+{145142}{145184}Let him go if he wants to.
+{145305}{145349}No, I won't.
+{145657}{145701}You hate me, too, don't you?
+{145737}{145771}I'm afraid of you.
+{145893}{145980}What you did to Aron tonight,|I don't know what it will do to him.
+{146042}{146104}I feel like I'm to blame, too.
+{146141}{146260}- Adam!|- Here. What is it?
+{146262}{146334}...drunk and had a couple of fights.|He's gone kind of crazy.
+{146336}{146406}He's at the station now.|Wait, I'll drive you down in my car.
+{146408}{146434}Cal!
+{146596}{146661}- What happened between you and Aron?|- Why?
+{146663}{146739}He's gone kind of crazy.|He's drunk and had a couple of fights...
+{146741}{146794}and seemed determined|to get himself hurt.
+{146796}{146844}He's leaving on that troop train tonight...
+{146846}{146906}and says he's gonna enlist tomorrow|at King City.
+{146908}{146994}Adam's on his way down there now|to talk to him before the train leaves.
+{146996}{147054}I think you better get down there.
+{147081}{147126}- Yeah.|- My car's downstairs.
+{148544}{148599}Do you know what a stroke is, exactly?
+{148703}{148779}This one is a leakage of blood in the brain|caused by shock.
+{148781}{148833}There have been earlier, smaller leakages.
+{148835}{148907}The left side is paralyzed,|and the right side partly.
+{148922}{148987}In other words,|your father is nearly helpless.
+{149016}{149092}- Will he die?|- He might live a week or a year.
+{149111}{149149}He might die tonight.
+{149316}{149397}- Will he know me?|- You'll have to find that out for yourself.
+{149509}{149544}Good day.
+{149594}{149677}Good day, Doctor. Good day, Sam.
+{149725}{149795}"Cain rose up against his brother Abel,|and slew him.
+{149808}{149907}"And Cain went away and dwelt|in the land of Nod, on the east of Eden."
+{149957}{150020}Now why don't you go away some place?
+{150365}{150437}- He's right.|- No.
+{150484}{150545}Yes, he is. He's right. That's what I'll do.
+{150786}{150840}Who's gonna wash these things for me?
+{150885}{150912}Thank you.
+{150968}{151015}- There you are.|- How is he?
+{151017}{151088}He's fine. He's my darling.
+{151090}{151135}Washed his face, combed his hair.
+{151137}{151175}Can I go in there now?
+{151186}{151270}Just for a minute. I want him to rest.|Gotta get lots of sleep.
+{151317}{151408}- How is he, really?|- Haven't I seen you at the hospital?
+{151426}{151478}- Not part of the family, are you?|- No.
+{151480}{151513}I didn't think so.
+{151515}{151593}I can tell you,|I won't have this job for long.
+{151595}{151696}That's my luck. Always seem to get them|when they're old and ready to die off.
+{152049}{152146}Now doesn't he look nice?|He's going to be a darling patient.
+{152162}{152227}Even tried to smile at me,|didn't you, my dear?
+{152247}{152302}- I don't want you to tire my patient.|- Please go.
+{152304}{152378}Now listen, miss,|don't you try to order me about.
+{152395}{152441}I'll report you to the doctor.
+{152449}{152512}Will you go out of the room|and shut the door?
+{153363}{153387}Father.
+{153469}{153501}Can you hear me?
+{153639}{153680}I did an awful thing.
+{153780}{153806}I'm sorry.
+{154638}{154688}Mr. Trask, can you hear me?
+{154714}{154780}Is it just Cal you won't answer?
+{154794}{154828}Can you answer?
+{154882}{154937}I think you can understand me, though.
+{154958}{155047}I think behind your eyes|you're just as alert as ever.
+{155074}{155148}You understand everything I say|only you can't show it.
+{155331}{155423}Excuse me, Mr. Trask,|for daring to speak to you this way...
+{155432}{155534}but it's awful not to be loved.|It's the worst thing in the world.
+{155587}{155648}Don't ask me how I know that.|I just know it.
+{155656}{155745}It makes you mean and violent and cruel.
+{155747}{155816}And that's the way|Cal has always felt, all his life.
+{155848}{155923}I know you didn't mean it to be that way,|but it's true.
+{155966}{156080}You never gave him your love.|You never asked him for his.
+{156110}{156161}You never asked him for one thing.
+{156188}{156278}Cal is going away, Mr. Trask.|But before he goes...
+{156333}{156429}He did something very bad,|and I'm not asking you to forgive him.
+{156440}{156509}You have to give him some sign|that you love him...
+{156517}{156563}or else he'll never be a man.
+{156580}{156682}He'll just keep on feeling guilty|and alone, unless you release him.
+{156721}{156754}Please, help him.
+{156767}{156856}I love Cal, Mr. Trask,|and I want him to be whole and strong...
+{156858}{156921}and you're the only one who can do it.
+{156923}{156968}So try, please try.
+{157015}{157092}If you could ask him for something.
+{157111}{157181}Let him help you so that he knows|that you love him.
+{157203}{157243}Let him do for you.
+{157326}{157444}Excuse me, Mr. Trask, for daring|to speak to you this way, but I just had to.
+{157582}{157609}You've tired my patient...
+{157611}{157697}and I most certainly shall report it|to the doctor in the morning.
+{157752}{157846}You don't know that he accuses you.|You don't know what he's thinking about.
+{157853}{157919}Stop it, Cal.|You gonna cry for the rest of your life?
+{157921}{157958}- No.|- Then stop it.
+{157977}{158052}Go in there and talk to him|before it's too late.
+{158054}{158123}- I can't.|- Please try.
+{158140}{158172}Get it straight.
+{158197}{158296}Get through to him, somehow.|Please try, Cal, before it's too late.
+{158456}{158550}- Is there any coffee around here?|- I'll get you some in a minute.
+{158689}{158714}Try.
+{158746}{158801}Is there anything to read around here?
+{158837}{158873}What would you like?
+{158875}{158971}- Something to get my mind off my feet.|- There's something in there.
+{159334}{159424}I tried to believe it was born in me...
+{159426}{159516}and that I couldn't help it,|but that's not so.
+{159573}{159608}A man has a choice.
+{159614}{159688}You used to say that was where|he was different from an animal.
+{159690}{159728}You see, I remember.
+{159730}{159819}A man has a choice,|and the choice is what makes him a man.
+{159875}{159914}You see, I do remember.
+{159925}{160014}- Look, I can't find any coffee.|- Get out!
+{160274}{160298}Look.
+{160498}{160576}Do something...
+{160629}{160658}for me.
+{160660}{160691}Yes.
+{160790}{160863}That woman...
+{160878}{160982}the nurse, can't stand her.
+{161035}{161075}Get me another.
+{161455}{161504}I can't stand her, either.
+{162760}{162793}What did he say?
+{162954}{163036}He said, "Don't get anybody else."
+{163073}{163134}He said, "You stay with me...
+{163167}{163209}"and you take care of me."
+{163234}{163384}Please rate this subtitle at www.osdb.link/5v9kt|Help other users to choose the best subtitles

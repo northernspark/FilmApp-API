@@ -1,0 +1,965 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{505}{537}Get off!
+{595}{642}Lie still!
+{657}{702}Gimme your arm!
+{870}{942}{y:i}Is this what happens to rebels?
+{1155}{1205}- Papa!|- No, Judas.
+{1210}{1272}Papa! Papa!
+{1362}{1455}Judas...my son.
+{1460}{1515}- Get back.|- Judas.
+{1570}{1620}Let go!
+{1775}{1840}(ALL CRY OUT)
+{2287}{2380}O God. You are my God.
+{2385}{2460}For you I long.|For you my body yearns.
+{2495}{2560}For you my soul thirsts.
+{2575}{2615}{y:i}What's this?
+{2900}{2965}{y:i}A Roman in the temple is sacrilege.
+{3152}{3235}(TRADERS CALL OUT)
+{3420}{3490}Serpents!
+{3762}{3835}- How was work?|- The same.
+{3837}{3925}Selling wine, it's unworthy of you.
+{3927}{4025}Unworthy. And what would be|worthy of me, Mother?
+{4027}{4077}Carpenter? Tax collector?
+{4095}{4167}How can any man succeed|under the Roman yoke?
+{4170}{4277}Judas, listen. You were born|for greatness, like your father.
+{4280}{4390}The man was a visionary, a hero.
+{4435}{4490}Your time will come.
+{4495}{4550}Ask the rabbi, he'll know.
+{4625}{4750}Yesterday in the temple I saw the high|priest give a tribune a bag of silver.
+{4755}{4827}May I please just have my wine?
+{4832}{4907}May you choke on it.
+{4912}{4975}- Bastard.|- Careful, Judas.
+{4980}{5047}He's a friend|of the high priest, Caiaphas.
+{5052}{5090}I don't care.
+{5102}{5232}Caiaphas has betrayed us all by|colluding with the Roman bloodsuckers.
+{5235}{5370}Caiaphas is under intense pressure.|Do you think he gave the silver willingly?
+{5375}{5427}Pilate wants to build an aqueduct,
+{5430}{5532}but he's afraid to ask for funds,|so he's pilfering the temple treasury.
+{5535}{5645}We give that money for the glory|of our people, not his projects.
+{5650}{5737}They have always exploited us.|We must retaliate.
+{5742}{5785}Retaliate?
+{5790}{5885}There are secret societies,|zealots, who'll fight for liberty,
+{5890}{5930}who yearn for a leader.
+{5932}{6000}I say we join as one, rise up and protest.
+{6002}{6105}Against an entire cohort|of seasoned soldiers? Don't be idiotic.
+{6110}{6185}- Are you afraid, Eliakim?|- No, practical.
+{6190}{6267}For 500 years, someone|or other has conquered us,
+{6272}{6365}and every time we rise up|we get butchered.
+{6367}{6445}That's our heritage|and our fate. Accept it.
+{6450}{6597}- At least until the Messiah comes.|- How long must we suffer until then?
+{6602}{6727}How many more young lives will grow old|without ever knowing freedom?
+{6732}{6807}Well, your wait may be over, Judas.
+{6812}{6932}There's a man preaching by the Jordan|River who people call "The Baptist".
+{6935}{6992}- He could be the Messiah.|- Let's go!
+{6995}{7120}- I haven't the time.|- Or the interest. You're never satisfied.
+{7122}{7240}You're like dogs. A Roman whistles,|you roll over. Well, not me.
+{7280}{7350}- Where are you going?|- To the Jordan River.
+{7355}{7507}Get ready. Clear a path.|Make the crooked road straight.
+{7512}{7595}- For the new kingdom is coming.|- Truly he speaks.
+{7597}{7660}Salvation is within our reach. Oh, yes.
+{7687}{7767}I come to share the good news.
+{7770}{7857}Repent your sins|and you will be forgiven.
+{8057}{8172}- Are you the Messiah?|- I'm not the Messiah.
+{8217}{8285}I'm preparing the way for his arrival.
+{8320}{8452}I baptise with water.|Plain, ordinary water.
+{8455}{8597}But the one who's coming,|he will baptise with Aroch, with fire.
+{8612}{8687}Yes, fire.
+{8715}{8820}The chaff will burn|in a flame that never goes out.
+{8825}{8950}- Where can I find him?|- Be patient. He'll find you.
+{8955}{9035}- When?|- Soon.
+{9040}{9092}I need to find him now.
+{10092}{10147}Do you know who I am?
+{10275}{10335}You're the high priest, Caiaphas.
+{10340}{10410}And I know who you are:
+{10412}{10517}Judas lscariot, the agitator.
+{10590}{10712}Tiberius Caesar has granted|special privileges to Judea.
+{10715}{10877}The rest of the empire is forced to offer|sacrifices to Jupiter and the other gods.
+{10880}{11025}We are allowed to practise our religion|freely and openly, with one caveat:
+{11030}{11202}no rebellion, no sedition,|no public demonstrations.
+{11275}{11397}That is not to say that we Sanhedrin|are happy with current events.
+{11402}{11517}Of course we'd prefer the Romans|vanquished and our rights restored,
+{11520}{11645}but since any wise man can see|that is not going to happen soon,
+{11650}{11732}we must protect|those blessings we do have.
+{11747}{11810}A slave by decree is still a slave.
+{11847}{11917}You make the same noises|as your father,
+{11922}{11975}a brave but foolhardy man.
+{11995}{12055}I wonder how much you take after him.
+{12162}{12220}Let's go.
+{12265}{12347}Get out! This is my Father's house,
+{12370}{12460}a holy place, not a haven for thieves!
+{12465}{12567}You bleed the poor.|You lie, you cheat them!
+{12572}{12672}Get out! All of you, out!
+{12755}{12885}I'm afraid it's not much of a meal.|My mother's visiting a sick friend.
+{12890}{12967}Thank you for your generosity.
+{13030}{13077}Blessed are You, our Father.
+{13082}{13172}- You live here with your mother?|- Yes.
+{13175}{13232}My father died when I was a boy.
+{13237}{13325}- No brothers?|- No brothers, no uncles, no cousins.
+{13327}{13430}I guess I'm the end of the line.|And you, are you from Judea?
+{13457}{13562}I was born in Bethlehem|but my family's from Nazareth in Galilee.
+{13565}{13650}Nazareth? That's not much of a town.
+{13655}{13730}I was impressed|by what you did at the temple.
+{13750}{13865}Don't be. I was trying|to make a point, I lost my temper.
+{13867}{13972}You can't change a man's heart|by yelling, by humiliating him,
+{13975}{14027}by taking away his livelihood.
+{14032}{14125}Who cares? We need|to get rid of the bastards.
+{14130}{14277}Yes, but in a perfect kingdom|there are no masters or slaves.
+{14280}{14347}We see God in everyone|and serve him there.
+{14352}{14440}The Roman system of governing|is based on domination.
+{14445}{14515}Pilate's legions|aren't just going to leave.
+{14540}{14625}They must be forced out,|pushed into the sea.
+{14657}{14740}I'm sorry, I asked some friends|to meet me here.
+{14745}{14847}Judas, this is Peter|and his brother Andrew,
+{14850}{14940}- James and his brother John.|- Hello, rabbi.
+{14945}{15030}I don't have any more food,|but I have a little wine.
+{15035}{15095}- Wine sounds good.|- No.
+{15097}{15170}We're not staying,|but thanks for the offer.
+{15172}{15260}- How long will you be in the area?|- Not long, I hope.
+{15265}{15337}I hate Jerusalem, it's crowded and filthy.
+{15342}{15420}The streets are lined|with the hungry and unhappy.
+{15425}{15527}After the calm of Galilee,|our hectic pace must be overwhelming.
+{15532}{15607}Are you making fun|of my brother, our home?
+{15612}{15645}James...
+{15650}{15770}- I hate when folk treat us like peasants.|- We are peasants!
+{15772}{15830}You're welcome to join us.
+{15835}{15905}Join you? Where are you going?
+{15930}{15985}- Where you need to be.|- What?
+{16015}{16095}Back to Galilee,|where, as you said, life is calm.
+{16147}{16197}I'll pass.
+{16222}{16280}- Thank you again.|- Welcome.
+{16285}{16352}- Goodbye.|- Take care.
+{16355}{16462}- Let's get going.|- It's good to see you again.
+{16660}{16755}Your Excellency,|we should prepare for civil unrest.
+{16757}{16847}The people are desperate|for the arrival of the Messiah.
+{16872}{17002}The Messiah? What in the name|of sweet Minerva is a Messiah?
+{17005}{17060}I've read some old documents
+{17062}{17170}which predict a king will come|to lead the Jews out of bondage.
+{17175}{17245}All I need is another rabble-rouser.
+{17265}{17375}Maybe he's that fellow|who's baptising everyone.
+{17380}{17482}- Claudia, would you get me some wine?|- Of course, Pontius.
+{17650}{17757}Gather all the suspected agitators.|Jail them, interrogate them.
+{17762}{17812}As you wish, Governor.
+{17952}{18017}Here you are, my sweet.
+{18170}{18220}This is the place, Commander.
+{18222}{18327}Open this door. I command you|in the name of the emperor.
+{18350}{18420}- Open up!|- Break it down.
+{18422}{18495}{y:i}- Get that agitator!|{y:i}- Jeshura...
+{18500}{18595}- Where are you going?|- Galilee. I hear it's calmer there.
+{18967}{19012}{y:i}My mother showed me|{y:i}how to make those...
+{19017}{19080}I'm looking for a man named Jesus.
+{19085}{19157}- The Nazarene?|- You've heard of him?
+{19162}{19232}He's here in Capernaum,|causing quite a stir.
+{19237}{19360}- He has cured Jeremiah of blindness.|- Cured him? How?
+{19392}{19502}He put his fingers over Jeremiah's eyes|and said, "You are healed",
+{19505}{19550}and Jeremiah could see.
+{19555}{19620}He was born blind but now he can see.
+{19622}{19697}This morning,|Jesus cured Ditimus the leper.
+{19700}{19770}"You are whole|in body and soul," he said.
+{19772}{19847}In minutes, all his sores were gone.
+{19850}{19907}That's not possible.
+{19912}{20025}If I hadn't seen it for myself,|I wouldn't believe it either.
+{20030}{20170}You are the light of the world. People|don't put a lit lamp under a bowl.
+{20175}{20297}They put the lamp on a stand so its light|reaches every person in the house.
+{20300}{20422}You must let your light shine|so that all men will see your good deeds
+{20427}{20482}and praise your Father in heaven.
+{20657}{20727}(JUDAS )|Excuse me, I have to get through.
+{20730}{20780}- Jesus!|- Judas.
+{20785}{20855}- Oh, no, the Judean.|- Welcome.
+{20860}{20975}- Imagine you in lowly Galilee.|- And covered in dirt!
+{20980}{21080}I hear you are doing incredible things.|This is what we need.
+{21085}{21185}If what they say is true,|the people will flock around you.
+{21190}{21300}They will claim you king, and together|we can overthrow the Romans.
+{21335}{21415}We will be free. Show me your magic.
+{21420}{21475}There is no magic.
+{21500}{21580}God is in me. God works through me.
+{21582}{21695}OK. Well, let's see.
+{21697}{21760}Make fire appear.
+{21765}{21847}- (LAUGHTER )|- Poof!
+{21850}{21905}I'm not being funny.
+{21977}{22097}You've been searching your whole life|for someone to believe in,
+{22132}{22250}someone who'll believe in you.|I am that someone.
+{22252}{22322}Follow me and the misery|you have known
+{22325}{22412}will be replaced by something far greater.
+{22415}{22477}lt'll be as if you've been reborn.
+{22482}{22550}Have faith in the power of God
+{22555}{22657}and you will sit by my side|in the new kingdom for all eternity.
+{22660}{22760}Join me. Trust me.
+{22765}{22812}What's happening?
+{22837}{22890}Grab him.
+{23040}{23127}The room was so crowded|that I couldn't get inside.
+{23130}{23232}I figured this was the quickest way|to reach you. Heal me.
+{23400}{23455}- Your sins are forgiven.|- Huh (!)
+{23617}{23732}In the name of my Father, I say get up!
+{23772}{23820}Walk.
+{23827}{23890}(PEOPLE GASP)
+{24000}{24047}Praise God.
+{24110}{24142}Thank you.
+{24335}{24425}I want you to spend eternity with me,|with my Father.
+{24430}{24512}What do you say? It's not too late.
+{24517}{24572}It's never too late.
+{24730}{24780}I do trust you.
+{24957}{25030}We'll have a wonderful meal|waiting for us.
+{25035}{25135}John. Tell them about the first time|you met these people.
+{25140}{25252}Come on.|The first time you were together.
+{25257}{25307}(LAUGHTER )
+{25375}{25457}Your son is an extraordinary man.
+{25462}{25512}Yes, I know.
+{25515}{25615}Even as a child, he was extraordinary.
+{25617}{25717}Together, he and I could do|great things for our nation.
+{25722}{25787}But?
+{25792}{25910}Jesus is constantly invoking his father|as if the man's still alive.
+{25915}{25985}But your husband Joseph|is long dead, right?
+{25990}{26095}Yes. God rest the good man's soul.
+{26100}{26190}Jesus' enemies will|do everything to discredit him.
+{26195}{26300}If there's any question|about his past, his paternity,
+{26305}{26385}it's important for me to know now.
+{26415}{26460}Yes.
+{26487}{26612}When I was sixteen,|a heavenly being appeared before me.
+{26617}{26700}He said,|"You have found favour with God.
+{26705}{26797}"You will give birth to a son.|His name will be Jesus.
+{26800}{26872}"God will give him the throne of David
+{26877}{26997}"and he will reign over Jacob's house|forever. His kingdom will never end."
+{27002}{27167}And then the spirit of the Lord|overshadowed me and I was with child.
+{27227}{27345}- I see.|- Do you? Do you, Judas?
+{27372}{27422}Mother...
+{27455}{27550}I have terrible news.|Cousin John's been arrested.
+{27555}{27630}- No! When? Where?|- I don't have any details.
+{27635}{27705}I'll go to the garrison to try and find out.
+{27707}{27775}- I'll go with you.|- No, stay here.
+{27777}{27895}Serve the others and say nothing|of John until I get back.
+{27960}{28025}Travelling all over Galilee, Judea,
+{28030}{28127}meals and lodging will be expensive,|especially with the taxes.
+{28130}{28245}- The Romans take and take.|- And give nothing in return.
+{28247}{28372}- What about the costs?|- How will we pay for these trips?
+{28377}{28465}- And you think we should...|- Charge for miracles.
+{28470}{28562}Charge what, Judas?|Ten denarii for a cripple?
+{28565}{28657}A hundred for a mute?|A silver talent to raise the dead?
+{28660}{28740}No, we ask those we help|to pay what they can.
+{28745}{28857}- Jesus will never agree.|- If we all approach him, maybe he will.
+{28862}{28990}- We're here to learn, not manipulate.|- I'd never try to manipulate him.
+{29027}{29120}- What have you found out?|- John is accused of treason.
+{29125}{29200}- He's in the dungeon at Herod's palace.|- No!
+{29205}{29300}I'm sorry, Mother.|Come inside. Come lie down.
+{29350}{29460}John, I don't trust Judas.|For all we know, he could be a spy.
+{29495}{29572}A spy? For who?
+{29575}{29650}Pilate. Herod.
+{29655}{29780}Judas has a dark soul, but he hates the|Romans too much to conspire with them.
+{29785}{29907}- I think his feelings are genuine.|- His feelings could be the undoing of us.
+{29940}{30022}I say we have Jesus send Judas away.
+{30045}{30095}- Agreed.|- No.
+{30100}{30177}Jesus asked him to join us.|Who are we to argue?
+{30200}{30325}You'll regret those words, Peter,|when Judas stabs you in the back.
+{30432}{30475}I've been thinking.
+{30480}{30585}We need a rabbi to verify the healings|according to Moses' laws.
+{30587}{30637}That's a good idea.
+{30640}{30720}- Then we should head for Jerusalem.|- So soon?
+{30725}{30837}The sooner the people see your miracles,|the sooner they'll rally to our cause.
+{30842}{30897}I think we should be cautious.
+{30900}{30982}- Caution's not one of my virtues.|- I've noticed.
+{30985}{31040}What are your virtues?
+{31042}{31150}- I'm intelligent, practical, thrifty...|- Modest.
+{31210}{31262}Here.
+{31290}{31355}I'm no good with money, I tend to lose it.
+{31457}{31527}- Speaking of income...|- No.
+{31532}{31600}You haven't heard|what I was going to say.
+{31602}{31725}- I won't charge for cures.|- Then how will we live?
+{31730}{31800}God takes care|of the lilies and the birds.
+{31805}{31895}He'll help us too,|through the generosity of strangers.
+{31900}{31992}A king should not|be taking handouts like a beggar.
+{31997}{32057}What do you suggest?
+{32062}{32122}We could send the others to fish.
+{32127}{32170}No.
+{32205}{32255}We could open up a tavern.
+{32315}{32400}- Or we could become bandits!|- Bandits?
+{32402}{32457}Your money or your life.
+{32565}{32600}Bandits!
+{32797}{32847}(GRUNTING )
+{33112}{33225}- I really like you, Judas.|- Not many do.
+{33230}{33335}- I know I can be irritating.|- Like a pearl in an oyster.
+{33475}{33565}I wish you could see in yourself|what I see.
+{33570}{33632}I wish you'd love yourself as I do.
+{33710}{33835}I'm losing patience. You said the Baptist|was the Messiah, now you say he's not.
+{33840}{33907}The talk now|is about his kinsman, Jesus.
+{33912}{34030}They say he's curing the sick,|walking on water and...raising the dead.
+{34035}{34117}Great. All I need|are dead Jews strutting around!
+{34122}{34190}Governor. Look who's here!
+{34195}{34257}- Highness.|- Your Excellency.
+{34262}{34405}I was in the vicinity, thought I'd pay a call|on you and your delectable wife.
+{34410}{34462}Just in time for lunch.
+{34465}{34542}- You know my tribune Flavius.|- Yes. Hail Caesar.
+{34547}{34607}- King Herod.|- Be seated.
+{34612}{34700}- We were discussing the Baptist.|- A pain in the arse.
+{34705}{34795}I have him shackled to the wall|in my darkest dungeon
+{34800}{34850}and still he's causing trouble.
+{34855}{34927}He says I was wrong|to marry my sister-in-law.
+{34932}{35032}Because you stole her|from your brother? Outrageous!
+{35035}{35140}- Execute him.|- We Jews are not as quick to kill as you.
+{35142}{35195}That's why we conquered you.
+{35200}{35307}King Herod, what have your informants|discovered about this Jesus?
+{35310}{35432}Another fringe demagogue|who'll end up howling at the moon.
+{35435}{35490}I hear he's very handsome.
+{35522}{35637}Strange, our spies inform us that Jesus|is gaining momentum every day
+{35640}{35730}and that the miracles|he performs are real.
+{35755}{35877}The best thing about him raising|the dead is that we get to tax them again.
+{35882}{35950}I hadn't thought of that.
+{36182}{36242}Next. How about you?
+{36355}{36442}- You're three denarii short.|- It's all I have.
+{36447}{36562}Look, Amos,|everyone's got the same excuse.
+{36565}{36635}- If you don't pay your taxes...|- I can't.
+{36640}{36735}...you'll end up in jail.|At your age, jail means death.
+{36740}{36787}Hand me three denarii.
+{36790}{36867}- We only have ten left.|- I don't care.
+{36870}{36927}You put me in charge of the finances.
+{36995}{37100}Give Caesar what is due Caesar,|give God what is due God.
+{37105}{37162}You saved me.
+{37192}{37307}- What's your name?|- Matthew, son of Levi.
+{37312}{37422}- Are you happy, Matthew?|- I have everything I could want.
+{37425}{37550}Having doesn't have to mean happiness.|You could own land from here to Gaul,
+{37552}{37657}what good would it do you|if you'd sold your soul?
+{37660}{37717}Join me.
+{38000}{38050}Matthew, where are you going?
+{38117}{38172}I don't know.
+{38205}{38247}What?
+{38752}{38890}(JESUS ) Love your enemies.|Do good to those that hate you.
+{38895}{38957}Bless those that curse you.
+{38962}{39025}Pray for those that spite you.
+{39030}{39137}When a man hits you on the cheek,|offer him your other cheek as well.
+{39142}{39217}If he steals your coat,|offer him your shirt too.
+{39247}{39325}Treat others as you|would have them treat you...
+{39327}{39360}Welcome, Matthew.
+{39365}{39462}...only then can you be the children|of your eternal Father,
+{39467}{39535}who makes the sun rise|on good and bad,
+{39540}{39655}who pours down the rain|on the honest man and the liar.
+{39820}{39950}We can't beat the Romans by turning the|other cheek. They'll cut off our heads.
+{39955}{40075}Then we will all die, happily,|and meet again in heaven.
+{40080}{40182}So every Jew must die|before we get what is rightfully ours?
+{40187}{40290}What is rightfully ours|is the unconditional love of God,
+{40292}{40430}as his sons and daughters, the joy of|knowing that, the peace that love brings.
+{40432}{40530}I'm sorry. I hear your words|but I don't believe them.
+{40535}{40632}Because you've kept a part|of your heart hidden from me.
+{40637}{40737}- Soldiers.|- Romans. They'll kill us!
+{40860}{40950}- You're Jesus of Nazareth, yes?|- I am.
+{40952}{41007}We've done nothing wrong.
+{41012}{41052}Easy. Be quiet.
+{41057}{41197}My boy had a riding accident yesterday.|He's paralysed from the neck down.
+{41225}{41342}He's in massive pain. The physician|says there is nothing he can do.
+{41345}{41402}- I'll come with you.|- No.
+{41405}{41472}My house is not worthy of you.
+{41537}{41660}As a commander, when I order a soldier|to attention, he snaps to attention.
+{41665}{41750}When I order him into battle,|he raises his sword.
+{41755}{41857}Give the word|and my boy will stop suffering.
+{41905}{41947}I will tell you this:
+{41952}{42105}nowhere, not even among|the chosen few, have I found such faith.
+{42110}{42257}Go home. Your son will be standing|in the doorway when you arrive.
+{42262}{42335}He will walk to greet you.
+{42440}{42510}{y:i}How can faith do that?
+{42787}{42905}You say I kept a part of my heart hidden|from you. Well, this is why.
+{42907}{43005}- How could you help that Roman beast?|- How could I not?
+{43010}{43102}Listen to me.|There are men in Jerusalem,
+{43105}{43260}men who are ready to die for freedom|if the right leader comes along.
+{43265}{43370}But I'm telling you,|they will not understand your subtleties.
+{43375}{43497}- We have to hit the Romans hard.|- You have to believe me, Judas.
+{43500}{43555}That is not the way we will win.
+{43640}{43727}Then how?|You don't even have a strategy.
+{43747}{43862}I do. My Father has fully revealed|all that he expects of me.
+{43867}{43970}- Which is?|- You're not ready to handle the details.
+{43975}{44062}I'm sorry, none of you are. Not yet.
+{44067}{44110}Remember,
+{44135}{44275}while you love our enemies, your cousin|John rots away in one of their prisons.
+{44332}{44442}I'm leaving,|unless you start doing what I say.
+{44447}{44535}- Judas, my Father...|- I don't want to hear about him.
+{44585}{44625}He's as dead as mine.
+{44725}{44805}{y:i}Judas! Judas, wait!
+{45000}{45112}Judas! Thank God you're safe.
+{45115}{45230}When I got back from Beth Habara|the front door was kicked in.
+{45235}{45337}- I thought the soldiers had taken you.|- I escaped.
+{45340}{45440}- I went in search of the Messiah.|- Did you find him?
+{45445}{45505}No... No.
+{45805}{45947}- Didn't I tell you to behave yourself?|- What do you want, High Priest?
+{45950}{46070}- You've been following this Jesus.|- How do you know that?
+{46177}{46252}Eliakim. You betrayed me.
+{46257}{46347}One man's betrayal|is another man's salvation.
+{46385}{46440}I serve the greater good.
+{46445}{46520}I'll let you go free. Return to Galilee...
+{46525}{46590}I won't spy for you.
+{46630}{46735}Judas... Judas, your mind is so small.
+{46800}{46965}I don't want you to spy. I don't think|you'd be very adept at it, anyway. No.
+{46970}{47097}Tell your friend the Sanhedrin is not|opposed to what he's doing.
+{47100}{47220}Yes, some of his statements|are troubling,
+{47225}{47330}but eventually we can iron out|the differences in our positions.
+{47335}{47390}It's a matter of semantics.
+{47392}{47485}At present we can't endorse him publicly,
+{47490}{47657}but if he tones down the rhetoric|and keeps performing these miracles,
+{47662}{47772}when the moment arrives,|we'll support his claim to the throne.
+{47797}{47890}- You'll declare him king?|- However,
+{47892}{48000}if he decides to continue|attacking traditional values,
+{48005}{48092}he'll end up like his cousin.
+{48115}{48205}John. What happened to John?
+{48210}{48342}He's dead. Beheaded.|We just received word.
+{48345}{48472}Herod served up the Baptist's head|on a silver platter to Princess Salome.
+{48827}{48885}I loved John.
+{48890}{49030}Loved his voice,|the way it would shatter the stillness.
+{49032}{49107}Such a joyful noise.
+{49110}{49250}You've freed many men|from their graves. Do the same for John.
+{49255}{49342}- Why not?|- Because this is what my Father wants.
+{49375}{49475}I can't, I won't change His plan.
+{49480}{49617}John's death is a warning. Unless|we strike fast, we will be executed.
+{49622}{49720}You must show Herod, the Pharisees,
+{49722}{49820}the Romans, the people,|just how powerful you really are.
+{49842}{49957}- By doing what?|- By giving all twelve of us your powers.
+{49990}{50155}If ordinary men see that it is possible|for each of them to share your glory,
+{50160}{50245}they will raise you up|in the name of the Most High.
+{50380}{50445}I give you God's gift.
+{50450}{50540}Now you too can heal,|raise the dead, cast out devils.
+{50545}{50665}I want you to bring this message to|the people: the kingdom of God is now.
+{50670}{50802}Proclaiming the kingdom, helping God|to build the kingdom, this is your goal.
+{50807}{50900}When you get to a village,|stay with a good-hearted person,
+{50905}{51010}because to welcome you is to welcome|me and the one who sent me.
+{51015}{51130}But if no one offers shelter, as you leave,|shake the dust off your feet,
+{51132}{51220}for one day that town will suffer|worse than Sodom.
+{51240}{51292}Heaven be praised!
+{51335}{51370}Yes, yes!
+{51475}{51617}Finally Jesus is ready to wage war,|to exterminate the Romans.
+{51622}{51700}- Is that what he was saying?|- Yes.
+{51705}{51830}He sent us out, two by two,|to raise a great army in his name.
+{51835}{51912}Sometimes his words|do go over my head.
+{51915}{52015}I'm glad he paired us up.|I wouldn't want to go it alone.
+{52020}{52120}Do you really think|we can perform miracles?
+{52125}{52185}We're about to find out.
+{52447}{52485}The new king,
+{52487}{52652}who will bestow upon those who join us|great wealth, great prosperity.
+{52655}{52742}But those fools who do not|will suffer retribution.
+{52747}{52810}- What does he mean?|- Nonsense.
+{52815}{52932}Are you a coward?|Are you afraid to die for your nation?
+{52937}{53022}If you die in battle,|Jesus will bring you back to life.
+{53027}{53100}We can bring you back to life.
+{53102}{53265}My wife passed away yesterday. Revive|her and my household will be yours.
+{53267}{53320}Bring me to the woman.
+{53570}{53680}Oh, God. If we don't succeed,|we'll be stoned to death.
+{53682}{53765}I can do this, Andrew. Watch.
+{53977}{54050}Maybe you need|to keep your hands on longer.
+{54055}{54165}Oh, God. What is worse|than the smell of a decaying body?
+{54170}{54292}- I remember once, there was a man...|- Shh, I'm concentrating.
+{54330}{54420}Get up, lady.
+{54425}{54520}- I wonder if there's a back tunnel.|- I'll get us out of this.
+{54525}{54567}How?
+{54570}{54667}- I'll say we need to stay here all night.|- What?
+{54670}{54762}They'll go home,|then we'll sneak out of town.
+{54767}{54837}Good idea.
+{54842}{54915}- Stay.|- Alone?
+{54940}{54985}With her?
+{55142}{55215}- What's the matter?|- Nothing.
+{55217}{55337}Some miracles take a while. I need|to ask a few questions about your wife.
+{55342}{55410}How did she die?|Was she ill a long time?
+{55470}{55530}Rachel!
+{55727}{55785}- Aah!|- (CROWD GASPS )
+{55847}{55910}(CHEERING )
+{56127}{56235}- What happened?|- I just opened myself up to God.
+{56240}{56292}I told him he'd better get busy.
+{56297}{56367}Then I remembered|Jesus taught us a prayer.
+{56372}{56500}I said the words and I was filled|with his spirit, it was like he was with me.
+{56505}{56577}I just touched the woman and she...
+{56605}{56660}Tell me the words.
+{56662}{56750}"Our Father who art in heaven,
+{56752}{56812}"Hallowed be Thy name
+{56815}{56940}"Thy kingdom come, Thy will be done|On earth as it is in heaven
+{56945}{57000}"Give us this day our daily bread
+{57005}{57070}"And forgive us our trespasses
+{57072}{57142}"As we forgive those|who trespass against us
+{57145}{57210}"And lead us not into temptation
+{57215}{57280}" But deliver us from evil
+{57285}{57320}"Amen"
+{57400}{57465}- Well done.|- Where's your wife?
+{57470}{57570}At the bazaar. The latest scarves|have arrived from Persia.
+{57575}{57667}I want to discuss this Jesus.|He's gathering followers.
+{57672}{57765}- I don't like it. Who is he?|- Some say John the Baptist.
+{57770}{57855}Herod decapitated him.|Or did he come back to life?
+{57860}{57937}No. My point is,|there's all kinds of conjecture.
+{57940}{58025}- Others say he's Elijah.|- What do you say?
+{58030}{58152}Cults are like a bonfire. They blaze|brightly, then quickly burn out.
+{58157}{58247}I know about cults, I've studied them all.
+{58250}{58332}But if you met this man,|you'd see he's different.
+{58337}{58435}- Flavius is infatuated with him.|- Has he converted you?
+{58457}{58530}No, of course not.
+{58532}{58610}I am first and foremost|my emperor's servant.
+{58612}{58705}But Jesus, he...helped my son.
+{58732}{58847}I think... I don't know, he's inspiring.
+{58852}{58935}I think I know a tribune|who needs a transfer.
+{58940}{59060}Don't blame Flavius, Your Excellency.|I hear Jesus is quite captivating.
+{59065}{59145}I look forward|to meeting the young fellow.
+{59150}{59205}There you are.
+{59207}{59300}- Wait till you see this.|- Are we disturbing you?
+{59305}{59380}No, not at all. It's great to have you back.
+{59385}{59452}The trip was extraordinary. l...
+{59457}{59517}I want to introduce you to Mary.
+{59520}{59592}She's from Magdala.|This is Andrew and Judas.
+{59597}{59660}- Hello.|- Jesus has told me about you.
+{59665}{59780}The response is better than I dreamed.|A thousand men followed us.
+{59785}{59915}Thousands more followed Matthew|and John, and Peter and James.
+{59920}{59980}Mary, come see.
+{59985}{60012}Jesus!
+{60287}{60430}Blessed are the poor,|for you will receive the richness of God.
+{60442}{60582}Blessed are those who hunger|for what is right, for you will feast.
+{60585}{60667}Blessed are the sad, for you will laugh.
+{60670}{60782}Blessed are those|who men hate because of me.
+{60820}{60867}Rejoice in that day,
+{60870}{61012}for when you get to heaven,|God's love will be endless.
+{61192}{61297}The question is, how do we arm|5,000 men? That will cost plenty.
+{61300}{61355}Judas, are you blind?
+{61360}{61437}After Jesus' sermon,|he told us to feed everyone
+{61442}{61532}but all we had were|five loaves of bread and two fish.
+{61535}{61655}He took the food, looked to the sky|and there was enough to feed everyone.
+{61660}{61762}If he wants us to have swords,|we'll have swords.
+{61820}{61937}Are you men helpless?|You almost let the fire go out.
+{62027}{62167}This woman, the townspeople say|she's possessed by demons.
+{62172}{62222}She was, I cured her.
+{62227}{62302}Even so, she's bad for the cause.
+{62305}{62382}The Pharisees think|we cavort with prostitutes.
+{62387}{62467}- Let them think what they want.|- We need them.
+{62470}{62527}- Do we?|- They're essential.
+{62532}{62647}If we show up in Jerusalem|5,000-strong, Caiaphas will support us.
+{62650}{62785}- The Pharisees will declare you king.|- I don't need them to validate me.
+{62787}{62917}You can't fight the Romans|and the Sanhedrin. That's suicide.
+{62920}{62975}What's that?
+{63005}{63095}A knife. What do you intend|to do with this?
+{63100}{63160}Whatever needs to be done.
+{63165}{63300}Judas, in all this time,|you've learned nothing.
+{63305}{63400}It's not me who's learned nothing.
+{63532}{63592}Who am I?
+{63595}{63712}You are the Messiah,|son of the living God.
+{63717}{63855}Peter, child of Jonah,|your faith is like a rock,
+{63857}{63927}and on that rock I will build my church.
+{63930}{64007}The fury of hell|will melt before its power.
+{64010}{64080}I will give you the keys to my kingdom.
+{64085}{64187}Whatever you decree on earth,|whatever you forbid or allow,
+{64190}{64260}will be the same in heaven.
+{64927}{65012}Peter. Congratulations on your elevation.
+{65062}{65097}Thank you.
+{65102}{65177}You must be overwhelmed|by the responsibility.
+{65182}{65272}Yes. Yes, I am.
+{65277}{65347}I'm surprised he didn't pick you.
+{65380}{65487}I am not well liked by the others.|And I'm in charge of the money.
+{65490}{65590}Jesus didn't want to give|any one of us too much power.
+{65592}{65682}And he's teaching me|a valuable lesson in humility.
+{65687}{65845}- You've talked this through with him.|- No, but I know his mind.
+{65875}{65982}I'm here to tell you that I'm behind you,|whatever you need.
+{65987}{66037}Thanks again.
+{66117}{66187}Have you noticed a change in Jesus?
+{66190}{66247}A change?
+{66250}{66390}Ever since John's execution, he's|spending most of his time by himself.
+{66420}{66480}Praying.
+{66485}{66520}No.
+{66570}{66620}He's grown melancholy,
+{66625}{66702}and a melancholy mind|can't make clear decisions.
+{66707}{66817}We have the men we need to obliterate|the Romans, yet we do nothing.
+{66822}{66910}How long till the 5,000 grow restless|and wander away?
+{66970}{67030}What can I do?
+{67095}{67192}You're second in command.|He looks to you for counsel.
+{67195}{67282}Don't be afraid to speak your mind|when he is wrong.
+{67335}{67435}I will tell you now what my Father|has revealed of our future.
+{67437}{67530}First we must send|the 5,000 back to their homes.
+{67535}{67635}These good people have heard|what they needed to hear, for now.
+{67637}{67710}- To keep them would mean hardship.|- Jesus...
+{67715}{67777}Let me finish.
+{67780}{67920}Within the year, we will go to Jerusalem.|We will enter the city triumphantly...
+{67925}{68080}...but the scribes and the Pharisees,|in fact all of the elders and priests,
+{68085}{68150}will reject the word we bring.
+{68155}{68212}- I will then be arrested...|- What?
+{68215}{68265}- ...tortured...|- No.
+{68270}{68317}- ...and put to death.|- No!
+{68355}{68440}- May I speak?|- Yes.
+{68460}{68567}I too have been concerned|about what might happen in Jerusalem.
+{68570}{68637}About security.
+{68640}{68730}- If attacked, we will protect you.|- (ALL) Yes!
+{68735}{68790}I purchased these.
+{68947}{69047}We'll defend you with our lives.|We'll massacre your enemies!
+{69060}{69122}Be silent, Satan!
+{69190}{69322}You think as men think,|not as God does.
+{69325}{69422}None of you understands.
+{69427}{69462}Not one of you.
+{69530}{69580}{y:i}Peter, what happened?
+{69652}{69712}So that's God's big plan.
+{69715}{69822}You're executed|and Peter becomes king.
+{69827}{69957}Only through my dying and return|will those that believe be saved.
+{69985}{70050}Another riddle. Another turn of phrase.
+{70055}{70172}With you it's all parables.|Can't you ever speak clearly?
+{70175}{70232}All right, Judas. I'm afraid.
+{70260}{70357}Afraid of what's to come. Afraid to die.
+{70360}{70505}- Then why go through with it?|- Because this is my Father's will.
+{70540}{70620}And therefore it's mine.
+{70625}{70682}He will raise me up again.
+{70707}{70830}And if he doesn't,|what good will you have done anyone?
+{70835}{70902}This is your chance. Run.
+{70970}{71020}- No.|- Why not?
+{71025}{71095}I don't know.
+{71097}{71165}All I see coming is doom.
+{71167}{71202}Yet...
+{71230}{71322}...I am drawn to you|like a thirsty horse to a river bed.
+{71825}{71892}Keep me safe, O God,|in You I take refuge.
+{71897}{71965}(ALL) Keep me safe, O God,|in You I take refuge.
+{71970}{72047}(JESUS ) I say to the Lord,|"You are my only God".
+{72052}{72140}(ALL) I say to the Lord,|"You are my only God".
+{72145}{72265}(JESUS ) Keep me safe, O God,|in You I take refuge.
+{72270}{72345}I say to the Lord,|"You are my only God".
+{72350}{72430}I say to the Lord,|"You are my only God".
+{72435}{72512}I say to the Lord,|"You are my only God".
+{72725}{72780}Jesus of Nazareth, come forward.
+{73137}{73210}You, sir, Isaac, stand here.
+{73327}{73430}Jesus... Today is the Sabbath.
+{73435}{73510}Does God allow you|to heal on the holy day?
+{73580}{73695}If your lamb fell into a ditch on the|Sabbath, would you leave it to die?
+{73722}{73802}A man is worth more to God|than a lamb, so, yes,
+{73807}{73895}you can do a good deed|today without offending Him.
+{73900}{73950}Then cure Isaac.
+{73982}{74045}Don't, it's a trap.
+{74590}{74680}What do you say about that?|Isaac is whole again.
+{74685}{74815}- There's no doubting it now.|- I have seen many healers in my time.
+{74820}{74900}I don't deny|that such events are possible,
+{74905}{75012}but that does not change that Jesus|broke the fourth commandment,
+{75055}{75212}set down by Moses himself,|"Keep holy the Sabbath."
+{75227}{75337}The Sabbath was made for man's sake,|not man for the Sabbath.
+{75372}{75460}Therefore the Son of Man|rules over the Sabbath.
+{76142}{76217}I'm looking for Jesus, the Nazarene.
+{76222}{76297}- I am Jesus.|- I bring a message from Bethany,
+{76300}{76427}from your friends Mary and Martha.|Lazarus is dying.
+{76515}{76622}Lazarus has already died.|I'm glad I didn't see his soul depart,
+{76625}{76720}but I long to be with him now.|We're heading back to Judea.
+{76725}{76845}Caiaphas will set the people against|you. Return and we'll be crucified.
+{76867}{76927}If you're afraid, Judas, stay here.
+{76945}{77067}I am afraid, but not for me. For you.
+{77105}{77220}If you had faith the size of a mustard|seed, you could move a mountain.
+{77225}{77282}You say you have faith,
+{77287}{77365}but I say your rage|against the Romans is a mask
+{77370}{77470}to hide the hurt, the emptiness|that dwells inside your heart.
+{77490}{77532}That's not true.
+{77630}{77712}- Don't leave me.|- It's you who've left me.
+{77717}{77797}- I thought I was special to you.|- Everyone is.
+{77800}{77920}- If we're all special, we're all the same.|- Yes!
+{78117}{78232}Damn you, Jesus. Damn us both.
+{78540}{78630}- Let his sisters through.|- Jesus, please!
+{78665}{78752}It's all right. Remove the stone.
+{79270}{79367}- Lazarus...come out.|- No.
+{79445}{79520}(CROWD GASPS )
+{79830}{79897}Mary!
+{79935}{80067}I'm fine. Don't cry. Thank you, Jesus.
+{80155}{80262}Great. The emperor is furious with me.
+{80267}{80375}He says I'm ineffective|controlling the rebels in our midst.
+{80397}{80542}He says if he hears any more reports|of trouble, he'll transfer me...to Albania.
+{80632}{80710}- Where is Jesus now?|- He's headed for Ephraim.
+{80715}{80815}Good. Maybe he won't come|to Jerusalem for Passover after all.
+{80820}{80902}Even so, we ought to have|a contingency plan.
+{80907}{81027}- How many soldiers do we have here?|- Four hundred, sir.
+{81032}{81087}Four hundred? That's all?
+{81092}{81195}My officers have been here|three years past their tour of duty.
+{81200}{81275}I suggest we send word|to the legate in Syria,
+{81280}{81332}ask if he can spare a century.
+{81335}{81425}I will not beg Vitellius,|that arrogant equestrian,
+{81430}{81490}who would love to expand|his domain south.
+{81495}{81582}Besides, to do the job|we'd need another full cohort.
+{81585}{81675}If the Jews see troop movements,|they may think twice.
+{81677}{81802}I was not born to high rank,|I had to struggle, and I will...
+{81867}{82020}I will not lose everything|that I have fought so hard for
+{82025}{82107}because of this stupid Nazarene.
+{82112}{82187}- How many days till the Passover?|- Six.
+{82205}{82370}Let's just hope Jesus|has sense enough to stay out of town.
+{82375}{82425}(CHEERING )
+{82485}{82597}(CROWD) Hosanna! Hosanna!
+{83605}{83670}The Messiah! Jesus!
+{83790}{83860}- Governor...|- Flavius, we are occupied.
+{83865}{83945}I apologise, Your Excellency,|I have urgent news.
+{83950}{84050}- Jesus has entered the city.|- What?
+{84135}{84192}Followed by a great multitude.
+{84197}{84250}- Arrest him.|- No, Pontius!
+{84255}{84345}- Stay out of this.|- Of course, I know my place.
+{84350}{84445}But crushing Jesus|will only stir up more bad blood.
+{84450}{84542}I say fix it so that the Jews|themselves are responsible.
+{84560}{84627}That is a good idea. How?
+{84632}{84735}I'd provoke Caiaphas.|Tell him Rome needs a scapegoat
+{84740}{84812}and you've decided he's the perfect fit.
+{84817}{84937}Yes. Flavius, prepare|a message for the old fellow.
+{85005}{85112}That Roman snake.|He's looking to lay the blame off on us.
+{85137}{85197}I can play that game better than he.
+{85202}{85327}Eliakim, seek out your old friend Judas.
+{85330}{85465}I need to know every step Jesus plans|from sundown to the end of Passover.
+{85597}{85647}Thank you.
+{85652}{85750}Judas, it's so good to have you home.
+{85755}{85885}You know, the neighbours are gossiping|about your friend Jesus.
+{85935}{86017}So, when can I meet him?
+{86022}{86095}You could invite him for Passover.
+{86290}{86330}Thank you.
+{86355}{86422}I'm tired. It's been a long journey.
+{86470}{86525}Yes, I'm exhausted myself.
+{86580}{86702}Maybe...Jesus could cure me of that.
+{86830}{86910}Happy Passover.
+{86915}{86995}Why aren't you with your friends?
+{87000}{87085}Jesus' name is on everybody's lips.
+{87090}{87187}I would've thought you'd be|right by his side.
+{87190}{87287}If only he'd listened to me,|things would be different.
+{87290}{87365}But once again he ignored me.
+{87370}{87427}You heard him at the temple today.
+{87432}{87567}Not only did he offend Caiaphas but|every single member of the Sanhedrin.
+{87587}{87727}As a result, he will sink|into the quicksand of oblivion...
+{87777}{87847}...and I will be sucked down with him.
+{87850}{87972}It doesn't have to go that way, my friend.|At least, not for you.
+{88002}{88082}Jesus said I lacked faith.
+{88125}{88187}He was wrong.
+{88215}{88262}I did have faith.
+{88282}{88347}But it's gone.
+{88350}{88390}It's dead.
+{88445}{88492}He betrayed me.
+{88522}{88587}Then get revenge.
+{88677}{88712}No.
+{89095}{89157}(GOAT BLEATS )
+{89925}{89975}(SOBBING )
+{90020}{90087}You have a visitor.
+{90115}{90190}Judas. How's your mother?
+{90487}{90555}I'm sorry, son.
+{90560}{90622}I know she'd been ill, but...
+{90870}{91007}Perhaps you should tell Jesus.|He'll bring the poor woman back to life.
+{91010}{91067}For what reason?
+{91072}{91185}So she can suffer more of the|unhappiness she endured her entire life?
+{91190}{91312}Contrary to what Jesus says, death can|be a greater reward than eternal life.
+{91390}{91450}She wanted to meet him.
+{91487}{91552}I couldn't even give her that.
+{91597}{91637}Well...
+{91687}{91777}...at least you'll be able to afford|a proper burial.
+{91960}{92022}What do you want of me?
+{92025}{92082}Just a little information.
+{92245}{92370}Then we are agreed. You will handle this|as an internal religious matter.
+{92372}{92452}Yes. We will bring Jesus to trial|before the Sanhedrin.
+{92457}{92490}Excellent.
+{92495}{92567}- But you must do your part.|- What is that?
+{92572}{92625}- You must arrest him.|- Why?
+{92630}{92700}I have no soldiers, nor the authority.
+{92735}{92852}Unless, of course, you are now saying|that I can arm my men.
+{92857}{92925}No. No.
+{92930}{93045}- All right, I'll send some men. Where?|- Tomorrow morning...
+{93047}{93142}I can't seize him in daylight,|he has too many followers.
+{93145}{93227}This must be done discreetly.
+{93230}{93340}He'll be at Gethsemane later this night.
+{93345}{93450}- Take 20 soldiers and grab him there.|- Your Excellency...
+{93452}{93515}...I refuse.
+{93547}{93595}You refuse an order?
+{93597}{93685}I've served my country well,|my emperor faithfully.
+{93690}{93762}But this I will not do. This is wrong.
+{93767}{93835}- I will court-martial you.|- You should.
+{93840}{93935}- Flavius, don't be a fool.|- Centurion...
+{94040}{94080}Place me under arrest.
+{94085}{94170}- Commander...|- Do as I say. Now.
+{94610}{94762}Pity. When you have Jesus|in custody, send him to me.
+{94970}{95060}Today we celebrate the passage|from slavery to freedom...
+{95120}{95167}...from death to life.
+{95305}{95402}I wanted to eat one last meal|with you all before I die.
+{95405}{95505}The next nourishment I receive|will be from my Father.
+{95590}{95672}- One of you is about to betray me.|- Who?
+{95675}{95727}- Not me.|- Not me.
+{95732}{95810}- Or me.|- Is it me?
+{95815}{95885}Do you mean me, Jesus?
+{95890}{95950}The words are yours.
+{96482}{96550}Take this and eat.
+{96552}{96610}This is my body.
+{96795}{96877}Drink from this cup, all of you,
+{96882}{97025}for this is my blood,|the blood of the new covenant.
+{97030}{97135}I shed my blood for you, for the many,
+{97140}{97217}so that your sins may be forgiven.
+{97635}{97735}Judas! We just learned|that Flavius won't lead the arrest.
+{97740}{97830}Flavius knows Jesus.|How will the soldiers recognise him?
+{97835}{97917}You must go to Gethsemane|and signal the centurion.
+{97922}{97997}You mean be there when he's taken?
+{98002}{98125}No, my part was to reveal his plans.|I never agreed to be there.
+{98127}{98250}What's the problem? You're doing|a great service to your nation.
+{98595}{98737}Father, if it's possible,|please take this cup from me.
+{98740}{98832}Let it pass me by|without me having to drink.
+{98982}{99060}Not my will but yours be done.
+{99157}{99215}Get up!
+{99220}{99265}Wake up.
+{99270}{99370}The time has come for the Son of Man|to be handed to the sinners.
+{99375}{99432}Get up!
+{99557}{99617}The traitor is here.
+{100115}{100220}Do what you're here to do,|my friend, and quickly.
+{100630}{100697}Hold tight, take your positions.
+{100702}{100757}Take your positions.
+{100785}{100865}- Kill anyone who interferes.|- Let's go.
+{100870}{100927}Come back here!
+{100930}{100990}Matthew, Andrew!
+{101045}{101102}Hold fast!
+{101145}{101225}Jesus the Nazarene.|You are under arrest.
+{101230}{101335}- Put down your sword or you will die.|- Then let me die.
+{101422}{101540}I could ask my Father for an army|of angels stronger than 12 legions.
+{101557}{101605}No.
+{101630}{101682}I will not resist.
+{101707}{101795}And I need you to live. Go.
+{101910}{101980}You come for me armed with swords...
+{102037}{102107}...as if I were a common bandit.
+{102157}{102207}Move out.
+{102480}{102597}We have the sworn testimony|of two witnesses that you said,
+{102627}{102737}"I can destroy the temple|and rebuild it in three days."
+{102795}{102850}Is that statement true?
+{102912}{103032}Solomon needed 46 years|to construct the temple,
+{103037}{103155}so to be able to rebuild it,
+{103160}{103247}the entire structure, in a few days,
+{103250}{103315}that would take the puissance of God.
+{103320}{103395}Are you the Messiah,|the son of the Most High?
+{103415}{103467}The words are yours.
+{103472}{103552}You will see the Son of Man|at God's right hand.
+{103555}{103595}Blasphemy!
+{103597}{103657}How dare you?
+{103662}{103800}Need this trial go further? Clearly this|jackal must die for our people's sake.
+{103805}{103880}- He's right.|- Take him to Pilate.
+{104000}{104065}You said Jesus would have a fair trial.
+{104082}{104185}That was no fair trial|according to the laws of Moses.
+{104190}{104327}How dare you presume to question me|on the law of Moses?
+{104330}{104427}For fifteen years,|as high priest of the temple,
+{104432}{104542}I have dedicated my life|to protecting and defending the law
+{104547}{104702}against false prophets|like this Nazarene. I am the law!
+{104707}{104847}Jesus was right. You don't serve|the people, you serve yourself.
+{104850}{104920}You are a false priest.
+{104937}{105012}Take back the money.|I want no part of this.
+{105072}{105140}You are a part of it.
+{105165}{105210}And you've earned your pay.
+{105270}{105310}I must save him.
+{105315}{105357}Barabbas,
+{105362}{105475}you are accused of trying to murder|a citizen of Rome. How do you plead?
+{105480}{105565}Rabid dogs must die,|before they infect others.
+{105567}{105622}I'll take that as "guilty".
+{105650}{105817}I hereby order your execution,|this Friday at dawn.
+{105845}{105910}Take him to the dungeon.
+{106035}{106165}While you're down there, free Flavius.|If the Jews get violent, we'll need him.
+{106222}{106325}Excellency, the Pharisees asked us|to bring the Nazarene here.
+{106330}{106365}What? Why?
+{106370}{106490}The Sanhedrin has condemned Jesus|to death, but they can't execute people.
+{106495}{106607}Oh, I see. I see what Caiaphas is up to.|Drag Jesus in here.
+{106612}{106672}- Pontius, be careful.|- Don't fret.
+{106675}{106815}I need only to officially interrogate him,|to have his interrogation on the record.
+{106817}{106907}Once I determine|that he has broken no Roman laws...
+{106912}{106992}...you can send him packing.
+{107020}{107057}(BANGING )
+{107062}{107115}They've come for us.
+{107170}{107215}Maybe it's Peter.
+{107220}{107302}{y:i}- Open up the door.|{y:i}- It's Judas.
+{107307}{107415}{y:i}- Don't let him in.|{y:i}- They've taken Jesus to the praetorium.
+{107417}{107482}We have to find a way to free him.
+{107542}{107655}Open the door. Open the door!
+{107660}{107732}Open the door!
+{107770}{107817}We have to go outside.
+{107945}{108055}We have reports that you claim|to be King of Judea. Is this true?
+{108142}{108260}The emperor would be surprised|to learn the Jews have two kings:
+{108265}{108370}Herod, whom he appointed,|and you, whom he did not.
+{108372}{108432}My kingdom is not in this world.
+{108437}{108577}But you are a king somewhere? In a land|beyond the borders of the Empire?
+{108580}{108675}You say I am a king?|A king should always tell the truth.
+{108690}{108767}Everyone who loves the truth|listens to me.
+{108815}{108870}How nice for you.
+{108872}{109010}Let the report show, though I find|Jesus to be an odd young man,
+{109045}{109150}he has broken no law|as legislated by the Senate of Rome.
+{109172}{109250}- Where's Caiaphas?|- Serving Passover.
+{109255}{109335}- He can't come out till sun-up.|- Convenient.
+{109350}{109482}Tell him that as Jesus is from Galilee,|he is the responsibility of King Herod,
+{109485}{109560}who, fortunately,|is in town for the holidays.
+{109565}{109667}Take him to Herod, and let him|punish Jesus as he sees proper.
+{109925}{109977}All ye, turn.
+{110147}{110197}- Jesus!|- No, Judas.
+{110300}{110412}Me? What in the name of God|do I have to do with this mess?
+{110415}{110552}The Sanhedrin has sentenced him to|death but the governor can't execute him.
+{110555}{110685}That's a first. You Romans|execute people at the drop of a hat.
+{110690}{110817}Look at him! Look how he's dressed.|He's an embarrassment to all of Galilee.
+{110820}{110950}- Put a robe on him.|- Will you kill him?
+{110955}{111060}No. Let Pilate and Caiaphas dump|their dirty work on somebody else.
+{111065}{111152}I'm in the middle of a party.
+{111157}{111217}(LAUGHTER )
+{111415}{111557}He said, "Let them dump their dirty work|on someone else" and sent Jesus back.
+{111560}{111625}- He what?|- He sent him back.
+{111627}{111705}- What shall I do with him?|- Let me think.
+{111710}{111782}- Set him free.|- You will appear weak.
+{111787}{111862}If I kill him,|we'll be on our way to Albania.
+{111867}{111987}There's a Passover tradition that|a governor offers a prisoner clemency.
+{111990}{112077}Offer the throng Jesus|and any other prisoner.
+{112082}{112175}- Let the Jews decide.|- Then no one can fault me.
+{112177}{112240}Just to be safe, disguise some men.
+{112245}{112347}When the moment comes,|have them call for the release of...
+{112352}{112410}- Barabbas?|- Barabbas...
+{112415}{112527}Barabbas? Little does Pilate know,|Barabbas is one of our own.
+{112532}{112677}Tell our men to mingle with the crowd|and yell for the release of Barabbas!
+{112757}{112887}Which one do you want me to set free,|Barabbas or Jesus?
+{112890}{112945}- Jesus!|- Barabbas.
+{112967}{113005}Release him!
+{113030}{113077}Free Jesus!
+{113142}{113210}(CROWD CALLS OUT)
+{113237}{113280}Jesus!
+{113292}{113380}- Barabbas will go free.|- No!
+{113557}{113600}I am free!
+{113755}{113840}Perfect timing. As usual.
+{113877}{113952}(GASPING SOBS )
+{114085}{114135}(SCREAMS )
+{114205}{114300}- What should I do with Jesus?|- Crucify Jesus.
+{114305}{114382}- No. Oh, no!|- No!
+{114430}{114520}(CHANT) Crucify Jesus! Crucify Jesus!
+{114525}{114580}No! No, no, no!
+{114620}{114695}- (CHANT CONTINUES )|- No!
+{114845}{114967}I can only crucify him if he is a traitor,|if he conspires to become king.
+{115182}{115257}Deny that you are king.
+{115260}{115320}No, don't do it.
+{115325}{115407}(MAN IN CROWD)|Pontius, we beg of you.
+{115410}{115472}Deny it.
+{115535}{115627}I can save your life. I have this power.
+{115685}{115765}The only power you have|comes from my Father.
+{115767}{115922}Now you see, he denies|the authority of Caesar. Crucify him.
+{115927}{116012}- Crucify him!|- No!
+{116015}{116097}- Crucify him!|- No!
+{116102}{116155}(CROWD) Crucify him! Crucify him!
+{116160}{116207}Bring me some water.
+{116247}{116282}Pontius!
+{116285}{116450}(CROWD CHANTS )|Crucify him! Crucify him!
+{116455}{116530}I have done all that I can.
+{116535}{116627}I wash my hands of this man.
+{116630}{116680}Crucify him.
+{116685}{116750}(CHEERS FROM CROWD)
+{116835}{116910}(CROWD CHANTS ) Crucify him!
+{117145}{117205}(MOANS )
+{117210}{117255}No!
+{117327}{117390}No, don't!
+{117395}{117485}I won't let this happen.|What must we do?
+{117490}{117535}Tell us, Master!
+{117540}{117620}No, Pontius! Pontius!
+{117635}{117717}Pontius, I had a terrible vision|in my sleep.
+{117722}{117812}- Jesus is innocent.|- What? You told me...
+{117815}{117950}You must free him or your name|will be cursed till the end of time!
+{117955}{118047}- You are too late.|- No!
+{118275}{118340}(GROANS )
+{118762}{118812}(GROANS )
+{119087}{119137}Hail, Jesus!
+{119440}{119555}Father, forgive them,|for they know not what they do.
+{119715}{119770}(CROWD PROTESTS )
+{120815}{120935}You have ordered a sign hung|above Jesus' head on the cross.
+{120940}{120995}"Jesus of Nazareth, King of the Jews."
+{121000}{121102}I know you're being ironic,|Excellency, but the wording is off.
+{121107}{121215}The sign should read, "Jesus,|who claimed to be King of the Jews."
+{121237}{121377}Relax, Caiaphas,|this nonsense is behind us.
+{121382}{121545}After today, we shall never hear|the name Jesus again.
+{121675}{121745}(CROWD MURMURS )
+{121845}{121880}What's going on?
+{121985}{122037}- We must go.|- Run!
+{122042}{122115}Stand fast! Hold your positions!
+{122117}{122162}Come back, you cowards.
+{122180}{122235}Oh, my God.
+{122270}{122327}This was my destiny.
+{122845}{122885}Father...
+{122917}{123015}...into your hands I commend my spirit.
+{123020}{123070}(THUNDERCLAP)
+{123097}{123145}All is fulfilled.
+{123807}{123922}I want you to spend eternity with me,|with my Father. What do you say?
+{123945}{124050}It's not too late. It's never too late.
+{124240}{124340}{y:i}(FEMALE SINGS: "AGNUS DEI")
+{124530}{124602}- Take his body down.|- Yes, sir.
+{125140}{125175}Help me.
+{126960}{127032}I still don't know why we're doing this.
+{127057}{127135}Because Jesus would have wanted us to.
+{127140}{127262}- Pray for Judas? After what he did?|- Yes.
+{127652}{127765}Magnified and sanctified be the name|of the Holy One
+{127767}{127907}Blessed be He, whose glory transcends|all prayers offered in this world.
+{127912}{127995}And let us say Amen.
+{127997}{128082}Magnified and sanctified be the name|of the Holy One.
+{128087}{128217}Blessed be He, whose glory transcends|all prayers offered in this world.
+{128220}{128315}And let us say Amen.
+{128320}{128420}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<
+{128445}{128595}Professional Translation Services|www.gts-translation.com

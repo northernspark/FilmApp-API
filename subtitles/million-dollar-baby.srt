@@ -1,0 +1,594 @@
+{1}{1}23.976
+{26}{176}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{1243}{1284}You got him! You got him!
+{1623}{1700}Only ever met one man I wouldn't want to fight.
+{1702}{1736}I can't stop that.
+{1738}{1784}Here. Get out of here, you useless tit.
+{1786}{1864}When I met him, he was already|the best cut man in the business.
+{1866}{1896}Can you stop it?
+{1898}{1985}Started training and managing in the '60s,|but he never lost his gift.
+{1987}{2012}No.
+{2189}{2256}Let me have a look at him.
+{2260}{2302}He's fine. He's fine.
+{2304}{2359}Well, he ain't if you don't stop this bleeding.
+{2361}{2398}I'll give you one more round.
+{2424}{2463}Seconds out. Let's go.
+{2465}{2520}What do we do? Tell me what to do.
+{2522}{2573}You let him hit you.
+{2634}{2705}Sometimes, there's just nothing you can do.
+{2724}{2784}Cut's too wide, too close to the bone...
+{2817}{2857}Maybe you got a severed vein...
+{2859}{2938}...or you just can't get the coagulant deep enough.
+{2985}{3063}There are all kinds|of combinations you come up against...
+{3066}{3126}...down in the different layers of meat...
+{3128}{3176}...and Frankie knew how to work every one.
+{3797}{3869}People love violence.
+{3883}{3948}They slow down at a car wreck|to check for bodies.
+{3949}{4006}Same people claim to love boxing.
+{4008}{4075}They got no idea what it is.
+{4077}{4131}Boxing is about respect...
+{4133}{4179}...getting it for yourself...
+{4181}{4246}...and taking it away from the other guy.
+{4349}{4391}I'll warm up the car.
+{4393}{4430}Mr Dunn?
+{4432}{4483}I owe you money?
+{4485}{4515}No, sir.
+{4517}{4550}I know your mama?
+{4553}{4601}Don't rightly know, sir.
+{4603}{4639}Then what is it you want?
+{4641}{4707}I was on the undercard. I won my fight, too.
+{4709}{4743}Maggie Fitzgerald.
+{4745}{4807}Well, Maggie Fitzgerald, what's up?
+{4809}{4846}Did you happen to see it?
+{4848}{4906}Nope.|I did pretty good.
+{4908}{4966}Thought you might|be interested in training me.
+{4969}{5012}I don't train girls.
+{5014}{5107}Maybe you should.|People see me fight say I'm pretty tough.
+{5109}{5178}Girlie, tough ain't enough.
+{5511}{5555}It's a mistake.
+{5681}{5736}Car should be able to back up, Frankie.
+{5738}{5798}Just push, will you?
+{5800}{5851}What did Hogan want?
+{5853}{5891}Offered us a title shot.
+{5893}{5970}'Bout time.|I turned him down flat.
+{5972}{6067}Two or three more fights, you'll be ready.
+{6168}{6255}Been two or three more fights|for a long time now, Frankie.
+{6257}{6318}Look, Willie, you get one shot at the title.
+{6320}{6370}You lose it, it may not come around again.
+{6372}{6472}Now, two or three more fights,|and we'll be ready.
+{6474}{6523}Whatever you say, Frankie.
+{6556}{6653}Frankie liked to say|that boxing is an unnatural act...
+{6655}{6724}...that everything in boxing is backwards.
+{6777}{6826}Sometimes...
+{6828}{6884}...best way to deliver a punch is step back.
+{7105}{7235}Well, do your best, Lord, to... protect Katy.
+{7237}{7281}Annie, too.
+{7309}{7386}Other than that... you know what I want.
+{7388}{7455}There's no use me repeating myself.
+{7457}{7572}But step back too far, you ain't fightin'at all.
+{7912}{7961}Thank you for your prayers.
+{7963}{8012}Bye.|Goodbye.
+{8014}{8073}Hey, Father, that was a great sermon.
+{8076}{8111}Made me weep.
+{8113}{8155}What's confusing you this week?
+{8157}{8218}Oh, it's the same old one God, three God thing.
+{8220}{8299}Frankie, most people figure out|by kindergarten it's about faith.
+{8301}{8410}Is it sort of like Snap, Crackle and Pop|all rolled up in one big box?
+{8412}{8516}You're standing outside my church|comparing God to Rice Krispies?
+{8518}{8610}You only come to Mass every day to wind me|up. It's not going to happen this morning.
+{8613}{8640}Well, I'm confused.
+{8642}{8676}No, you aren't.|Yes, I am.
+{8678}{8750}Then here's your answer: There's one God.
+{8752}{8796}Anything else? Cos I'm busy.
+{8798}{8863}What about the Holy Ghost?|An expression of God's love.
+{8865}{8924}And Jesus?|Son of God. Don't play stupid.
+{8926}{8995}Well, what is he, then?|Does that make him a demigod?
+{8997}{9057}There are no demigods, you fuckin' pagan!
+{9181}{9227}Did you write to your daughter?
+{9229}{9255}Absolutely.
+{9257}{9335}Now you're lying to a priest.|You know what? Take a day off.
+{9337}{9386}Don't come to Mass tomorrow.
+{9605}{9718}Some people'd say the most|important thing a fighter can have is heart.
+{9745}{9826}Frankie'd say,|"Show me a fighter with nothing but a heart...
+{9828}{9899}...and I'll show you a man waiting for a beating."
+{10093}{10182}Think I only ever met one fighter|who was all heart.
+{10209}{10259}My name's Dangerous Dillard.
+{10261}{10364}Fightin' Flippo Bam-Bam Barch|out of Broward County, Texas!
+{10405}{10485}Danger showed up a couple of years back.
+{10512}{10634}He'd come visiting L.A. with Ervel,|his mama's new boyfriend.
+{10636}{10762}Apparently, Ervel got lost|and ended up backin Texas.
+{10765}{10892}Danger looked for him for about a week|before he introduced himself.
+{10921}{11044}Hey. You know, I gots nothin' against niggers...
+{11080}{11123}Well, that's nice to hear.
+{11162}{11240}Lots of people where I comes from does...
+{11243}{11366}...but my mama taught me not to cause hurt|to no man, niggers or not.
+{11368}{11442}You got a nice mama.|Anything else I can do for you?
+{11444}{11546}Just one of those questions,|but Danger wanted to give it his best answer.
+{11548}{11657}Well, sir, I'd likes to become|the Welterweight Champion of the world.
+{11696}{11826}And I challenge the Motor City Cobra,|Thomas "Hit Man" Hearns...
+{11829}{11929}...to fight me for the Welterweight|Championship of the whole world!
+{11931}{11997}Yo, Flip, shut up, man! You ain't even ranked.
+{11998}{12069}You got to have at least one fight to be ranked.
+{12071}{12118}Hey, I'll fight any man, anytime!
+{12121}{12163}Hey, you a bad man?
+{12165}{12231}Hey, come on, get in the ring.|Go a round with me.
+{12233}{12266}Shawrelle...
+{12269}{12302}I will.
+{12305}{12337}Leave him alone.
+{12377}{12442}Danger, you go on back to training.
+{12444}{12499}Will do, Mr Scrap.
+{12592}{12636}Them some nice tights, Danger.
+{12663}{12723}I'll give you that ass-whoopin' later, Olive Oyl.
+{12725}{12778}Those pants lookreal pretty on you, bro.
+{12781}{12830}Give his mama back her tights.
+{12832}{12926}Shawrelle Berry|had a left hook that would move a tank...
+{12928}{13004}...but he had a heart the size of a split pea.
+{13006}{13106}Frankie bought the Hit Pit|from Bobby Malone 17 years ago.
+{13108}{13189}Bobby wanted to move to Florida,|and Frankie wanted some security.
+{13191}{13259}Bobby died while he was packing.
+{13261}{13355}Frankie found out... most gyms lose money.
+{13357}{13434}I thought I told you I didn't want Danger|working out here anymore.
+{13436}{13484}He ain't hurtin' nothin', Frankie.
+{13486}{13527}Well, he's hurtin' me.
+{13529}{13642}Breakin' my heart watchin' him|punch the air like it's going to punch back.
+{13644}{13713}And how many times have I got to|tell you that bleach is bleach?
+{13715}{13758}Why can't you just buy the cheap stuff?
+{13760}{13814}You don't always have to buy expensive stuff.
+{13816}{13863}It smells better, Frankie.
+{13865}{13942}Bleach smells like bleach.
+{14140}{14167}Hey, Scrap.
+{14169}{14212}Hey, Mr Willie.
+{14272}{14321}Hey, nice fight last night.
+{14528}{14560}Big Willie.
+{14562}{14589}Hey, Sally.
+{14672}{14708}Nice fight.|Thanks, man.
+{14710}{14752}People are talkin'.
+{15103}{15169}What the hell kind of language is that?
+{15192}{15231}What do you want?
+{15233}{15294}I just thought you might like to know...
+{15296}{15370}...you got a fighter out there|not talking to another manager.
+{15372}{15466}Not talking to another manager?
+{15468}{15500}Not just any manager.
+{15536}{15565}Mickey Mack.
+{15591}{15713}You came in here to tell me|that Big Willie is not talking to Mickey Mack.
+{15715}{15777}Not a word. Neither one of 'em.
+{15805}{15854}I'm trying to read here.
+{15856}{15912}Well, if you think that's more important...
+{15947}{16003}Who's your new girl?
+{16029}{16083}What?
+{16328}{16370}Jesus Christ.
+{16372}{16406}Better hurry up.
+{16408}{16484}If she keeps hitting it like that,|she gonna break her wrists.
+{16672}{16714}You're wasting your time.
+{16716}{16794}I told you I don't train girls.|Thought you might change your mind.
+{16796}{16854}There's dozens of trainers who train girls.
+{16857}{16903}You won't have any trouble finding one.
+{16905}{16959}Don't hardly need a dozen, boss.|You'll do fine.
+{16961}{17056}Don't call me boss, now. I'm not your boss,|and don't you be calling me that.
+{17058}{17127}Willie, you ready to work?|Anytime.
+{17128}{17194}If I stop calling you boss, will you train me?
+{17195}{17224}No.
+{17252}{17298}I might as well just keep calling you it.
+{17324}{17398}She came from|southwestern Missouri...
+{17400}{17504}...the hills outside|the scratch-ass Ozark town of Theodosia...
+{17506}{17626}...set in the cedars and oak trees somewhere|between nowhere and good-bye.
+{17628}{17691}She grew up knowing one thing:
+{17693}{17737}She was trash.
+{18067}{18098}It's for my dog.
+{18101}{18235}She'd come 1,800 miles,|but Theodosia was still just over the hill.
+{18668}{18710}Workin' the bag, boss.
+{18713}{18778}Not your boss... and that bag's working you.
+{19130}{19177}Give her her money back.
+{19204}{19258}You sure?
+{19260}{19306}How much did she pay?
+{19308}{19338}Six months.
+{19340}{19380}Oh, Jesus Christ.
+{19382}{19420}No, I'll just give it back.
+{19422}{19482}No. Don't be a smart-ass now, will you?
+{19484}{19590}Woman thinks I'd throw away six months' dues|just to get rid of her, she's out of her mind.
+{19593}{19674}But just don't encourage her, understand?|Ok.
+{19676}{19727}And what's Danger doing out there?
+{19729}{19782}What's he lookin'at?
+{19896}{19931}Looks like a bottle of water.
+{19933}{19991}He paid his dues?
+{19993}{20038}Dues?
+{20040}{20103}Boy can't afford pants. Want him to pay dues?
+{20106}{20158}Get out of my office.
+{20403}{20440}Fuck me.
+{21540}{21583}Can't think of it as a bag.
+{21671}{21718}I'm not a trainer...
+{21720}{21766}...but I can show you this, if you'd like.
+{21768}{21806}Appreciate any help I can get.
+{21808}{21870}Ok. Let's see.
+{21872}{21946}What you want to do is|you want to think of it as a man, see?
+{21948}{21982}And he's constantly moving.
+{21985}{22098}He's moving towards you. He's moving around|you. He's moving away from you, all right?
+{22100}{22160}You don't want to hit him|when he's coming towards you...
+{22162}{22210}...cos what he's going to do is push you back.
+{22212}{22310}He's going to smother your punches,|take your balance, right?
+{22312}{22391}So watch him carefully.|Keep rotating, that keeps your head moving...
+{22393}{22486}...and keep one shoulder back|so you're always ready to fire a power shot.
+{22488}{22522}Right? Go ahead, now.
+{22524}{22566}Good, good. Keep rotating.
+{22569}{22618}Keep moving. That's it.
+{22621}{22694}Good, good. Keep that chin tucked in.
+{22696}{22737}Come on around.
+{22741}{22782}Keep moving, keep moving.
+{22784}{22814}Good.
+{22816}{22895}Like that?|Yeah. Keep on moving, give it a few shots.
+{22924}{22981}Tuck that chin in, now. Tuck that chin in.
+{23019}{23074}That's good.
+{23076}{23169}Now, you get this down,|we'll put you on the speed bag.
+{23243}{23289}You do have a speed bag?
+{23540}{23606}I'll just borrow it till I can buy my own.
+{23608}{23654}All right, you go on home now.
+{23656}{23690}I'll walk out with you?
+{23693}{23754}No, I am home. Want to see?
+{23990}{24033}It's nice.
+{24095}{24154}Would it bother you much|if I worked a little longer?
+{24157}{24205}No, just...
+{24208}{24264}...pull the door closed when you leave.
+{24319}{24368}Thank you.
+{24728}{24789}If there's magic in boxing...
+{24791}{24885}...it's the magic of fighting battles|beyond endurance...
+{24888}{25010}...beyond cracked ribs, ruptured kidneys|and detached retinas.
+{25251}{25367}It's the magic of risking everything|for a dream that nobody sees but you.
+{25609}{25666}Ok, come on. Watch the footwork.
+{26175}{26216}Hey, Flip.
+{26218}{26264}Hey, Flippy, come here, man.
+{26266}{26323}I think I found somebody you can beat.
+{26400}{26444}I don't fights women.
+{26465}{26561}Why not, bro?|It's perfect, bro, cos you know why?
+{26563}{26614}Cos she -you could fight to him...
+{26616}{26702}...and then you could kiss to him, and then|you could fight to him one more time.
+{26704}{26764}That's beautiful, man. That's like poetry.
+{26766}{26839}It's like poetry.|You been reading and shit.
+{26841}{26876}Thanks, bro. That's a girl, man?
+{26878}{26937}I'll be damn, Flip. I think you right.
+{26939}{27010}Look at her little bitty titties.|They're like mosquito bites.
+{27012}{27061}Geez, man, there's barely even a mouthful.
+{27063}{27114}Saw your last fight, Shawrelle.
+{27116}{27195}Spent so much time face down,|I thought the canvas had titties.
+{27294}{27348}Canvas has titties.
+{27350}{27428}Hey, look at me. I'm Shawrelle.
+{27620}{27693}Just humping the canvas.|Humping the floor.
+{27723}{27810}Come on, bro, the floor is having titties?|That's funny, bro.
+{27812}{27850}Shut up, man.
+{27852}{27893}What you laughing at?
+{27896}{27961}Man, hold the bag, stupid.
+{28052}{28142}Yo, when they start making those tights for men,|Flippy?
+{28144}{28187}Punk.
+{28213}{28299}All right, that's enough.|That's enough for the day.
+{28348}{28406}I'll give you a rubdown.|Oh, I can't, Frankie.
+{28409}{28494}My middle one's got a piano lesson.|I told Gracie I'd drive her.
+{28496}{28542}Oh. Something wrong with Gracie's car?
+{28544}{28633}She hates that car. Wants the old one back,|but the dealer won't do it.
+{28635}{28708}Said he's already got a buyer.|Maybe I should talk to the dealer.
+{28710}{28762}I'd appreciate that.
+{28764}{28797}Ok.
+{28799}{28826}Thanks.
+{28828}{28866}See you later.
+{29060}{29106}The man's a rubdown whore.
+{29108}{29151}Today he doesn't want one?
+{29178}{29222}You ever do any work around here?
+{29224}{29304}Not my job I'd worry about, if I was you.
+{29381}{29433}Little girl seems to be coming along.
+{29492}{29559}It's almost like someone's been helping her.
+{29561}{29618}She might just be a natural.
+{29620}{29675}Looks like she's got something.
+{29725}{29791}She's got my speed bag, that's what she's got.
+{29815}{29862}I wonder how the hell she got that.
+{29864}{29911}I wonder.
+{30133}{30186}I'm going to need that speed bag back.
+{30188}{30232}This bag?|Yes, that bag.
+{30234}{30325}That's my bag, and if you're hitting it,|people will think I'm training you.
+{30327}{30378}Is that such a bad thing, boss?
+{30380}{30415}Yes, yes, it is.
+{30417}{30483}Every time you touch it,|you're losing me business out here.
+{30485}{30577}I gotta agree, I am embarrassing myself.
+{30579}{30686}Yeah. Well,|I can't just lend it to anybody, you know.
+{30688}{30721}I understand.
+{30749}{30794}Yeah.
+{30827}{30893}Look, you seem like a nice girl.
+{30894}{30966}Can I give you some advice?|I'd appreciate that.
+{30969}{31042}You're going to find a trainer,|either in this gym or somewhere else...
+{31044}{31086}...that's going to want to train a girl.
+{31088}{31153}It's the latest freak show out there.
+{31154}{31244}But the trouble is, they're going to be wasting|your time because you're too old.
+{31271}{31321}I don't feel that old.
+{31323}{31410}Well, neither do I, but you don't see me|fighting 21-year-olds, do you?
+{31412}{31501}Takes about four years to train a fighter.
+{31503}{31552}How old are you?
+{31555}{31649}31... until my next birthday.|Oh, well, there you go.
+{31651}{31684}31.
+{31686}{31769}You wouldn't start training|to be a ballerina at 31, now, would you?
+{31771}{31833}Already been working it for three years.
+{31835}{31877}And you can't hit a speed bag?
+{31880}{31925}What kind of training is that?
+{31927}{31975}I've never had any, boss.
+{31977}{32052}Well, I hate to say it, but it shows.
+{32054}{32111}Somebody's gotta be honest with you.
+{32113}{32187}I hate to be the one to tell you the truth.
+{32241}{32316}Well, sorry for using your bag, Mr Dunn.
+{32389}{32438}You're not going to cry now, are you?
+{32440}{32485}No, sir.
+{32552}{32593}Here.
+{32620}{32664}Keep the goddamn thing.
+{32666}{32757}No, you need it.|No, take the bag.
+{32760}{32809}I haven't seen it in 20 years, anyway.
+{32811}{32862}I've had three since then.
+{32864}{32928}Just enjoy it, will you?
+{32931}{32976}I'll just borrow it till I buy my own.
+{33005}{33046}Just don't lose it.
+{33247}{33293}Yeah, I know, Hogan.
+{33295}{33369}Your guy's the champ, so we don't split fifties.
+{33372}{33409}But if I don't see 40%...
+{33468}{33562}Look, you call me back when it's 60-40,|or don't call me back at all.
+{33772}{33808}Hey, Willie.
+{33810}{33872}Hey, Frankie.|Is something wrong?
+{33875}{33925}I'm sorry to come by your house like this.
+{33927}{33983}I know you don't like people dropping in.
+{33985}{34082}You're not people, Willie.|You're welcome anytime. Come on in.
+{34084}{34137}I want to thank you for getting Gracie's car back.
+{34140}{34187}Well, you don't have to thank me.
+{34189}{34286}Paying an extra thousand dollars|for your own car ain't exactly a favour.
+{34288}{34341}Gracie broke out and cried|when she saw it.
+{34343}{34392}Really?
+{34394}{34460}I also needed to talk with you about business.
+{34462}{34561}Well, I just got off the phone with Hogan.|We're all set for September.
+{34563}{34609}Everything but the split.
+{34611}{34658}I gotta leave you, Frankie.
+{34708}{34743}What?
+{34821}{34903}Willie, the title is just two fights away.
+{34905}{34939}It ain't that. It's...
+{34941}{35009}It's like you said, I got one shot.
+{35011}{35084}If I win, I gotta make|as much as I can while I can.
+{35086}{35182}I need somebody in the action,|who can make things happen.
+{35205}{35262}And I gotta make the change before the fight.
+{35264}{35333}Only way this guy say he'd take me|is if he took me to the title.
+{35335}{35445}So, I get you to the title fight,|and this guy takes you there?
+{35448}{35485}Only way he'd do it.
+{35487}{35533}I'm sorry, Frankie.
+{35535}{35597}I know how long|you've been waiting on a title.
+{35599}{35639}I wish it could've been with me.
+{35665}{35722}Mickey Mack's a businessman.
+{35724}{35780}He can't teach you nothing.
+{35782}{35851}You already taught me|everything I need to know.
+{36047}{36136}There's some things|people just don't want to hear.
+{36389}{36484}And I challenge the Motor City Cobra,|Thomas "Hit Man" Hearns...
+{36487}{36608}...to fight me for the|Welterweight Championship of the whole world.
+{36610}{36678}Danger, I'm wearing these mitts for a reason.
+{36680}{36754}Just working on my footwork, Mr Scrap.
+{36783}{36867}Danger, you throw a punch|or get the hell out of this gym.
+{36979}{37078}Danger, while you thinking about that punch,|I'll be right back.
+{37104}{37209}I'm thinking how|I'm gonna hit it hard for you, Mr Scrap.
+{37317}{37442}No one had the heart|to tell Danger that Hearns retired years ago.
+{37635}{37702}I heard about Willie.
+{37704}{37761}That's cold. That's dead cold.
+{37763}{37861}Course, it wouldn't be so bad|if you weren't so damn old.
+{37863}{37932}At least I can see through both eyes.
+{37934}{37996}Didn't do you a lot of good though, did it?
+{37999}{38070}Well, I've got the gym.
+{38072}{38141}Don't need to be training fighters at my age.
+{38168}{38221}Willie tell you why?
+{38223}{38257}It was Mickey.
+{38260}{38297}Mickey's got the connections.
+{38299}{38382}It ain't about connections, Frank.|It's about you not believing in him.
+{38384}{38449}Well, I found him.|I stuck with him for eight years.
+{38451}{38501}How's that for not believing in him?
+{38504}{38587}You could've got him a title fight two years ago.|Hell, he knew that.
+{38589}{38628}I'm amazed he stayed this long.
+{38630}{38717}Well, getting there and taking home|the belt are two different things.
+{38719}{38833}What was I supposed to do,|just put him in over his head, not protect him?
+{38835}{38883}You were protecting him|from the championship?
+{38884}{38902}Yea.
+{38918}{38983}Oh, well, now it makes sense.
+{38985}{39056}Well, what about you, Scrap?|What did your manager do?
+{39058}{39130}You were a hell of a fighter,|a lot better than Willie.
+{39132}{39201}He get you a title fight|or did he just bust you out...
+{39203}{39300}...banging your head against other people's fists|until you lost your eye?
+{39302}{39353}I had my shot.
+{39355}{39422}I went out swinging and no man can say I didn't.
+{39424}{39507}Well, I remember.|And excuse me if I didn't want my fighter...
+{39509}{39597}...spending the second half of his life|cleaning up other people's spit.
+{39599}{39632}Yeah, right.
+{39634}{39678}Right. You're the smart one.
+{39680}{39733}You're the one learning Greek.
+{39756}{39787}It's Gaelic.
+{39789}{39867}Well, you just protected yourself|out of a championship fight.
+{39869}{39912}How do you say that in Gaelic?
+{41556}{41603}Sorry.
+{41767}{41811}Thanks.
+{42038}{42124}Boxing is an unnatural act...
+{42127}{42205}...cos everythingin it is backwards.
+{42255}{42289}You want to move to the left...
+{42292}{42387}...you don't step left, you push on the right toe.
+{42411}{42499}To move right, you use your left toe.
+{42501}{42588}Instead of running from the pain,|like a sane person would do...
+{42590}{42637}...you step into it.
+{42666}{42786}Oh, my God! He hits the|champ with a right hand and the champ's down!
+{42835}{42901}Ladies and gentlemen,|the ref has ended the count.
+{42904}{42976}And Big Willie Jones|is the new champion of the world!
+{42978}{43052}It's unbelievable how this|has taken place tonight.
+{43054}{43119}But there you have it, folks, a new champion.
+{43173}{43243}Everything in boxing is backwards.
+{43611}{43651}Want a cheeseburger?
+{43653}{43703}You bought me a cheeseburger.
+{43705}{43760}I never seen you buy anybody a cheeseburger.
+{43762}{43837}Well, I couldn't eat it, and I ordered it.|You want it?
+{43839}{43906}Well, I guess the planet can go back to spinning.
+{43943}{43985}You watch the fight?
+{43987}{44041}Yeah, I watched it.
+{44043}{44109}Willie did good.
+{44111}{44161}That's what you've got to say?
+{44163}{44226}Well, he won, didn't he? He did good.
+{44243}{44320}I see you been working on yourself,|learning to open up.
+{44322}{44357}That's good work.
+{44359}{44397}You watch it?
+{44399}{44445}Yeah, I got HBO.
+{44477}{44548}How can you afford HBO?
+{44550}{44633}How long have I been telling you|to save your money?
+{44635}{44693}Ever since I fought|Louis "Typhoon" Johnson...
+{44695}{44765}...at the Stadium Club in Tupelo, Mississippi.
+{44767}{44813}That true?
+{44815}{44917}Manager ran off|and left you and me to hitch home.
+{44919}{44957}Don't you remember nothing?
+{44959}{45005}Well, I remember walking halfway...
+{45007}{45049}...and thinking I was going to be lynched.
+{45051}{45149}I remember you leaving me with my dick|in my hand behind that gas station.
+{45152}{45195}Well, I got a ride.
+{45197}{45289}The guy took off before I hardly closed the door.|I had to walk back two miles.
+{45291}{45360}Your conscience got the better of you,|that's what.
+{45463}{45502}What the hell's that?
+{45527}{45598}It's her birthday.
+{46109}{46203}You're not breathing right.|That's why you're panting.
+{46205}{46271}So, it's your birthday?
+{46273}{46319}How old does that make you?
+{46321}{46434}I'm 32, Mr Dunn...|and I'm here celebrating the fact...
+{46436}{46543}...that I spent another year scraping dishes|and waitressing, what I've been doing since 13.
+{46545}{46649}And according to you, I'll be 37|before I can even throw a decent punch...
+{46651}{46727}...which after working this speed bag for a month|and getting nowhere...
+{46729}{46780}I now realise may be God's simple truth.
+{46782}{46847}Other truth is, my brother's in prison...
+{46849}{46935}...my sister cheats on welfare by pretending|one of her babies is still alive...
+{46937}{47005}...my daddy's dead,|and my mama weighs 312 pounds.
+{47008}{47088}If I was thinking straight, I'd go back home...
+{47090}{47169}...find a used trailer,|buy a deep fryer and some Oreos.
+{47201}{47291}The problem is, this is the only thing|I ever felt good doing.
+{47293}{47344}If I'm too old for this, then I got nothing.
+{47381}{47433}That enough truth to suit you?
+{47472}{47510}This your speed bag?
+{47512}{47589}Put yours behind the counter.|Wish I could say I wore it out.
+{47676}{47722}Just hold it, hold it.
+{47724}{47810}I'll show you a few things,|and then we'll get you a trainer.
+{47813}{47847}No. Sorry.
+{47849}{47909}You're in a position to negotiate?|Yes, sir...
+{47913}{48011}...because I know if you train me right,|I'm going to be a champ.
+{48045}{48088}I seen you looking at me.
+{48090}{48127}Yeah, out of pity.
+{48130}{48167}Don't you say that!
+{48169}{48235}Don't you say that if it ain't true!
+{48237}{48280}I want a trainer.
+{48282}{48333}I don't want charity...
+{48335}{48379}...and I don't want favours.
+{48473}{48558}If you're not interested,|then I got more celebrating to do.
+{48659}{48703}Goddamn it, stop.
+{48727}{48764}What the hell are you doing?
+{48892}{48950}If I'm going to take you on...
+{48952}{48990}You won't never regret it.
+{48992}{49023}Look, just listen to me.
+{49025}{49095}If I take you on...|I promise I'll work so hard.
+{49097}{49156}God, this is a mistake already.
+{49158}{49243}I'm listening, boss.
+{49245}{49326}If I take you on, you don't say anything.
+{49328}{49372}You don't question me.
+{49375}{49474}You don't ask why, you don't say anything|except maybe, "Yes, Frankie."
+{49477}{49554}And I'm going to try to forget|the fact that you're a girl.
+{49556}{49587}It's all I ask.
+{49589}{49651}And don't come crying to me if you get hurt.
+{49653}{49717}All righty.|We got a deal.
+{49718}{49768}No, not quite.
+{49771}{49825}I'm going to teach you how to fight.
+{49827}{49893}Then, we'll get you a manager,|and I'm off down the road.
+{49895}{49934}I hate to argue with you, but...
+{49937}{49988}Don't argue, it's the only way we're doing it.
+{49991}{50078}I teach you all you need to know, and then|you go off and make a million dollars.
+{50080}{50166}I don't care. You get your teeth|knocked out, I don't care.
+{50168}{50275}I don't want to hear about it either way,|that's how it is. It's the only way I'll do it.
+{50470}{50499}All right.
+{50501}{50631}Now, one of the things I've noticed around|the gym is, you never move your feet.
+{50632}{50711}You stand there just flatfooted.|You've got to move your feet.
+{50713}{50785}That's one of the best things|I'm going to be able to teach you.
+{50787}{50875}So, here's what you do. You get yourself...
+{50877}{50921}Bend your knees a little bit.
+{50923}{50962}Get in an athletic position.
+{50964}{51019}Look like you're going to hit something.
+{51073}{51144}Move 'em how, boss?|Just, you go hit the bag.
+{51187}{51230}Stop.|What'd I do wrong?
+{51232}{51281}Ok, you did two things wrong.
+{51283}{51372}One is you asked a question,|and two is you asked another question.
+{51374}{51429}Now, what I want you to do...
+{51431}{51475}It's not about hitting it hard.
+{51477}{51517}It's how good you hit it.
+{51519}{51565}So, watch me.
+{51567}{51632}And you can count with me if you want,|just count;
+{51633}{51685}...on a one count, I hit right through the bag.
+{51687}{51739}Can you show me that again?|You just...
+{51741}{51792}Just say "one," please.
+{51794}{51835}One.|Ok, one.
+{51879}{51957}Yeah, just say one.|That's good. That's good.
+{51959}{52008}Then I move over to my right foot.
+{52010}{52078}You'll see my weight is|shifting to my right foot.
+{52080}{52195}Then I hit it with the back of my hand,|sort of like I'm chipping ice with an ice pick.
+{52197}{52232}Then I come over...
+{52233}{52318}...and I shift to my left foot,|and I hit it with my right hand.
+{52366}{52483}And ice pick manoeuvre again, and I come|over on my right foot and hit it right, left.
+{52508}{52568}Don't watch anything but my feet.
+{52595}{52634}One, two, three...
+{52847}{52914}Just do it like that. Just keep practising.
+{53660}{53774}Need to show 'em how to|stand, keep their legs under their shoulders.
+{53947}{54038}To make a fighter,|you got to strip 'em down to bare wood.
+{54040}{54077}Rest when you're dead.
+{54079}{54122}Come here.
+{54202}{54297}You can't just tell 'em|to "forget everything you know".
+{54299}{54357}You got to make 'em forget it in their bones.
+{54359}{54423}Left uppercut, left, left.
+{54543}{54637}...only hear your voice,|only do what you say and nothing else.
+{54640}{54668}Move your feet.
+{54670}{54725}Move your feet around. Let's see you go.
+{55118}{55160}...and take it away from the other guy.
+{55163}{55201}Not so low. Look at me.
+{55203}{55250}Right hook and just turn right over...
+{55347}{55429}How to generate|momentum off your right toe...
+{55459}{55538}...and how to flex your knees|when you fire a jab.
+{55672}{55708}How to fight backing up...
+{55711}{55780}...so that the other guy|doesn't want to come after you.
+{55783}{55842}Then you got to show 'em all over again...
+{55844}{55962}...over and over and over till they think|they were born that way.
+{56018}{56089}Shift. Shift away. Shift away.
+{56115}{56192}Ok, that's enough for today.
+{56194}{56266}Good work. Good girl.
+{56320}{56384}Think I'm ready for a fight, boss?
+{56949}{56997}Hey, come here.
+{57064}{57106}You're not breathing.
+{57146}{57186}Hate to disagree with you.
+{57189}{57265}Every time you get under pressure,|you're holding your breath.
+{57267}{57302}Now, stop doing that.
+{57350}{57414}But other than that, I'm doing pretty good, right?
+{57416}{57471}I mean, for a girl.
+{57473}{57511}I don't train girls.
+{57569}{57623}Think I might be ready for a fight, boss?
+{57625}{57707}Well, we'll get a manager,|and we'll find out, won't we?
+{57709}{57796}I'd like to, but you've|been keeping me too busy.
+{57950}{57997}Got any family, boss?
+{57999}{58027}What?
+{58089}{58163}You been spending all this time with me.|I didn't know if you had any.
+{58188}{58223}No.
+{58248}{58322}Well, I've got a daughter|Katy.
+{58325}{58368}That's family.
+{58370}{58438}We're not exactly close.
+{58440}{58483}How much she weigh?
+{58508}{58546}What?
+{58548}{58606}Trouble in my family comes by the pound.
+{58677}{58713}Yeah.
+{58716}{58774}Not very big.
+{58776}{58826}Used to be real athletic.
+{58828}{58880}Don't know if she kept it up.
+{59017}{59086}So... what do you think?
+{59113}{59160}Am I ready for a fight?
+{59282}{59315}Hey, Sally.
+{59375}{59416}Come here for a minute, will you?
+{59460}{59529}Frankie, I need to see you|in the back for a minute, Ok?
+{59532}{59565}Can I see you a minute?
+{59567}{59652}Sally here is a real good manager.|Has a couple Golden Glove boys.
+{59654}{59701}Looking for a girl, Sally?
+{59704}{59754}I'm looking for a good one.
+{59777}{59825}Well, see, there you go.
+{59905}{59965}Nice working with you, girlie.
+{60043}{60098}What'd you want?|Nothing. It's nothing.
+{60100}{60214}I ain't lying. I been watching you work.|You've got a hell of a left.
+{60216}{60260}Thank you.
+{60318}{60374}So, you want to give this a try, see if it's a fit?
+{60439}{60481}Yeah, sure.
+{60484}{60578}Good... cos I think you're ready for a fight.
+{60603}{60753}Support us and become VIP member |to remove all ads from www.OpenSubtitles.org

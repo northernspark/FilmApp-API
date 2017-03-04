@@ -1,0 +1,687 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{1617}{1691}Well, thanks for the information.|l appreciate it.
+{1693}{1780}There's no chance a mistake|could've been made? A misreading?
+{1782}{1845}Human error? It happens.
+{1847}{1950}Oh. Well, that sort of|rules that out then, doesn't it?
+{1951}{2014}So this really is reality.
+{2103}{2178}Mr. Secretary, your car.
+{2180}{2237}Oh, yes. Thank you.
+{2539}{2630}Eddie, let's take the parkway.
+{2771}{2846}Okay, buddy. Final offer.|Nonnegotiable.
+{2847}{2912}For every buckle-down hour|you give Algebra Two...
+{2914}{2997}you get two with quality time|with Nintendo and Sega.
+{2998}{3111}Deal? Just whatever you do,|don't tell your mother.
+{3113}{3173}Good. Now, put her back on.
+{3224}{3336}Okay, hon. Number-one son|back on the straight and narrow.
+{3338}{3443}Me? Fine. Just needed|a little field trip to clear the head.
+{3445}{3505}Bit of a nightmare day.
+{3507}{3610}l'll see you in a bit.|You bet.
+{3611}{3658}l love you, Liz.
+{5881}{5950}This is a very dynamic game,|Mr. Dapina.
+{5951}{6030}You can be honest, Angela.|This game is as bloody as it gets.
+{6031}{6088}Believe me,|the kids will eat this up.
+{6090}{6151}First, tell me what keeps crashing|the damn thing.
+{6230}{6349}You have been virused, Mr. Dapina,|and a not so very nice one.
+{6350}{6408}You're the best.|I knew l could count on you.
+{6410}{6448}What should we do?
+{6450}{6520}Don't hit the escape key|on any of your systems for a while.
+{6522}{6568}One keystroke will wipe out|your whole system.
+{6570}{6650}l don't know how these things happen.|l just ordered that security program.
+{6652}{6713}What's it called?|Gatekeeper?
+{6715}{6775}That's what they all say.|Did you install it?
+{6777}{6854}Absolutely.|The minute we got it, l think.
+{6856}{6918}Everything's under control.|lt's gonna be okay.
+{6920}{7021}You're the best. Will we be able|to get this in stores by week's end?
+{7023}{7077}Absolutely.|Everything but the virus.
+{7079}{7162}A friend of mine collects them.|l don't know, some people save string.
+{7164}{7248}You are a genius, Angela.|l can't thank you enough.
+{7250}{7315}You might think differently|once you get my bill from Cathedral.
+{7317}{7409}Whatever it is, it's worth it.|l'd love to show you my appreciation.
+{7411}{7467}Take you out to dinner tonight,|some drinks.
+{7469}{7518}Get you out of the house.
+{7519}{7580}Oh, l'm very flattered|and appreciative, but l--
+{7582}{7630}You gotta eat.
+{7631}{7710}Unfortunately, l already|have dinner plans, so--
+{7712}{7789}How about tomorrow?|The next day?
+{7790}{7873}These plans are kind of|a standing arrangement.
+{7875}{7947}But l appreciate it.|Thank you.
+{7949}{8004}- You're still the best.|- l'll speak to you soon. Bye-Bye.
+{8322}{8352}Large.
+{8354}{8428}Garlic?
+{8497}{8540}Thank you.
+{9665}{9727}No one leaves the house anymore.
+{9729}{9783}No one has sex.
+{9785}{9850}The net is ultimate condom.
+{9926}{9979}Come on.|Talk like that, lceman...
+{9980}{10046}could lead to the eventual|extinction of our species.
+{10072}{10143}My sympathies exactly, Angel.
+{10144}{10195}Let's have a date and procreate.
+{10197}{10283}Not me. In two days,|l'm off on vacation.
+{10285}{10412}Just me, the beach and a book.
+{10464}{10535}l'm there, babe.|Look no further.
+{10536}{10598}Sorry. Not my type.
+{10630}{10720}l'm crushed.|So what do you want in a man?
+{10822}{10858}Butch.
+{10860}{10898}Beautiful.
+{10976}{11012}Brilliant.
+{11064}{11113}Captain America...
+{11114}{11222}meets Albert Schweitzer.
+{11243}{11349}Spends all day dashing into fray...
+{11351}{11441}while making world...
+{11442}{11520}safe for democracy.
+{11522}{11651}At night, playing Bach cantatas...
+{11652}{11756}while curing cancer.
+{11758}{11846}Settle for a guy|who puts the seat down?
+{11887}{11939}Listen, Angel, you're dreaming.
+{11941}{12011}- You're one of us.|- We accept you.
+{12013}{12066}We accept her.|You're one of us.
+{12067}{12096}One of us.
+{12135}{12200}Yeah, l know.
+{12979}{13048}lt's beautiful.
+{13050}{13126}- l love Chopin.|- You know this piece?
+{13128}{13196}Well, l should.|You taught it to me.
+{13347}{13396}Brought you something.
+{13398}{13473}Just don't let the nurses|eat it all this time.
+{13474}{13555}My favorite.|How did you know?
+{13695}{13770}Do you wanna--|We could pIay it together.
+{14531}{14598}I'm going on vacation|for about a week to the Yucatan.
+{14599}{14657}lf for any reason|you need to get in touch with me...
+{14659}{14753}l don't know if they have phones there,|but you can talk to one of the nurses--
+{14755}{14806}You must be one of my students.
+{14807}{14872}No, Mom.|My name's Angela.
+{14988}{15065}Can you bring me some candy|when you come again?
+{15139}{15222}- My favorites are those--|- Almond Roca.
+{15223}{15282}Yeah, l know|what your favorites are.
+{15584}{15636}- Angela Bennett!|- Who is it?
+{15638}{15694}- FedEx.|- Coming.
+{15695}{15790}Thank you for using our reservation|service. Have a pleasant flight.
+{15965}{16011}Line five, please.
+{16076}{16149}- Oh, l have another one going out.|- Okay. Here you go, ma'am.
+{16268}{16328}And here's your virus, Dale.
+{16463}{16522}- Can l use your pen?|- Yeah, sure.
+{16524}{16559}This is a nice place.
+{16603}{16654}Thanks.
+{16777}{16849}- Have a nice day, ma'am.|- You too.
+{17511}{17590}Mozart's Ghost!|The hottest band on the Internet.
+{17805}{17863}- Cathedral Software.|- Dale Hessman, please.
+{17864}{17894}Please hold.
+{17920}{17973}- Hello.|- Hi, it's Angela.
+{17975}{18076}Angela? FedEx had you signing|for that disk three minutes ago.
+{18078}{18135}- What took you so long?|- I was having way too much fun...
+{18137}{18195}with this Mozart's Ghost.
+{18220}{18302}By the way, l sent you a whopper|of a virus for your hall of fame.
+{18304}{18364}Just be a little careful|with the escape button.
+{18366}{18473}Look, here's the problem.|Pop yourself into concert information.
+{18475}{18507}All right.
+{18549}{18648}Houston Utilities. Dale, l think|you took a wrong turn here.
+{18650}{18735}Not quite Ticketmaster, is it?|See anything unusual?
+{18768}{18843}No, looks like a normal web page to me,|except for that...
+{18845}{18898}little icon at the bottom|of the screen.
+{18899}{18958}Click on it, and then|press control-shift.
+{19135}{19208}- My God.|- So, what do you make of all this?
+{19210}{19263}Simple.|lt's a programming glitch.
+{19265}{19338}lt's a futzed keystroke that sent you|the wrong lnternet address.
+{19340}{19438}Last night it sent me to Amtrak's|central mainframe and the Mayo Clinic.
+{19439}{19487}Neither of them|are on the same subnet.
+{19489}{19559}Angela, l've accessed|a system l shouldn't have.
+{19560}{19639}lf someone gets ahold of that disk,|they'd have an awful lot of power.
+{19641}{19706}Why don't you just crawl in there,|find the program error and delete it?
+{19708}{19767}Not quite ready to do that yet.
+{19769}{19846}Look, what's your day like tomorrow?
+{19847}{19898}Oh, no. No.
+{19899}{19974}l'm going on my first vacation|in six years.
+{19975}{20048}l just confirmed my reservation.|There are no refunds.
+{20050}{20135}- What time is your flight?|- 12:00. But l have to pack.
+{20137}{20198}l'm gonna be a complete madwoman.
+{20199}{20278}- Why don't you wait till l get back?|- l don't think so.
+{20280}{20364}- Just tell me what this is about.|- I'd rather not on the phone.
+{20389}{20462}l can fly down tonight in my Cessna,|be there by breakfast.
+{20463}{20518}We'd have five hours.
+{20519}{20573}You know this shit|better than anyone.
+{20638}{20710}Fine. Fine.|l'll see you at 7:00.
+{20735}{20815}Great. So,|they finally get to meet.
+{20817}{20869}l'll be the tall guy.
+{20871}{20986}l'm gonna be the one with ''Spineless|Simp'' tattooed to her forehead.
+{20987}{21052}Bye. See you tomorrow.
+{21103}{21169}Why do l do this?
+{21213}{21318}Burbank Tower.|Cessna 739 Mike Bravo.
+{21320}{21418}lntercepting approach course|l.L.S., runway eight.
+{21449}{21543}Three-nine Mike Bravo,|we've lost radar contact.
+{21545}{21595}Say your position and altitude.
+{21597}{21688}Just passing the middle marker|at 1,300 feet.
+{21690}{21759}Three-nine Mike Bravo,|that's a negative.
+{21761}{21819}Verify your position|and check your instruments.
+{21820}{21893}All normal, for crying out Ioud.|You must be able to see my lights.
+{21895}{21988}That's a negative.|Execute a missed approach immediately.
+{21990}{22048}Contact approach control on 124.5.
+{22050}{22123}Okay, Burbank, but still|everything looks ok--
+{22125}{22162}Shit!
+{22164}{22212}God!
+{23350}{23407}- Cathedral Software.|- Hi. Russ Melbourne, please.
+{23408}{23499}- One moment, please.|- Mozart's Ghost!
+{23501}{23547}- Russ Melbourne here.|- Hi. lt's Angela.
+{23549}{23598}l thought you'd be long gone.
+{23600}{23652}No, l was getting ready to leave.|That's why l'm calling.
+{23654}{23732}l'm glad you're still going,|but when you get back, we need to talk.
+{23734}{23815}We're really desperately short|of your genius up here.
+{23816}{23873}Oh, please. l'm far|from being a genius, Russ...
+{23875}{23945}especially with a room full of people|looking over my shoulder.
+{23946}{24012}- That's not the reason l called.|- Just think about it, will ya?
+{24014}{24082}The honchos up here aren't|gonna let me replace Dale...
+{24084}{24183}on such short notice, not with all the|security breaches we've had in the past.
+{24185}{24261}Replace Dale. Okay.|What? You're kidding, right?
+{24262}{24326}Oh, God, l'm sorry.|l thought you'd heard.
+{24349}{24395}What? What happened?
+{24416}{24514}Angela, Dale's dead. His plane|crashed last night outside L.A.
+{24516}{24623}l just talked to him yesterday.|He was coming to see me.
+{24625}{24686}Kind of puts things|in perspective, doesn't it?
+{24715}{24777}Let's talk when you get back, huh?
+{24779}{24862}And try to have a good vacation.
+{24864}{24941}Okay. l'll talk to you soon, Russ.
+{25492}{25594}Plenty of time. Ain't nothin' comin' in|or goin' out for the last hour.
+{25654}{25720}Ladies and gentlemen,|your attention, please.
+{25722}{25768}We are sorry to announce...
+{25770}{25849}there is a computer malfunction,|and all flights have been temporarily--
+{25851}{25919}- The whole airport is down.|- When we get further information...
+{25921}{25958}we will advise you.
+{25959}{26006}Thank you very much.
+{26212}{26292}- We will let you all know.|- Excuse me.
+{26294}{26369}I understand.|We're doing the best we can.
+{26459}{26531}A blood test taken last week...
+{26533}{26601}at Bethesda Naval Hospital|did in fact reveal...
+{26603}{26677}that Undersecretary of Defense|Mike Bergstrom...
+{26679}{26735}was infected with the AlDS virus.
+{26737}{26798}You okay?
+{26800}{26878}Yeah. lt's all these people.
+{26880}{26971}No, l meant are you okay with your soda?|Would you like a refill?
+{26973}{27040}- No, l'm fine. l've had three.|- The malfunction has been repaired.
+{27042}{27111}One more, and l'll be able|to fly myself to Mexico.
+{27112}{27190}Looks like you won't have to.|Enjoy your flight.
+{28272}{28390}- Mozart's Ghost!|- Waiter, l'd like a gibson, please.
+{28392}{28488}It's a martini with an onion|instead of an olive.
+{28490}{28575}ls that okay?|Thanks.
+{28610}{28691}Excuse me.|Could l have one too, please?
+{28692}{28746}l'll take mine up at the bar.
+{28822}{28874}Didn't think anybody else|drank those anymore?
+{28876}{28988}l guess l'm not as unfashionable|as l once thought l was.
+{29104}{29162}ls that business or pleasure?
+{29164}{29220}ls there a difference?
+{29222}{29284}Not a great deal|if you're a hacker.
+{29373}{29462}That's a nice piece of hardware.|l assume you're in the business.
+{29464}{29525}lsn't everybody?
+{29527}{29570}Nope.
+{29634}{29692}God, we're pathetic, aren't we?
+{29757}{29816}Excuse me?
+{29838}{29880}Well, we're here.
+{29913}{29988}We're sitting on the most|perfect beach in the world...
+{29990}{30058}and all we can think about|is where--
+{30059}{30130}Where can l hook up my modem?
+{30131}{30178}Yeah, exactly.
+{30314}{30380}Um, l'm Jack Devlin.
+{30464}{30536}- Angela Bennett.|- Angela?
+{30762}{30814}My most embarrassing secret.
+{30844}{30891}You know Breakfast At Tiffany's?
+{30893}{30965}- Very well. lt's my favorite film.|- Right.
+{30967}{31021}l wore out my membership renting it.
+{31022}{31094}- You know what l'm talking about.|- Yes. Very much so.
+{31096}{31139}When l was about 13...
+{31163}{31275}l had this sort of|identity crisis.
+{31305}{31370}l used to think|l was one of the characters.
+{31372}{31423}You thought|you were Audrey Hepburn?
+{31443}{31535}- No, l used to think l was the cat.|- The cat?
+{31537}{31589}l'd sit there...
+{31590}{31676}and l'd play out|the last scene of the movie.
+{31678}{31758}l'd just play it|over and over again.
+{31819}{31874}- You know the last scene?|- Yes, I know the last scene.
+{31876}{31934}Out in the pouring rain,|out in the alleyway.
+{31935}{31998}l'm soaked to the bone,|and l'm scared.
+{32041}{32088}And l'm...
+{32139}{32193}abandoned.
+{32194}{32242}l'm alone.
+{32335}{32371}That's it.
+{32482}{32555}Moon River
+{32557}{32619}Wider than a mile
+{32800}{32847}Would you have dinner|with me tonight?
+{32914}{32984}Come on.|lt's your last night.
+{32986}{33020}You know what?
+{33058}{33128}l would-- l would actually|really love to.
+{33130}{33176}Great.
+{33222}{33318}- lt's a company perk.|- God, this is a company perk?
+{33320}{33367}- Yeah.|- Some perk.
+{33369}{33439}l think l got a calendar|one year from Cathedral.
+{33815}{33863}Where are you from?|Colorado?
+{33865}{33939}Yes, it has to be.|The eastern--
+{33941}{34031}Maybe it's the southeastern part|of the state.
+{34033}{34109}The teeming metropolis|of La Junta, population 50.
+{34111}{34190}- La Junta?|- That's pretty good.
+{34192}{34267}ls my accent that strong|after all these years?
+{34269}{34346}- No, it's just a trick l do.|- Oh.
+{34383}{34461}Why ''after all these years''?|How long have you been gone?
+{34463}{34542}Oh, boy.|lt seems like a lifetime.
+{34543}{34598}Let's see. l was, uh--
+{34599}{34667}l was 15 going on 10...
+{34669}{34784}and we moved from La Junta|to San Jose...
+{34786}{34832}Tulsa, um--
+{34834}{34880}So your father|got transferred a lot?
+{34882}{34972}No, not really. No. He, um--
+{34974}{35088}l don't know. He just, you know--|He just transferred out one day.
+{35239}{35312}What? What are you looking at?
+{35334}{35366}You.
+{35395}{35438}Me?
+{35544}{35592}Computers are your life,|aren't they?
+{35615}{35678}Yes. Perfect hiding place.
+{35733}{35767}Thanks.
+{35816}{35878}- Well, yeah, okay.|- Nice one of you.
+{35933}{35994}l have one or two other interests,|l'll have you know.
+{35996}{36091}Such as? What's your speciality|in computers?
+{36093}{36144}Oh, anything, pretty much.
+{36146}{36208}Beta testing, mostly,|but pretty much anything.
+{36245}{36306}- That's way over my head, l'm afraid.|- No, no.
+{36307}{36420}You just go into people's systems,|you find the faults and you fix it.
+{36422}{36486}What happens if they don't|have any faults?
+{36487}{36554}Don't believe l've met one yet.
+{36637}{36683}You must be a bit cold.
+{36685}{36754}Not really.|Well, yeah, a little bit.
+{36861}{36924}- Here.|- What?
+{36926}{36974}lt goes around here.
+{37111}{37146}Better?
+{37471}{37560}- Want one?|- Oh, God, l used to smoke those.
+{37562}{37614}But you quit, right?
+{37680}{37726}Well, l refuse to.
+{37764}{37849}l reckon you gotta try a few things|in life without a safety net...
+{37851}{37905}or how else you gonna know|you're alive?
+{37906}{37970}Well, l take my share of risks.
+{37996}{38042}l don't always floss.
+{38044}{38121}l rip the tags off my pillows|when they're new.
+{38184}{38241}- My kind of woman.|- Yeah, well--
+{38288}{38334}Pretty adventurous?
+{38336}{38426}l don't know.|What did you have in mind?
+{38427}{38477}Dare you risk it?
+{38532}{38568}Shit! My purse!
+{38570}{38616}- Fuck!|- No! Don't!
+{38618}{38667}- lt's not worth getting killed over!|- Come back!
+{38669}{38718}- Jack, come back here!|- You ! Stop!
+{38886}{38935}- lt's not here.|- lt's not in hotel.
+{38937}{38976}l look everywhere.
+{38978}{39046}So l come here. l do like you say.|Whoosh, like magician.
+{39047}{39125}Oh, yeah.|You're the midget Houdini.
+{39127}{39169}Okay. Now the dinero.
+{40259}{40361}God, l had everything in that bag.|l had my passport, my credit cards.
+{40363}{40414}- Ow.|- Sorry.
+{40416}{40465}Thanks for doing this.
+{40467}{40529}Well, you're the one|bleeding to death.
+{40531}{40628}l am the one crying|about my MasterCard.
+{40630}{40693}l apologize|for having been a jerk.
+{40695}{40786}What do you mean?|l'm the jerk.
+{40822}{40868}Only trying to impress you.
+{40908}{40964}Well, for future reference...
+{40966}{41055}you should know that the living tend|to interest me more than the dead do.
+{41057}{41117}- Yeah?|- Yeah.
+{41119}{41175}l suppose that's quite healthy.
+{41342}{41468}l suppose we ought to call up|the Cancun police on the ship-to-shore.
+{41573}{41662}lt's not working.|We'll have to head further out.
+{41688}{41782}You can head to Morocco for all l care.|lt's beautiful out here.
+{42174}{42207}How we doing?
+{42231}{42286}Still no dice.
+{42802}{42919}l'm just going down below.|l won't be a minute.
+{43576}{43630}Maybe we didn't go out far enough.
+{43631}{43684}No, this should do it.
+{43842}{43923}Tonight's been|so out of control, huh?
+{43925}{43959}Yeah.
+{44639}{44707}l hope you don't|take this the wrong way...
+{44709}{44774}but this isn't exactly my style.
+{44819}{44872}l thought you liked taking risks.
+{44914}{45006}WeIl, yes, but l mean--
+{45008}{45078}- You know what l mean.|- What?
+{45080}{45133}- You know, first date.|- Yeah.
+{45135}{45189}- Sex, one-night stand.|- Oh, sex.
+{45191}{45246}Yes, that sort of thing.
+{45248}{45316}You've always been|a relationship kind of girl.
+{45318}{45375}Absolutely.|Both times.
+{45463}{45516}So when was the last time?
+{45518}{45588}Um, 1933.
+{45590}{45626}Oh, l see.
+{45686}{45750}And who was he?|Your college boyfriend?
+{45839}{45890}Yeah, l bet he was the--
+{45892}{45963}He was the captain|of the drinking team.
+{46003}{46052}Wasn't ready for a relationship.
+{46054}{46127}Oh, l wish l had been that lucky.
+{46129}{46200}No, it was my shrink, actually.
+{46248}{46294}You know the story.
+{46295}{46398}l thought l was lonely,|and he forgot he was married.
+{46443}{46504}That's okay.|lt didn't last very long.
+{46541}{46636}My mom developed Alzheimer's|around then, so it was really--
+{46708}{46767}You know what?|l'm gonna shut up right now.
+{46769}{46856}- l'm just gonna be quiet.|- lt's okay.
+{46858}{46954}No, actually, it's me|who doesn't want to hear it.
+{46993}{47118}Sorry. l'm rambling a little bit|because I'm a little nervous.
+{47235}{47275}You want a drink?
+{47277}{47347}Yes. That'd be greatly appreciated.|Thank you.
+{48471}{48518}So, what's this for?
+{48590}{48669}lt's, uh--|lt's for shark fishing.
+{48670}{48762}Shark fishing?|With a silencer?
+{48763}{48816}Yeah.
+{48898}{48943}You certainly|seem to know your ordnance.
+{48945}{49007}Colorado.|You grow up with guns.
+{49046}{49083}Yeah.
+{49106}{49196}So, who are you, Jack?
+{49242}{49286}Who am l?
+{49287}{49345}l'll tell you who l am.
+{49347}{49419}l'm Captain Goddamn America|meets Albert Schweitzer.
+{49421}{49488}That's who l am.|lsn't that what you always wanted?
+{49490}{49530}lt is. I remember.
+{49531}{49590}lt was butch...
+{49592}{49623}beautiful...
+{49625}{49663}brilliant,|spends all day...
+{49665}{49694}dashing into the fray...
+{49695}{49754}fists flying.
+{49756}{49842}Sorry, l don't know|any organ cantatas.
+{49844}{49875}Was that it?
+{49935}{49983}And if you'll excuse me...
+{50006}{50065}it's time to make the world|safe for democracy.
+{50330}{50374}Where's the clip?
+{50404}{50458}Give me that!
+{50552}{50574}Bitch.
+{50717}{50760}Somebody, l need help.
+{50762}{50798}Somebody? Hello?
+{50800}{50846}Please, somebody,|l need help.
+{50945}{50982}Keys. Okay.
+{53571}{53640}What? No.|How did l get here?
+{53677}{53714}How'd l get here?
+{53716}{53779}A fisherman found you.|He brought you here.
+{53804}{53851}You were very lucky|they came by.
+{53852}{53898}How long have l been here?
+{53900}{53950}Three days.|Try not to talk too much.
+{53981}{54027}Oh, we found a man's wallet...
+{54029}{54086}filled with pesos|and a lot of U.S. dollars.
+{54088}{54154}- We tried to contact him--|- No. He--
+{54155}{54230}No. There was no luck|finding this man.
+{54231}{54303}There was a disk.
+{54305}{54382}Green square, plastic disk.
+{54383}{54419}Ah, yes.
+{54443}{54517}The disk was ruined by the sun.
+{54518}{54583}You relax now, hmm?|Get well.
+{54585}{54625}- No. l need--|- ln a few days.
+{54627}{54738}Look at you now.|You haven't got the strength. Please.
+{54740}{54794}My clothes.|How much do l owe you?
+{54796}{54866}Please. You have to relax now.|You have to rest.
+{54867}{54922}- You need a few days.|- l need my clothes.
+{54924}{54974}l have to go.|l just need my clothes.
+{55210}{55310}ln national news, we go|to WNN correspondent Daniel Schorr.
+{55312}{55383}- Hi. l need--|- Wall Street panicked when prices...
+{55385}{55469}appeared to tumble at a rate|reminiscent of the Black Tuesday crash.
+{55471}{55531}Officials suspended trading|when it became clear...
+{55533}{55622}that the losses were fictitious|and caused by computer pranksters.
+{55624}{55714}- l need my room key for 2806, please.|- What is the name?
+{55715}{55776}-Angela Bennett.|-Wall Street expects to open tomorrow...
+{55778}{55896}with its computers protected by Gregg|Microsystems' latest security program...
+{55898}{55962}aptly nicknamed the Gatekeeper.
+{55964}{56011}What about that prank downtown?
+{56012}{56102}Pranks? Short-sheeting|someone's bed is a prank.
+{56103}{56184}These Praetorians could've done|serious damage to our economy...
+{56186}{56238}just as the actions|recently at LAX.
+{56240}{56326}No, l'm sorry. Angela Bennett|checked out last Saturday night.
+{56328}{56398}No. Sorry, you don't understand.|l'm Angela Bennett.
+{56400}{56449}l'm standing right here.|l didn't check out.
+{56450}{56526}lt's not on the computer here.|Let me check one more thing.
+{56613}{56659}No Angela Bennett.|She checked out last Saturday night.
+{56690}{56767}No, l didn't check out.|l would know if l checked out.
+{56769}{56837}- l didn't check out.|- According to the computer, you did.
+{56838}{56901}There's nothing l can do for you.|Okay? I'm sorry.
+{56902}{56974}- Excuse me, sir?|- Step here, sir, please.
+{56975}{57041}That room is fine.|We'll take it.
+{57042}{57139}That's for you. Okay.|This one. Excuse me, ma'am.
+{57215}{57270}- There you go.|- Thank you.
+{57272}{57344}Please dial|your card number again now.
+{57346}{57419}The card number you have just dialed|is not valid.
+{57463}{57502}Miss Marx?
+{57534}{57594}Please dial|your card number again now.
+{57596}{57654}- Ruth Marx? Excuse me.|- The card number you have just dialed--
+{57655}{57715}- Are you Ruth Marx?|- No.
+{57752}{57820}You're not the woman who was here|about a temporary visa?
+{57822}{57868}No, l am here about a visa, but--
+{57870}{57991}ls your Social Security number|915-30-1717?
+{57993}{58099}You live at 407 Finley Avenue,|Venice, California?
+{58118}{58144}Yeah.
+{58146}{58192}Well, then according|to the computers...
+{58194}{58247}of the California Department|of Motor Vehicles...
+{58249}{58300}you're Ruth Marx.
+{58321}{58376}So if that's who you are...
+{58378}{58449}you need to sign your name there,|and we'll issue your visa.
+{58451}{58536}- But l'm not--|- You're not what?
+{58627}{58694}l'm not clear about something.
+{58695}{58806}Without this, l can't get back|into the United States. ls that correct?
+{58808}{58841}That's correct.
+{58843}{58954}So all l would have to do|is just sign Ruth Marx and--
+{58955}{58990}Right there.
+{60382}{60434}Okay. Think, think.
+{61278}{61314}Oh, my God.
+{61366}{61398}Oh, my God.
+{61478}{61550}Where're you runnin'?|Don't run. Take your time. Relax.
+{61552}{61637}My name is Stan Whiteman,|Whiteman Realty. Let me show you around.
+{61638}{61673}You'll like it.
+{61675}{61734}Oh, l definitely saw her move out.
+{61736}{61784}Okay, when was this?
+{61786}{61858}Three days ago. Moving van,|moving men, furniture.
+{61859}{61964}l've been in Mexico for over a week.|How could l be in L.A. selling my house?
+{61966}{62056}lt wasn't your house to sell!|lt's not her! lt's not Angela Bennett!
+{62058}{62116}- Calm down.|- l am Angela Bennett!
+{62118}{62182}The real Angela Bennett|had the deed and the mortgage papers!
+{62184}{62271}l got 20,000 in computers.|l checked every record. lt's not her!
+{62273}{62391}Ma'am, it would help if you could|produce some form of identification.
+{62392}{62438}You know what?|l agree with you.
+{62440}{62494}But as l have told you|1,000 times today...
+{62496}{62543}l had everything stolen in Cozumel.
+{62544}{62622}Please. Ask her how she got|across the border without a passport.
+{62623}{62679}- l had a temporary issued.|- Do they do that?
+{62681}{62795}- l don't think they do that.|- Oh, my God. This is ridiculous.
+{62797}{62853}Here. Here it is.|This is it.
+{62854}{62917}lt's just that|it's under a different name.
+{62918}{62994}- Why's that?|- Because they think l'm not me.
+{62996}{63050}- ls this your signature?|- Well, no.
+{63051}{63149}lt's my handwriting, but l just signed|a different name that they gave me.
+{63151}{63198}lt's a federal offense|to forge a visa.
+{63199}{63273}Oh, really? lt is?|And what is it to steal an entire house?
+{63275}{63357}- Yo, Mike. You wanna run this?|- l'll be right back.
+{63359}{63410}lt's not gonna make any difference,|because what they've done is...
+{63411}{63477}they've screwed with my information|and my fingerprints.
+{63479}{63554}- Who's they?|- I have no idea.
+{63556}{63634}Where do you work?|Do you work around here?
+{63635}{63722}Yeah, l work in my house,|but my office is in San Francisco.
+{63724}{63799}But I've never been there.|I work out of my house.
+{63801}{63890}You don't know one person in a town|you've lived in for four years...
+{63892}{63965}who can vouch you're Angela Bennett--|not a mother, a father?
+{63966}{64046}My mother is not well.|My father is--
+{64048}{64104}No.
+{64106}{64223}There's, uh--|There's my therapist Alan Champion.
+{64224}{64291}- Your therapist?|- My ex-therapist, all right?
+{64588}{64659}Yeah, we've got a Ruth Marx|trying to run a scam at a house.
+{64661}{64738}She's wanted for prostitution|and narcotics.
+{64739}{64807}We're gonna bring her in.
+{64809}{64873}Um, would you excuse me?
+{64875}{64968}l'm gonna be right back.|l'm just gonna use--
+{65050}{65110}Mrs. Raines...
+{65129}{65188}is she or isn't she?
+{65190}{65247}She kept to herself,|didn't talk to anybody.
+{65279}{65326}- Where's the girl?|- She's--
+{65328}{65384}Where's my phone?|Anybody seen my phone?
+{65790}{65862}Excuse me, sir. Did you see|a young woman running out of here?
+{65863}{65936}- No, sir. l haven't seen anyone.|- Thanks.
+{66510}{66562}- Yeah?|- What the hell happened, Devlin?
+{66564}{66662}Don't worry. We'll get hold of the disk.|We'll find who she's been speaking to.
+{66664}{66741}She's out here on her own.|She's feeIing pretty vulnerable.
+{66742}{66834}We don't want another Cozumel, Devlin.|She's your responsibility. Deal with it.
+{66835}{66902}l said l'd take care of her,|all right?
+{67151}{67184}- Cathedral Software.|- Russ Melbourne.
+{67184}{67207}- Cathedral Software.|- Russ Melbourne.
+{67209}{67277}Mr. Melbourne is no longer|with the company.
+{67279}{67316}What do you mean?
+{67318}{67390}May l connect you|to someone who could help you?
+{67392}{67442}l've never dealt with anybody|in operations.
+{67443}{67529}- l don't know anybody else.|- Who may l connect you with?
+{67531}{67603}Head of Security Systems.|Tell them that it's Angela Bennett.
+{67605}{67658}Thank you. l'll put you through|to Miss Bennett.
+{67660}{67738}What? No.|l am Angela Bennett.
+{67798}{67843}This is Angela Bennett.
+{68007}{68087}- Who is this?|- This is Angela Bennett. Hello?
+{68213}{68298}This is someone that can help you.|Give us the disk, Angela.
+{68300}{68391}You have the wrong person.|l don't know what you're talking about.
+{68393}{68463}Just give us the disk,|and we'll give you your life back.
+{68465}{68572}l don't understand. l don't have|your disk. l don't know what you mean.
+{68574}{68632}Give us the disk, Angela.
+{68917}{68985}- What's the number?|- 555-7605.
+{68987}{69062}- Did you get the address?|- It's 3100 California.
+{69281}{69336}Hi. This is Dr. Alan Champion.|l can 't come to the phone right now.
+{69338}{69404}- Please be home.|- Please leave your name, your number.
+{69406}{69452}You know the drill.
+{69499}{69557}Are you screening?|Please be screening.
+{69558}{69635}- Hello? Hello. l'm home.|- Hi. lt's me.
+{69684}{69746}I need your help.|l'm in a lot of trouble.
+{69772}{69859}- Shit.|- I'm not sure what you want me to do.
+{69861}{69937}Hold on.|This is a cell phone, right?
+{69938}{69999}Yeah, so we can't put|a normal trace on it.
+{70001}{70066}Listen. There's no problem. No.
+{70068}{70114}- Just get the number.|- Right.
+{70116}{70177}But don't dial it.|Just send out a signal.
+{70178}{70225}- Send it from the base?|- Yeah.
+{70227}{70305}Then find me two repeater cells|that can pick it up.
+{70306}{70391}Give me the bisect, and it'll find it|within a few hundred yards.
+{70393}{70439}- Okay.|- Go.
+{71155}{71206}- Go, go.|- Nice to see you too.
+{71207}{71266}- l'm sorry. Just go.|- Come on. l'm not a cab.
+{71268}{71326}- Say hi.|- Hi. Can we go now?
+{71328}{71384}Yeah, now we can go.
+{71386}{71463}Listen, do you still have|that laptop that l gave you?
+{71465}{71518}- Uh-huh. l'm wearing it.|- l'm serious. Do you have it?
+{71520}{71614}- Yes, l have it.|- We need to get it and go to a hotel.
+{71615}{71676}- Now that's doable.|- Alan, just go.
+{71678}{71754}Just go, go, go.
+{71755}{71838}l swear to God. l asked for a quarter,|and she gave me a telephone.
+{71839}{71903}Yeah, that's right.|l'm calling everybody.
+{71905}{71943}Clever girl.
+{71989}{72041}Voila. Ouch.
+{72071}{72199}Alan, you don't have to stay|if you don't want to.
+{72201}{72267}l'm sure that--|God, what's her name?
+{72269}{72348}Amy. Don't worry.|lt's over with Amy.
+{72419}{72500}- l'm sorry.|- Don't be, dearie.
+{72502}{72562}We're not.|This is bizarre.
+{72564}{72628}l haven't seen you in so long.|What are we even doing here?
+{72630}{72683}l just figured you would be safe.
+{72685}{72781}Oh, great. So l've gone from being|a self-centered asshole to safe.
+{72782}{72846}Thank you very much.
+{72848}{72949}No, l just figured that they couldn't|trace me to you and that your--
+{72974}{73024}Your patient records|are confidential, right?
+{73026}{73113}My patient records.|Yeah, l knew l had my subtle charms.
+{73115}{73189}lt's just you're the only person|l have to turn to right now.
+{73191}{73312}And you know what, Angie?|l'm gonna take that as a big compliment.
+{73314}{73387}Guess what time it is.|Gibsons.
+{73389}{73457}Almost. We have no onions,|so we'll have to use these.
+{73459}{73543}Seldane, the antihistamine|of champions.
+{73568}{73618}l could always make you laugh,|couIdn't l?
+{73619}{73666}You know what?|l'm gonna pass.
+{73667}{73702}- No drink?|- No drink.
+{73747}{73794}All right.|l come bearing gifts.
+{73795}{73859}Some of Amy's clothes for you here.|Try these on.
+{74065}{74135}This is such a nightmare.|lt's Iike l'm not even me anymore.
+{74137}{74185}Hey, come here.
+{74186}{74261}Come on. Look at me.|You're freaking me.
+{74262}{74315}You gotta take a breath,|take a pause.
+{74341}{74435}Okay, if you're not you,|tell me who you think you are.
+{74437}{74492}- Christ, you're not even listening.|- l am listening.
+{74494}{74548}But come on.|Somebody stole your purse.
+{74550}{74622}- l didn't expect you to believe me.|- l do believe you.
+{74624}{74688}That's not true.|You know what l believe?
+{74690}{74747}l believe you're|a very frightened woman.
+{74749}{74795}ln general, you're disconnected|from the human race.
+{74797}{74853}l think you're way out there|on your own.
+{74854}{74911}- You mix in your father leaving--|- Oh, no.
+{74913}{75000}My father has nothing to do|with the fact that my car's missing.
+{75002}{75067}lt has nothing to do with the fact|that my house is empty.
+{75069}{75126}lt has nothing to do with the fact|that the police department...
+{75127}{75187}is chasing after me and that|somebody out there wants to kiIl me.
+{75188}{75266}l believe something happened,|but that just doesn't make sense.
+{75268}{75334}l don't want to be simplistic...
+{75336}{75410}but l think you're reaching out.
+{75412}{75472}You know what?|You're absolutely right.
+{75474}{75524}l'm reaching out|to anybody who knows me...
+{75526}{75583}anybody who will listen to me|and believe me...
+{75585}{75643}be my friend|and somebody to trust.
+{75645}{75698}Hey, Angie, l'm sorry.
+{75700}{75800}Sometimes it's easier for me|to play doctor than it is to listen.
+{75802}{75904}l just don't understand. Why me?|l am nobody. l am nothing.
+{75906}{75957}But they knew everything about me.
+{75959}{76037}They knew what l ate, what l drank,|what movies l watched.
+{76038}{76130}They knew where l was from. They knew|what cigarettes l used to smoke.
+{76132}{76217}And everything they did,|they must have watched on the lnternet.
+{76218}{76270}l don't know.|Watched my credit cards?
+{76271}{76346}Our whole lives are on the computer,|and they knew that l could be vanished.
+{76348}{76426}They knew that nobody would care|and it wouldn't matter.
+{76428}{76516}lt's going to be okay.|What can I do?
+{76518}{76585}l need for you to take my mom|and just put her anywhere.
+{76586}{76634}l don't care where.|Just put her under a different name.
+{76636}{76725}l don't know what these people will do.|You can do that 'cause you're a doctor?
+{76726}{76801}I can put your mom|in a sanitarium for observation.
+{76802}{76849}How's that?
+{76850}{76950}That would mean a lot to me,|'cause she's all l got left right now.
+{76952}{76998}All that you have left?
+{77000}{77090}Christ, Angie, they've really|gotten into your head with this.
+{77092}{77195}Put yourself in my shoes.|l don't hear from you for a long time.
+{77197}{77267}l get a phone call,|this convoluted story. Come on.
+{77289}{77364}l'm not buying the whole package,|but l'll tell you what l can do.
+{77366}{77425}l have a friend in the federal building.|His name's Ben Phillips.
+{77427}{77481}He's an FBl agent.|Why don't l--
+{77482}{77567}l've been running from the police|ever since l got back in this country.
+{77569}{77639}- That's the last thing that l need.|- Well, that's great, Angela.
+{77641}{77727}Why don't you just live the rest|of your life in this hotel room?
+{77757}{77809}Well, do you trust him?
+{77810}{77883}Yeah. I used to hold his head|over the toilet at frat parties.
+{77885}{77935}Come on. l'm serious.|Do you trust him?
+{77937}{77989}Yeah, l trust Ben. I do.
+{78037}{78091}Let's formulate our plan.|l'm gonna go back to my place.
+{78093}{78174}l'll figure out the best way|to transfer your mom to the sanitarium.
+{78176}{78247}Then l'll calI Ben. If l get any|information, l'll get back to you.
+{78290}{78367}Don't be so down. Come here.|lt's gonna be okay.
+{78369}{78415}l'm on watch now.
+{78417}{78508}You know, this would've never happened|if you had stayed with me.
+{78570}{78633}Hey, Alan, thank you...
+{78635}{78685}for everything.
+{78724}{78780}You're welcome.|You stay put, kiddo.
+{80170}{80241}Merci. Now prompt me, please.
+{80243}{80342}Okay, you carried this around, Devlin,|because it was important.
+{80577}{80627}Bethesda Naval Hospital.
+{80629}{80671}Password.
+{80707}{80787}Okay, password.|We're gonna try you.
+{80877}{80915}No. Okay.
+{80917}{80994}Well, you look familiar.|Let's try you again.
+{81035}{81087}Come on. Okay.
+{81358}{81409}Bergstrom? What?
+{81555}{81594}Oh, my God.
+{81982}{82010}Yeah.
+{82011}{82089}- Someone's on.|- Think it's our girl?
+{82090}{82167}Whoever it is is covering their tracks.|A dozen hops so far.
+{82169}{82235}A pop in Switzerland, a Unix box|in the University of Montana...
+{82237}{82297}five different routers|at Berkeley.
+{82299}{82373}- They know what they're doing.|- How long will it take to track her?
+{82375}{82490}Depending how long she stays on,|15 minutes, half hour at most.
+{82492}{82541}Call me the second you find her.
+{82543}{82594}And that other matter?
+{82622}{82675}That's free of charge.
+{83086}{83116}Thanks.
+{84866}{84904}Praetorians?
+{84953}{85017}What? l need more information.
+{85055}{85105}''The Big Bad Wolf, Cyberterrorists--''
+{85193}{85243}l need more information.
+{85288}{85373}''LAX, Wall Street, Atlanta.|Dangerous. Don't mess with them.''
+{85374}{85437}They've already|started messing with me.
+{85494}{85566}''Meet in lRL. ln Private.
+{85585}{85646}ln real life.''
+{85648}{85706}No, no.|lt's gotta be a public place.
+{85739}{85845}Where it's safe|with a lot of people.
+{85898}{85989}The Santa Monica Pier by--
+{85991}{86027}Where?
+{86029}{86072}The Ferris wheel.
+{86374}{86464}- Any luck?|- 8833 Rosewood in West Hollywood.
+{86466}{86539}Remind me to buy you guys|something nice.
+{87752}{87786}Hello?
+{87984}{88019}Angie!
+{88044}{88194}Recast.AI, the collaborative platform|for building bots! https://recast.ai

@@ -1,0 +1,878 @@
+{1}{1}4.36GB; 1280x544; 25fps.; x264; ac3-2.0,384kbps.;  Starman.1984.720p.HDTV.x264-IMF
+{48}{86}{y:i}Come on, honey. Good girl.
+{108}{147}{y:i}Take that stand.
+{153}{182}{y:i}Count!
+{186}{283}{y:i}- 10, 9, 8, 7...|{y:i}- Ignition.
+{285}{324}{y:i}...6...|{y:i}- Prepare for lift-off.
+{326}{384}{y:i}- Main-stage.|{y:i}...5, 4, 3...
+{386}{454}{y:i}... 2, 1, 0.
+{590}{657}And so Voyager II {y:i}is now {y:i}a part of history.
+{661}{741}{y:i}Rocketing into space from its launchpad|{y:i}here at Cape Kennedy...
+{743}{827}{y:i}... on this historic date: August 20, 1977.
+{841}{919}{y:i}Onboard the space probe|{y:i}are photographic images of Earth...
+{921}{990}{y:i}... verbal greetings|{y:i}and a medley of musical compositions.
+{1022}{1122}Voyager II {y:i}is our invitation|{y:i}to other intelligent species in the universe:
+{1124}{1190}{y:i}Please come and visit our planet Earth.
+{1323}{1379}{y:i}As the Secretary General|{y:i}of the United Nations...
+{1381}{1465}{y:i}... an organisation of 147 member states...
+{1467}{1579}...w{y:i}ho represent almost all|{y:i}of the human inhabitants of planet Earth...
+{1588}{1694}{y:i}... I send greetings on behalf of the people|{y:i}of our planet.
+{1719}{1869}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{3140}{3209}{y:i}Hello from the children of planet Earth.
+{5391}{5434}{y:i}I love you.
+{5665}{5739}Don't do this to yourself, Jenny.|Go to sleep.
+{6895}{6924}That's very good.
+{6926}{6974}- Mr. Director.|- Yes.
+{7005}{7057}Would you excuse me, please?
+{7331}{7403}- Sounds like Soviet space garbage.|- The MOLINK people say no.
+{7405}{7488}- What does the Kremlin say?|- {y:i}Na zdorovije. They don{y:i}'t know nothing.
+{7810}{7892}{y:i}This is Delta Yankee,|{y:i}two miles and closing, locked on target.
+{7894}{7957}{y:i}- Permission to launch.|{y:i}- Permission granted.
+{7959}{8019}{y:i}Delta Yankee executing launch.|{y:i}Missiles aw{y:i}ay.
+{8154}{8204}Interceptor Delta Yankee reports a hit, sir.
+{8209}{8271}No change in speed,|but another alteration of course.
+{8273}{8363}New estimated point of impact:|North Wisconsin by Chequamegon Bay.
+{8421}{8462}Get Mark Shermin.
+{8502}{8573}{y:i}Tony takes a pass,|{y:i}Murray drives to the left, he blow{y:i}s it.
+{8575}{8629}{y:i}He's dow{y:i}n. No harm, no foul.
+{8826}{8873}{y:i}Just under three minutes left to play.
+{8882}{8974}{y:i}Cheeks picks up Johnson at mid-court.|{y:i}Frank is looking for Greeney.
+{8976}{9048}{y:i}Now {y:i}he's into the top of the key|{y:i}and finds Johnson all alone.
+{9050}{9122}{y:i}He's up and in for a deuce.|{y:i}And he w{y:i}as fouled on the play.
+{9124}{9193}Call me back in 20 minutes, will you?
+{9209}{9239}Yes, sir.
+{9241}{9284}Sorry about that.
+{9392}{9417}What?
+{9593}{9645}Chequamegon Bay? Yes, sir.
+{9652}{9691}No problem.
+{17858}{17887}Scott?
+{18342}{18383}You{y:i}'re not Scott.
+{18475}{18504}Scott.
+{19240}{19308}{y:i}"Our Father who art in heaven,|Hallowed be thy name.
+{19310}{19397}{y:i}"Thy kingdom come, Thy will be done,|On earth as it is in heaven{y:i}."
+{19406}{19468}{y:i}"As the Secretary General|of the United Nations...
+{19470}{19528}{y:i}"...an organisation of 147 member states...
+{19535}{19624}{y:i}"...who represent almost all|of the human inhabitants of planet Earth...
+{19665}{19706}{y:i}"...I send greetings{y:i}."
+{20797}{20847}{y:i}Who is that handsome guy?
+{20868}{20907}{y:i}Oh, God, w{y:i}hat a day.
+{21391}{21506}{y:i}Here she comes, ladies and gentlemen.|{y:i}Look at that gorgeous car. Off w{y:i}e go.
+{21732}{21813}{y:i}Don't w{y:i}orry, it's not going to go off|{y:i}until the hammer's back.
+{21831}{21884}{y:i}What w{y:i}e w{y:i}ant to do...
+{21929}{21974}{y:i}... is w{y:i}e w{y:i}ant to squeeze...
+{22002}{22043}{y:i}... and squeeze.
+{22099}{22137}{y:i}One more time.
+{22178}{22208}{y:i}Not bad.
+{22227}{22318}{y:i}Actually, you should probably, you know{y:i},|{y:i}steady w{y:i}ith your other hand here.
+{22331}{22419}{y:i}You'll get more accuracy,|{y:i}probably, this w{y:i}ay.
+{22514}{22578}{y:i}Yeah, come here. Come here.
+{22650}{22690}{y:i}Don't be afraid.
+{22781}{22821}{y:i}Don't be afraid.
+{22833}{22867}{y:i}I mean you no harm.
+{23026}{23060}{y:i}Oh, this is great.
+{23101}{23126}{y:i}Yeah.
+{25364}{25416}Boy, what a weird dream.
+{28132}{28198}Who are you? What do you want?
+{28358}{28416}We go.
+{28658}{28713}I can{y:i}'t get the engine started.
+{29463}{29495}Where?
+{29522}{29563}Which way? Left, right?
+{30065}{30093}Here.
+{30144}{30199}You know where that place is?
+{30321}{30415}If this is California and down here is...
+{30425}{30516}...Texas, that must be, like...
+{30530}{30607}...Arizona, maybe.|- Want to be driven.
+{30636}{30665}Arizona maybe.
+{31301}{31345}Ten minutes.
+{31588}{31629}About that time, Mr. Shermin.
+{31631}{31674}- Okay.|- Coffee?
+{31677}{31703}Yeah.
+{31819}{31902}Sergeant, can you get police bands|on that thing?
+{31904}{31945}No problem. Why?
+{31965}{32021}I{y:i}'m interested in anything that{y:i}'s weird.
+{32024}{32082}You know, freaky, bizarre.
+{33288}{33318}- Hi there.|- Hi.
+{33320}{33416}- I{y:i}'m Major Bell.|- Mark Shermin. Is it clean?
+{33423}{33498}Well, no radioactivity.|No readings on bacteria.
+{33508}{33561}You attached to National Security?
+{33563}{33629}Not very. I just work for them.
+{33631}{33738}On loan. Sort of like a library book.|No, actually I{y:i}'m with SETI.
+{33740}{33787}Search for Extraterrestrial Intelligence.
+{33789}{33848}So they{y:i}'re sending you guys out|on meteorites now?
+{33850}{33909}- Only when they change course.|- Change course?
+{33911}{33969}- Can they do that?|- This one did.
+{33971}{34010}So they tell me. Twice.
+{34018}{34134}Either that or some airhead over at NORAD|misread a glitch on his monitor.
+{34140}{34204}It also came down slower|than suborbital speed.
+{34206}{34267}Naturally, they decided to fire|some missiles at it.
+{34342}{34413}- What the hell are they doing?|- Taking a core sample.
+{34415}{34484}- Nobody authorised that.|- Damn thing sounded hollow to me.
+{34486}{34534}There{y:i}'s no such thing as a hollow...
+{34648}{34690}Jesus Christ!
+{34715}{34749}You were about to say?
+{34761}{34848}{y:i}Up and at 'em, folks, this is station WDLU,|{y:i}in Madison, Wisconsin...
+{34850}{34889}{y:i}... bringing you the 6:00 a.m. New{y:i}s.
+{34891}{34964}{y:i}All of you that saw {y:i}that flash|{y:i}in the sky last night...
+{34966}{35042}{y:i}... it w{y:i}asn't the end of the w{y:i}orld|{y:i}or a burning airliner.
+{35044}{35120}{y:i}According to the A.P. w{y:i}ire,|{y:i}one of the biggest meteorites...
+{35122}{35189}{y:i}... to strike the planet Earth|{y:i}in the past 80 years...
+{35191}{35282}{y:i}... hit last night near Ashland,|{y:i}not far from Chequamegon Bay.
+{35285}{35371}{y:i}So you folks w{y:i}ho called in|{y:i}to say you saw {y:i}a flying saucer...
+{35482}{35535}That{y:i}'s about you, isn{y:i}'t it?
+{35563}{35659}You really are some kind of Martian|or something, aren{y:i}'t you?
+{35725}{35768}What do you want here?
+{35770}{35816}What are you doing?
+{35852}{35919}What do you want with me?|Where are you taking me?
+{35934}{35984}Why do you look so much like Scott?
+{36026}{36067}{y:i}"I can{y:i}'t get no
+{36094}{36138}{y:i}"satisfaction{y:i}"
+{36159}{36186}That does it.
+{36480}{36508}Help!
+{36542}{36584}You crazy sons of bitches.
+{36591}{36625}What{y:i}'s the matter with you?
+{36634}{36661}Help!
+{36663}{36692}Help me!
+{36703}{36743}Help me, please.
+{36746}{36790}I{y:i}'m being kidnapped.
+{36793}{36828}I send greetings.
+{36840}{36874}What{y:i}'s going on here?
+{36878}{36919}I{y:i}'m being kidnapped.
+{36943}{36968}Greetings.
+{37003}{37062}You{y:i}'d better let her go.|I{y:i}'ll give you greetings.
+{37977}{38010}How{y:i}'d you do that?
+{38042}{38090}Those little grey jobs?
+{39111}{39172}Communications Central,|this is Project Visitor...
+{39174}{39260}...at the Chequamegon sighting.|I have Mr. Shermin for you.
+{39263}{39315}The director{y:i}'s on the line.
+{39361}{39392}All right, what is it?
+{39397}{39427}I{y:i}'ll know more in two hours.
+{39429}{39497}We{y:i}'re taking it out now|and setting up a lab in Madison.
+{39502}{39589}This meteor, the Chequamegon sighting,|appears to be hollow?
+{39598}{39679}No, not {y:i}"appears to be{y:i}." It is hollow.
+{39727}{39793}I think the balloon has just gone up, sir.
+{40109}{40193}Do you have to keep that thing|on your lap like that?
+{40200}{40278}Those things{y:i}...|Guns make me a little bit jumpy.
+{40291}{40350}Define {y:i}"little bit jumpy{y:i}."
+{40387}{40430}That{y:i}'s a little bit.
+{40466}{40551}Jumpy{y:i}'s like nervous, afraid.
+{40573}{40612}You know that word {y:i}"afraid{y:i}"?
+{40614}{40656}{y:i}"Afraid{y:i}." Yes.
+{40696}{40747}How much English do you understand?
+{40756}{40839}I understand greetings|in 54 planet Earth languages.
+{40865}{40983}I understand English language little bit.
+{41120}{41188}Nothing much in there.|It{y:i}'s just a lot of junk.
+{41211}{41256}That{y:i}'s my wallet.
+{41462}{41514}That{y:i}'s my driver{y:i}'s license.
+{41618}{41697}That{y:i}'s me. My name, Jenny Hayden.
+{41706}{41741}{y:i}"Jenny Hayden{y:i}."
+{41792}{41834}What do you want, anyway?
+{41843}{41889}Why did you come here?
+{41948}{41980}Oh, my God.
+{42039}{42078}I look like Scott.
+{42207}{42238}Yeah, you do.
+{42337}{42379}I look like Scott...
+{42390}{42469}...so you do not be little bit jumpy.
+{43713}{43800}Listen, about those police calls,|you did say anything weird, right?
+{43802}{43865}- You got something?|- Just picked up one from Ashland.
+{43867}{43904}Happened sometime this morning.
+{43906}{44006}A guy name Heinmuller had a collision|with an orange and black {y:i}'77 Mustang.
+{44008}{44065}The gal driving claimed|she was being kidnapped.
+{44070}{44159}But when Heinmuller went to help her,|the kidnapper...
+{44168}{44226}...yelled, {y:i}"Greetings{y:i}"|and melted his lug wrench.
+{44245}{44298}Yelled, {y:i}"Greetings{y:i}"|and melted his lug wrench?
+{44300}{44340}Weird you want, weird you get.
+{44345}{44384}How do you melt a lug wrench?
+{44386}{44445}I just copy them down,|I don{y:i}'t explain them.
+{44471}{44583}- Did anybody get a license number?|- Wisconsin plates, Papa X-ray Victor 2-3-7.
+{44585}{44644}We{y:i}'re checking the owner|through DMV now.
+{45275}{45320}What the hell is that thing?
+{45340}{45401}Well, it{y:i}'s sort of an invitation, Major.
+{45407}{45474}Remember that package|we sent up with the {y:i}Voyager probe?
+{45486}{45541}There was a gold anodised disk...
+{45544}{45620}...with greetings from Earth|in 54 different languages.
+{45622}{45697}Complete with a nice little speech|from Kurt Waldheim:
+{45699}{45810}{y:i}"To whom it may concern.|Come and see us sometime{y:i}."
+{45912}{45951}We{y:i}'re coming to a gas station.
+{45953}{46037}- We{y:i}'re gonna need some gas. Okay?|- {y:i}"Gas{y:i}"?
+{46050}{46077}Gas.
+{46109}{46158}For the car. Fuel.
+{46172}{46206}Energy.
+{46229}{46336}I step on the gas, the car goes,|I take my foot off, it stops. Understand?
+{46348}{46413}No. I do not understand.
+{46461}{46524}How can car need energy so soon?
+{46548}{46626}I don{y:i}'t know.|I{y:i}'m just telling you, this is the gas gauge.
+{46628}{46736}When the needle gets to E, that{y:i}'s {y:i}"Empty{y:i}."|No gas. The car stops. Period.
+{46752}{46777}Okay.
+{46791}{46822}Get gas.
+{47264}{47313}- Here you go.|- Take it easy.
+{47317}{47369}Yeah. Take it easy.
+{47484}{47508}Hi.
+{47510}{47571}- Fill her up, unleaded.|- Gas.
+{47601}{47631}Gotcha.
+{47945}{47981}Yeah, I know.
+{47999}{48051}I have to go to the bathroom.
+{48054}{48111}The ladies{y:i}' room. The restroom.
+{48171}{48246}It{y:i}'s when a person has to{y:i}...
+{48287}{48367}The hell with it,|you figure it out for yourself, I{y:i}'m going.
+{49307}{49355}{y:i}"Women{y:i}." Me.
+{49443}{49491}{y:i}"Men{y:i}." You.
+{49521}{49555}Understand?
+{49874}{49912}Can{y:i}'t get her out?
+{49941}{49967}Gas.
+{49979}{50044}Yeah, well, I know just how she feels.
+{50566}{50636}Every goddamn place you go.
+{50720}{50756}Take it easy.
+{50812}{50844}Up yours.
+{51032}{51069}Take it easy.
+{51135}{51172}Up yours.
+{51488}{51523}Hi, let{y:i}'s go.
+{51641}{51695}Nothing of interest in here.
+{52401}{52476}You wanna sign that for me, Ms. Hayden?
+{53161}{53203}Kidnapped.
+{53262}{53290}What?
+{53391}{53435}What is...
+{53481}{53542}{y:i}..."kidnapped{y:i}"?
+{53803}{53858}You want to know what kidnapped is?
+{53881}{53964}It{y:i}'s being dragged out of your house|in the middle of the night...
+{53966}{54025}...by some whatever you are.
+{54032}{54143}Being forced to drive all night at gunpoint|and not knowing where you{y:i}'re going...
+{54145}{54217}...or what{y:i}'s going to happen to you|when you get there.
+{54219}{54299}So if you{y:i}'re going to shoot me, go ahead.
+{54337}{54426}Because I{y:i}'d rather be shot|than go on being scared to death.
+{54562}{54597}Go ahead.
+{54949}{55024}I mean you no harm, Jenny Hayden.
+{55350}{55434}{y:i}Here's OI' Blue Eyes, Francis Albert.
+{55899}{55970}{y:i}"Start spreading the news
+{56000}{56072}{y:i}"I{y:i}'m leaving today
+{56091}{56184}{y:i}"I want to be a part of it
+{56204}{56298}{y:i}"New York, New York{y:i}"
+{56341}{56374}I{y:i}'m sorry.
+{56387}{56428}I did awaken you.
+{56610}{56691}Do they sing a lot where you live?
+{56738}{56796}Yes. We sing.
+{56841}{56896}Do you ever get hungry?
+{56977}{57022}Empty here?
+{57048}{57104}Like a car needs gas?
+{57122}{57152}Yes.
+{57221}{57289}This body has a terrible emptiness.
+{57296}{57340}This is called {y:i}"hungry{y:i}"?
+{57342}{57429}Yeah, and when people get hungry|they have to eat food.
+{57455}{57514}Eat. Yes, we must do that.
+{57545}{57638}We will stop at food station.|You have hungry too?
+{57659}{57695}I{y:i}'m starving.
+{57713}{57762}I haven{y:i}'t eaten since{y:i}...
+{57844}{57871}Oh, my God.
+{57908}{57953}Look out! What are you doing?
+{58156}{58184}Okay?
+{58199}{58247}Okay? Are you crazy?
+{58249}{58299}You almost got us killed.
+{58330}{58401}You said you watched me.|You said you knew the rules!
+{58403}{58438}I do know the rules.
+{58440}{58520}For your information,|that was a yellow light back there.
+{58576}{58629}I watched you very carefully.
+{58664}{58791}Red light: Stop. Green light: Go.|Yellow light: Go very fast.
+{58841}{58913}- You better let me drive.|- I will drive.
+{58960}{59047}Do you seriously expect me|to tell the President...
+{59057}{59109}...that an alien has landed...
+{59116}{59235}...assumed the identity of a dead|housepainter from Madison, Wisconsin...
+{59237}{59315}...and is presently out|tooling around the countryside...
+{59321}{59422}...in a hopped-up|orange and black 1977 Mustang?
+{59445}{59507}We have the following givens:
+{59523}{59637}That man, Scott Hayden, died last April.|He{y:i}'s dead and buried, that{y:i}'s verified.
+{59642}{59694}He has no brothers or lookalike cousins.
+{59696}{59755}But still, this morning,|at approximately 6:00...
+{59757}{59828}All right, we have been through all of that.
+{59835}{59895}I{y:i}'m going to ask you now,|how could it happen?
+{59904}{59969}We think it might be|some kind of a cloning deal...
+{59971}{60039}...replication of an entire organism|from a single cell.
+{60041}{60096}We found some hairs|from Scott Hayden{y:i}'s head.
+{60098}{60125}Is that possible?
+{60129}{60213}I mean, can you clone a living organism|from the hair of a dead man?
+{60226}{60281}Human hair consists of keratinised cells.
+{60283}{60356}But in order to determine|whether replication is possible...
+{60363}{60402}I asked you a question.
+{60413}{60444}You mean us?
+{60446}{60503}- In our present state of technology?|- Yes.
+{60515}{60580}- No.|- What the hell are we talking about?
+{60584}{60635}We{y:i}'re hypothesizing a technology...
+{60637}{60703}...that{y:i}'s probably|100,000 years ahead of us.
+{60705}{60759}We{y:i}'re the ancients, Mr. Fox.
+{60784}{60809}{y:i}"Ancients{y:i}"?
+{60811}{60880}Technologically, yes. We{y:i}'ve just started.
+{60914}{60976}Even if you{y:i}'re right, I still have problems.
+{60978}{61013}His knowledge of English.
+{61031}{61076}Okay, listen to this.
+{61137}{61190}I helped put this package together.
+{61192}{61256}This was designed|so that an intelligent species...
+{61258}{61314}...could get|a working knowledge of English.
+{61316}{61351}Enough to get by, anyhow.
+{61353}{61425}A couple-of-hundred-word vocabulary,|a rough idea of syntax.
+{61434}{61526}Think of what it would mean to talk|to a being from a civilisation like that.
+{61528}{61576}Think of what we could learn.
+{61578}{61621}{y:i}... of 147 member states...
+{61623}{61730}...w{y:i}ho represent almost all|{y:i}of the human inhabitants of planet Earth...
+{61737}{61763}{y:i}... I send greetings...
+{61765}{61838}{y:i}"Greetings,{y:i}" that{y:i}'s what he said|to Heinmuller on the road.
+{61841}{61905}It{y:i}'s also what the cannibal said|to the missionary...
+{61907}{61958}...just before he ate him.
+{61960}{62049}Now the question in this case is:|Who is the missionary...
+{62055}{62092}...and who are the cannibals?
+{62170}{62212}When do you have to be there?
+{62234}{62259}What?
+{62290}{62360}In Arizona. When do you have to be there?
+{62421}{62475}Do you see this little star?
+{62536}{62599}Star? What star? Where?
+{62664}{62693}There.
+{62747}{62792}We call that the sun.
+{62823}{62872}When this little{y:i}...
+{62891}{62932}When the sun...
+{62963}{63076}...appears mid-sky three more times,|I must be at Arizona.
+{63078}{63175}You mean, 12:00 noon,|three days from now?
+{63184}{63211}Yes.
+{63233}{63305}What happens|if you don{y:i}'t get there in time?
+{63329}{63378}Then they will go.
+{63385}{63445}- Without you?|- Yes.
+{63472}{63511}What will you do then?
+{63513}{63571}Then I will die.
+{63588}{63615}Die?
+{63793}{63827}Understand?
+{63992}{64043}You look for food station.
+{64888}{64914}What?
+{64983}{65011}A deer.
+{65043}{65079}A dead deer.
+{65118}{65157}{y:i}"Dead deer,{y:i}" why?
+{65181}{65279}People hunt them to eat for food.
+{65323}{65366}Do deer eat people?
+{65380}{65406}No.
+{65413}{65475}Do people eat people?
+{65482}{65537}No, of course not.|What do you think we are?
+{65571}{65645}I think you are a very primitive species.
+{65714}{65766}What are you, softhearted?
+{65784}{65828}Cry when you saw {y:i}Bambi?
+{65839}{65885}Define {y:i}"Bambi{y:i}."
+{65887}{65951}He doesn{y:i}'t understand.|He{y:i}'s not from around here.
+{65965}{66023}You don{y:i}'t speak any English?
+{66110}{66150}Steer clear of that bozo.
+{66175}{66217}Define {y:i}"bozo{y:i}."
+{66234}{66259}Jerk.
+{66339}{66393}From Denver, here{y:i}...
+{66493}{66571}It{y:i}'s south on Interstate 25.
+{66589}{66660}Then you pick up l-40 westbound|at Albuquerque.
+{66662}{66759}Will you forget the deer for a second?|I{y:i}'m trying to show you something.
+{66761}{66861}Where exactly in Arizona|are you supposed to meet your friends?
+{67010}{67051}West of Winslow.
+{67066}{67133}I see a little speck on the map,|but there{y:i}'s{y:i}...
+{67145}{67176}Crater?
+{67190}{67275}Is that where you{y:i}'re supposed|to meet them? Where the meteor hit?
+{67277}{67313}Why do you do this?
+{67369}{67445}Better safe than sorry.|Just in case something happens to me.
+{67447}{67491}There{y:i}'s one more thing.
+{67515}{67558}The credit card, for the gas.
+{67560}{67651}- You know how that worked?|- Why should something happen to you?
+{67763}{67796}Who knows?
+{67817}{67917}The way you drive, travelling with you|could be detrimental to the health.
+{68129}{68154}That{y:i}'s...
+{68204}{68259}...me and Scott on our honeymoon.
+{68323}{68366}A honeymoon is...
+{68412}{68461}...what you call it when...
+{68504}{68574}...two people first get married and they...
+{68600}{68659}...go off together|after they{y:i}'ve fallen in love.
+{68692}{68722}Define {y:i}"love{y:i}."
+{68844}{68881}Love is{y:i}...
+{68996}{69047}It{y:i}'s when you care...
+{69103}{69181}...more for someone else|than you do for yourself.
+{69214}{69272}But it{y:i}'s not just that, it{y:i}'s{y:i}...
+{69325}{69436}It{y:i}'s when someone is a part of you.
+{69485}{69522}And when they{y:i}...
+{69629}{69657}What?
+{69728}{69765}Scott is dead.
+{69789}{69834}He was killed in an accident.
+{69927}{69979}When someone you love...
+{70026}{70067}...dies{y:i}...
+{70131}{70162}Shit.
+{70287}{70322}Define {y:i}"shit{y:i}."
+{70368}{70440}Don{y:i}'t say that, that{y:i}'s not a nice word.
+{70499}{70524}Shit.
+{70560}{70648}Don{y:i}'t mind him,|he{y:i}'s just learning to speak English.
+{70652}{70705}He{y:i}'s got a hell of a start on it.
+{70707}{70768}Who{y:i}'s the devilled egg on white toast?
+{70770}{70795}His.
+{70806}{70875}Right. And a superburger.
+{70886}{70972}Two orders of fries, two choc malts...
+{70982}{71045}...and two Dutch apple pie|with whipped cream.
+{71065}{71118}I had a wedge of it myself.
+{71123}{71192}It{y:i}'s terrific. Enjoy.
+{71261}{71296}Dig in.
+{71369}{71457}Wait. No. That{y:i}'s your dessert.
+{71481}{71531}You eat that with a fork.
+{71556}{71632}This thing. Here.
+{71640}{71673}Like this.
+{71735}{71807}No, but you eat that last.
+{71815}{71869}Sandwich first, dessert last.
+{71901}{71928}Why?
+{71967}{72034}I don{y:i}'t know, that{y:i}'s just how it{y:i}'s done.
+{72236}{72278}What{y:i}'s the matter?
+{72328}{72368}Dutch apple pie.
+{72398}{72426}Good?
+{72478}{72515}It{y:i}'s terrific.
+{72651}{72706}For a primitive species we have our points.
+{72708}{72816}Anybody for Lincoln, Omaha or Chicago,|the bus leaves in five minutes.
+{73050}{73130}I{y:i}'ve got to go to the{y:i}...
+{73213}{73252}I{y:i}'ll be right back.
+{73553}{73637}Excuse me,|is there a back way out of here?
+{73640}{73703}Yeah, sure, through the kitchen. Why?
+{73760}{73822}- You know that fellow I came in with?|- Yes.
+{73838}{73927}Could you give these things to him|after the bus leaves?
+{73929}{74011}It{y:i}'s just a map and some car keys|and a credit card.
+{74013}{74110}- You sure, honey?|- Yeah, I{y:i}'m positive. Thanks.
+{74171}{74205}Hey, honey.
+{74216}{74274}I wouldn{y:i}'t go out|through the back door right now.
+{74276}{74364}That friend of yours,|he{y:i}'s out there in the parking lot.
+{74417}{74447}Thanks.
+{76006}{76082}Excuse me, miss.|You strike me as a meat-eater.
+{76084}{76140}I could fix you up|with a nice haunch of venison.
+{76142}{76198}Maybe even a shot of pork if you could{y:i}...
+{76257}{76296}Why, that son of a bitch.
+{76305}{76330}No.
+{76440}{76508}Hey, what happened to the goddamn deer?
+{76537}{76594}He went there, to the woods.
+{76604}{76642}Okay, comedian.
+{76696}{76725}Bingo.
+{76761}{76806}Stop it. You leave him alone!
+{76809}{76856}- Butt out, girlie.|- He doesn{y:i}'t understand.
+{76858}{76926}- He{y:i}'s a foreigner and doesn{y:i}'t speak English.|- So what?
+{76928}{76955}Hey!
+{77018}{77047}{y:i}"Bingo{y:i}."
+{77665}{77713}Here, you{y:i}'re losing your English, boy.
+{77883}{77945}Pick up your garbage and get going.
+{78157}{78229}Oh, Jesus. You okay?
+{78231}{78336}I thought guns make you a little bit jumpy,|Jenny Hayden.
+{78338}{78395}You make me a little bit jumpy.
+{78437}{78519}I thought I told you to stay away|from those bozos.
+{78600}{78660}It{y:i}'s okay. I think I understand.
+{78984}{79032}It looks better that way.
+{79034}{79082}Thank you, Jenny Hayden.
+{79211}{79271}All part of our friendly service.
+{79364}{79392}You okay, honey?
+{79394}{79422}I{y:i}'m all right.
+{79424}{79511}I wanted to tell you|that eastbound bus is about to go.
+{79513}{79564}Want me to try to hold it?
+{79686}{79751}No, thank you. Never mind.
+{79753}{79809}Thanks, but never mind.
+{79832}{79865}Good luck.
+{80188}{80262}I{y:i}'m gonna get that bastard, Donnie Bob.|Right now.
+{80449}{80486}Hey, look out!
+{80570}{80598}Take it easy!
+{80605}{80649}Up yours.
+{80663}{80705}I{y:i}'m gonna get that son of a bitch.
+{81287}{81382}It{y:i}'s their fault, the Mustang.|Son of a bitch hit me and just took off.
+{81384}{81411}Anybody get his number?
+{81413}{81530}No, but it won{y:i}'t be too hard to pick up.|1977 Mustang, Wisconsin plates on it.
+{81740}{81797}That Mustang them State boys wanted{y:i}...
+{81799}{81865}- Orange and black {y:i}'77, Wisconsin plates?|- Yeah.
+{81867}{81950}Well, kick her in the ass,|I think we got the bastard.
+{82152}{82231}We{y:i}'ve been here since 6:30 p.m.|When can we leave?
+{82233}{82329}As soon as the Federals say so,|and not one damn minute before.
+{82595}{82646}Everybody tells it|pretty much the same way.
+{82648}{82742}She had chances to get away from him,|but they left together with her driving.
+{82744}{82818}Does that sound like any kind|of kidnapping you ever heard of?
+{82821}{82848}Mr. Shermin!
+{82850}{82921}They spotted an orange and black|Mustang, Wisconsin plates...
+{82923}{82959}...going west near Big Springs.
+{82961}{82990}Great.
+{83068}{83169}Scott and I met two winters ago|up at Iron Mountain, ice-skating.
+{83209}{83280}I had on this little tight skating outfit.
+{83338}{83429}I was showing off. He kept staring at me.
+{83491}{83554}One thing lead to another|and a few months later...
+{83556}{83599}...we were on our honeymoon.
+{83625}{83667}Honeymoon is nice?
+{83686}{83740}Yeah, ours was beautiful.
+{83807}{83848}Define {y:i}"beautiful{y:i}."
+{83856}{83975}Beautiful is better than terrific...
+{84010}{84073}...better than Dutch apple pie.
+{84123}{84159}The best.
+{84194}{84227}The best.
+{84721}{84808}Gotta get a couple of hours sleep.|Just a couple, okay?
+{85498}{85527}{y:i}Do not approach them.
+{85529}{85597}{y:i}Keep them under surveillance|{y:i}until the Feds get there.
+{85605}{85654}But what if they approach us?
+{85656}{85725}{y:i}In a life-threatening situation,|{y:i}defend yourselves.
+{85727}{85781}{y:i}Otherwise, w{y:i}ait for the Feds.
+{85790}{85827}Wait for the Feds.
+{85829}{85922}They get the 6:00 news,|and we get the shit end of the stick.
+{85924}{85963}That{y:i}'s the way it is.
+{85965}{86036}Yeah, well, it doesn{y:i}'t have to be that way.
+{86039}{86157}I got a hunch, this might just develop|into a life-threatening situation.
+{86173}{86281}Hi. We{y:i}'d like a room for the night.|As far away from this as possible.
+{86341}{86398}Boy, am I whipped.
+{86449}{86543}My mom always said there wasn{y:i}'t a thing|wrong with the world that a hot bath...
+{86545}{86605}...and a good night{y:i}'s sleep couldn{y:i}'t fix.
+{86731}{86771}What am I doing?
+{86787}{86821}I must be getting punchy.
+{86823}{86898}It{y:i}'s just that in that light|you look so much like Scott.
+{86900}{86980}- I wasn{y:i}'t thinking.|- You said the nose is different.
+{86982}{87007}What?
+{87013}{87072}You said, {y:i}"Your nose is different.
+{87075}{87189}{y:i}"He broke his twice and there{y:i}'s something|else, something spooky about your eyes{y:i}."
+{87196}{87241}That{y:i}'s word for word.
+{87250}{87309}You remember everything you hear|word for word?
+{87312}{87391}Everything I hear, everything I see.|Everything{y:i}...
+{87450}{87505}Everything this body feels.
+{87677}{87708}The tub.
+{87719}{87798}{y:i}The questions are w{y:i}orth 30 points apiece.|{y:i}Jane, tell us about it.
+{87800}{87835}{y:i}Your final category today is...
+{87972}{88033}{y:i}Believe me, General.|{y:i}I know w{y:i}hat w{y:i}ent w{y:i}rong.
+{88035}{88080}{y:i}The X-factor w{y:i}asn't red.
+{89191}{89253}{y:i}I never knew {y:i}it could be like this.
+{89256}{89321}{y:i}Nobody ever kissed me the w{y:i}ay you do.
+{89329}{89359}{y:i}Nobody?
+{89368}{89406}{y:i}No, nobody.
+{89432}{89508}{y:i}Not even one?|{y:i}Out of all the men you've been kissed by?
+{89544}{89596}{y:i}Well, that'll take some figuring.
+{89598}{89639}{y:i}How {y:i}many men you think there've been?
+{89641}{89693}{y:i}I w{y:i}ouldn't know.|{y:i}Can't you give me an estimate?
+{89695}{89790}{y:i}Not w{y:i}ithout an adding machine.|{y:i}You have your adding machine w{y:i}ith you?
+{89792}{89837}{y:i}I forgot to bring it.
+{89842}{89913}{y:i}Then I guess you w{y:i}on't find out, w{y:i}ill you?
+{89927}{89985}Hey there, buddy. Are you in there?
+{90091}{90183}It{y:i}'s none of my business, but if that{y:i}'s|your Mustang in the parking lot...
+{90185}{90241}...there{y:i}'s two cops trying to jigger the lock.
+{90759}{90811}The bastards ran one on us!
+{91031}{91071}Papa Charlie 3.
+{91073}{91139}Suspects in Mustang heading south|on Big Springs{y:i}' bypass.
+{91141}{91175}We are in pursuit.
+{91603}{91635}He{y:i}'s got a gun.
+{91700}{91726}No!
+{91957}{91992}Jenny Hayden?
+{92103}{92132}Jenny Hayden?
+{92273}{92329}{y:i}Papa Charlie 3.
+{92331}{92420}{y:i}Suspects on l-80 proceeding northbound.|{y:i}Still in pursuit.
+{94415}{94479}It sounds impossible,|but I have people that say...
+{94481}{94554}...they saw him carrying her out|of the burning wreckage.
+{94556}{94602}Then they disappeared in the smoke.
+{94604}{94694}I{y:i}'ve had the police check the entire area|and there are no bodies.
+{94696}{94730}Oh, thanks.
+{94733}{94819}I assume that they{y:i}'re still alive|and they{y:i}'re probably headed west.
+{94821}{94873}I{y:i}'m going to Grand Junction, Colorado.
+{94875}{94983}The Army is setting up some kind|of a roadblock on l-70. I{y:i}'m going.
+{100993}{101026}Hey, Mark!
+{101073}{101143}- You{y:i}'re wanted on the horn. Urgent.|- Okay.
+{101265}{101341}Hello? I{y:i}'ve probably been cut off. Hello?
+{101358}{101408}Hello, I was talking to the police.
+{101411}{101463}{y:i}I'm not the police, Mrs. Hayden.
+{101465}{101517}{y:i}My name is Mark Shermin,|{y:i}National Security.
+{101529}{101580}You wanted to talk about kidnapping?
+{101589}{101684}Yeah, that{y:i}'s why I{y:i}'m calling.|You see, there{y:i}'s been a mistake.
+{101686}{101741}There hasn{y:i}'t been a kidnapping.
+{101746}{101802}We{y:i}'re worried about you, Mrs. Hayden.
+{101804}{101849}{y:i}I'm fine. Really, I'm fine.
+{101852}{101923}I wanted to clear it up.|There hasn{y:i}'t been a kidnapping.
+{101929}{101971}Where are you talking from?
+{101988}{102042}I don{y:i}'t know. A truck stop somewhere.
+{102044}{102100}{y:i}Can I pick you up?|{y:i}I gotta ask you some questions.
+{102102}{102141}- Miss?|- Hold on a second.
+{102151}{102183}You looking for a fella?
+{102185}{102253}About yea tall, red plaid shirt|and kind of nice looking?
+{102255}{102284}Have you seen him?
+{102286}{102365}He hitched a ride west with our night cook|about half an hour ago.
+{102367}{102411}Thank you, thank you very much.
+{102413}{102467}Look, I{y:i}'m hanging up now. I{y:i}'ve gotta go.
+{102469}{102525}If you want,|call me in Madison in a few days.
+{102527}{102592}{y:i}- I'm in the phone book.|- Wait, Mrs. Hayden.
+{102598}{102699}Do you know who or what|you were kidnapped by?
+{102736}{102794}He doesn{y:i}'t want to hurt anybody.
+{102814}{102881}Really, can{y:i}'t you just leave him alone?
+{102899}{102969}Hello? Damn it!
+{103036}{103085}I need a ride west, fast.
+{103128}{103202}I{y:i}'ll take you. Come on, let{y:i}'s go.
+{103634}{103675}What{y:i}'s your line?
+{103694}{103730}- {y:i}"Line{y:i}"?|- Work.
+{103739}{103802}What do you do|when you{y:i}'re not hitching rides?
+{103804}{103845}I make maps.
+{103862}{103900}Make any money?
+{103962}{103997}I make maps.
+{104036}{104111}You don{y:i}'t get rich cooking, either,|believe me.
+{104118}{104203}I got a girl, she{y:i}'s getting ready|to go to college this fall.
+{104205}{104266}My wife had to go back nursing|to help me pay for it.
+{104268}{104314}Here, you wanna smoke?
+{104373}{104414}Yeah, my little baby.
+{104416}{104484}Says she wants to be a doctor.|I don{y:i}'t know.
+{104491}{104573}Costs an arm and a leg|to raise up kids these days.
+{104579}{104620}{y:i}"An arm and a leg{y:i}"?
+{104626}{104691}Bread. Geetus. Money. And lots of it.
+{105150}{105186}You all right?
+{105247}{105298}You{y:i}'re not from around here, are you?
+{105798}{105835}What the John?
+{105868}{105926}Some kind of roadblock, I guess.
+{105954}{105997}{y:i}"Roadblock, I guess{y:i}."
+{106341}{106403}Keep them in line.|They{y:i}'re slipping around the end.
+{106405}{106454}Yes, sir. Sergeant, you heard the man.
+{106460}{106545}Right away, sir. Get in line. Line up.
+{106682}{106744}Move to the right and stay in line.
+{106836}{106930}Stay in line. All you pedestrians, line up.
+{107212}{107307}Line up. Move to the right and stay in line.
+{107480}{107508}Oh, no.
+{107618}{107646}You gotta help me, okay?
+{108111}{108200}Stop him! After that car! After him!
+{109137}{109193}Thank God! How did you get here?
+{109201}{109258}I hitched a ride with a cook.
+{109317}{109378}It{y:i}'s good to see you, Jenny Hayden.
+{109509}{109571}We gotta get out of here. Come on.
+{110322}{110389}I{y:i}'ve done something wrong, Jenny Hayden?
+{110555}{110611}I wake up alone. You{y:i}'re gone.
+{110619}{110664}Not a word. Nothing.
+{110727}{110817}You were right.|To be with me is not good for your health.
+{110863}{110963}You could have at least told me|where you were going. Said goodbye.
+{111025}{111056}{y:i}"Goodbye{y:i}"?
+{111081}{111112}Goodbye.
+{111206}{111252}You don{y:i}'t know what{y:i}...
+{111268}{111305}Teach me this.
+{111357}{111417}Well, I don{y:i}'t know. It{y:i}'s a custom.
+{111450}{111479}It{y:i}'s...
+{111532}{111626}...how you tell somebody|that you{y:i}'ll miss them...
+{111628}{111696}...that you wish them well.
+{111737}{111787}That you hope{y:i}...
+{111838}{111901}Her tooth coming in{y:i}. Pobrecita.
+{112011}{112068}Can anyone have babies?
+{112155}{112189}Just women.
+{112239}{112325}I understand the reproductive process|as you know it.
+{112369}{112406}As we know it?
+{112513}{112553}You have a baby?
+{112592}{112618}No.
+{112646}{112679}No babies.
+{112759}{112790}Why not?
+{112890}{112977}Scott and I wanted to have a baby.
+{113003}{113098}It just turned out I couldn{y:i}'t.
+{113158}{113245}I{y:i}'m one of those lucky ladies that just...
+{113301}{113344}...can{y:i}'t have one.
+{114059}{114111}Here, a blanket! It{y:i}'s dry.
+{114830}{114899}You better get out of those wet clothes.
+{114931}{114971}Better get warm.
+{115005}{115063}You know what pneumonia is? No?
+{115069}{115164}Well, you{y:i}'re gonna find out|unless we get you dry in a hurry.
+{115357}{115399}Here, put this on.
+{118623}{118639}Hi there.
+{118641}{118705}Mr. Fox has been delayed.|He{y:i}'s going to be late.
+{118707}{118735}What{y:i}'s going on here?
+{118737}{118851}According to our estimates, that object|was headed for someplace in Arizona.
+{118855}{118940}Intelligence thinks the visitor is on his way|to make a rendezvous.
+{118942}{119007}Go on inside. Make yourself at home.
+{119689}{119738}Welcome to planet Earth.
+{120383}{120419}Where are we?
+{120473}{120539}I think we are coming to Winslow soon.
+{120912}{120959}Why didn{y:i}'t you wake me?
+{120961}{121012}I like to watch you sleep.
+{121067}{121107}I don{y:i}'t know why.
+{121141}{121177}It{y:i}'s strange.
+{121202}{121276}I think I am becoming|a planet Earth person.
+{121310}{121367}Do you have to go back?
+{121422}{121493}Isn{y:i}'t there some way you could stay?
+{121529}{121582}No. I must go back.
+{121802}{121892}But there is something I must tell you.
+{121946}{121997}I gave you a baby tonight.
+{122061}{122087}No.
+{122120}{122186}That{y:i}'s impossible. I can{y:i}'t have a child.
+{122192}{122276}I{y:i}'ve been to a doctor, a couple of them.
+{122278}{122327}Believe what I tell you.
+{122394}{122428}A boy baby.
+{122505}{122592}He will be human,|a baby of your husband, but...
+{122598}{122650}...also he will be my baby.
+{122711}{122833}He will know everything I know and when|he grows to manhood he will be a teacher.
+{123003}{123061}If you do not want this baby...
+{123091}{123148}...tell me now, I will stop it.
+{123920}{123994}Which is your star?|Can you see it from here?
+{124002}{124029}Why?
+{124067}{124142}I want to show him|where his father came from.
+{124349}{124378}There.
+{124419}{124445}No.
+{124498}{124525}Wait{y:i}...
+{124635}{124665}There...
+{124675}{124711}...low in the sky.
+{124756}{124785}There.
+{124816}{124848}I see it.
+{125002}{125052}You{y:i}'d better get dressed.
+{125058}{125108}We are coming to Winslow.
+{125181}{125246}I hope to God we{y:i}'re on the right train.
+{125248}{125336}I don{y:i}'t know,|that looks awful big for Winslow, Arizona.
+{125984}{126014}No.
+{126096}{126129}Las Vegas!
+{126154}{126182}What?
+{126229}{126307}I think we{y:i}'ve gone|about 300 miles past Winslow.
+{126343}{126398}We{y:i}'re still going to be okay.
+{126404}{126470}All we gotta do is rent a car,|and with a little luck...
+{126472}{126531}...we{y:i}'ll be back there|before noon tomorrow.
+{126557}{126626}Just try not to be too conspicuous, okay?
+{126633}{126664}Come on.
+{126811}{126894}$500,000, folks!|Who{y:i}'s gonna take it home?
+{126896}{126975}Hit the giant jackpot|and your troubles are over!
+{126980}{127017}$500,000, folks.
+{127019}{127078}Define {y:i}"giant jackpot{y:i}."
+{127085}{127144}A giant jackpot is a lot of money.
+{127146}{127232}Money? Geetus, bread, an arm and a leg?
+{127234}{127269}Where did you get that?
+{127273}{127329}We don{y:i}'t have time|to fool with the slot machines.
+{127331}{127388}We gotta find a rent-a-car place and{y:i}...
+{127441}{127483}Where{y:i}'s my wallet?
+{127497}{127534}- My wallet.|- What is wrong?
+{127536}{127590}Where the hell is my wallet?
+{127638}{127671}What are we gonna do now?
+{127682}{127713}Is all right.
+{127715}{127794}But you don{y:i}'t understand.|No credit card, no money, no car.
+{127796}{127861}- We{y:i}'re never going to get there on time.|- Is all right.
+{128044}{128071}Now.
+{128230}{128258}Damn!
+{128654}{128742}That{y:i}'s a handy talent you got there|but you better spread it around.
+{128744}{128846}These guys get kind of curious|if you hit too many jackpots at once.
+{129622}{129706}Choppers from the Air Cav|will search the area on a quarter-mile grid.
+{129708}{129763}- Good, I{y:i}'m glad you{y:i}'re here.|- What is this about?
+{129766}{129813}You{y:i}'re a man|of some scientific attainment.
+{129818}{129899}Don{y:i}'t you recognise an emergency|autopsy room when you see one?
+{129909}{129942}With leather tie-straps?
+{129956}{130007}You behave yourself, Mark.
+{130039}{130068}Is this your latest update?
+{130070}{130108}According to NORAD...
+{130110}{130208}...his original course and rate of descent|would have taken him here...
+{130217}{130240}...south of Winslow.
+{130242}{130280}I see. Anything else?
+{130282}{130330}The Cobra guys|were asking about ammunition.
+{130332}{130408}Helicopter attack units|will carry live ammo at all times.
+{130415}{130480}- This is to be considered a combat mission.|- Right.
+{130553}{130637}Listen, Mr. Fox,|I{y:i}'d like to be a team player...
+{130639}{130705}...but I want to call something|to your attention.
+{130707}{130780}If there{y:i}'s one thing I don{y:i}'t need,|it{y:i}'s a lecture on morality.
+{130782}{130831}All right, okay, screw morality.
+{130833}{130900}What happened to good manners?|We invited him here.
+{130902}{130964}- I have no time for this.|- I{y:i}'m trying to make a point.
+{130966}{131003}So am I, damn it.
+{131009}{131091}You make a great show of being a rebel,|but the fact is this:
+{131102}{131165}You are a GS-11 public servant.
+{131179}{131242}Anytime that becomes|too much of a burden...
+{131245}{131353}...you can go back to Cornell,|or wherever it was that we found you.
+{131355}{131422}And let{y:i}'s see you get by|on an instructor{y:i}'s salary.
+{131424}{131479}Now shape up or get out.
+{131492}{131519}Is that clear?
+{131521}{131597}Mr. Fox, there{y:i}'s been|a possible sighting in Las Vegas.
+{131603}{131719}- They{y:i}'re probably headed in this direction.|- Let{y:i}'s set up a command post in Winslow.
+{131773}{131811}You{y:i}'d better get out there...
+{131828}{131898}...providing you still want to be|a member of the team.
+{131914}{131942}You do, don{y:i}'t you?
+{132005}{132053}- Yes, sir.|- All right, then get going.
+{132085}{132137}Get rid of that damn cigar.
+{132365}{132448}We ought to be coming to the crater|anytime now.
+{132479}{132539}You{y:i}'re gonna make it.|You{y:i}'re gonna go home.
+{132594}{132636}You want to, don{y:i}'t you?
+{132642}{132680}Yes, of course.
+{132904}{132949}What{y:i}'s it like up there?
+{132972}{133012}It is beautiful.
+{133039}{133083}Not like this, but it is beautiful.
+{133115}{133197}There is only one language.|One law. One people.
+{133200}{133248}And there is no war, no hunger...
+{133251}{133320}...and the strong|do not victimise the helpless.
+{133331}{133446}We are very civilised,|but we have lost something, I think.
+{133492}{133560}You are all so much alive. All so different.
+{133614}{133697}I will miss the cooks|and the singing and the dancing.
+{133733}{133763}And the eating.
+{134160}{134208}And the other things.
+{134806}{134859}Morning, folks. What{y:i}'ll you have?
+{134878}{134908}Coffee.
+{134914}{134940}Dutch apple pie?
+{134959}{135041}- How about some nice cherry cobbler?|- That{y:i}'ll be fine.
+{135155}{135187}And whipped cream.
+{135189}{135229}Coming right up.
+{135237}{135289}How long does it take to get to the crater?
+{135291}{135366}Driving? Not long. Five, six minutes is all.
+{135386}{135447}I want you to try this cherry cobbler.
+{135450}{135537}And if you don{y:i}'t like it,|you don{y:i}'t have to pay for it.
+{135652}{135681}It{y:i}'s delicious.
+{135683}{135723}My wife made it.
+{135748}{135784}Is very good.
+{136345}{136387}Do you have somebody?
+{136429}{136461}A wife, like...
+{136482}{136514}...up there?
+{136542}{136568}No.
+{136592}{136619}No?
+{136671}{136709}I wish{y:i}...
+{136738}{136775}I wish{y:i}...
+{136806}{136834}What?
+{136999}{137061}Morning, folks.|Is that your Cadillac outside?
+{138482}{138526}All right, go ahead.
+{138601}{138639}Yeah, hold it. Yeah, okay.
+{138864}{138917}I{y:i}'d like to talk to these people alone.
+{138921}{138986}I{y:i}'ll be right outside if you need me.
+{139018}{139125}George Fox just called in on the radio,|said to say they{y:i}'re on their way over.
+{139585}{139704}I{y:i}'m Mark Shermin, SETI,|the Search for Extraterrestrial{y:i}...
+{139782}{139857}Mrs. Hayden, we talked on the phone.
+{139883}{139927}This is just such a{y:i}...
+{140000}{140032}Do you mind if I sit down?
+{140146}{140248}There{y:i}'s so many questions I{y:i}'d like to ask,|I hardly even know where to begin.
+{140278}{140324}Is there anything I can do for you?
+{140335}{140370}You can let him go.
+{140389}{140420}I can{y:i}'t.
+{140442}{140500}Really, I can{y:i}'t. I{y:i}'m sorry.
+{140520}{140545}Is it{y:i}...
+{140551}{140606}Are you supposed to meet someone here?
+{140608}{140633}Yes.
+{140635}{140694}You don{y:i}'t understand,|there isn{y:i}'t much time.
+{140696}{140749}Why here? Why the crater?
+{140794}{140851}Have people from your world|been here before?
+{140862}{140896}Before, yes.
+{140913}{140985}We are interested in your species.
+{141015}{141080}You mean you{y:i}'re some kind|of an anthropologist?
+{141085}{141149}Is that what you{y:i}'re doing here?|Just checking us out?
+{141152}{141198}You are a strange species...
+{141222}{141250}...not like any other.
+{141289}{141348}And you would be surprised|how many there are.
+{141357}{141405}Intelligent but savage.
+{141489}{141556}Shall I tell you|what I find beautiful about you?
+{141658}{141736}You are at your very best|when things are worst.
+{141776}{141824}Let him go, Mr. Shermin, please.
+{141929}{141966}If he stays here...
+{141990}{142015}...he{y:i}'ll die.
+{142106}{142161}Can{y:i}'t you see he{y:i}'s dying now?
+{142402}{142435}Thank you.
+{142635}{142668}Thank you.
+{143318}{143356}Wrong ones?
+{143360}{143416}They sure as hell fit the description.
+{143418}{143507}No. The guy we{y:i}'re looking for|is a lot older.
+{144100}{144164}Where are they?|What have you done with them?
+{144166}{144270}- Trooper, where are your prisoners?|- Wrong ones. We had to let them go.
+{144272}{144304}You what?
+{144612}{144663}Shermin, you are finished.
+{144670}{144735}I will have you eviscerated for this.
+{144745}{144823}Well, as much as I hate|to stoop to symbolism.
+{146057}{146098}I hear something.
+{146425}{146455}Give me your hand.
+{148702}{148807}All units, this is Fox.|I want warning fire only.
+{148817}{148851}When ready, roger that.
+{148868}{148906}I copy. Here we go.
+{150040}{150155}{y:i}Mrs. Hayden, you and your companion|{y:i}must stop immediately.
+{150176}{150246}{y:i}Stop w{y:i}here you are or w{y:i}e w{y:i}ill open fire.
+{150266}{150340}{y:i}I repeat, stop w{y:i}here you are.
+{150351}{150405}{y:i}We have orders to open fire.
+{150484}{150543}{y:i}Last w{y:i}arning, Mrs. Hayden.
+{150545}{150624}{y:i}You and your companion|{y:i}must stop immediately.
+{150630}{150694}{y:i}We have orders to open fire.
+{151329}{151373}{y:i}Last w{y:i}arning, Mrs. Hayden.
+{151375}{151454}{y:i}For your ow{y:i}n safety,|{y:i}you must stop w{y:i}here you are.
+{152225}{152264}What the hell is that?
+{155419}{155452}I must go.
+{155512}{155553}Take me with you.
+{155556}{155604}- I cannot.|- Please.
+{155607}{155647}You will die there.
+{155649}{155691}I don{y:i}'t think I care.
+{155693}{155723}I care.
+{155728}{155757}Now...
+{155785}{155877}...tell me again how to say goodbye.
+{155955}{155988}Kiss me...
+{156046}{156098}...and tell me you love me.
+{156139}{156173}I love you.
+{156344}{156411}I{y:i}'m never going to see you again, am I?
+{156459}{156485}No.
+{156596}{156630}I love you.
+{156888}{156936}Tell the baby about me.
+{156995}{157025}I will.
+{157462}{157514}What should I do with this?
+{157534}{157577}The baby will know.
+{157709}{157754}Goodbye, Jenny Hayden.
+{157931}{157962}Goodbye.
+{157987}{158137}Professional Translation Services|www.gts-translation.com

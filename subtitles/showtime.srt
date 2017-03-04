@@ -1,0 +1,1115 @@
+{1}{1}23.976
+{26}{176}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{1140}{1215}Being a policeman|is not what you see on TV.
+{1220}{1297}I've never had to pick between|the red and blue wires.
+{1302}{1426}Never seen a police car flip and cause|other cars to burst into flames.
+{1431}{1553}Never had to jump across rooftops.|I investigate crimes, track leads...
+{1558}{1695}...and sit in court. It's difficult,|tedious work, and you won't get rich.
+{1700}{1771}But I've done it for 28 years.
+{1776}{1882}I'm a detective. That's what I do.|If you break the law...
+{1887}{1985}...l'll do all I can to hunt you down|and put you behind bars.
+{2024}{2091}I won't say that I succeed every time.
+{2096}{2195}But I try to make sure that|if you do the crime, you'll do time.
+{2200}{2236}Any questions?
+{2350}{2453}Well, Detective Preston,|why don't you tell us about...
+{2458}{2516}...the lighter side of police work?
+{2540}{2596}You know. The fun days.
+{2641}{2719}I chased him over three roofs.|You can't do this!
+{2724}{2793}It's from the mayor.|You're a loose cannon.
+{2798}{2867}-You destroyed a city block!|-He fired first.
+{2872}{2904}I should read him his rights?
+{2909}{3061}-You should've called for backup.|-My only backup is in a hospital bed!
+{3145}{3261}His doctor called five minutes ago.|Jimmy didn't make it.
+{3298}{3322}Oh, God.
+{3460}{3497}Oh, God, no.
+{3524}{3563}No!
+{3601}{3674}-He was talking about getting out.|-lt's hard.
+{3680}{3759}He was like a brother to me, captain.
+{3764}{3856}Since we was kids, we was partners.|We used to hang out...
+{3861}{3947}...and dream about|being on the force together.
+{3952}{4028}That was the dream.|Just two little Irish boys...
+{4033}{4127}...fighting, scrapping,|thinking about making a difference.
+{4132}{4181}God, I'm gonna miss him!
+{4251}{4329}I'll need your gun|and your shield, Pete.
+{4501}{4592}I may be off the force,|but I am not off this case!
+{4606}{4718}-That's not in the script.|-I just threw that in at the end.
+{4723}{4824}-I thought I should get the last line.|-Nailed it!
+{4852}{4912}Trey, it was great. Very believable.
+{4917}{5003}-But I'm not married to it.|-You can't fix perfect.
+{5008}{5048}We have imaginations.
+{5056}{5098}Thanks. We'll call you.
+{5103}{5159}-You got my number.|-Right here.
+{5164}{5220}-Moved to tears. Bye-bye.|-Take care.
+{5224}{5273}-You too.|-Restroom on the left.
+{5280}{5362}-Don't give up the day job.|-Unless it's acting.
+{5489}{5548}1L 43, clear from code 7.
+{5552}{5639}{y:i}Roger, 1L 43.|{y:i}Hope you had a nice lunch.
+{6923}{6987}Getting ready to break my old score.
+{7199}{7246}Gonna break my old record!
+{7376}{7431}Now I get my grades in kills.
+{7528}{7592}Just broke it!|I got the top 10 spots now!
+{7597}{7728}-Anybody want to take on the Ice Trey?|-Way to lay down the law, Top Cop.
+{8793}{8853}-How you doing?|-What's up?
+{8882}{9027}-Mitchie Mitch! How's it going, man?|-This is a friend of mine. Rich guy.
+{9032}{9121}-How you doing?|-I'm all right.
+{9288}{9432}Requesting assistance, possible 211 at|the TV repair shop on 1st and Santee.
+{9452}{9506}{y:i}Maxis Network Channel 3 chopper.
+{9511}{9643}{y:i}We got a hit on the police scanner.|{y:i}Something going down at 1st and Santee.
+{9686}{9756}{y:i}This is Maxis Mobile One.|{y:i}We're on our way.
+{9768}{9832}A quick left, quick right.
+{9865}{9905}All day.
+{9932}{10033}-We got a couple of big spenders.|-Don't get up for us.
+{10309}{10368}You all want to do something?
+{10372}{10482}Yeah, we were wondering|if maybe you'd throw in a free set.
+{10487}{10557}Two free sets.|One for him, one for me.
+{10709}{10746}What's in the bag?
+{10770}{10813}-Let's do it.|-All right.
+{11388}{11424}It's all here.
+{11429}{11469}-All good?|-Good to go.
+{11477}{11539}Good. So you show us yours.
+{11616}{11659}Don't look, now.
+{11749}{11774}Touchdown.
+{11932}{12032}-Check the metal detector's batteries.|-How about that, Re?
+{12568}{12596}Thirsty?
+{12625}{12657}A lifesaver.
+{12693}{12771}That's some pretty high-quality shit.
+{12776}{12843}All right. So we're on, right?
+{12996}{13044}What the hell is this?
+{13055}{13134}-What the hell is going on?|-Wait. Hold on.
+{13139}{13203}-This some police shit?|-What?
+{13208}{13331}-You brought the police back here?|-Take it easy!
+{13336}{13427}-Don't tell me to take it easy!|-Don't tell me to shut up.
+{13432}{13504}You better calm your punk ass down!
+{13509}{13563}Stop pointing that shit at me!
+{13600}{13667}-Put that away.|-You think it's a game?
+{13716}{13754}Put the gun away.
+{13768}{13849}See, it's gone.|It's all over. Let's go. Come on.
+{13977}{14054}Let's wrap it up.|I don't want them coming back.
+{14059}{14088}All right.
+{14161}{14205}What the hell is going on?
+{14245}{14349}-Shit, we on Channel 5!|-I'm gonna blast these fools!
+{15013}{15101}-What was that, a bazooka?|-You shot the wrong brother.
+{15106}{15209}-I'll find the guy with the cannon.|-Hands behind your back.
+{15225}{15330}I'm calling Johnnie Cochran.|I got his number. You're going down.
+{15367}{15399}Okay, showtime.
+{15479}{15508}Stop, police!
+{15811}{15876}Okay, round two, baby.
+{15901}{15965}-Freeze! L.A.P.D.!|-Undercover narcotics!
+{15970}{16054}-Drop it!|-We got an officer-involved shooting!
+{16059}{16193}Put your weapon down, right now!|Right now! Down!
+{16271}{16313}Good job, officer!
+{16520}{16651}-Smile for the camera, Ice Trey.|-Get back here! You're under arrest!
+{16723}{16820}Turn that shit off!|Turn that shit off!
+{17044}{17098}Out of my way! Police officer!
+{17274}{17299}Look out!
+{17469}{17514}Get that camera out of here!
+{17700}{17752}-Are you okay?|-lt went through my vest.
+{17757}{17829}-We need an R.A. unit. Get away!|-I'm staying.
+{17834}{17936}-Get the goddamn camera out of here.|-I'm just doing my job.
+{17962}{17999}What are you doing?
+{18033}{18073}Get a real job.
+{18145}{18235}Talk to us.|Give us some information, something.
+{18308}{18387}-Have a statement?|-Don't break the police tape.
+{18393}{18471}-We have a right--|{y:i}-To keep on the other side.
+{18476}{18563}Aren't you the cop who got busted|with his own cuffs?
+{18568}{18631}Think an officer doing his job|is funny?
+{18636}{18738}Let's see how funny it is|when I move this tape back 20 feet.
+{18743}{18811}-He'll be a "Bloopers" classic.|-Get B-roll.
+{18816}{18936}Come over the tape, you'll get B-roll|of me kicking your ass down to Sunset.
+{18944}{19015}-Detective Preston!|-Detective Preston!
+{19058}{19180}-Why did you shoot the camera?|-Are you a loose cannon?
+{19254}{19283}{y:i}What happened?
+{19427}{19480}-Give me all you got.|-Brad?
+{19485}{19520}Hi, Chase. Go.
+{19524}{19620}I have the show to pull your|network from the ratings toilet.
+{19625}{19705}-You can do public executions?|-Meet Mitch Preston.
+{19744}{19829}-You know I don't read.|-Look at the pictures. Annie.
+{19834}{19902}{y:i}Get that f***ing thing out of here!
+{19907}{19935}What was that?
+{19943}{20017}"Detective Preston|destroys Maxis TV camera."
+{20022}{20094}-That's ours.|-"Rogue cop guns down camera."
+{20099}{20133}-We can sue.|-Exactly.
+{20142}{20243}He's Dirty Harry, he's real|and we've got him by the balls.
+{20248}{20338}I see where you're going with this.|A reality show.
+{20347}{20417}-How is it different than "Cops"?|-Did you see?
+{20422}{20468}He's a modern-day cowboy.
+{20472}{20574}He's sexy, volatile. He's a bad boy,|and women love bad boys.
+{20579}{20651}-He could frisk me.|-You like getting frisked?
+{20660}{20743}Brad, focus. Want to see it again|in slow motion?
+{20748}{20803}-I get the point. Shit!|-What?
+{20808}{20912}-I was outbid for an "A-Team" lunch box.|-Okay, Brad.
+{20919}{21043}-So we've got this Mitch Preston?|-We're with him 24 hours a day.
+{21048}{21165}Because he's gonna blow again,|and when he does, we'll be there.
+{21173}{21240}If he makes a lot of arrests,|he gets a prize?
+{21245}{21304}-Who gets the prize?|-This isn't a game show.
+{21308}{21427}This is one man, on his own,|kicking ass and taking names.
+{21483}{21557}-Can we give him a partner?|-That's a good idea.
+{21568}{21688}-We'll give him a funny-minority type.|-That'll get the NAACP off my back.
+{21693}{21768}-Or is it the NCAA?|-Do we have a deal?
+{21773}{21830}-Fine, go make a pilot.|-No, Brad.
+{21835}{21909}This guy isn't a pilot, he's a series.
+{21914}{21992}Trust me.|I'll stake my entire reputation on it.
+{22005}{22138}What reputation? You still get shit|for faking the flammable pajama story.
+{22143}{22209}You can't tell me that wasn't good TV.
+{22214}{22326}Are you in or out? I'm pitching|this at Fox in half an hour.
+{22333}{22416}-I'll give a six-episode commitment.|-Yes!
+{22421}{22546}But if it's all pit stops at Krispy|Kreme, I'm pulling the plug...
+{22551}{22638}-...and you're out of a job.|-We'll all be out of a job.
+{22643}{22734}What do they teach you in China?|Let's go. Bring it on.
+{22757}{22810}-You rocked!|-We're screwed.
+{22815}{22916}-We know nothing about these shows.|-There are rules.
+{22921}{23013}Call L.A.P.D. and get clearances.|And find a cameraman.
+{23018}{23099}-ls Julio out of traction?|-I'll call the hospital.
+{23104}{23234}-What if our Dirty Harry says no?|-Everybody wants to be on TV.
+{23399}{23517}10-36. It looks like the stolen cuffs|were an inside job.
+{23522}{23580}That's very funny, guys.
+{23613}{23662}Very funny. Very well-written.
+{23820}{23896}What are you reading,|the Jenny Craig newsletter?
+{23901}{23997}FYl, my friend,|a lot of this is muscle.
+{24003}{24093}It's a flyer for some new|reality-TV cop show.
+{24225}{24348}-I got to be part of this.|-Thought you wanted to be a detective.
+{24353}{24423}I'm a cop|and I'm a professional actor.
+{24428}{24549}Your career consists of a few lines|on an episode of "Diagnosis Murder."
+{24560}{24656}All I need is the right part|and I'll get my big break.
+{24661}{24758}Know how old Sam Jackson was|when he got his break? He was 42.
+{24763}{24872}Okay, but he's got, gosh,|what's that thing called? Talent.
+{24877}{24978}I'm talented. I ain't no Sam Jackson,|but I'm talented.
+{24983}{25089}Your partner will be Mitch Preston.|We know who'd wear the cuffs there.
+{25096}{25140}He nailed the other lead?
+{25145}{25232}He's front-page news.|Everybody's talking about him.
+{25237}{25318}I'd blow his old ass off the screen|every night.
+{25323}{25376}You crazy? Mitch Preston, please!
+{25381}{25464}I said, "Do you wanna take your feet|off the desk?"
+{25501}{25573}Get your feet off the desk.|Where's Lazy Boy?
+{25578}{25667}My client's taking the Fifth.|He's the victim here.
+{25692}{25799}Got yourself a pricey lawyer.|Had to sell a lot of TVs for that.
+{25804}{25887}-Who's paying?|-That's privileged information.
+{25892}{25966}The captain needs to see you|when you're done.
+{25971}{26067}He's done. Come on, ReRun.|This interview is over.
+{26072}{26169}-We don't talk, we walk.|-For now.
+{26220}{26333}-Do you want me to start filming?|-Yeah, everything you see. Perfect.
+{26368}{26400}Oh, my God.
+{26411}{26492}This place is so depressing.|It looks like a tomb.
+{26497}{26545}Well, you wanted reality.
+{26550}{26627}We need a reality change.|This is hideous.
+{26648}{26764}I'm not doing it.|Let them follow somebody else.
+{26769}{26860}They don't want anyone else.|You the man of the hour.
+{26865}{26972}-All I did was shoot a video camera.|-You made us look like savages.
+{26976}{27051}-The network is suing for $10 million.|-What?
+{27056}{27145}They said you could have killed|their cameraman.
+{27150}{27203}Maybe I should have killed him.
+{27220}{27346}The chief already cut the deal.|Do the show, and they drop the suit.
+{27352}{27424}What?|That's extortion! They can't do that.
+{27429}{27535}We need good PR.|Community relations are in the toilet.
+{27540}{27653}-You the best detective we got.|-So, what about this big gun?
+{27658}{27777}Am I supposed to let them follow me|around while I track down the weapon?
+{27784}{27889}-Look, I did an episode of "Cops" once.|-You did an episode of "Cops"?
+{27894}{27966}You forget the camera is even there.
+{27971}{28093}-This is real work. I'm not an actor.|-No one is saying you can't work.
+{28107}{28232}But you screwed up. And now|you've got to play ball. End of story.
+{28267}{28379}You'll be reporting|to the show's producer, Chase Renzi.
+{28384}{28454}Chase Renzi? Is that a real name?
+{28463}{28555}I won't take orders from some|coked-out Hollywood dickhead.
+{28560}{28625}Not in a million years.|That I won't do.
+{28631}{28712}That's good,|because she doesn't have a dick.
+{28743}{28845}Check her out for yourself.|She's outside, waiting for you.
+{28959}{29018}Well. Better looking than I thought.
+{29062}{29197}We gotta bring in color, some light.|Do you think these windows move?
+{29224}{29269}Detective Preston, hi.
+{29274}{29347}I can see you're busy.|We'll talk tomorrow.
+{29352}{29395}He's not very friendly.
+{29400}{29480}Find out where he eats.|Make a reservation for two.
+{29756}{29828}-Here you go, cover boy.|-Thanks.
+{29856}{29955}Detective Preston, Chase Renzi.|It's a pleasure to meet you.
+{29960}{30047}-How you doing?|-Good. I see you've already ordered.
+{30063}{30146}-Make it quick, I have work to do.|-What can I get you?
+{30153}{30248}Same as him. A cheeseburger, rare,|fries and a Coke.
+{30256}{30302}-Diet?|-Regular.
+{30367}{30440}So, Detective Preston....|Can I call you Mitch?
+{30480}{30567}Why don't I just launch|into a few basic questions...
+{30572}{30682}-...and find out what makes you tick.|-I don't tick.
+{30697}{30774}-Sure you do. Everybody ticks.|-Not me.
+{30804}{30888}Tell me about yourself.|You have a girlfriend, a wife?
+{30893}{30951}-Ex-wife.|-Ex-wife.
+{30956}{31009}Was it a painful divorce?
+{31024}{31129}I only ask because I was divorced,|and I know it can be difficult.
+{31134}{31175}I mean, did you drink?
+{31180}{31291}Lady, I'm here because my captain|made me. I had no choice.
+{31296}{31383}I have no interest in you,|your questions or your show.
+{31390}{31491}Not only do I understand|your resistance, I appreciate it.
+{31500}{31541}You do, huh? Good.
+{31546}{31676}I'm not into making the same bullshit|cop show we've seen a million times.
+{31680}{31791}That's why I believe if we're honest|and open with each other...
+{31796}{31867}...we could do something|very special here.
+{31888}{31951}I don't know|what you're talking about.
+{31956}{32043}-I'm talking about reality, Mitch.|-There you go.
+{32051}{32125}Letting the world find out|who you really are.
+{32136}{32239}You're looking for loose cannon,|cop-on-the-edge "Serpico" bullshit.
+{32244}{32315}I'm telling you,|you're wasting your time.
+{32356}{32406}See that anger, Mitch?
+{32415}{32466}It's working for you.
+{32471}{32551}The audience will connect|with that in a major way.
+{32558}{32602}I'm out of here.
+{32611}{32693}I'll call you later|to discuss your new partner.
+{32735}{32792}Want that in a doggy bag?
+{32828}{32917}No.|Thanks, though. It was delicious.
+{33020}{33111}-How did it go? Is he intense?|-I need cherry Tums, quick.
+{33116}{33225}-ls he psyched about the show?|-lt may be harder than I thought.
+{33245}{33302}-Hey!|-You son of a bitch!
+{33432}{33483}Freeze! L.A.P.D.!
+{33692}{33759}Wait! Wait!
+{34143}{34231}Bad idea. I only got two things|bigger than my mouth.
+{34236}{34297}One of them is pointed at your head.
+{34343}{34457}-You want to do this the hard way?|-I'll stick you, pig!
+{34748}{34839}-Okay, officer. You nice with yours.|-You damn right.
+{34844}{34968}If your boys want to know who put the|smack down on you, my badge is 38723.
+{34975}{35062}I go by the name of Trey Sellars,|patrolman.
+{35288}{35414}-I believe this belongs to you, ma'am.|-Chase Renzi. That was incredible.
+{35424}{35525}Just doing my job, like the badge|says, protecting and serving.
+{35530}{35617}-Get this psycho off me!|-What's with the Superfly shit?
+{35622}{35706}-I got the situation in hand.|-Top Cop, how you doing?
+{35711}{35747}This is my collar.
+{35752}{35820}Never leave a suspect|who's not cuffed.
+{35825}{35892}-He could've had a gun.|-Nobody got no gun.
+{35897}{35993}Trey, I think you broke a rib.|Tell him to get the cuffs off.
+{36000}{36063}I told you I can't do handcuffs.
+{36068}{36137}Quiet!|You have the right to remain silent!
+{36145}{36193}-You know each other?|-No.
+{36198}{36269}Never seen him before.|Just another criminal.
+{36274}{36375}Bullshit. We took a stage combat class|together last fall.
+{36380}{36411}Nice try, pal.
+{36416}{36502}He's just trying to weasel|his way out of the crime.
+{36507}{36592}-That's what he's doing.|-He looks like a real menace.
+{36597}{36631}Who wants to explain?
+{36636}{36739}Trey said he'd give me $50 if I|snatched the lady's purse and ran.
+{36744}{36818}He'd pull up in his police car,|jump out...
+{36823}{36899}...chase me up a fence,|beat me down, kick me--
+{36904}{36950}All right, all right. Okay.
+{36976}{37046}I set the whole thing up.|It was a big setup.
+{37096}{37171}I set it up to make it look|like I was....
+{37176}{37263}-I was auditioning to get this part.|-What part?
+{37268}{37330}Your partner.|We've been interviewing.
+{37335}{37379}It won't be this moron.
+{37384}{37452}I should report you|for impersonating a cop.
+{37492}{37591}Put a lock on that "moron" shit.|Why you take everything so seriously?
+{37596}{37668}You should be protecting,|not staging crimes.
+{37672}{37730}-Someone could've got hurt.|-Like me.
+{37735}{37813}I'm learning from a guy|who shot a news camera?
+{37818}{37914}You got the part already.|I'm just trying to spruce it up.
+{37919}{38021}-That's what you normally do at work.|-Better watch your mouth.
+{38026}{38111}What are you gonna do,|wrap me up in caution tape?
+{38142}{38223}No, I ain't gonna wrap you up|in caution tape.
+{38228}{38370}But I'll tell you, punk, I might whip|your ass up and down the parking lot.
+{38387}{38478}Work on your "Starsky and Hutch"|routine on your own time.
+{38483}{38566}You better walk off.|I was getting ready to slap you.
+{38571}{38631}-He's a disgrace.|-You'd work with him?
+{38636}{38679}Never in a million years.
+{38770}{38859}-I think we have good chemistry.|-Riveting.
+{38864}{38923}-Amazing.|-Really?
+{38956}{38995}Thank you. All right.
+{39002}{39092}The guy's a joke.|There's no way I'll work with him.
+{39097}{39174}I don't want to hear it.|Shit, come on.
+{39234}{39258}Thanks.
+{39306}{39387}You're doing this. That's an order.
+{39424}{39486}{y:i}Trapped in the jaws, he struggled.
+{39519}{39614}You'll never see no brothers|messing with no sharks.
+{39619}{39642}Never.
+{39794}{39818}Hello?
+{39871}{39949}I saw you on TV,|shooting up the neighborhood.
+{40034}{40124}What's going on, Vargas?|I was trying to call you, dog.
+{40130}{40155}Oh, yeah?
+{40160}{40247}I got cell phones, call waiting,|e-mail, voice mail...
+{40252}{40322}...and I haven't heard "una chingada"|from you.
+{40327}{40367}It ain't like that, dog.
+{40372}{40463}I laying low till everything|dies down. It got crazy.
+{40468}{40526}And did I say you could use my gun?
+{40542}{40609}{y:i}You know, Lazy Boy, I trusted you.
+{40622}{40667}{y:i}And you let me down.
+{40672}{40763}{y:i}And now you put|{y:i}my entire shipment at risk.
+{40774}{40843}{y:i}You used that gun|{y:i}without my permission.
+{40908}{41018}We don't want that getting|into the wrong hands, do we now?
+{41075}{41206}No, I was just borrowing it.|Just testing it out, you know?
+{41244}{41363}-And how did it work?|-Real good. I got it right here.
+{41480}{41518}So we cool, right?
+{41603}{41661}-Yeah. We cool.|-I'm sorry about--
+{41667}{41777}Don't worry. We cool, Lazy Boy. Okay?
+{41783}{41823}-We're cool.|-All right.
+{41828}{41917}You two have a nice night. Okay?
+{41922}{41958}All right.
+{42171}{42223}What the hell was that all about?
+{42335}{42360}What the hell?
+{42467}{42557}-What's that?|-Stop playing this shit, man.
+{42603}{42626}Get down!
+{43804}{43835}Freeze! L.A.P.D.
+{43932}{43963}What do I do?
+{43968}{44016}Cut, cut, cut, cut. Cut.
+{44050}{44085}Let's do it again.
+{44105}{44131}Freeze! L.A.P.D.
+{44180}{44214}That how he's doing it?
+{44220}{44320}I'm laying my shit out.|Freeze! L.A.P.D. That shit is right.
+{44325}{44350}Ready?
+{44358}{44418}Patrolling your area at Friday....
+{44427}{44486}Friday night at 8. Eight.
+{44496}{44547}Patrolling every Friday at 8.
+{44552}{44611}Yeah, good, and be happy.
+{44616}{44666}Why should I? I'm patrolling.
+{44671}{44751}You're happy because|you're patrolling.
+{44756}{44792}Keeping it safe, Mitch.
+{44799}{44856}Patrolling every Friday at night.
+{44864}{44912}Every Friday night at 8.
+{45000}{45100}This guy is the worst actor|I have ever seen.
+{45152}{45230}-Get out.|-Wait a minute, hold it, cut, cut.
+{45235}{45323}Mitch, you can't just|toss a cameraman aside.
+{45328}{45448}Give me a pad, I'll show you|how a TV cop comes through the door.
+{45454}{45515}The doors fly open.
+{45520}{45605}They fly open. You burst in.|You scan the room.
+{45610}{45718}You do the turn, toss yourself around.|And now! You're set and--
+{45723}{45794}But don't turn your head|too far from camera.
+{45800}{45915}That little lady is your lover. Don't|respect her, she won't respect you.
+{45920}{45996}-Always know where she is.|-She's in my way.
+{46001}{46075}What's wrong?|You're getting tips from T.J. Hooker.
+{46080}{46162}Which is the most underrated show|in history.
+{46167}{46255}-Nobody came through a door like you.|-Thank you.
+{46260}{46345}-This guy is no detective.|-I'm playing a detective.
+{46350}{46414}-I'm playing detective.|-All right, guys.
+{46419}{46470}-I'm playing a detective.|-Okay.
+{46484}{46547}Let's go do some hood-jumping.
+{46562}{46586}What's that?
+{46591}{46686}-What do you think? We jump over hoods.|-Something you'd know.
+{46705}{46729}Freeze!
+{46752}{46873}That was great, Trey.|Beautiful. That was really great.
+{46878}{47002}-Okay, Mitch. Come here.|-I'm not going on the hood of a car.
+{47007}{47055}-What do you mean?|-Forget it.
+{47060}{47164}I entertained viewers everywhere|in the '80s, jumping on car hoods.
+{47169}{47252}One of a TV cop's greatest weapons.|I'll show you.
+{47280}{47400}You gotta stop them, see? Halt!|And you throw your body. Halt!
+{47482}{47513}You okay, T.J.?
+{47664}{47688}Moving on.
+{47696}{47733}Who stole the money?
+{47738}{47771}Deep in thought.
+{47776}{47867}Now the eyebrows arch,|ever so slightly.
+{47884}{47938}And Hooker solves another case.
+{47943}{48039}Okay? All right, Trey, you try it.|Go ahead. Ready?
+{48051}{48112}-Get loose now. Loosen up. Ready?|-Yeah.
+{48132}{48182}Trey, who stole the money?
+{48196}{48315}Good. You nailed it, first take.|Give me five. That was good!
+{48320}{48408}Okay, Mitch.|Come on, show me some magic.
+{48414}{48474}Mitch, who stole the money?
+{48536}{48580}Look at that, Trey. Look.
+{48585}{48660}Look at the anger in his eyes.|Look at that.
+{48666}{48765}See that slight squint says,|"Hey, I'm Mitch. I'm the man.
+{48790}{48850}Don't mess with me."
+{48864}{48921}Okay. Let's taste some drugs.
+{48925}{49011}Hooker's got a bag|of white powder in his hand.
+{49016}{49086}Spears it open with a pocketknife.
+{49109}{49166}Takes his little pinkie...
+{49171}{49218}...in the powder.
+{49234}{49328}And he touches it,|gently, on his tongue.
+{49369}{49406}Watch the eyebrows.
+{49417}{49470}Hooker knows it's cocaine.
+{49488}{49523}What if it's cyanide?
+{49625}{49734}Hello? Hold on. There's a reason|real cops don't taste drugs, Bill.
+{49751}{49793}It's never cyanide.
+{49797}{49856}Show me the thing with your eyebrow.
+{49861}{49916}-Okay, I'm on my way.|-lt's tricky.
+{49924}{50027}-Where are you going?|-I gotta wash this shit out of my hair.
+{50032}{50118}We have some action?|We have some action, finally.
+{50403}{50447}-Beep, beep!|-Hey, Mitch.
+{50451}{50527}-What'd you do to my car?|-We added micro cameras.
+{50531}{50638}In the wheel, the glove compartment|and a crook-cam in the back.
+{50643}{50707}-Pretend they're not there.|-Pretend.
+{50712}{50827}-See? You're catching on already.|-We'll be right behind you in the van.
+{50832}{50892}You'll be right behind me?
+{51091}{51120}What are you doing?
+{51124}{51219}I'm on the case. I'm your partner.|We're together.
+{51242}{51297}Unbelievable.
+{51322}{51361}What's the mean face for?
+{51370}{51418}Listen. Don't speak, listen.
+{51423}{51501}There's a few things|I need to tell you.
+{51510}{51612}First of all, you gotta know|that I got your back covered...
+{51617}{51682}...and I gotta know|you got mine covered.
+{51686}{51714}No doubt.
+{51718}{51843}When we're on the job you're|the only person I can depend on.
+{51847}{51923}Not friends, family,|not anybody, just you.
+{51928}{51951}You got that?
+{51956}{52028}That's important.|There's no other way.
+{52032}{52092}And it's gotta start right now.
+{52156}{52256}You know, ever since I was 8,|I wanted to be a cop.
+{52264}{52341}I wanted to be on the force|like Uncle Reggie.
+{52346}{52435}He was the first in the family|on the force. Big muscles.
+{52440}{52467}Uncle Reggie.
+{52483}{52563}He used to let me ride|in the squad car with him.
+{52567}{52638}Once he let me play with the siren.|From then on...
+{52643}{52699}...I knew I was gonna be a cop.
+{52704}{52742}Uncle Reggie.
+{52764}{52798}Yeah.
+{52811}{52855}My uncle--
+{52920}{52989}Uncle Reggie passed away|two years ago.
+{52993}{53061}He got caught in the line|of some fire.
+{53087}{53182}Didn't slow me down.|I remember how he set me on my way.
+{53187}{53285}He's looking down on me|from a big precinct in the sky.
+{53290}{53420}He's thinking, "You've done all right,|Trey. You've done right by me."
+{53496}{53563}What does that|got to do with anything?
+{53568}{53665}-You got a speech, so I get a speech.|-That wasn't a speech.
+{53670}{53734}That "I'm your partner."|That was a speech.
+{53742}{53827}You burned up 90 seconds of air.|That was a speech.
+{53832}{53931}When we get to the crime scene,|stay out of my way.
+{53935}{54002}This isn't studio shit.|This is real.
+{54165}{54235}-Get your camera out of here.|-Hey, watch it.
+{54240}{54301}Julio has to shoot. That's the show.
+{54305}{54365}He's done "Jerry Springer."
+{54369}{54442}That's right. Whatever you need,|I'm there.
+{54447}{54571}If I get shot, stabbed, it's cool.|Whatever. I'm getting good footage.
+{54576}{54662}Just remember three words:|Go to Trey.
+{54666}{54693}-I'm Trey.|-Julio.
+{54698}{54774}-You worked on Springer?|{y:i}-Springer, Girls Gone Wild.
+{54779}{54850}Get that camera out of here.|Who's in the bag?
+{54856}{54886}We don't know yet.
+{54891}{54966}Whoever shot him didn't care|for open caskets.
+{54970}{55018}Thinking what I'm thinking?
+{55022}{55066}I seriously doubt it.
+{55084}{55165}I'm thinking there's dirty|cops on the streets...
+{55170}{55254}...cleaning the streets up|on they own terms, partner.
+{55259}{55336}This is payback for a drug deal|gone sour.
+{55348}{55406}Whoever this guy worked for|got pissed.
+{55412}{55500}Even better. This is a bad guy|retribution scenario.
+{55505}{55576}Good thinking, partner.|Good thinking.
+{55632}{55706}I think I can identify|one of the victims.
+{55769}{55857}Those are 12-gauge, armor-piercing|uranium shells.
+{55861}{55898}-Charlie.|-Hey, Mitchell.
+{55903}{55992}I found explosive and incendiary|rounds scattered around.
+{55998}{56079}The same gun that put holes|in your TV repair shop.
+{56083}{56194}It appears to be hand-held, automatic,|with interchangeable magazines.
+{56199}{56264}Technically, this gun doesn't exist.
+{56270}{56362}-What do you mean?|-This gun is like the 50-foot shark.
+{56366}{56400}Speak English.
+{56405}{56476}It's out there,|but nobody's ever seen it.
+{56489}{56542}Any idea who made it?
+{56567}{56676}It's a custom job. My guess is,|it's out of Eastern Europe.
+{56686}{56770}-Thanks, Charlie. Keep your eyes open.|-You bet.
+{56896}{56949}-What are you doing?|-Take it easy.
+{56954}{57072}-You're not supposed to touch.|-I didn't. I turned it over.
+{57076}{57143}-Let me know when you touch--|-I don't have to--
+{57148}{57234}-What's going on?|-He's contaminating my crime scene.
+{57239}{57306}I'm doing a sweep of the area.
+{57311}{57422}You never know where a crucial|bit of evidence may be hiding.
+{57436}{57483}Like this, for instance.
+{57488}{57596}Did anybody think to pull some prints|off this water bottle?
+{57606}{57659}Can I get an evidence bag?
+{57664}{57747}Put down my water.|I'm not finished drinking it.
+{57794}{57837}That's an honest mistake.
+{57842}{57967}You got your water amongst potential|evidence so I thought it was....
+{57972}{58051}Hey, T.J., go solve the case|somewhere else.
+{58059}{58106}Don't give me orders,|I'm your partner!
+{58112}{58168}No, you're not,|I partner with real cops.
+{58178}{58254}-Get me a copy of that report.|-All right, Mitch.
+{58258}{58341}Well, I am your partner,|so you better accept that.
+{58347}{58380}I am your partner!
+{58446}{58566}He won't open up. You know how hard|it is to work with somebody like that?
+{58572}{58697}I know. Mitch has been a lot|more resistant than I'd hoped for.
+{58702}{58786}I think that you and Mitch|need some bonding time.
+{58799}{58838}You're right. We do.
+{58843}{58966}We need some QT time together.|Two guys hanging out, have some beers.
+{58970}{59042}I'll call to see|if he wants to hang out.
+{59062}{59139}Let's not call him.|Let's just go over.
+{59150}{59205}-Just show up?|-Surprise him.
+{59269}{59306}What are you doing?
+{59315}{59403}How hard is it to say,|"Hi, Trey, nice to see you"?
+{59408}{59462}Hi, Trey. What are you doing here?
+{59467}{59541}We got off on the wrong foot.|I got some food.
+{59546}{59617}We can eat the food and bond a bit.
+{59631}{59678}-Bond?|-Yeah.
+{59682}{59735}How'd you get my address?
+{59756}{59816}-Hi, Mitch.|-Oh, shit.
+{59822}{59863}-Yeah.|-I gave it to him.
+{59868}{59947}-Will you invite us in? Don't be rude.|-Do I have to?
+{59956}{60039}You got us out in the hall|like a Jehovah's Witness.
+{60044}{60111}I gotta see where my star cop lives.
+{60115}{60155}Come on, Mitch.
+{60191}{60261}-Oh, my God.|-Mitch...!
+{60330}{60363}Nice.
+{60368}{60467}Got a little smell to it.|Not a stinky smell, an odd one.
+{60472}{60502}What is that smell?
+{60506}{60568}Is this here your actual living area?
+{60572}{60708}This is my Batcave. A tunnel|in the garage leads to my mansion.
+{60762}{60806}What's the problem?
+{60811}{60925}Research tells us buddy cops|live in visually distinctive places.
+{60929}{61066}Like a trailer on the beach or|a loft downtown. That kind of thing.
+{61070}{61154}Your research shows that, huh?|Where does he live?
+{61167}{61238}I rent a guesthouse from a producer.
+{61242}{61311}-Kind of gives off a "Magnum" vibe.|-Totally.
+{61316}{61412}It's unique. You know what, Mitch?|We can make this work.
+{61420}{61477}Did a crackhead make this cup?
+{61502}{61600}-lt's not visually exciting enough?|-No. It's just--
+{61612}{61736}The point is to let the audience|in on all aspects of your life.
+{61741}{61859}They want to spend time in a place|that speaks to your personality.
+{61864}{61931}This does speak to my personality.
+{61941}{62040}Mitch, I think you need some time|away from the job.
+{62049}{62115}I just found the crackhead's shop.
+{62128}{62168}Hey, don't go in there.
+{62172}{62244}This is what you smell|all over the place.
+{62248}{62326}Wow, a pottery studio!
+{62332}{62414}You're full of surprises.|How long you been doing this?
+{62419}{62519}-Six years, give or take.|-You really got a knack for it.
+{62524}{62594}This room's off-limits.|It's not for show.
+{62599}{62654}Okay, Mitch.
+{62659}{62732}We haven't done any bonding|at all yet.
+{62741}{62806}Bond with yourself, I got work to do.
+{63082}{63132}Hey!
+{64433}{64462}Check this out.
+{64466}{64536}Must be some Hollywood dickhead.
+{65804}{65898}-Not bad, huh?|-A cop never slides across the hood.
+{65904}{66028}-Why? It's not police procedure?|-Your holster scratches the paint.
+{66154}{66185}Nice.
+{66254}{66309}They can buff that shit out.
+{66316}{66389}-I'm trying for detective.|-You take the exam?
+{66393}{66466}-Twice.|-And you think you won't fail again?
+{66470}{66523}Now I'm working with Mitch Preston.
+{66528}{66644}Give me some tips, and I'll tip you|on how to look better on camera.
+{66649}{66763}-Tips like what?|-You wear plaids, like fishermen.
+{66768}{66867}That's ugly shit. Wear solids.|You look slimmer on camera.
+{66877}{66949}-I'll keep that in mind.|-Got any tips for me?
+{66953}{67039}Yeah, stay out of my way|and I won't shoot you.
+{67091}{67138}What the hell's going on?
+{67143}{67259}Welcome to America's window|on your world.
+{67284}{67307}What is this?
+{67312}{67408}-We made your workspace camera-ready.|-My work space?
+{67413}{67519}I think it captures the reality|of an inner-city precinct.
+{67524}{67580}Is this where you do the makeup?
+{67584}{67697}No. This is good. You have to see it.|Mitch, you have to see this.
+{67711}{67806}-Look at your desk. It's so beautiful.|-ls this my desk?
+{67811}{67917}That's your desk. And that's yours,|Mitch. We didn't change it.
+{67924}{68006}But this is a confessional. All right?
+{68010}{68061}Talk about anything you want.
+{68066}{68132}You can talk about the job,|each other...
+{68136}{68245}...your sex lives. I mean,|only if you want to. Direct to camera.
+{68250}{68349}-No, thanks.|-You could put a pottery wheel there.
+{68355}{68436}Look, Mitch, this is an integral|part of the show.
+{68441}{68528}You're obligated to spend|five minutes a day in here.
+{68533}{68636}We've provided a chair.|All you have to do is sit and share.
+{68640}{68714}-Share?|-Learn how to turn on your heart light.
+{68719}{68759}-Exactly.|-Chase!
+{68764}{68826}Brad loves the promo footage.
+{68831}{68943}-But they need a catch phrase.|-I got one. "I wish I was dead."
+{68950}{69009}You need a catch phrase? I got it.
+{69044}{69142}-When I'm about to make a bust--|-When did you ever make a bust?
+{69162}{69187}Don't tell me.
+{69192}{69287}When I'm about to make a bust,|to get in the moment...
+{69292}{69432}...I take three deep breaths and say to|myself, "Okay, Trey, it's showtime!"
+{69437}{69492}-You say that?|-That's stupid.
+{69497}{69547}-What's stupid about it?|-Know what?
+{69552}{69603}Don't say it, please.
+{69608}{69697}No, I have to say it, Mitch.|"Showtime." It's amazing.
+{69702}{69841}-That could be the name of our show!|-See? It's not stupid. It's perfect.
+{69855}{69905}Say it again for the camera.
+{69910}{70024}Do it again with the breathing.|My God, you're a natural.
+{70063}{70086}It's showtime!
+{70444}{70575}{y:i}This is Harley Barley taking calls|{y:i}from fans of the new series "Showtime".
+{70580}{70674}{y:i}Let's go to Pete from Idaho.|{y:i}You're on the air.
+{70680}{70755}{y:i}I wanted to say to Mitch,|{y:i}I know how you feel.
+{70760}{70851}{y:i}I mean, I got a lot of anger|{y:i}inside me too.
+{70857}{70935}{y:i}I want to take my gun|{y:i}and blow everybody away!
+{70940}{71031}{y:i}Thank you, Pete.|{y:i}You sure you're not calling from Waco?
+{71035}{71105}{y:i}Let's go to line three.|{y:i}Mandy, you're on.
+{71110}{71250}{y:i}I just love me some "Showtime".|{y:i}I'm your biggest fan. Trey is so fine.
+{71255}{71302}{y:i}-I could ride that.|-What?
+{71308}{71347}{y:i}Thank you, Mandy.
+{71352}{71439}{y:i}I'm on "Showtime". What's up?
+{71592}{71642}Trey! Marry me, Trey!
+{71646}{71700}{y:i}Marry me, Trey!
+{71753}{71810}{y:i}I'm gonna be honest, you know.
+{71815}{71906}{y:i}It's natural, when you're in|{y:i}a situation that's shitty...
+{71914}{72049}{y:i}...to think about what it might be|{y:i}like to have a different partner.
+{72131}{72202}{y:i}Like somebody that was|{y:i}closer to your age.
+{72208}{72277}{y:i}Charismatic, with a little flair|{y:i}and shit.
+{72282}{72347}{y:i}You kicking it with him,|{y:i}have some fun.
+{72404}{72508}{y:i}Me and a Wesley Snipes type.|{y:i}I know you won't get Wesley.
+{72513}{72583}{y:i}I see Wesley Snipes types|{y:i}all the time.
+{72588}{72662}{y:i}Me and a Wesley Snipes type?
+{72667}{72716}{y:i}Can you imagine?
+{72743}{72774}{y:i}Wesley Snipes type?
+{72926}{73004}{y:i}Do you feel lucky, punk?|{y:i}Huh? Do you?
+{73012}{73137}{y:i}Basically, I'm saying the whole show|{y:i}is slowed down just a half a beat...
+{73145}{73254}{y:i}-I'm too old for this shit.|{y:i}-...so Mitch can keep up.
+{73259}{73341}{y:i}Because I'm working out.|{y:i}I do free-weights.
+{73345}{73382}{y:i}Go ahead. Make my day.
+{73389}{73456}{y:i}I'm taking care of mine. Mitch is not.
+{73506}{73593}{y:i}That's it. I'm taking care of mine|{y:i}and Mitch is not.
+{73598}{73676}Trey, look at this. It's all for you.
+{74184}{74271}{y:i}-Trey, I'm right here.|{y:i}-Yo, Trey.
+{74535}{74574}{y:i}Five minutes up yet?
+{74778}{74813}{y:i}It's showtime!
+{75378}{75425}What are you looking at that for,|Magnum?
+{75498}{75614}-How come we're not talking to him?|-Because he's sitting in county.
+{75618}{75696}A jailhouse.|That could be the next episode.
+{75702}{75760}Forget it. I put him there.
+{75766}{75831}He's the one who knows|about this gun.
+{75836}{75914}He won't talk to me. I already tried.
+{75942}{75970}He'll talk to me.
+{75978}{76040}What makes you think|he'll talk to you?
+{76045}{76110}I won't go in like a bulldog like you.
+{76114}{76201}-I'll talk. I'll be in character.|-ln character!
+{76218}{76294}That's great.|You mean, like undercover?
+{76299}{76430}A little finesse, catch him off guard,|have him think I'm someone else.
+{76445}{76526}Character. What kind of a character?
+{76541}{76573}I don't know.
+{76657}{76780}ReRun! How you doing, my man? I'm Trey|Sellars from the Justice Channel.
+{76785}{76881}-Have a seat, please. You being strong?|-Yeah.
+{76886}{77005}{y:i}-Thanks for coming. You okay?|{y:i}-I ain't heard of no Justice Channel.
+{77010}{77121}That's because we got started|while you was rotting away in here.
+{77128}{77242}The Justice Channel is devoted to|shining the light on victims like you.
+{77246}{77352}-He's got talent, Mitch, come on.|-We're wasting our time.
+{77366}{77419}Is that a new shirt?
+{77424}{77487}It looks good. I like you in solids.
+{77492}{77568}What's this shit about you|getting me out?
+{77572}{77700}Not me, brother, the TV show.|I'm hosting a show called "Framed."
+{77708}{77793}Let me tell you about the show.|We spotlight you.
+{77798}{77896}Put a light on your situation.|Let the people see you.
+{77901}{78009}{y:i}Hopefully, we get a grassroot|{y:i}campaign started and get you out.
+{78014}{78088}I got three people out.|You can be number four.
+{78091}{78189}-Like Mandela.|-Similar. You ain't as noble.
+{78193}{78271}You ain't no Nelson. You're ReRun.
+{78276}{78337}You your own man. We want ReRun out.
+{78342}{78399}Mandela's shit stink too.
+{78404}{78456}Trey, I'll talk you through this.
+{78460}{78503}-Not so loud.|-Say what?
+{78511}{78566}I wasn't that loud.
+{78570}{78643}You don't have to talk too loud.
+{78648}{78701}Shouldn't my lawyer be here?
+{78706}{78805}That's the wrong thing you can do.|Let me explain something.
+{78809}{78892}Research has shown people|don't want to hear lawyers.
+{78896}{78973}They want to hear it|straight from your mouth.
+{78977}{79048}I got Johnnie Cochran.|No offense, bro.
+{79053}{79134}Cochran will get a response|I'm not trying to get.
+{79138}{79212}I'm trying to get people|to connect with you.
+{79217}{79287}If they see Johnnie Cochran|in a $1000 suit...
+{79292}{79369}...they ain't going to get you|out of prison.
+{79374}{79469}Ain't no cops here.|Just me and you. Brother to brother.
+{79474}{79505}I'm your brother.
+{79509}{79609}Take it slow. Nice and easy.|He's still on the fence.
+{79629}{79732}All right! You and Lazy Boy|got this gun from somebody!
+{79736}{79819}You work for the same person!|Who you working for?
+{79823}{79904}What the hell?|What kind of reporter are you?
+{79908}{79984}-I don't tiptoe around the truth!|-Back off.
+{79989}{80097}And I will not back off|until I find out the truth!
+{80118}{80224}{y:i}Brother, look at me. They selling|{y:i}your black ass down the river.
+{80230}{80265}You say "ass" on TV?
+{80270}{80343}This is cable.|I can say whatever I want to.
+{80347}{80399}Did they tell you plea-bargain?
+{80404}{80447}Take the hit, do the time?
+{80452}{80506}That's what was said, isn't it?
+{80550}{80576}Yeah.
+{80606}{80659}See if you can get a name.
+{80664}{80700}{y:i}It's time, ReRun.
+{80704}{80789}It is time to shine the light|on who's behind this.
+{80794}{80853}Who's the puppet master?
+{80861}{80921}Whose time are you doing?
+{80926}{80997}While you're in here|he's smelling freedom.
+{81002}{81053}-And tasting it.|-What you smell?
+{81058}{81155}-Ass.|-Ass and feet, and tension and stress.
+{81160}{81269}Hey, brother, that ain't for you.|Look in that camera right now.
+{81273}{81344}{y:i}Make a connection.|{y:i}Look right into the lens.
+{81348}{81444}Say who it is that's supposed to be|in here instead of you.
+{81448}{81524}{y:i}Look in the camera and say it.|{y:i}I'm with you.
+{81535}{81583}I'm right here with you.
+{81612}{81690}All the people out there in TV land...
+{81694}{81757}...and Mama, I'm coming home soon....
+{81762}{81857}-Your baby be home soon, Mama.|-Yes.
+{81862}{81892}{y:i}The culprit...
+{81896}{81936}{y:i}You'll see Mama soon.
+{81941}{82046}{y:i}...that put me on the streets|{y:i}to do his dirty work...
+{82050}{82111}...that's shitting on my freedom...
+{82114}{82148}Tell them.
+{82153}{82205}...is none other...
+{82215}{82270}{y:i}This is an emotional moment.
+{82275}{82389}{y:i}I get caught up when I know a brother|{y:i}is ready to leave. I love it.
+{82506}{82553}{y:i}...than Vargas!
+{82589}{82624}{y:i}Caesar Vargas!
+{82640}{82665}He said it!
+{82695}{82749}Hope you're watching, bitch.
+{82753}{82817}-Shit.|-You did the right thing, brother.
+{82821}{82856}Find out where he is.
+{82861}{82905}You going down, baby.
+{82910}{82953}You made a connection.
+{82957}{83057}When the people see this,|they'll get rallied up. I can tell.
+{83062}{83142}Now, where would a guy|like Vargas kick it?
+{83170}{83241}-You trying to get a brother killed--|-Not at all.
+{83246}{83327}I do this for the viewers.|We don't point fingers.
+{83332}{83453}We'll say, "If you don't want to run|into Vargas don't go to this place."
+{83458}{83609}Hanging out with him, you wind up|in this place. That's how you got here.
+{83613}{83665}Look to the camera.
+{83670}{83784}Think about the babies, the children.|Save the babies, brother.
+{83803}{83844}{y:i}People...
+{83849}{83957}{y:i}...and children in TV land and all|{y:i}the little kids around the world...
+{83961}{84007}...don't be like me.
+{84012}{84092}And if you want to stay|out of harm's way...
+{84165}{84253}...don't go to Club Cuba Loca|on Figueroa.
+{84258}{84317}{y:i}It's a bad place. Don't go.
+{84350}{84377}He's just lucky.
+{84382}{84477}Brother, you did the right thing.|Don't you feel good?
+{84494}{84562}-We connected.|-A weight off my shoulders.
+{84566}{84636}You going down, bitch.|I got backup now.
+{84649}{84694}{y:i}Hey, that's a wrap.
+{84710}{84764}Yeah! Come on, Mitch.
+{84769}{84850}Now it's time for us|to get down to my story.
+{84854}{84949}I was born in a corn field,|Grandma was a stripper--
+{84954}{85049}Save all that for when you do|{y:i}The Oprah Winfrey Show.
+{85054}{85107}Yo, we going to the club tonight.
+{85589}{85629}Now what?
+{85710}{85754}Watch me.
+{85862}{85948}Is the mike on?|Can you turn the mike up?
+{86087}{86184}Sorry to bother everybody.|Is Mr. Vargas here?
+{86232}{86310}Anybody know where Mr. Vargas is?|Mr. Vargas?
+{86314}{86372}There he is.|See how easy that was?
+{86376}{86433}Don't get up, we'll come to you.
+{86442}{86485}Sorry. Go on back...
+{86490}{86551}...to living "la vida loca."
+{86572}{86680}Sorry, I always wanted to do that.|Be right with you, Mr. Vargas.
+{86803}{86841}Interesting approach.
+{86845}{86922}Just doing my part.|He's over this way.
+{87194}{87277}-That button-cam was a good idea.|-Yeah, I told you.
+{87504}{87548}-Mr. Vargas?|-Yes.
+{87553}{87669}I'm Detective Preston, L.A.P.D.|I'd like to ask you some questions.
+{87674}{87734}I am in the middle of dinner.
+{87750}{87861}-Hope this doesn't ruin your appetite.|-I got a strong stomach.
+{87893}{87994}-Who's he?|-One of your employees. You know that.
+{88006}{88096}A lot of people work for me.|I don't know this guy.
+{88110}{88166}And what about this guy?
+{88239}{88287}What's his name?
+{88410}{88449}He's big...
+{88460}{88572}...probably big enough to go through|those bulletproof vests you wear.
+{88617}{88645}Am I right?
+{88711}{88778}Bulletproof vest, huh?
+{88787}{88815}And you are...?
+{88823}{88926}You can't miss me. I'm across|the street on the billboard.
+{88969}{89009}You are the TV cops.
+{89022}{89071}Right.
+{89078}{89122}What's your line again?
+{89126}{89162}"It's showtime!"
+{89178}{89236}It's showtime!
+{89267}{89309}I told you it was good.
+{89314}{89373}See how funny this is|once we arrest you.
+{89382}{89411}And then what?
+{89419}{89495}What'll you do?|Try me in The People's Court?
+{89499}{89594}We're gonna be watching|your punk ass 24-7, slick.
+{89649}{89708}Are you going to arrest me?
+{89727}{89842}Because if you're not, get out.|Or I have to call the real cops.
+{89846}{89919}-Hey, we are the real cops.|-Sure you are.
+{89923}{90014}-You don't think we're real cops?|-I think you're a joke.
+{90058}{90121}It's all right. He cannot touch me.
+{90126}{90257}Not this time, but next time|I'll drag you out of here in cuffs.
+{90290}{90337}You see, I told you.
+{90342}{90397}They are a joke.
+{90408}{90432}Right?
+{90678}{90753}-lt's a joke. It's a "Showtime" joke.|{y:i}-Showtime.
+{90986}{91025}That's great TV!
+{91266}{91373}We can take this car and meet girls|who wouldn't normally look at us.
+{91378}{91420}Yeah, I'll pass.
+{91425}{91493}You gotta go whip up|some dinner plates?
+{91498}{91611}-Why don't you stop the car?|-All right, I'll leave you alone.
+{91781}{91881}-What's this, your picture and résumé?|-Those are my 8-by-10s.
+{91887}{91921}I just want to look.
+{91934}{92011}All these special skills|must come in handy, huh?
+{92015}{92048}I've never...
+{92053}{92101}...never met a...
+{92106}{92166}...mime. Is that it? Mime?
+{92170}{92218}Yeah, I'm a mime. I mime.
+{92232}{92319}I'm curious about these movies:|{y:i}Beach Party Bonzo?
+{92324}{92449}Yes, it's a semi-independent film.|Very low-budget, semi-independent.
+{92454}{92536}{y:i}Planet Gorthon, 31 A.D.?
+{92554}{92652}Kind of light porn,|but I don't even want to go into it.
+{92663}{92740}You try out for the Village People?
+{92758}{92857}-I'm adding pottery to that list.|-Don't knock pottery.
+{92866}{92977}Of all the things a man can do,|why would somebody throw a pot?
+{92994}{93084}-lf I tell you, will you drop it?|-Please tell me.
+{93088}{93211}My marriage counselor. My ex and I were|on the rocks. She said get a hobby.
+{93217}{93263}-And that's it?|-That's it.
+{93273}{93327}Why are you so crappy at it?
+{93332}{93416}It's like you and work.|I never took it seriously.
+{93430}{93498}-Can I ask you something?|-Yeah.
+{93501}{93564}Why'd you become a cop, anyway?
+{93571}{93686}-Because I was a shitty waiter.|-You mean you were a better mime?
+{93690}{93822}I was an excellent mime. Still am.|Would you like to see my skills?
+{93831}{93877}I got the car. Don't worry.
+{93901}{93979}See? Now my face|is against the glass.
+{94022}{94070}You can mime words too. Watch.
+{94075}{94140}-Fuck you.|-Okay.
+{94150}{94201}I'm impressed.
+{94225}{94281}There's a glass wall here.
+{94471}{94504}Thanks for the ride.
+{94509}{94621}-We got to bond, don't you think?|-No. Not really.
+{94641}{94672}Uh-oh.
+{94686}{94757}-What?|-I never leave my lights on.
+{94938}{94972}Surprise!
+{94976}{95010}What did you do?
+{95014}{95072}-You don't like it?|-No, I don't.
+{95098}{95173}Tell Don Johnson|we found his apartment.
+{95178}{95273}I don't know what you were thinking.|I want it back. Now!
+{95278}{95332}Okay, Mitch. Just relax, okay?
+{95337}{95431}We didn't touch the pottery.|We're giving you sex appeal.
+{95435}{95506}It looks like a gay porno star|lives here.
+{95510}{95561}And here they are, right here.
+{95566}{95596}Just stop.
+{95601}{95683}You can't change the place|without my permission.
+{95688}{95767}You don't have the right.|Get this dog out.
+{95786}{95823}Powder's yours.
+{95827}{95895}Mine? I don't want some dog.|What is this?
+{95901}{95973}He used to be a drug sniffer|in the K-9 unit.
+{95978}{96017}He looks like an addict.
+{96022}{96140}-He makes you look sympathetic.|-A kennel won't make him sympathetic.
+{96145}{96216}Want me to be sympathetic?|Put my stuff back.
+{96220}{96298}I'll be sympathetic.|Until then, I won't be.
+{96322}{96399}How can you say no to that face,|Mitch?
+{96435}{96506}I can say no very easily.|No, Powder. Get out.
+{96511}{96550}Don't be like that.
+{96555}{96588}It's just a dog, man.
+{96593}{96655}Come here, Powder.|You're a good boy.
+{96713}{96741}Shit!
+{96746}{96811}Maybe Mitch is right.|Get rid of the dog.
+{96816}{96872}I don't know.|I like his instincts.
+{96883}{96925}Watch your ass, Powder.
+{97459}{97499}Okay. Move it.
+{97726}{97788}Dispatch, this is Armor 323--
+{98002}{98029}Go! Go!
+{98496}{98521}Go.
+{99184}{99254}{y:i}This is "Showtime One".|{y:i}We're on it.
+{99597}{99627}Okay.
+{99633}{99705}Annie, get the dish up.|Julio, go!
+{99931}{99978}That's definitely our gun.
+{100014}{100061}Watch it!
+{101012}{101040}Hey! Hey!
+{101115}{101182}-Let's go!|-Move it!
+{102972}{103013}Damn! We lost picture!
+{103249}{103284}Slow down!
+{104194}{104223}There he is!
+{104228}{104257}I got him!
+{104443}{104493}-lncoming!|-Watch it!
+{104762}{104813}-You getting this?|-Yeah!
+{104913}{104947}Jump!
+{104952}{104984}Jump! Jump!
+{105004}{105057}You gotta jump! Now!
+{105062}{105101}-Come on, Mitch!|-Do it!
+{105562}{105623}Now that was some good hood-jumping!
+{105634}{105676}You all right?
+{105681}{105715}You okay?
+{105720}{105777}I think two drops of pee came out.
+{105906}{105998}You're off the show, Sellars.|You're busted to patrol.
+{106257}{106301}"Showtime" is over.
+{106306}{106359}And we're screwed.
+{106380}{106453}See you back on the tape, Top Cop.
+{106544}{106627}Being a police officer is not|what you see on TV!
+{106632}{106702}I've never seen you do|anything like this!
+{106707}{106777}Your showboating|put this city at risk.
+{106782}{106838}I expect that of Trey, not you.
+{106842}{106895}It just escalated.
+{106900}{107015}Mitch, it's over. It's over.|Chief is pulling the plug on the show.
+{107020}{107138}-Good. Now I can get back to work.|-No, you can't. You're off the case.
+{107145}{107210}-What?|-PR is having a heart attack.
+{107215}{107284}This is worse than|when you shot the camera.
+{107289}{107377}If Vargas gets more guns,|we'll be even worse off.
+{107382}{107493}You blew it. I'm relieving you of|duty, pending an investigation.
+{107506}{107622}What, do you want me to turn in|my gun and my badge? Ben, come on.
+{107627}{107718}I just want you to go home|till this shitstorm settles.
+{107723}{107779}What am I supposed to do at home?
+{107784}{107862}I don't know. Read a book.|Watch some TV.
+{107867}{107930}Do your pottery projects.
+{108042}{108074}What?
+{108104}{108135}{y:i}What?
+{108163}{108218}He's touching the pecker-cam.
+{108253}{108299}There's a lens in those eyes.
+{108304}{108329}{y:i}My woodpecker?
+{108334}{108393}-Don't break it.|{y:i}-I said no cameras.
+{108431}{108502}I hope you got all of this.|You hear me?
+{108507}{108543}{y:i}I hope you got it all.
+{108589}{108642}He broke it.
+{108693}{108736}I'll get you another one.
+{108741}{108825}Talk to him. He's got issues.|He hates cameras.
+{109278}{109349}-We're here to take the dog.|-The dog stays.
+{109353}{109377}We have orders.
+{109380}{109485}He's a police officer.|Touch him and I'll shoot you.
+{109613}{109647}Go, go, go.
+{109659}{109725}Good boy, Powder. Good boy.
+{109764}{109807}Nobody will take you away.
+{109812}{109909}Trey, forget "Showtime".|We'll do our own buddy cop show.
+{109914}{110003}I got a treatment worked out|in my head. Check it.
+{110008}{110068}You're Nick Load, and I'm John Lock.
+{110073}{110128}-Nick who?|-Nick Load.
+{110133}{110239}You're Nick Load. I'm John Lock.|Together, we're "Lock and Load."
+{110244}{110329}We are the baddest bicycle cops|on Venice Beach.
+{110334}{110388}Is that hot shit, or what?
+{110394}{110470}Listen, George Clooney|had 18 shows fail...
+{110475}{110554}...before he hit big with "ER."|So you see?
+{110582}{110668}I don't wanna be the guy|putting up the caution tape.
+{110673}{110727}I was feeling this detective thing.
+{110732}{110823}Listen, you have heat|on your acting career right now.
+{110828}{110932}If you don't strike while the iron|is hot, it'll pass you by.
+{110956}{111075}Whatever. I'm gonna go see|this last episode of "Showtime".
+{111275}{111335}You had your food. None for you.
+{111367}{111459}{y:i}You're off the show, Sellars.|{y:i}You're busted to patrol.
+{111464}{111541}{y:i}-What happens to Mitch?|{y:i}-He's relieved of duty.
+{111546}{111645}{y:i}Mitch is my partner.|{y:i}He's the only person I can depend on.
+{111650}{111725}{y:i}Not my family, not my friends.|{y:i}Just him.
+{111730}{111819}{y:i}That's beautiful, Sellars.|{y:i}What do you want me to do?
+{111824}{111948}{y:i}-lf he's relieved, I should be.|{y:i}-lf you want it, you're relieved too.
+{111953}{111985}{y:i}Okay.
+{112013}{112078}{y:i}-I'm relieved, then.|{y:i}-Okay.
+{112083}{112160}{y:i}-Want my gun and badge?|{y:i}-Get out of here.
+{112165}{112201}{y:i}All right.
+{112509}{112602}-Who is this?|-lt's me, Mitch.
+{112607}{112645}What do you want?
+{112650}{112766}-Are you watching the show?|-No, I'm not. It's ancient history.
+{112776}{112861}-New day, new way.|-Me too. I'm eating a TV dinner.
+{112866}{112995}-So, what's up?|-I just, you know....
+{113000}{113059}I wanted to tell you that...
+{113079}{113157}...what you did was a pretty|standup thing and...
+{113190}{113281}...if you take that detective exam,|I'm there for you.
+{113286}{113342}Whatever questions, I'll be around.
+{113346}{113441}-I'd make a great detective?|-You'd make an okay detective.
+{113464}{113541}-Let me get that on my machine.|-I'm hanging up.
+{113546}{113577}No. Quick question.
+{113582}{113687}Could you make me a pair of those|shitty-ass mugs that you make?
+{113708}{113790}-You gotta be kidding.|-Relax. I'm just joking, man.
+{113795}{113842}No, something on the show.
+{113847}{113912}-So you are watching the show.|-Yeah.
+{113917}{114024}-Me too. What did you see?|-Charlie Hertz, works for ballistics.
+{114029}{114144}-That guy outside Lazy Boy's.|-Yeah, but I gotta see it again.
+{114149}{114228}Don't worry, I'm recording it.|I record them all.
+{114233}{114318}-Why am I not surprised?|-Let me rewind this thing.
+{114422}{114473}-lt is Charlie Hertz.|-lt is?
+{114478}{114558}-lt's definitely him.|-What's he doing with Vargas?
+{115154}{115194}Where are the lights?
+{115318}{115386}We definitely found our gunmaker.
+{115406}{115461}This is definitely his workshop.
+{115479}{115521}Look at all this shit.
+{115538}{115633}What happened to the days|when people just grew pot?
+{115638}{115694}How about we star-69 his last call?
+{115727}{115781}{y:i}King Rental Trucks,|{y:i}may I help you?
+{115789}{115849}This is Detective Mitch Preston--
+{115854}{115931}{y:i}You mean the Mitch Preston?|{y:i}The one on "Showtime"?
+{115936}{115990}-That's me.|{y:i}-Oh, my God!
+{116001}{116113}Calm down, we just need some|information about a truck.
+{116118}{116222}-Did you rent one to a Charles Hertz?|{y:i}-I'll just check, honey.
+{116227}{116294}{y:i}Mr. Hertz picked one up this morning.
+{116298}{116401}-Was there a tracking device on it?|{y:i}-Yes, Mitch, there was.
+{116424}{116482}{y:i}Is Trey with you?|{y:i}Can I speak to him?
+{116487}{116523}Sure, here.
+{116528}{116588}{y:i}-Trey? This Trey?|-Yeah.
+{116593}{116647}{y:i}I love you, baby!|{y:i}Say, "showtime. "
+{116652}{116709}It's showtime!|This bitch is crazy.
+{116714}{116815}Okay, all right. Bye-bye.|See how popular I am?
+{116894}{116923}All right, thanks.
+{116928}{116996}We got a hit on the truck|at the Bonaventure.
+{117001}{117049}-What's going on?|-Gun show.
+{117470}{117519}Nice guns.
+{117524}{117556}Come on back.
+{117590}{117622}It's okay.
+{118238}{118297}-Thanks for the call.|-Find that footage?
+{118302}{118359}Here are the printouts.|Good luck.
+{118364}{118400}You went out on a limb.
+{118405}{118492}I want to help. Plus I need|an ending for the finale.
+{118695}{118731}{y:i}Excuse me.
+{118748}{118780}{y:i}Hello, gun lovers.
+{118785}{118899}My name is Chase Renzi|from the hit series "Showtime".
+{118946}{119013}{y:i}That's sweet. Very sweet, very sweet.
+{119018}{119081}I'm here because we need your help.
+{119086}{119166}We believe these two men|are in the building.
+{119170}{119258}{y:i}They are armed|{y:i}and extremely dangerous.
+{119270}{119305}What the hell?
+{119323}{119361}There they are!
+{119542}{119571}Vargas!
+{119971}{119995}Don't move.
+{120155}{120211}Oh, shit!
+{120337}{120365}Mitch!
+{120622}{120650}Guys, wait up!
+{120655}{120764}{y:i}-Roger that.|{y:i}-Ghost 3, Bonaventure Hotel.
+{120788}{120867}Why don't I go up and|make a nice list of demands?
+{120875}{120911}I can help you here.
+{121371}{121484}-Get in!|-Just take it easy, all right? Easy!
+{121658}{121705}Vargas? There's no way out.
+{121710}{121749}I've got a list of demands.
+{121754}{121815}Let us in and tell us what they are.
+{121820}{121899}All right. But first, slide your|weapons in here.
+{121904}{121977}-What did you say?|-I don't know. What?
+{121982}{122023}Slide your weapons in here.
+{122028}{122079}-What?|-What'd you say?
+{122084}{122138}You don't understand English?
+{122148}{122185}Slide in your weapons.
+{122190}{122262}Slide the weapons.|It's okay. I got a backup.
+{122267}{122333}Hold on. I gotta change the tape.
+{122422}{122496}-You thinking what I'm thinking?|-Yeah, I am.
+{122561}{122633}-What are you doing?|-Shut up.
+{122638}{122663}Mitch, no.
+{122668}{122730}-Did you hear me?|-Hold on.
+{122735}{122783}Don't do that. Man!
+{122813}{122846}I've got demands.
+{122850}{122943}See those news choppers out there?|We're hooked in live.
+{122948}{123059}We have a cameraman out here so|you can tell the world what you want.
+{123089}{123171}Okay. Throw in your weapons.
+{123176}{123225}Here they come.
+{123488}{123512}Ready?
+{123611}{123650}There are the guns.
+{123655}{123695}-Stay there.|-Easy.
+{123702}{123763}-Stay there.|-Okay. Just take it easy.
+{123768}{123833}-Where's the cameraman?|-He's afraid.
+{123838}{123931}We don't want to put him in danger,|so he'll do the shooting.
+{123936}{123963}I'll do it.
+{123968}{124030}You ever been on TV before?
+{124046}{124129}It's very simple.|Look at the red light.
+{124134}{124203}Tell the people what's on your mind.
+{124231}{124279}You got him all lined up?
+{124309}{124364}Yeah. Let's shoot.
+{124377}{124464}Okay. All right.|It's showtime.
+{125234}{125270}You okay?
+{125463}{125502}Mitch?
+{125961}{126021}-Trey! Where are you?|-Over here!
+{126118}{126179}-What are you doing?|-Hold on!
+{126314}{126346}Oh, God!
+{126657}{126765}Now it's your turn to smile|for the cameras.
+{126866}{126969}-Get that camera out of here!|-Keep that camera where it is!
+{127378}{127456}Annie, you deal with it, girl.
+{127478}{127558}What's going on|with your new recruits?
+{127563}{127639}I'm tired of your voice.|You're on my last nerve.
+{127644}{127733}-They're not bonding.|-They don't have our chemistry.
+{127738}{127851}Which is why you ought|to guest star in the next episode.
+{127856}{127912}-Not in a million years.|-That's a yes.
+{127917}{127986}I know, and believe me,|I'm working on him.
+{128046}{128083}See you at 8, Mitch.
+{128088}{128192}Look at what you get. What do I get?|Nothing. I'm going to work.
+{128245}{128336}I made you something.|For passing the detective exam.
+{128341}{128396}That is nice of you to do that.
+{128486}{128545}Mitch, that's nice.
+{128574}{128615}What is that?
+{128622}{128747}-What is it? It's a loose change dish.|-Of course it's a loose change dish.
+{128752}{128847}I haven't seen this level of|craftsmanship since kindergarten.
+{128852}{128898}It's appreciated, partner.
+{128903}{129007}-Detectives, your suspect's waiting.|-Be right with you.
+{129012}{129091}"Detective Sellars."|It has a nice ring to it.
+{129096}{129158}Come on, Top Cop, it's showtime.
+{129193}{129250}Hi. I'm Detective Mitch Preston.
+{129267}{129295}No!
+{129324}{129369}I'm sorry, I can't....
+{129397}{129428}Book 'em, Danno.
+{129445}{129528}You're under arrest!|You under arrest, mother****er!
+{129533}{129572}I'm sorry.
+{129597}{129675}This Preston character|needs to come to life.
+{129680}{129732}He doesn't have any balls.
+{129737}{129775}Well, he has balls.
+{129780}{129848}They gotta come out.|Bada-bing, bada-boom balls.
+{129864}{129909}Do you feel lucky, punk?
+{129933}{129963}Who said that?
+{130006}{130080}I know you know, Mitch.|You're gonna see this--
+{130093}{130153}Get that camera out of here!
+{130186}{130236}Could you come a little closer?
+{130258}{130313}I'm sorry, I did the wrong thing.
+{130500}{130613}Wrap me up in caution tape,|wrap me up in caution tape, Cop Top?
+{130632}{130707}-You don't think we're--|-Say that in Ebonic!
+{130711}{130737}I'm tired.
+{130742}{130791}-Who are you?|-I'm Annie.
+{130796}{130862}You need a daddy?|Yes or no?
+{130908}{130980}"Oh, Bill." That's what I get now.
+{130984}{131058}It used to be "Oh, yeah,"|now it's "Oh, Bill."
+{131063}{131114}It's showtime!
+{131119}{131154}It's showtime.
+{131159}{131218}Get that camera out of here!
+{131270}{131400}{y:i}Subrip by Masken, 28th of august, 2002.|{y:i}For Showtime.DVDRip.DivX-DVL
+{131425}{131575}Professional Translation Services|www.gts-translation.com

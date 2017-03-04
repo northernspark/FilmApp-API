@@ -1,0 +1,1808 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{2482}{2582}<i>[ Woman ] Last night</i>|<i>I dreamt I went to Manderley again.</i>
+{2580}{2690}<i>It seemed to me I stood by the</i>|<i>iron gate leading to the drive,</i>
+{2690}{2750}<i>and for a while</i>|<i>I could not enter...</i>
+{2750}{2802}<i>for the way was barred to me.</i>
+{2805}{2870}<i>Then, like all dreamers,</i>
+{2870}{2960}<i>I was possessed of a sudden</i>|<i>with supernatural powers...</i>
+{2958}{3052}<i>and passed like a spirit</i>|<i>through the barrier before me.</i>
+{3052}{3125}<i>The drive wound away</i>|<i>in front of me,</i>
+{3125}{3208}<i>twisting and turning</i>|<i>as it had always done.</i>
+{3208}{3328}<i>But as I advanced, I was aware</i>|<i>that a change had come upon it.</i>
+{3328}{3390}<i>Nature had come</i>|<i>into her own again,</i>
+{3390}{3472}<i>and little by little</i>|<i>had encroached upon the drive...</i>
+{3475}{3550}<i>with long, tenacious fiingers.</i>
+{3595}{3722}<i>On and on wound the poor thread</i>|<i>that had once been our drive,</i>
+{3718}{3810}<i>and fiinally</i>|<i>there was Manderley.</i>
+{3810}{3900}<i>Manderley--</i>|<i>secretive and silent.</i>
+{3898}{3998}<i>Time could not mar the perfect</i>|<i>symmetry of those walls.</i>
+{3998}{4085}<i>Moonlight can play</i>|<i>odd tricks upon the fancy,</i>
+{4082}{4195}<i>and suddenly it seemed to me that light</i>|<i>came from the windows.</i>
+{4262}{4330}<i>And then a cloud</i>|<i>came upon the moon...</i>
+{4332}{4442}<i>and hovered an instant</i>|<i>like a dark hand before a face.</i>
+{4440}{4525}<i>The illusion went with it.</i>
+{4528}{4612}<i>I looked upon</i>|<i>a desolate shell...</i>
+{4610}{4745}<i>with no whisper of the past</i>|<i>about its staring walls.</i>
+{4742}{4812}<i>We can never</i>|<i>go back to Manderley again.</i>
+{4812}{4860}<i>That much is certain.</i>
+{4860}{4922}<i>But sometimes in my dreams...</i>
+{4922}{5010}<i>I do go back to the strange</i>|<i>days of my life...</i>
+{5008}{5098}<i>which began for me</i>|<i>in the South of France.</i>
+{5920}{5988}<i>No! Stop!</i>
+{5988}{6072}What the devil|are you shouting about ?
+{6072}{6168}Who are you ?|What are you staring at ?
+{6168}{6255}I'm sorry. I didn't mean to stare.|But I, I only thought--
+{6252}{6322}Oh, you did, did you ?|Well, what are you doing here ?
+{6322}{6370}I was only walking.
+{6370}{6458}Well, get on with your walking.|Don't hang about here screaming.
+{7058}{7125}I'll never come to Monte Carlo|out of season again.
+{7125}{7205}Not a single well-known|personality in the hotel.
+{7205}{7318}Stone cold ! Waiter.|G<i>arcon.</i> Call him.
+{7315}{7365}Tell him to get me some--
+{7365}{7498}<i>Why, it</i>'<i>s Ma</i>x <i>de Winter.</i>|<i>How do you do ?</i>
+{7592}{7650}- How do you do ?|- I'm Edith Van Hopper.
+{7650}{7702}It's so nice|to run into you here,
+{7702}{7785}just when I was beginning to despair of|fiinding any old friends here in Monte.
+{7785}{7842}But do sit down|and have some coffee.
+{7842}{7930}Mr. de Winter is having coffee with me.|Ask that stupid waiter for another cup.
+{7930}{8048}I'm afraid I must contradict you.|You shall both have coffee with me.
+{8045}{8098}- G<i>arcon.</i> Coffee, please.|<i>- Oui, monsieur.</i>
+{8098}{8145}- A cigarette ?|- No, thank you.
+{8145}{8212}You know, I recognized you|just as soon as you came in,
+{8212}{8305}though I haven't seen you since|that night at the casino at Palm Beach.
+{8302}{8400}Perhaps you don't remember|an old woman like me.|Are you playing the tables much here ?
+{8402}{8472}No, I'm afraid that sort of thing|ceased to amuse me years ago.
+{8470}{8532}I can well understand that.|As for me,
+{8532}{8610}if I had a home like Manderley,|I should certainly never come to Monte.
+{8610}{8730}<i>It</i>'<i>s one of the biggest places</i>|<i>in that part of the country, and</i>|<i>you can</i>'<i>t beat it for beauty.</i>
+{8728}{8818}What do you think of Monte Carlo ?|Or don't you think of it at all ?
+{8815}{8868}Oh, well,|I think it's rather artifiicial.
+{8870}{8938}She's spoiled, Mr. de Winter.|That's her trouble.
+{8935}{9002}Most girls would give their eyes|for a chance to see Monte.
+{9002}{9065}Wouldn't that rather|defeat the purpose ?
+{9065}{9148}Now that we've found each other again,|I hope I shall see something of you.
+{9150}{9250}<i>You must come</i>|<i>and have a drink in my suite.</i>|<i>I hope they</i>'<i>ve given you a good room.</i>
+{9248}{9328}<i>The place is empty. So if you</i>'<i>re</i>|<i>uncomfortable, mind you, make a fuss.</i>
+{9328}{9388}Your valet has unpacked for you,|I suppose ?
+{9388}{9455}I'm afraid I don't possess one.|Perhaps you'd like to do it for me ?
+{9455}{9550}Well, I, I hardly think--
+{9548}{9640}Perhaps you could make|yourself useful to Mr. de Winter|if he wants anything done.
+{9638}{9690}You're a capable child in many ways.
+{9692}{9765}That's a charming suggestion,|but I'm afraid I cling to the old motto:
+{9762}{9818}'' He travels fastest|who travels alone.''
+{9818}{9878}Perhaps you've not heard of it.|Good night.
+{9878}{9940}What do you make of that ?
+{9942}{10032}<i>Do you suppose that sudden departure</i>|<i>was intended to be funny?</i>
+{10032}{10090}Come, don't sit there gawking.|Let's go upstairs.
+{10090}{10142}- Have you got the key ?|- Yes, Mrs. Van Hopper.
+{10142}{10215}I remember when I was younger|there was a well-known writer...
+{10215}{10290}who used to dart down the back|way whenever he saw me coming.
+{10288}{10375}I suppose he was in love with me|and wasn't quite sure of himself.
+{10375}{10435}Well, <i>c</i>'<i>est la vie.</i>
+{10435}{10532}By the way, my dear,|don't think that I mean to be unkind,
+{10530}{10605}but you were just a teeny, weeny bit|forward with Mr. de Winter.
+{10605}{10658}Your effort to enter|the conversation...
+{10658}{10715}quite embarrassed me,|and I'm sure it did him.
+{10715}{10790}Men loathe that sort of thing.|Oh, come. Don't sulk.
+{10792}{10868}After all, I am responsible|for your behavior here.
+{10868}{10940}Perhaps he didn't notice it.|Poor thing !
+{10938}{11012}I suppose he just can't|get over his wife's death.
+{11012}{11080}They say he simply adored her.
+{11478}{11542}<i>Oui.</i>|[ Speaking French ]
+{11542}{11618}Oh ! How awkward of me.
+{11618}{11690}<i>What a stupid thing to do.</i>|<i>Oh, I</i>'<i>m so sorry.</i>
+{11690}{11748}<i>Please don</i>'<i>t bother.</i>|<i>It doesn</i>'<i>t really matter.</i>
+{11748}{11818}Leave that. Leave that.|Go and lay another place at my table.
+{11815}{11888}- Mademoiselle will have lunch with me.|- Oh, but I couldn't possibly.
+{11888}{11955}- Why not ?|- Oh, please don't be polite.|It's very kind of you,
+{11955}{12025}- but I'll be all right if|they just change the cloth.|- I wasn't being polite.
+{12025}{12122}I should have asked you to have|lunch with me even if you hadn't|upset the vase so clumsily.
+{12120}{12198}Come along. We needn't talk to|each other if we don't feel like it.
+{12198}{12245}Thank you very much.
+{12335}{12405}Oh, I'll just ha-have|s-some scrambled eggs.
+{12405}{12455}<i>Oui, mademoiselle.</i>
+{12492}{12540}What's happened to your friend ?
+{12540}{12588}Oh, she's ill in bed with a cold.
+{12588}{12665}I'm sorry|I was so rude to you yesterday.
+{12665}{12755}The only excuse I can offer is that I've|become boorish through living alone.
+{12752}{12820}You weren't really.|You simply wanted to be alone, and--
+{12820}{12920}Tell me, is Mrs. Van Hopper|a friend of yours or just a relation ?
+{12920}{12998}No, she's my employer.|I'm what is known as a paid companion.
+{12995}{13050}I didn't know companionship|could be bought.
+{13050}{13102}I looked up the word ''companion''|in the dictionary once.
+{13102}{13152}It said,|''a friend of the bosom.''
+{13155}{13208}[ Chuckles ]|I don't envy you the privilege.
+{13208}{13292}Oh, she's very kind, really,|and I have to earn my living.
+{13290}{13382}-Haven't you any family ?|-No, my mother died years and years ago,
+{13382}{13450}and then there was only my father.
+{13450}{13538}And he died last summer,|and then I took this job.
+{13535}{13605}- How rotten for you.|- Yes, it was rather,
+{13605}{13672}because, you see,|we got on so well together.
+{13672}{13720}You and your father ?
+{13720}{13768}Yes. He was a lovely person--|very unusual.
+{13768}{13818}- What was he ?|- A painter.
+{13818}{13878}- Ah. Was he a good one ?|- Well, I thought so.
+{13880}{13940}But people didn't understand him.
+{13940}{13992}Yes, that's often the trouble.
+{13992}{14078}He painted trees.|At least it was one tree.
+{14078}{14148}You mean he painted the same|tree over and over again ?
+{14148}{14230}Yes. You see, he had a theory that|if you should fiind one perfect thing...
+{14228}{14288}or place or person,|you should stick to it.
+{14288}{14335}Do you think that's very silly ?
+{14335}{14395}Not at all.|I'm a fiirm believer in that myself.
+{14395}{14475}And what did you fiind|to do with yourself|while he was painting his tree ?
+{14475}{14552}Oh, I sat with him and I sketched|a little. I don't do it well, though.
+{14552}{14612}-You're going sketching this afternoon ?|-Yes.
+{14612}{14660}- Where ?|- I haven't made up my mind.
+{14660}{14735}- I'll drive you somewhere in the car.|- Oh, no, please. I didn't mean--
+{14735}{14808}Oh, nonsense.|Finish up that mess and we'll get along.
+{14805}{14878}Thank you. It's very kind of you,|but I'm not very hungry.
+{14878}{14952}Oh, come on.|Eat it up like a good girl.
+{15188}{15280}You're taking|long enough for that sketch.|I expect a really fiine work of art.
+{15278}{15342}Oh, no, don't look at it.|It's not nearly good enough.
+{15342}{15390}But it can't be|as bad as all that.
+{15390}{15438}Now, don't rub it all out.|Let me look at it fiirst.
+{15440}{15505}- It's the perspective.|I never can get it right.|- Let me see.
+{15502}{15560}Oh, dear.|Tell me, is it the perspective...
+{15560}{15628}<i>that gives my nose that</i>|<i>curious twist in the middle ?</i>
+{15628}{15692}- Well, you're not|a very easy subject to sketch.|- No ?
+{15692}{15770}- Your expression|keeps changing all the time.|- Does it ?
+{15770}{15842}Well, I'd concentrate on the view|instead if I were you.
+{15842}{15895}Much more worthwhile.
+{15895}{15985}It rather reminds me of our coastline|at home. Do you know Cornwall at all ?
+{15982}{16055}Yes. I went there once|with my father on holiday.
+{16055}{16140}I was in a shop once,|and I saw a postcard...
+{16140}{16205}with a beautiful house on it,|right by the sea.
+{16205}{16298}And I asked whose house it was, and|the old lady said, ''That's Manderley.''
+{16295}{16365}- I felt ashamed for not knowing.|<i>- Manderley is beautiful.</i>
+{16365}{16488}To me, it's just the place|where I was born...
+{16485}{16548}and have lived in all my life.
+{16548}{16622}But now, I don't suppose|I shall ever see it again.
+{16802}{16902}We're lucky not to be home|during the bad weather, aren't we ?
+{16902}{16950}Hmm.
+{16950}{17062}I can't ever remember enjoying swimming|in England untilJune, can you ?
+{17120}{17192}The water's so warm here|that I could stay in all day.
+{17192}{17288}There's a dangerous undertow, and|there was a man drowned here last year.
+{17328}{17398}<i>I never have any fear</i>|<i>of drowning, have you ?</i>
+{17558}{17605}Come, I'll take you home.
+{17945}{18052}<i>[ Mrs. Van Hopper ]</i>|<i>Oh,yes. I know Mr. de Winter well.</i>|<i>I knew his wife too.</i>
+{18050}{18125}Before she married, she was the|beautiful Rebecca Hildreth, you know.
+{18125}{18195}She was drowned, poor dear,|while she was sailing near Manderley.
+{18195}{18265}<i>He never talks about it,</i>|<i>of course, but he</i>'<i>s a broken man.</i>
+{18262}{18335}I suppose I'd better have it.|Wretched stuff!
+{18335}{18395}Give me a chocolate, quick !
+{18395}{18450}Oh, there you are.|It's about time.
+{18450}{18522}Hurry up.|I want to play some rummy.
+{18680}{18748}<i>[ Mrs. Van Hopper</i>'<i>s Voice ]</i>|<i>She was the beautiful Rebecca Hildreth,</i>|<i>you know.</i>
+{18748}{18800}<i>They say he simply adored her.</i>
+{18800}{18855}<i>She was the beautiful</i>|<i>Rebecca Hildreth,you know.</i>
+{18855}{18912}<i>I suppose he just can</i>'<i>t</i>|<i>get over his wife</i>'<i>s death.</i>
+{18912}{18970}<i>She was the beautiful</i>|<i>Rebecca Hildreth,you know.</i>
+{18970}{19025}<i>But he</i>'<i>s a broken man.</i>
+{19070}{19130}<i>- Bonjour.</i>|- Well, where are you going ?
+{19128}{19195}-Oh, I thought I'd take a tennis lesson.|-I see.
+{19195}{19275}I suppose you've had a look at the pro,|and he's desperately handsome...
+{19272}{19348}and you've conceived|a schoolgirl crush on him.
+{19348}{19410}All right, go ahead.|Make the most of it.
+{19460}{19510}<i>- Off duty?</i>|- Oh, yes.
+{19512}{19588}Mrs. Van Hopper's cold has turned|into flu, so she's got a trained nurse.
+{19588}{19662}- I'm sorry for the nurse.|You keen on tennis ?|- No, not particularly.
+{19662}{19735}That's good.|We'll go for a drive.
+{20185}{20252}Good afternoon, Mrs. Van Hopper.|How are you feeling ?
+{20252}{20330}You got on rather well with him,|didn't you ?
+{20328}{20402}That pro must have been|teaching you other things than tennis.
+{20438}{20505}Hurry up.|I want you to make some calls.
+{20505}{20578}I wonder if Mr. de Winter|is still in the hotel.
+{21852}{21900}May I go now ?
+{21900}{21980}For the number of lessons you've had,|you ought to be ready for Wimbledon.
+{21980}{22040}But this will be your last,|so make the most of it.
+{22040}{22108}The trouble is, with me laid up|like this, you haven't had enough to do.
+{22108}{22155}But I'm getting rid of that nurse today,
+{22155}{22202}and from now on|you'll stick to your job.
+{22202}{22255}Yes, Mrs. Van Hopper.
+{22298}{22358}- Nurse !|<i>- Yes, Mrs. Van Hopper?</i>
+{22358}{22452}Are you absolutely sure you left|those messages for Mr. de Winter ?
+{22450}{22518}- Why, yes, madame.|- I simply can't believe it.
+{22518}{22580}He would most certainly|have called me back.
+{22580}{22665}Oh, well. Poor boy.|I simply hate to see him so alone.
+{22830}{22902}You know, I, I wish there|could be an invention...
+{22900}{22985}that bottled up the memory|like perfume.
+{22985}{23040}And it never faded,|never got stale.
+{23040}{23098}Then whenever I wanted to,|I could uncork the bottle...
+{23098}{23150}and live the memory|all over again.
+{23150}{23215}And what particular moment|would you want to keep ?
+{23215}{23285}Oh, all of them,|all these last few days.
+{23285}{23398}I feel as though I'd, I'd collected|a whole shelf full of bottles.
+{23395}{23482}Sometimes, you know, those|little bottles contain demons...
+{23480}{23540}that have a way|of popping out at you...
+{23540}{23600}just as you're trying|most desperately to forget.
+{23852}{23908}Stop biting your nails.
+{23908}{23978}Oh, I wish I were a woman of 36,
+{23978}{24050}dressed in black satin,|with a string of pearls.
+{24050}{24118}[ Laughing ] You wouldn't be here|with me if you were.
+{24178}{24275}Would you please tell me, Mr. de Winter,|why you asked me to come out with you ?
+{24272}{24335}Oh, it's obvious|that you want to be kind,
+{24335}{24405}but why do you choose me|for your charity ?
+{24478}{24542}<i>[ Pulls Parking Brake ]</i>
+{24542}{24618}I asked you to come out with me|because I wanted your company.
+{24618}{24665}You've blotted out|the past for me more...
+{24665}{24735}than all the bright|lights of Monte Carlo.
+{24735}{24808}But if you think I just asked|you out of kindness or charity,
+{24810}{24878}you can leave the car now|and fiind your own way home.
+{24878}{24948}Go on, open the door and get out.
+{24945}{25005}[ Sobbing ]
+{25128}{25178}Better blow your nose.
+{25180}{25232}[ Blowing Nose ]
+{25235}{25292}Please don't call me Mr. de Winter.
+{25292}{25372}I have a very impressive|array of fiirst names.
+{25370}{25430}George Fortescue Maximilian. But you|needn't bother with them all at once.
+{25430}{25485}My family call me Maxim.
+{25532}{25580}And another thing.
+{25582}{25662}Please promise me never|to wear black satin or pearls...
+{25660}{25732}or to be 36 years old.
+{25732}{25788}Yes, Maxim.
+{26645}{26720}<i>[ Mrs. Van Hopper ]</i>|<i>Ror the love of Pete! Come here!</i>
+{26720}{26795}What do you think ?|My daughter's engaged to be married.
+{26795}{26868}- Oh, really ? How nice.|- We must leave for New York at once.
+{26868}{26952}G<i>et reservations</i>|<i>on the</i> Aquitania, <i>and we</i>'<i>ll take</i>|<i>the 1 2..30 train for Cherbourg.</i>
+{26952}{27028}Hurry up and get a maid to help with|the packing. We've no time to waste.
+{27028}{27080}Go on and don't dawdle !
+{27150}{27208}Mr. de Winter, please.
+{27205}{27262}Oh, he's gone out riding ?
+{27262}{27322}He won't be back till noon ?
+{27322}{27458}Oh... well...|give me the porter, please.
+{27455}{27538}[ Clock Ticking ]
+{27635}{27710}I'll go and see if there's|anything left in my room.
+{27878}{27950}Has Mr. de Winter come in yet ?
+{27950}{28038}Oh, he has ?|Would you connect me, please ?
+{28240}{28345}Oh, I-I was looking for my book.|I-I suppose I've packed it.
+{28345}{28422}Well, come on.|The car's waiting at the door.
+{28478}{28545}[ Phone Ringing ]
+{28762}{28852}I'd like to leave a forwarding address|if they happen to fiind that book.
+{28935}{28982}Would you ring|Mr. de Winter, please ?
+{28985}{29038}Yes, madam.|<i>Cent vingt-deu</i>x.
+{29250}{29295}There isn't any answer.
+{29298}{29368}Thank you.
+{29370}{29432}- Tell her to hurry up !|- Yes, madam.
+{29475}{29522}I was looking for Mr. de Winter.
+{29522}{29595}Mr. de Winter just ordered|breakfast in his room, mademoiselle.
+{29695}{29758}<i>-[ Knock At Door ]</i>|<i>-[ Ma</i>x<i>im ] Come in.</i>
+{30072}{30175}Hello. What are you doing here ?|Anything the matter ?
+{30172}{30252}I've come to say good-bye.|We're going away.
+{30252}{30322}- What on earth are you talking about ?|- It's true.
+{30322}{30418}We're going now, and|I was afraid I wouldn't see you again.
+{30558}{30605}Where is she taking you to ?
+{30605}{30658}New York. I don't want to go.
+{30658}{30730}I shall hate it.|I shall be miserable.
+{30825}{30908}I'll dress in here.|I shan't be long
+{30985}{31082}<i>Which would you prefer,</i>|<i>New York or Manderley?</i>
+{31082}{31160}Oh, please don't joke about it.|Mrs. Van Hopper's waiting...
+{31160}{31240}and I-I'd better say good-bye now.
+{31238}{31298}<i>I repeat what I said.</i>
+{31298}{31360}<i>Either you go to America</i>|<i>with Mrs. Van Hopper,</i>
+{31360}{31418}<i>or you come home</i>|<i>to Manderley with me.</i>
+{31418}{31472}You mean you want|a secretary or something ?
+{31475}{31548}<i>I</i>'<i>m asking you to marry me,</i>|<i>you little fool.</i>
+{31730}{31782}<i>-[ Knocking At Door ]</i>|<i>- Come in.</i>
+{31830}{31902}<i>Is that my food? I</i>'<i>m famished.</i>|<i>I didn</i>'<i>t have any breakfast.</i>
+{32270}{32360}Ah, my suggestion didn't seem|to go at all well. I'm sorry.
+{32358}{32468}Oh, but you don't understand. It's that|I'm not the sort of person men marry.
+{32465}{32530}What on earth do you mean ?
+{32530}{32588}I don't belong in your|sort of world, for one thing.
+{32588}{32640}What is my sort of world ?
+{32640}{32712}Oh, well, Manderley.|You know what I mean.
+{32712}{32780}Well, I'm the best judge|of whether you belong there or not.
+{32780}{32838}Of course, if you don't love me,|then it's a different thing.
+{32838}{32895}Fine blow to my conceit,|that's all.
+{32895}{32960}Oh, I do love you.|I love you most dreadfully.
+{32960}{33060}I've been crying all morning because|I thought I'd never see you again.
+{33132}{33180}Bless you for that.
+{33220}{33322}I'll remind you of this one day,|and you won't believe me.
+{33358}{33432}It's a pity you have to grow up.
+{33432}{33495}Well, now that's settled,|you may pour me out some coffee.
+{33495}{33562}Two lumps of sugar|and some milk, please.
+{33562}{33625}Same with my tea.|Don't forget.
+{33625}{33682}Who's going to break the news|to Mrs. Van Hopper ?
+{33682}{33732}Oh, you tell her.|She'll be so angry.
+{33732}{33785}What's the number of her room ?
+{33785}{33855}Oh, she's not there.|She's downstairs in the car.
+{33855}{33920}Hello. Give me the desk, please.
+{33978}{34065}Hello. You'll fiind Mrs. Van Hopper|waiting outside in her car.
+{34065}{34125}Would you ask her,|with my compliments,
+{34125}{34190}if she'd very kindly come up|and see me in my room ?
+{34190}{34238}Yes, in my room.
+{34270}{34342}Mr. de Winter says please|for you to come up to his room.
+{34342}{34432}Mr. de Winter ?|Why, certainly.
+{34558}{34655}[ Laughing ] This isn't at all|your idea of a proposal, is it ?
+{34652}{34700}It should be in a conservatory,
+{34700}{34772}you in a white frock|with a red rose in your hand...
+{34772}{34828}and a violin playing in the distance,
+{34828}{34912}and I should be making violent|love to you behind a palm tree.
+{34912}{34988}[ Laughing ]|Poor darling. Never mind.
+{34985}{35040}- Oh, I don't mind.|<i>-[ Knocking At Door ]</i>
+{35040}{35148}Don't worry. Don't worry.|You won't have to say a word.
+{35148}{35202}I'm so glad you called me,|Mr. de Winter.
+{35202}{35288}I was making a hasty departure. It|was so rude of me not to let you know.
+{35285}{35332}But a cable came|this morning announcing...
+{35332}{35380}that my daughter|is engaged to be married.
+{35382}{35438}That's rather a coincidence,|Mrs. Van Hopper.
+{35438}{35500}I asked you up here in order|to tell you of my engagement.
+{35502}{35575}You don't mean it !|Oh, how perfectly wonderful !
+{35572}{35648}How romantic.|Who is the lucky lady ?
+{35648}{35742}I apologize for depriving you|of your companion in this abrupt way.
+{35740}{35810}I do hope it won't|inconvenience you too greatly.
+{35810}{35868}When did all this happen ?
+{35868}{35948}Just now, Mrs. Van Hopper.|Just a few minutes ago.
+{35948}{36010}I simply can't believe it.
+{36052}{36102}I suppose I ought|to scold you for not...
+{36102}{36155}having breathed a word|of all this to me.
+{36155}{36202}What am I thinking of?
+{36205}{36255}I shall give you both my|congratulations and blessings.
+{36255}{36342}I'm very happy for you both.|When and where is the wedding to be ?
+{36340}{36415}- Here, as soon as possible.|- A whirlwind romance !
+{36415}{36492}Splendid ! I could easily|postpone my sailing for a week.
+{36492}{36540}This poor child has no mother,
+{36540}{36592}so I shall take responsibility|for all the arrangements--
+{36592}{36640}trousseau, reception and everything.
+{36640}{36698}And I'll give the bride away.|But our luggage.
+{36698}{36772}- Go down and tell the porter to|take everything out of the car.|<i>-Just a minute.</i>
+{36772}{36820}We're most grateful,|but I think we'd both...
+{36820}{36885}prefer to have it|as quiet as possible.
+{36885}{36970}- I couldn't possibly allow you|to change your sailing plans.|- Oh, but--
+{36968}{37052}No, no, no. Dear, I'll go down and|see that your luggage is brought back.
+{37052}{37105}Thank you, Maxim.
+{37105}{37190}So this is what's been happening|during my illness.
+{37192}{37255}Tennis lessons, my foot !
+{37255}{37318}I suppose I have to hand it|to you for a fast worker.
+{37318}{37390}How did you manage it ?|Still waters certainly run deep.
+{37485}{37575}Tell me, have you been doing|anything you shouldn't ?
+{37572}{37650}I don't know what you mean.
+{37650}{37752}Oh, well, never mind. I always did say|that Englishmen have strange tastes.
+{37750}{37830}But you certainly have your work cut out|as mistress of Manderley.
+{37830}{37910}To be perfectly frank with you, my dear,|I can't see you doing it.
+{37908}{37955}You haven't the experience.
+{37958}{38042}You haven't the faintest idea|what it means to be a great lady.
+{38040}{38095}Of course, you know why|he's marrying you, don't you ?
+{38095}{38152}You haven't flattered yourself|that he's in love with you.
+{38152}{38218}<i>The fact is, that empty house</i>|<i>got on his nerves to such an e</i>x<i>tent...</i>
+{38218}{38265}<i>he nearly went off his head.</i>
+{38265}{38320}<i>He just couldn</i>'<i>t go on living alone.</i>
+{38320}{38405}You'd better leave, Mrs. Van Hopper.|You'll miss your train.
+{38545}{38610}Hmm. Mrs. de Winter.
+{38610}{38678}Good-bye, my dear, and good luck !
+{38815}{38862}<i>[ Door Closes ]</i>
+{39125}{39195}[ Conversing In French ]
+{39345}{39435}Monsieur ! Vous avez oubliez|votre carnet de mariage.
+{39432}{39515}[ Laughs ] He says I've forgotten|the proof that we're married.
+{39515}{39562}Good heavens !
+{39685}{39740}[ Both Laughing ]
+{39740}{39802}Ah, somebody else had the same idea.
+{39802}{39875}[ Chattering ]
+{39958}{40015}- Isn't she sweet ?|- Yes.
+{40015}{40088}You'd have liked|a bridal veil, wouldn't you ?
+{40130}{40178}Or at least--
+{40178}{40240}<i>Madame, madame, combien</i>|<i>c</i>'<i>a fait ? Tout de tout ?</i>
+{40240}{40335}<i>Je vous remercie mille fois,</i>|<i>madame. Merci.</i>
+{40332}{40395}Oh, Maxim, how lovely.
+{40395}{40458}Oh, how perfectly lovely.
+{40460}{40560}Ah... oh... perfectly lovely.
+{40620}{40680}<i>[ Car Horn Honking ]</i>
+{40700}{40788}- Welcome home, Mr. de Winter.|- Thank you, Smith.
+{40980}{41062}- Cold, darling ?|- Yes,just a little bit.
+{41102}{41168}There's no need|to be frightened, you know.
+{41170}{41242}Just be yourself,|and they'll all adore you.
+{41340}{41408}You don't have to worry|about the house at all.
+{41408}{41480}Mrs. Danvers is the housekeeper.|Just leave it to her.
+{41595}{41698}Hello. Starting to rain.|We'd better hurry up.
+{41788}{41858}Here, have this.|Put it over your head.
+{41858}{41908}Thank you.|[ Sniffles ]
+{41908}{41955}[ Laughs ]
+{42248}{42318}<i>That</i>'<i>s it.</i>|<i>That</i>'<i>s Manderley.</i>
+{42928}{42975}Here we are, Frith.|Everybody well ?
+{42975}{43028}Yes, thank you, sir.|Glad to see you home, sir.
+{43028}{43098}- This is Mrs. de Winter, Frith.|- How do you do ?
+{43282}{43355}I didn't expect the whole staff|to be in attendance.
+{43355}{43402}Mrs. Danvers' orders, sir.
+{43402}{43472}Oh. Sorry about this.|Won't take long.
+{43702}{43755}<i>[ Ma</i>x<i>im ]</i>|<i>This is Mrs. Danvers.</i>
+{43805}{43852}How do you do ?
+{43880}{43928}How do you do ?
+{43928}{43982}I have everything|in readiness for you.
+{43982}{44062}That's very good of you.|I didn't expect anything.
+{44188}{44240}<i>[ Ma</i>x<i>im ]</i>|<i>I think we</i>'<i>d like some tea, Rrith.</i>
+{44242}{44295}<i>[ Rrith ]</i>|<i>It</i>'<i>s ready in the library, sir.</i>
+{44295}{44345}<i>[ Ma</i>x<i>im ]</i>|<i>Come along, darling.</i>
+{44612}{44660}<i>[ Knocking At Door ]</i>
+{44660}{44715}Oh, Maxim ! Come in !
+{44758}{44828}Oh, good evening, Mrs. Danvers.
+{44828}{44875}Good evening, madam.
+{45042}{45098}<i>-[ Door Closes ]</i>|- I hope Alice was satisfactory, madam.
+{45098}{45152}- Oh, yes, thank you. Perfectly.|- She's the parlor maid.
+{45152}{45212}She'll have to look after you|until your own maid arrives.
+{45212}{45278}Oh, but I haven't a maid.|I'm sure Alice will do very nicely.
+{45278}{45342}I'm afraid that would not do|for very long, madam.
+{45342}{45430}It's usual for ladies in your|position to have a personal maid.
+{45428}{45525}I hope you approve the new decoration|of these rooms, madam.
+{45525}{45582}Oh, I didn't know|it had been changed.
+{45582}{45638}I hope you haven't been|to too much trouble.
+{45638}{45700}I only followed out|Mr. de Winter's instructions.
+{45700}{45755}Oh, well, what|did it look like before ?
+{45755}{45808}It had an old paper|and different hangings.
+{45808}{45870}It was never used much,|except for occasional visitors.
+{45870}{45938}Oh, then it wasn't|Mr. de Winter's room originally ?
+{45940}{46008}No, madam. He's never used|the east wing before.
+{46005}{46092}Of course, there's no view|of the sea from here.
+{46095}{46175}The only good view of the sea|is from the west wing.
+{46175}{46260}The room's very charming,|and I'm sure I'll be comfortable.
+{46258}{46332}If there's anything you want done,|madam, you have only to tell me.
+{46332}{46420}I suppose you've been at Manderley|for many years, longer than anyone else.
+{46418}{46490}Not so long as Frith. He was here|when the old gentleman was living,
+{46490}{46545}when Mr. de Winter was a boy.
+{46545}{46620}<i>Oh, I see.</i>|<i>And you didn</i>'<i>t come until after that ?</i>
+{46620}{46698}I came here when|the fiirst Mrs. de Winter was a bride.
+{46792}{46875}Mrs. Danvers,|I do hope we'll be friends.
+{46875}{46965}You must be patient with me.|This sort of life is new to me,
+{46962}{47022}and I do want to make|a success of it...
+{47022}{47075}and make Mr. de Winter happy.
+{47075}{47145}So I know I can leave all|the household arrangements to you.
+{47145}{47228}Very well. I hope I shall do everything|to your satisfaction, madam.
+{47228}{47288}I've managed the house since|Mrs. de Winter's death,
+{47288}{47358}and Mr. de Winter|has never complained.
+{47512}{47570}I think I'll go downstairs now.
+{48412}{48518}That room in the west wing I was telling|you about is there through that door.
+{48518}{48572}It's not used now.
+{48572}{48632}It's the most beautiful|room in the house--
+{48632}{48728}the only one that looks down|across the lawns to the sea.
+{48765}{48820}It was Mrs. de Winter's room.
+{50712}{50775}- Good morning.|- Good morning.
+{50775}{50825}You're Mrs. de Winter, aren't you ?
+{50828}{50878}- Yes.|- My name's Crawley.
+{50878}{50942}I-I manage the estate for Maxim.
+{50942}{51000}Awfully glad to meet you.
+{51000}{51095}[ Chuckles ] Fearful lot of stuff|piled up while Maxim was away.
+{51095}{51152}Yes, I'm sure there must have been.
+{51152}{51218}I, I do wish I could help|with some of it.
+{51218}{51282}Oh, no. Frank never allows|anybody to help him.
+{51282}{51350}He's like an old mother hen|with his bills and rents and taxes.
+{51350}{51420}- Come on, Frank.|We must go over these estimates.|- I'll get my papers.
+{51420}{51478}You'll fiind quantities|of breakfast over there.
+{51478}{51555}- You must eat it all, or cook|will be mortally offended.|- I'll do my best, Maxim.
+{51555}{51632}I have to go over the place with Frank|to make sure he hasn't lost any of it.
+{51632}{51688}- But you'll be all right, won't you ?|- Mm-hmm.
+{51688}{51742}Getting acquainted|with your new home ?
+{51742}{51802}Have a look at <i>The Times.</i>|There's a thrilling article...
+{51802}{51860}on what's the matter|with English cricket.
+{51860}{51915}Oh, uh, yes, um--
+{51915}{52002}My sister Beatrice and her husband Giles|Lacy have invited themselves for lunch.
+{52000}{52050}- Today ?|<i>- Yes.</i>
+{52050}{52120}I suppose the old girl|can't wait to look you over.
+{52120}{52168}You'll fiind her very direct.
+{52168}{52222}If she doesn't like you,|she'll tell you so to your face.
+{52222}{52310}Don't worry, darling. I'll be back|in time to protect you from her.
+{52310}{52368}- Good-bye, darling.|- Good-bye, Maxim.
+{52368}{52422}- Good-bye.|- Good-bye.
+{53372}{53442}- Good morning, madam.|- Good morning, Frith.
+{53578}{53638}Isn't there anything|I could get for you, madam ?
+{53638}{53730}Oh, no, thank you, Frith.|I'm really not very hungry.
+{53732}{53778}Thank you.
+{53780}{53855}- The paper, madam.|- Oh, yes. Thank you, Frith.
+{53950}{54000}- Madam.|- I slipped.
+{54000}{54062}Oh, thank you, Frith.
+{54160}{54238}- It's big, isn't it ?|- Yes, madam. Manderley is a big place.
+{54238}{54300}This was the banquet hall|in the old days.
+{54300}{54385}It's still used on great occasions,|such as a big dinner or a ball,
+{54385}{54480}and the public is admitted here,|you know, once a week.
+{54478}{54525}That's nice.
+{55032}{55095}I beg pardon, madam.
+{55095}{55172}<i>I</i>'<i>m afraid the fiire is not usually</i>|<i>lit in the library until the afternoon.</i>
+{55172}{55220}<i>But you</i>'<i>ll fiind one</i>|<i>in the morning room.</i>
+{55220}{55282}Of course, if you wish|this fiire lit now, madam--
+{55282}{55350}Oh, no, Frith.|I wouldn't dream of it.
+{55385}{55442}Uh, Mrs. de Winter--|[ Clears Throat ]
+{55442}{55508}I mean, the late Mrs. de Winter|always did her correspondence...
+{55508}{55578}and telephoning in the morning|room after breakfast.
+{55580}{55632}Thank you, Frith.
+{55778}{55825}Is anything wrong, madam ?
+{55825}{55900}[ Chuckles ] Oh, no.|Uh, which way is the morning room ?
+{55900}{55982}- Oh, it's that door there on the left.|- Oh, yes, thank you.
+{57132}{57222}[ Phone Ringing ]
+{57278}{57360}Mrs. de Winter ?|Oh, I'm afraid you've made a mistake.
+{57360}{57458}Mrs. de Winter's been dead|for over a year.
+{57455}{57515}Oh, I mean I--|[ Gasps ]
+{57558}{57652}- Oh.|- That was the house telephone, madam.
+{57652}{57740}Probably the head gardener|wishing instructions.
+{57775}{57828}Did you want to see me, Mrs. Danvers ?
+{57828}{57890}Mr. de Winter informed me|that his sister Mrs. Lacy...
+{57890}{57945}and Major Lacy|are expected for luncheon.
+{57945}{58002}I'd like to know|if you approve of the menu.
+{58005}{58082}Oh, well, I-I'm sure|it's very suitable, very nice indeed.
+{58082}{58162}You'll notice, madam, that|I've left a blank space for the sauce.
+{58160}{58250}Mrs. de Winter was most|particular about sauces.
+{58250}{58308}Let's have whatever you think|that Mrs. de Winter would have wanted.
+{58308}{58355}Thank you, madam.
+{58355}{58465}When you've fiinished your letters,|Robert will take them to the post.
+{58462}{58525}My let-- My letters ?
+{58525}{58602}Oh, yes, of course.|Thank you, Mrs. Danvers.
+{58720}{58775}<i>[ Door Closes ]</i>
+{59978}{60045}- How are you, Frith ?|- Good morning, Mrs. Lacy.
+{60045}{60130}- Where's Mr. de Winter ?|- I believe he went down to|the farm with Mr. Crawley.
+{60130}{60212}How tiresome of him not to be here|when we arrive, and how typical !
+{60272}{60338}[ Whimpering ]
+{60495}{60575}<i>[ Beatrice ] I must say, old Danvers</i>|<i>keeps the house looking lovely.</i>
+{60575}{60655}<i>She certainly learned that</i>|<i>trick of arranging flowers from Rebecca.</i>
+{60655}{60705}<i>[</i> G<i>iles ]</i>|<i>I wonder how she likes it now,</i>
+{60705}{60762}<i>being ordered about</i>|<i>by an e</i>x<i>-chorus girl.</i>
+{60762}{60820}<i>[ Beatrice ] Where on earth did you</i>|<i>get the idea she</i>'<i>s an e</i>x<i>-chorus girl?</i>
+{60820}{60895}He picked her up|in the South of France, didn't he ?
+{60895}{60998}- What if he did ?|- Well, I mean to say, there you are.
+{61108}{61172}<i>How do you do ? I-I</i>'<i>m Ma</i>x<i>im</i>'<i>s wife.</i>
+{61175}{61278}How do you do ? Well, I must say you're|quite different from what I expected.
+{61275}{61352}Don't be so silly.|She's exactly what I told you she'd be.
+{61352}{61420}- Well, how do you like Manderley ?|- Very beautiful, isn't it ?
+{61420}{61470}And how do you get along|with Mrs. Danvers ?
+{61470}{61565}Well, I-- I've never met anyone|quite like her before.
+{61562}{61652}You mean she scares you ? She's not|exactly an oil painting, is she ?
+{61652}{61725}Giles, you're very much|in the way here. Go somewhere else.
+{61722}{61772}I'll try and fiind Maxim, shall I ?
+{61775}{61815}Giles.
+{61850}{61925}I-I didn't mean to say anything|against Mrs. Danvers.
+{61925}{61982}Oh, there's no need for you|to be frightened of her.
+{61982}{62055}But I shouldn't have any more|to do with her than you can help.
+{62055}{62128}- Shall we sit down ?|- Oh, yes, yes, please.
+{62128}{62210}You see, she's bound to be|insanely jealous at fiirst,
+{62208}{62258}and she must resent you bitterly.
+{62258}{62315}- Why should she ?|- Don't you know ?
+{62315}{62385}I should have thought|Maxim would have told you.
+{62385}{62455}She simply adored Rebecca.
+{62682}{62755}- How are you, Robert ?|- Quite well, thank, you, madam.
+{62755}{62825}- Still having trouble with your teeth ?|- Unfortunately yes, madam.
+{62825}{62918}You should have them out, all of them.|Wretched nuisances, teeth.
+{62915}{62965}- Thank you, madam.|- Ooh, what a plateful.
+{62965}{63052}-Do you hunt ?|-I don't. I'm afraid I don't even ride.
+{63052}{63115}Oh, have to ride down here.|We all do.
+{63112}{63190}Which do you ride,|sidesaddle or astride ?
+{63188}{63240}Oh, yes, of course, I forgot.|You don't, do you ?
+{63242}{63295}Huh, you must.|Nothing else to do down here.
+{63295}{63362}Maxim, when are you going to have|parties here again like the old days ?
+{63362}{63442}- I haven't thought about it.|- But everyone's dying to see you and--
+{63440}{63488}Yes, I bet they are.
+{63488}{63548}Why don't you have|the masquerade ball again ?
+{63548}{63598}- Well--|- My dear, are you fond of dancing ?
+{63600}{63660}Oh, I love it,|but I'm not very good at it.
+{63662}{63722}- Do you rhumba ?|- I've never tried.
+{63722}{63808}You must teach me.|I say, old boy, I'm trying to fiind out|exactly what your wife does do.
+{63808}{63865}[ Chuckles ]|Well, she sketches a little.
+{63865}{63920}Sketches !|Not this modern stuff, I hope.
+{63920}{63968}You know, portrait|of a lamp shade upside-down...
+{63968}{64015}to represent a soul in torment.
+{64015}{64085}- Don't sail, do you ?|- No, I don't.
+{64085}{64182}Well, thank goodness for that. Huh ?
+{64435}{64500}You're very much in love with Maxim,|aren't you ?
+{64500}{64552}Yes, I can see you are.
+{64552}{64642}Don't mind my saying so, but why don't|you do something about your hair ?
+{64642}{64718}Why don't you have it cut|or sweep it back behind your ears ?
+{64765}{64858}Oh, no, that's worse.|What does Maxim say about it ?
+{64855}{64925}- Does he like it like that ?|- Well, he never mentions it.
+{64925}{64972}Oh, well, don't go by me.
+{64972}{65045}I can see by the way you dress,|you don't care a hoot how you look.
+{65045}{65092}But I wonder Maxim|hasn't been at you.
+{65095}{65142}He's so particular about clothes.
+{65145}{65200}I don't think he ever notices|what I wear.
+{65200}{65292}Oh, well,|he must have changed a lot, then.|[ Chuckles ]
+{65335}{65405}You mustn't worry|about old Maxim and his moods.
+{65405}{65480}One never knows what goes on|in that quiet mind of his.
+{65478}{65550}Often he gets|into a terrible rage, and when he does--
+{65550}{65622}[ Whistles ]|But I don't suppose he'll|lose his temper with you.
+{65622}{65670}You seem such a placid|little thing.
+{65670}{65750}<i>- Come along, old girl. We</i>'<i>ve got</i>|<i>to be on the fiirst tee at 3..00.</i>|- All right, I'm coming.
+{65750}{65802}Well, good-bye,|Maxim, old boy.
+{65802}{65865}Good-bye, Giles.|Thanks for coming, old boy.
+{65865}{65950}Good-bye, my dear. Forgive me|for asking you so many rude questions.
+{65948}{66005}We both really hope|you'll be very happy.
+{66005}{66062}Oh, thank you, Beatrice.|Thank you very much.
+{66062}{66128}And I must congratulate you|on the way Maxim looks.
+{66128}{66185}We were very worried about him|this time last year.
+{66185}{66275}But then, of course,|you know the whole story.
+{66275}{66348}<i>-[ Ma</i>x<i>im ]</i> G<i>ood-bye, Beatrice, darling.</i>|-G<i>ood-bye, old boy.</i>
+{66348}{66412}<i>[ Car Engine Starts ]</i>
+{66440}{66502}- Good-bye.|- Good-bye.
+{66502}{66598}Well, thank heavens they've gone.|Now we can have a walk about the place.
+{66595}{66670}Looks as though we might have a shower,|but you won't mind that, will you ?
+{66672}{66745}- No, but I'll go get a coat.|- There's a heap of mackintoshes|in the flower room.
+{66745}{66840}Robert,|run and get a coat from the flower|room for Mrs. de Winter, will you ?
+{66838}{66908}- What did you think of Beatrice ?|- Oh, I liked her very much.
+{66908}{66985}But she kept saying that I was quite|different from what she expected.
+{66985}{67032}What the devil did she expect ?
+{67032}{67105}Oh, someone smarter and more|sophisticated, I'm afraid.
+{67105}{67160}Do you like my hair ?
+{67160}{67232}Your hair ? Yes, of course I do.|What's the matter with it ?
+{67232}{67292}Oh, I don't know.|I just wondered.
+{67292}{67345}[ Laughing ]|How funny you are.
+{67345}{67418}- Thank you.|- Do I have to put it on ?
+{67415}{67495}Yes, certainly, certainly, certainly.|Can't be too careful with children.
+{67495}{67570}<i>Come on,Jasper.</i>|<i>Come and take some of that fat off.</i>
+{67762}{67832}Jasper !|Here, not that way !
+{67832}{67880}<i>Come here!</i>|<i>[ Whistles ]</i>
+{67880}{67932}Where does that lead to ?
+{67935}{68030}- Oh, it leads to a little cove|where we used to keep a boat.|- Oh, let's go down there.
+{68028}{68120}Oh, no, it's a perfectly dull,|uninteresting stretch of sand,|just like any other.
+{68118}{68178}- Oh, please.|- Well, all right.
+{68178}{68255}We'll walk down and take a look,|if you really want to.
+{68372}{68440}[Jasper Barking, Howling ]
+{68440}{68525}That's Jasper. There must be something|wrong. Perhaps he's hurt himself.
+{68522}{68588}-No, he's all right.|-Don't you think I'd better go and see ?
+{68588}{68692}Don't bother about him.|He can't come to any harm.|He'll fiind his own way back.
+{68745}{68808}<i>[ Barking Continues ]</i>
+{68868}{68938}Jasper ! Jasper !
+{68935}{68992}<i>Oh, there you are.</i>
+{68992}{69042}[ Barking Continues ]
+{69140}{69212}What do you want in there,Jasper ?|Come on. Come on home.
+{69212}{69275}Let's go home. Jasper. Jas--
+{69492}{69615}Oh... I didn't know|that there was anybody--
+{69612}{69712}I know that dog.|He comes fr' the house.
+{69710}{69758}He ain't your'n.
+{69758}{69832}No, he's|Mr. de Winter's dog.
+{69832}{69892}Have you anything|I could tie him with ?
+{70692}{70740}Come on,Jasper.
+{70742}{70818}You won't tell anyone|you saw me in there, will ya ?
+{70818}{70865}Don't you belong|on the estate ?
+{70870}{70962}I weren't doin' nothin'.|I was just puttin'|my shells away.
+{70960}{71038}She's gone in the sea,|ain't she ?
+{71038}{71102}She'll never come back|no more.
+{71102}{71235}No, she'll never come back.|Come on,Jasper.
+{71692}{71755}<i>Ma</i>x<i>im !</i>|<i>What</i>'<i>s the matter?</i>
+{71755}{71802}Maxim !
+{71850}{71925}I'm sorry I was such a time,|but I had to fiind a rope|forJasper.
+{71925}{71982}Hurry up,Jasper !|For heaven's sake !
+{71982}{72050}<i>Please wait for me. Ma</i>x<i>im,</i>|<i>what is it ? You look so angry.</i>
+{72048}{72110}You knew I didn't|want you to go there,|but you deliberately went.
+{72110}{72185}Why not ?|There was only a cottage|down there and a strange man--
+{72185}{72245}You didn't go into|the cottage, did you ?|Yes. The door--
+{72245}{72312}Well, don't go there|again, do you hear !|Well, why not ?
+{72312}{72385}If you had my memories,|you wouldn't go there|or even think about it !
+{72385}{72458}What's the matter ?|Oh, I'm sorry. Please.
+{72455}{72560}We should have stayed away.|We should never have come|back to Manderley.
+{72592}{72652}Oh, what a fool I was !
+{72690}{72765}I've made you unhappy.|Somehow I've hurt you.
+{72765}{72840}Oh, I can't bear|to see you like this...
+{72840}{72905}because I love you so much.
+{72935}{73042}Do you ? Do you ?
+{73085}{73168}I've made you cry.|Forgive me.
+{73260}{73350}I sometimes seem to fly|off the handle for no reason at all.
+{73402}{73468}Don't I ?
+{73468}{73580}Come, we'll go home,|have some tea and forget all about it.
+{73578}{73632}Yes, let's forget all about it.
+{73632}{73685}Here, let me haveJasper.
+{74385}{74465}- Hello. Come in.|- Oh, please don't get up, Mr. Crawley.
+{74462}{74535}I was just wondering if you meant|what you said the other day...
+{74535}{74590}about showing me|the run of things ?
+{74590}{74642}- Of course I did.|- What are you doing now ?
+{74642}{74690}Notifying all the tenants that,|in celebration...
+{74692}{74740}of Maxim's|return with his bride,
+{74740}{74788}this week's rent will be free.
+{74790}{74838}Oh, was that Maxim's idea ?
+{74838}{74885}Oh, yes. All the servants|get an extra week's wages too.
+{74885}{74935}Oh, he didn't tell me.|[ Chuckles ]
+{74935}{75022}Can't I help you ?|I could at least lick the stamps.
+{75022}{75080}That's terribly nice of you.|Won't you sit down ?
+{75080}{75128}Oh, yes, thank you.
+{75240}{75320}I, I was down at the cottage|on the beach the other day.
+{75320}{75398}There was a man there--|a queer sort of person.
+{75395}{75480}-Jasper kept barking at him.|- Oh, yes. Must've been Ben.
+{75480}{75535}Excuse me.|He's quite harmless.
+{75538}{75595}We give him odd jobs now and then.
+{75595}{75660}That cottage place seemed|to be going to wreck and ruin.
+{75660}{75708}Why isn't something|done about it ?
+{75708}{75815}Well, I think if Maxim wanted anything|done about it, he'd tell me.
+{75812}{75898}Are those all|Rebecca's things down there ?
+{75932}{76018}Yes. Yes, they are.
+{76018}{76085}What did she use the cottage for ?
+{76085}{76145}The boat used to be moored near there.
+{76145}{76200}What boat ? What happened to it ?
+{76200}{76280}Was that the boat she was sailing|in when she was drowned ?
+{76310}{76415}Yes. It capsized and sank.|She was washed overboard.
+{76412}{76492}Wasn't she afraid|to go out like that alone ?
+{76492}{76552}She wasn't afraid of anything.
+{76632}{76688}Where did they fiind her ?
+{76728}{76848}Near Edgecombe, about 40 miles|up channel, about two months afterwards.
+{76845}{76962}Maxim went up to identify her.|It was horrible for him.
+{76960}{77018}Yes, it must have been.
+{77115}{77185}Mr. Crawley, please don't|think me morbidly curious.
+{77185}{77282}It isn't that. It's just|that I feel at such a disadvantage.
+{77282}{77330}All the time,|whenever I meet anyone,
+{77332}{77382}Maxim's sister|or even the servants,
+{77382}{77448}I know they're all|thinking the same thing.
+{77448}{77512}They're all comparing me|with her, with Rebecca.
+{77512}{77560}Oh, you mustn't think that.
+{77560}{77625}I can't tell you how glad I am|that you've married Maxim.
+{77625}{77682}It's going to make|all the difference to his life.
+{77682}{77748}And from my point of view,|it's very refreshing...
+{77748}{77820}to fiind someone like yourself|who's not entirely in tune,
+{77820}{77878}shall we say, with Manderley.
+{77878}{77978}That's very sweet of you.|I dare say I've been stupid,
+{77975}{78102}but every day I realize|things that she had and that I lack:
+{78100}{78185}beauty and wit and intelligence...
+{78185}{78280}and, oh, all the things that|are so important in a woman.
+{78278}{78335}But you have qualities|that are just as important--
+{78335}{78390}more important, if I may say so.
+{78390}{78448}Kindliness and sincerity...
+{78448}{78525}and, if you'll forgive me, modesty...
+{78525}{78612}mean more to a husband than|all the wit and beauty in the world.
+{78612}{78725}We none of us want to live|in the past. Maxim least of all.
+{78722}{78815}It's up to you, you know,|to lead us away from it.
+{78812}{78918}Well, I promise you|I won't bring this up again,
+{78915}{78988}but before we end|this conversation...
+{78988}{79055}would you answer|just one more question ?
+{79055}{79178}If it's something|I'm able to answer, I'll do my best.
+{79175}{79272}Tell me, what was Rebecca really like ?
+{79490}{79542}I suppose--
+{79545}{79658}I suppose she was the most|beautiful creature I ever saw.
+{80430}{80480}- Good evening, Maxim.|- Hello.
+{80480}{80548}The fiilms of the honeymoon|have arrived at last.
+{80548}{80608}Have we time, do you think,|before dinner ?
+{80678}{80730}Well, what on earth|have you done to yourself?
+{80730}{80838}Oh, nothing. I just ordered a new dress|from London. I hope you don't mind.
+{80838}{80940}<i>Oh, no. Only do you think that</i>|<i>sort of thing is right for you ?</i>
+{80938}{81018}- It doesn't seem your type at all.|- I thought you'd like it.
+{81018}{81092}And what have you done to your hair ?
+{81092}{81145}[ Laughing ]|Oh, I see.
+{81148}{81205}Oh, dear. Oh, dear.|Oh, dear. I'm sorry.
+{81205}{81255}You look lovely, lovely.
+{81255}{81328}That's very nice... for a change.
+{81372}{81420}Shall we see these pictures ?
+{81422}{81480}Yes, I'd love to see them.
+{81650}{81715}Ah, look, now. Look at that.
+{81715}{81798}Wasn't it wonderful, darling ?|Can't we go back there someday ?
+{81795}{81865}<i>Yes, of course, of course.</i>|<i>Ah, look at you. There.</i>
+{81865}{81952}<i>Won</i>'<i>t our grandchildren be delighted</i>|<i>when they see how lovely you were ?</i>
+{81955}{82012}<i>Oh, look at you!</i>
+{82012}{82070}<i>-[ Laughs, Mutters ]</i>|<i>- Oh, I like that.</i>
+{82070}{82118}<i>[ Laughing ]</i>|<i>Look at that.</i>
+{82118}{82182}- Yes, very nice.|- Oh, remember that ?
+{82182}{82265}- Yes.|- Oh, I wish our honeymoon could|have lasted forever, Maxim.
+{82262}{82365}Oh, dash it ! Look.|Oh. Oh. Oh, hang it.
+{82362}{82442}I've threaded it up wrong,|as usual, or something.
+{82512}{82560}Yes, Frith, what is it ?
+{82560}{82632}Excuse me, sir.|May I have a word with you ?
+{82632}{82700}Yes. Come in.
+{82702}{82750}It's about Robert, sir.
+{82750}{82830}There's been a slight unpleasantness|between him and Mrs. Danvers.
+{82830}{82880}- Oh, dear.|- Robert is very upset.
+{82882}{82938}This is trouble. What is it ?
+{82938}{82992}It appears Mrs. Danvers|has accused Robert...
+{82992}{83052}of stealing a valuable ornament|from the morning room.
+{83052}{83135}<i>Robert denies the accusation</i>|<i>most emphatically, sir.</i>
+{83132}{83208}- What was the thing, anyway ?|<i>- The china cupid, sir.</i>
+{83208}{83280}<i>[ Ma</i>x<i>im ] Oh, dear.</i>|<i>That</i>'<i>s one of our treasures, isn</i>'<i>t it ?</i>
+{83280}{83360}<i>Well, tell Mrs. Danvers to get</i>|<i>to the bottom of it somehow</i>|<i>and I</i>'<i>m sure it wasn</i>'<i>t Robert.</i>
+{83360}{83408}<i>[ Rrith ]</i>|<i>Very good, sir.</i>
+{83408}{83490}Why do they come to me with these|things ? That's your job, sweetheart.
+{83490}{83565}Maxim, I wanted to tell you,|but, um, well, I forgot.
+{83605}{83708}- The fact is, I broke the china cupid.|- You broke it ?
+{83708}{83788}Now, why on earth didn't you say|something about it when Frith was here ?
+{83785}{83832}I don't know.|I didn't like to.
+{83832}{83880}I was afraid he'd think me a fool.
+{83882}{83932}Well, he'll think you|much more a fool now.
+{83932}{83992}You'll have to explain to him|and Mrs. Danvers.
+{83992}{84062}- No, you do it. I'll go upstairs.|- Don't be such a little idiot.
+{84062}{84130}Anybody would think|you were afraid of them.
+{84128}{84175}<i>It was all a mistake,</i>|<i>Mrs. Danvers.</i>
+{84178}{84225}<i>Apparently, Mrs. de Winter</i>|<i>broke the cupid herself...</i>
+{84225}{84272}<i>and forgot to say anything about it.</i>
+{84275}{84370}I'm so sorry. I-- I never thought|that I'd get Robert into trouble.
+{84368}{84430}Is it possible to repair|the ornament, madam ?
+{84430}{84515}No, I'm afraid it isn't.|It was smashed into pieces.
+{84515}{84572}What did you do with the pieces ?
+{84612}{84720}Well, I-I put them at the back of one|of the drawers in the writing desk.
+{84718}{84782}Well, it looks as though|Mrs. de Winter were afraid...
+{84782}{84842}<i>you were going to put her in prison,</i>|<i>doesn</i>'<i>t it, Mrs. Danvers ?</i>
+{84842}{84950}Find the pieces, see if they can be|mended and tell Robert to dry his tears.
+{84948}{85000}<i>I shall apologize</i>|<i>to Robert, of course.</i>
+{85002}{85088}Perhaps if such a thing happens again,|Mrs. de Winter will tell me personally--
+{85085}{85150}Yes, yes, all right.|Thank you, Mrs. Danvers.
+{85182}{85258}<i>[ Door Opens, Closes ]</i>
+{85258}{85342}Well, I suppose that clip|will hold all right. I don't know.
+{85455}{85542}I'm awfully sorry, darling.|It was very careless of me.
+{85540}{85598}Mrs. Danvers|must be furious with me.
+{85598}{85670}<i>Oh, hang Mrs. Danvers. Why on earth</i>|<i>should you be frightened of her?</i>
+{85670}{85728}You behave more like|an upstairs maid or something,
+{85728}{85778}not like the mistress|of the house at all.
+{85778}{85868}Yes, I know I do.|But I feel so uncomfortable.
+{85868}{85960}I, I try my best every day,|but it's very diffiicult...
+{85958}{86055}with people looking me up and|down as if I were a prize cow.
+{86055}{86105}Well, what does it matter|if they do ?
+{86105}{86152}You must remember|that life at Manderley...
+{86152}{86200}is the only thing that|interests anybody down here.
+{86200}{86265}What a slap in the eye|I must have been to them, then.
+{86265}{86332}I suppose that's|why you married me.
+{86332}{86405}Because you knew I was dull|and gauche and inexperienced...
+{86405}{86490}and there could never be|any gossip about me.
+{86488}{86545}Gossip ?|What do you mean ?
+{86545}{86622}I-I don't know.|I just said it for something to say.
+{86622}{86682}<i>Don</i>'<i>t look at me like that.</i>
+{86682}{86778}Maxim, what's the matter ?|What have I said ?
+{86940}{87008}It wasn't a very attractive|thing to say, was it ?
+{87005}{87085}No. It was rude, hateful.
+{87205}{87272}I wonder if I did a very selfiish|thing in marrying you.
+{87272}{87322}How do you mean ?
+{87322}{87398}I'm not much of a companion|to you, am I ?
+{87398}{87478}You don't get much fun, do you ?
+{87478}{87578}You ought to have married a boy,|someone of your own age.
+{87578}{87670}Maxim, why do you say this ?|Of course we're companions.
+{87668}{87738}Are we ? I don't know.
+{87738}{87810}I'm very diffiicult to live with.
+{87810}{87882}No, you're not diffiicult.|You're easy, very easy.
+{87880}{87958}Our marriage is a success,|isn't it ? A great success ?
+{87958}{88040}We're happy, aren't we ?|Terribly happy.
+{88228}{88285}If you don't think|we are happy,
+{88285}{88360}it would be much better|if you didn't pretend.
+{88395}{88442}I'll go away.
+{88510}{88560}Why don't you answer me ?
+{88612}{88722}How can I answer you when|I don't know the answer myself?
+{88772}{88850}If you say we're happy,|let's leave it at that.
+{88850}{88925}Happiness is something|I know nothing about.
+{89000}{89065}<i>[ Projector Running ]</i>
+{89065}{89128}Oh, look, there's the one...
+{89128}{89195}when I left the camera running|on the tripod, remember ?
+{90470}{90542}Pardon me, madam.|Is there anything I can do for you ?
+{90542}{90610}I'm all right, Hilda.|Thank you very much.
+{90610}{90682}<i>I</i>'<i>ll bring the sandwiches</i>|<i>immediately, madam.</i>
+{90682}{90735}<i>[ Door Closes ]</i>
+{91268}{91328}- Hilda.|<i>- Yes, madam ?</i>
+{91328}{91428}The west wing--|Nobody ever uses it anymore, do they ?
+{91425}{91508}No, madam.|Not since the death of Mrs. de Winter.
+{91955}{92035}<i>[ Door Opens, Closes ]</i>
+{92035}{92100}<i>[ Mrs. Danvers ] Come along,</i>|<i>Mr.Jack, or someone may see you.</i>
+{92100}{92165}<i>[ Ravell ] Well, Danny, old harpy,</i>|<i>it</i>'<i>s been good to see you again.</i>
+{92162}{92238}<i>-[Jasper Barking ]</i>|<i>- I</i>'<i>ve been simply breathless</i>|<i>to pick up all the news.</i>
+{92238}{92325}<i>[ Mrs. Danvers ] I don</i>'<i>t think it</i>'<i>s</i>|<i>wise for you to come here, Mr.Jack.</i>
+{92330}{92398}<i>-Jasper, come here.</i>|<i>- Oh, nonsense.</i>|<i>It</i>'<i>s just like coming back home.</i>
+{92398}{92495}<i>- Quiet, Mr.Jack.</i>|<i>- Yes, and we must be careful</i>|<i>not to shock Cinderella.</i>
+{92495}{92588}<i>She</i>'<i>s in the morning room.</i>|<i>If you leave through the garden</i>|<i>door, she won</i>'<i>t see you.</i>
+{92585}{92640}<i>[ Ravell ] I must say I feel a little</i>|<i>like the poor relation,</i>
+{92640}{92698}<i>sneaking around</i>|<i>through back doors.</i>
+{92698}{92798}<i>- Well, toodle-oo, Danny.</i>|- G<i>ood-bye, Mr.Jack, and be careful.</i>
+{92820}{92918}- [Jasper Whining ]|-Jasper, quiet !
+{92950}{93022}<i>Looking for me ?</i>|<i>Oh, I didn</i>'<i>t make you jump, did I ?</i>
+{93022}{93095}No, of course not.|I didn't quite know who it was.
+{93098}{93215}- [Jasper Barking ]|- Yes, you're pleased to see me,|aren't you, old boy ?
+{93212}{93315}I'm glad there's someone in the family|to welcome me back to Manderley.
+{93340}{93422}And, um,|how is dear old Max ?
+{93422}{93478}Very well, thank you.
+{93478}{93570}I hear he went up to London,|left his little bride all alone.
+{93568}{93615}That's too bad.
+{93618}{93712}Isn't he rather afraid that somebody|might come down and carry you off?
+{93752}{93830}<i>Danny, all your precautions</i>|<i>were in vain.</i>
+{93830}{93900}The mistress of the house|was hiding behind the door.
+{93958}{94048}Oh, what about presenting me|to the bride ?
+{94045}{94140}- This is Mr. Favell, madam.|- How do you do ?
+{94172}{94220}How do you do ?
+{94260}{94318}Won't you have|some tea or something ?
+{94318}{94370}Now, isn't that|a charming invitation ?
+{94370}{94460}I've been asked to stay to tea, Danny,|and I've a good mind to accept.
+{94458}{94562}Oh, well, perhaps you're right. Pity,|just when we were getting on so nicely.
+{94562}{94642}We mustn't lead the young bride|astray, must we,Jasper ?
+{94640}{94722}Good-bye.|It's been fun meeting you.
+{94722}{94802}Oh, and by the way, it would be|very decent of you...
+{94800}{94878}if you wouldn't mention this little|visit to your revered husband.
+{94878}{94948}<i>He doesn</i>'<i>t e</i>x<i>actly</i>|<i>approve of me.</i>
+{94948}{95028}- Very well.|- That's very sporting of you.
+{95028}{95125}I wish I had a young bride of three|months waiting for me at home.
+{95122}{95205}I'm just a lonely old bachelor.
+{95205}{95262}Fare thee well.|[ Grunts ]
+{95262}{95338}Oh, and I know what was wrong|with that introduction.
+{95335}{95442}<i>Danny didn</i>'<i>t tell you, did she ?</i>|<i>I am Rebecca</i>'<i>s favorite cousin.</i>
+{95495}{95542}Toodle-oo.
+{98255}{98315}<i>[ Window Slams ]</i>
+{98355}{98420}<i>Do you wish anything, madam ?</i>
+{98565}{98622}I didn't expect to see you,|Mrs. Danvers.
+{98622}{98718}I noticed a window wasn't closed, and|I came up to see if I could fasten it.
+{98718}{98808}Why did you say that ?|I closed it before I left the room.
+{98805}{98888}You opened it yourself,|didn't you ?
+{98888}{98970}You've always wanted to see|this room, haven't you, madam ?
+{98968}{99032}Why did you never ask me|to show it to you ?
+{99032}{99105}I was ready to show it to you|every day.
+{99200}{99258}It's a lovely room, isn't it ?
+{99258}{99322}The loveliest room|you've ever seen.
+{99322}{99398}Everything is kept|just as Mrs. de Winter liked it.
+{99398}{99482}<i>Nothing has been altered</i>|<i>since that last night.</i>
+{99482}{99545}Come. I'll show you|her dressing room.
+{99578}{99650}This is where I keep|all her clothes.
+{99688}{99758}You would like to see them,|wouldn't you ?
+{100020}{100070}Feel this.
+{100072}{100158}It was a Christmas present|from Mr. de Winter.
+{100235}{100318}He was always giving her expensive|gifts, the whole year round.
+{100368}{100438}<i>I keep her underwear</i>|<i>on this side.</i>
+{100490}{100588}They were made specially for her by|the nuns in the Convent of St. Claire.
+{100672}{100750}I always used to wait up|for her, no matter how late.
+{100750}{100830}Sometimes she and Mr. de Winter|didn't come home until dawn.
+{100895}{100980}While she was undressing, she'd tell me|about the party she'd been to.
+{100978}{101082}She knew everyone that mattered,|and everyone loved her.
+{101135}{101195}When she'd fiinished her bath,
+{101192}{101282}she'd go into the bedroom and|go over to the dressing table.
+{101525}{101582}Oh, you've moved|her brush, haven't you ?
+{101582}{101662}There, that's better--|just as she always laid it down.
+{101662}{101732}''Come on, Danny,|hair drill,'' she would say.
+{101730}{101852}I'd stand behind her like this|and brush away for 20 minutes at a time.
+{101850}{101912}And then she would say,
+{101915}{102000}''Good night, Danny,''|and step into her bed.
+{102202}{102260}<i>I embroidered this case</i>|<i>for her myself,</i>
+{102260}{102318}<i>and I keep it here always.</i>
+{102505}{102578}Did you ever see|anything so delicate ?
+{102892}{102980}Look, you can see|my hand through it.
+{103498}{103588}<i>You wouldn</i>'<i>t think she</i>'<i>d</i>|<i>been gone so long, would you ?</i>
+{103588}{103660}Sometimes when I walk|along the corridor,
+{103658}{103722}I fancy I hear her|just behind me.
+{103722}{103822}That quick, light step.|I couldn't mistake it anywhere.
+{103822}{103942}It's not only in this room.|It's in all the rooms in the house.
+{103940}{103998}I can almost hear it now.
+{104042}{104115}Do you think the dead|come back and watch the living ?
+{104115}{104182}[ Sobbing ]|No, I don't believe it.
+{104185}{104305}Sometimes I wonder if she doesn't|come back here to Manderley...
+{104302}{104380}and watch you|and Mr. de Winter together.
+{104435}{104560}You look tired. Why don't you|stay here a while and rest...
+{104558}{104622}and listen to the sea ?
+{104655}{104720}It's so soothing.
+{104760}{104808}Listen to it.
+{104890}{104938}Listen.
+{104988}{105040}Listen to the sea.
+{105725}{105802}Tell Mrs. Danvers|I wish to see her immediately.
+{106445}{106510}You sent for me, madam ?
+{106508}{106565}Yes, Mrs. Danvers.
+{106565}{106622}I want you to get rid|of all these things.
+{106622}{106672}These are Mrs. de Winter's things.
+{106672}{106752}I am Mrs. de Winter now.
+{106752}{106828}Very well.|I'll give the instructions.
+{106828}{106912}<i>[ Car Horn Honking ]</i>
+{106915}{106980}Just a moment, please.
+{107028}{107158}Mrs. Danvers, I intend to say nothing to|Mr. de Winter about Mr. Favell's visit.
+{107155}{107270}In fact, I'd prefer to forget everything|that happened this afternoon.
+{107472}{107538}Oh, Maxim, Maxim,|you've been gone all day !
+{107538}{107610}You're choking me.|Well. Well, well, well.
+{107610}{107680}- What have you been doing ?|- Oh, I've been thinking.
+{107680}{107768}- What did you want to do that for ?|- Come in here and I'll tell you.
+{107800}{107865}Darling, could we have|a costume ball...
+{107865}{107935}just as you used to ?
+{107935}{107998}Now, what put that|into your mind ?
+{107998}{108045}Has Beatrice been at you ?
+{108045}{108110}No, no, but I feel that|we ought to do something...
+{108110}{108200}to make people feel that Manderley|is just the same as it always was.
+{108240}{108305}Oh, please, darling, could we ?
+{108362}{108418}You don't know|what it would mean, you know.
+{108418}{108512}You would have to be hostess|to hundreds of people, all the county.
+{108512}{108605}And a lot of young people would|come up from London and turn|the house into a night club.
+{108602}{108658}Oh, yes, but I want to.|Oh, please.
+{108658}{108730}I've never been to a large party,|but I could learn what to do.
+{108730}{108802}And I promise you,|you wouldn't be ashamed of me.
+{108992}{109042}All right,|if you think you'd enjoy it.
+{109042}{109102}You'd better get Mrs. Danvers|to help you, hadn't you ?
+{109105}{109165}No, no. I don't need|Mrs. Danvers to help me.
+{109165}{109220}- I can do it myself.|- All right, my sweet.
+{109220}{109295}Oh, thank you, darling.|Thank you.
+{109292}{109378}- Oh, what'll you go as ?|- Oh, I never dress up.
+{109378}{109435}That's the one privilege|I claim as the host.
+{109435}{109508}What will you be ? Alice in Wonderland|with that ribbon around your hair ?
+{109508}{109555}I won't tell.|I'll design my costume...
+{109555}{109605}all by myself and give|you the surprise of your life.
+{109605}{109665}[ Both Laughing ]
+{109985}{110052}<i>-[ Knock At Door ]</i>|- Come in.
+{110152}{110215}Robert found these sketches|in the library, madam.
+{110215}{110280}- Did you intend throwing them away ?|- Yes, Mrs. Danvers, I did.
+{110280}{110355}They were just some ideas I was|sketching for my costume for the ball.
+{110352}{110405}Hasn't Mr. de Winter|suggested anything ?
+{110405}{110475}No, I want to surprise him. I don't|want him to know anything about it.
+{110475}{110542}I merely thought that|you might fiind a costume...
+{110542}{110602}among the family portraits|that would suit you.
+{110602}{110690}Oh, you mean those at the top of|the stairs ? I'll go and look at them.
+{110868}{110965}This one, for instance.|It might have been designed for you.
+{110962}{111020}I'm sure you could have it copied.
+{111020}{111120}I've heard Mr. de Winter say that this|is his favorite of all the paintings.
+{111118}{111192}It's Lady Caroline de Winter,|one of his ancestors.
+{111192}{111310}Oh, well, well, that's a splendid idea,|Mrs. Danvers. I'm-I'm very grateful.
+{111948}{112025}- Everything under control, Frith ?|- Yes, sir. Thank you.
+{112025}{112118}Excuse me, sir.|Are you supposed to be a schoolmaster ?
+{112115}{112175}Oh, no, this is just|my old cap and gown.
+{112175}{112268}Certainly makes a very nice costume,|sir, and economical too.
+{112268}{112342}Yes. That was the idea.
+{112590}{112662}Evening, Robert.|Not very good weather for the ball.
+{112662}{112748}- No, sir.|- Very misty on the way and very chilly.
+{112748}{112842}Oh, this wig's so tight, they ought|to have sent an aspirin with it.
+{112840}{112905}Hello. What's the idea ?|Adam and Eve ?
+{112905}{112975}- Oh, Maxim, don't be disgusting.|- Strong man, old man.
+{112975}{113028}- Where's my weight thing ?|- What thing ?
+{113028}{113082}- You haven't left it in the car ?|- Oh, no, there it is.
+{113112}{113175}Are you the fiirst one down ?|Where's the child ?
+{113175}{113255}She's keeping her costume a terrifiic|secret. Wouldn't let me into her room.
+{113258}{113305}<i>Oh, lovely.</i>
+{113305}{113362}I'll go up and give her a hand.
+{113362}{113430}- I could do with a drink.|- Won't you catch cold in that thing ?
+{113430}{113510}- Don't be silly. Pure wool, old boy.|- [ Laughs ]
+{113510}{113588}Pardon me, sir.|You forgot this.
+{113585}{113635}Oh, thank you.
+{113728}{113808}Here I am, dear. It's Bee.|I've come to give you a hand.
+{113808}{113892}<i>Oh, please don</i>'<i>t come in, Beatrice.</i>|<i>I don</i>'<i>t want anyone to see my costume.</i>
+{113892}{113955}Oh. Oh, well,|you won't be long, will you ?
+{113955}{114030}Because the fiirst people|will be arriving any moment.
+{114032}{114105}- Now, you're sure that's|where that should be ?|- Yes, madam, it's just right.
+{114102}{114160}- Oh, isn't this exciting ?|- Indeed it is, madam.
+{114160}{114232}I've always heard of the Manderley Ball.|Now I'm really going to see one.
+{114232}{114295}I'm sure there'll be no one there|to touch you, madam.
+{114295}{114362}Do you really think so ?|Now, where's my fan ?
+{114362}{114425}Now, you're sure|I look all right ?
+{114425}{114485}You look ever so beautiful.
+{114530}{114585}Well, here goes.
+{115965}{116045}[ Chattering, Laughing ]
+{116042}{116102}G<i>ood evening, Mr. de Winter.</i>
+{116238}{116288}What the devil|do you think you're doing ?
+{116290}{116338}Rebecca ! Oh.
+{116338}{116432}But i-it's the picture,|the one in the gallery.
+{116490}{116550}What is it ?|What have I done ?
+{116550}{116648}Go and take it off. It doesn't matter|what you put on. Anything will do.
+{116685}{116772}What are you standing there for ?|Didn't you hear what I said ?
+{116772}{116835}Sir George and Lady Moore.
+{116835}{116905}<i>Dudley Tennant.</i>|<i>Admiral and Lady Burbank.</i>
+{117395}{117482}I watched you go down...|just as I watched her a year ago.
+{117482}{117542}Even in the same dress,|you couldn't compare.
+{117542}{117600}You knew it !|You knew that she wore it,
+{117600}{117668}and yet you deliberately|suggested I wear it !
+{117668}{117738}Why do you hate me ? What have I done|to you that you should ever hate me so ?
+{117735}{117785}You tried to take her place.|You let him marry you.
+{117788}{117835}I've seen his face, his eyes.
+{117835}{117890}They're the same as those fiirst|weeks after she died.
+{117890}{117970}<i>I used to listen to him</i>|<i>walking up and down, up and down,</i>
+{117968}{118020}<i>all night long,</i>|<i>night after night,</i>
+{118025}{118105}<i>thinking of her, suffering</i>|<i>torture because he</i>'<i>d lost her.</i>
+{118100}{118180}I don't want to know.|I don't want to know.
+{118180}{118235}You thought you could be|Mrs. de Winter,
+{118235}{118312}live in her house, walk in her steps,|take the things that were hers.
+{118312}{118372}But she's too strong for you.|You can't fiight her.
+{118372}{118435}No one ever got the better|of her, never, never.
+{118435}{118510}She was beaten in the end,|but it wasn't a man, it wasn't a woman.
+{118508}{118612}- It was the sea !|- Oh, stop it, stop it. Oh, stop it.
+{118612}{118690}[ Sobbing Continues ]
+{119082}{119180}You're overwrought, madam.|I've opened a window for you.
+{119180}{119252}A little air will do you good.
+{119568}{119660}Why don't you go ?|Why don't you leave Manderley ?
+{119660}{119730}He doesn't need you.
+{119728}{119785}He's got his memories.
+{119785}{119868}He doesn't love you.|He wants to be alone again with her.
+{119905}{119972}You've nothing to stay for.
+{119972}{120060}You've nothing to live for,|really, have you ?
+{120060}{120165}Look down there.|It's easy, isn't it ?
+{120162}{120230}<i>Why don</i>'<i>t you ?</i>
+{120230}{120282}Why don't you ?
+{120318}{120418}G<i>o on... go on.</i>
+{120420}{120488}Don't be afraid.
+{120618}{120688}<i>[ E</i>x<i>plosion ]</i>
+{120688}{120738}<i>[ Shouting, Chattering ]</i>
+{120738}{120800}<i>[ Man ]</i>|<i>Shipwreck! Ship on the rocks!</i>
+{120800}{120848}It's a ship aground,|sending up rockets.
+{120848}{120945}Shipwreck ! Come on, everybody, down|to the bay ! Notify the Coast Guard !
+{120945}{120995}Oh, Maxim ! Maxim !
+{120995}{121080}- Ship ashore !|- Come on, come on ! Everybody !
+{121078}{121140}Maxim ! Maxim !
+{121230}{121310}<i>[ Shouting Continues ]</i>
+{121728}{121778}Oh !
+{121838}{121920}Ben, have you seen|Mr. de Winter anywhere ?
+{121918}{122015}She won't come back, will she ?|You said so.
+{122015}{122065}Who, Ben ?|What do you mean ?
+{122068}{122128}Uh, the other one.
+{122440}{122502}Oh, Frank,|have you seen Maxim anywhere ?
+{122502}{122582}Not since about half an hour ago.|I thought he'd gone up to the house.
+{122582}{122630}No, he hasn't been|to the house at all,
+{122630}{122690}and I'm afraid something|might have happened to him.
+{122690}{122758}Frank, what's the matter ?|Is anything wrong ?
+{122758}{122820}There is something wrong.
+{122820}{122912}Well, the diver who went down|to inspect the bottom of the ship...
+{122910}{122958}came across the hull|of another boat--
+{122958}{123005}a little sailboat.
+{123038}{123128}- Frank, is it--|- Yes, it's Rebecca's.
+{123185}{123238}How did they recognize it ?
+{123238}{123310}He's a local man.|Knew it instantly.
+{123308}{123380}It'll be so hard on poor Maxim.
+{123380}{123450}Yes, it's going to bring it|all back again,
+{123450}{123500}and worse than before.
+{123542}{123600}Why did they have to fiind it ?
+{123600}{123700}Why couldn't they have left it there|in peace, at the bottom of the sea ?
+{123738}{123835}Well, I'd better get along|and arrange some breakfast for the men.
+{123832}{123915}All right, Frank.|I'll go and look for Maxim.
+{123915}{123985}[ Men Chattering ]
+{124735}{124788}Hello.
+{124788}{124840}Maxim.
+{124840}{124900}You haven't had any sleep.
+{124942}{124998}Have you forgiven me ?
+{124998}{125088}Forgiven you ?|What have I got to forgive you for ?
+{125085}{125178}For last night,|my stupidity about the costume.
+{125178}{125272}Oh, that.|I'd forgotten.
+{125270}{125332}I was angry with you, wasn't I ?
+{125335}{125382}Hmm.
+{125435}{125505}Maxim, can't we start all over again ?
+{125505}{125608}I don't ask that you should love me.|I won't ask impossible things.
+{125605}{125670}I'll be your friend, your companion.
+{125670}{125732}I'll be happy with that.
+{125872}{125942}You love me very much, don't you ?
+{126040}{126102}But it's too late, my darling.
+{126138}{126208}We've lost our little|chance of happiness.
+{126208}{126305}- No, Maxim, no.|- Yes. It's all over now.
+{126342}{126402}The thing's happened.
+{126402}{126480}The thing I've dreaded|day after day,
+{126478}{126528}night after night.
+{126530}{126595}Maxim, what are you trying to tell me ?
+{126630}{126700}Rebecca has won.
+{126745}{126825}Her shadow has been|between us all the time,
+{126822}{126872}keeping us from one another.
+{126905}{126975}She knew|that this would happen.
+{126975}{127032}What are you saying ?
+{127032}{127142}They sent a diver down.|He found another boat.
+{127140}{127225}Yes, I know. Frank told me.|Rebecca's boat.
+{127225}{127305}Oh, it's terrible for you.|I'm so sorry.
+{127302}{127370}The diver made another discovery.
+{127370}{127448}He broke one of the ports|and looked into the cabin.
+{127480}{127535}There was a body in there.
+{127535}{127588}Then she wasn't alone.
+{127590}{127668}There was someone sailing with her,|and you have to fiind out who it was.
+{127668}{127718}That's it, isn't it, Maxim ?
+{127718}{127822}You don't understand.|There was no one with her.
+{127820}{127912}It's Rebecca's body|lying there on the cabin floor.
+{127945}{128002}[ Shuddering ]|Oh, no.
+{128002}{128072}The woman that was washed up|at Edgecombe,
+{128072}{128152}the woman that is now buried|in the family crypt,
+{128152}{128208}that was not Rebecca.
+{128210}{128288}That was the body|of some unknown woman,
+{128288}{128378}unclaimed, belonging nowhere.
+{128375}{128490}I identifiied it,|but I knew it wasn't Rebecca.
+{128488}{128545}It was all a lie.
+{128595}{128668}I knew where|Rebecca's body was.
+{128668}{128758}Lying on that cabin floor|on the bottom of the sea.
+{128758}{128812}How did you know, Maxim ?
+{128812}{128922}Because I put it there.
+{129110}{129195}Will you look into my eyes and|tell me that you love me now ?
+{129495}{129578}You see ? I was right.
+{129625}{129675}It's too late.
+{129815}{129892}No, it's not too late.|You're not to say that.
+{129890}{129952}I love you more|than anything in the world.
+{129955}{130012}Oh, please, Maxim,|kiss me, please.
+{130012}{130102}No. It's no use.|It's too late.
+{130102}{130162}We can't lose each other now.
+{130162}{130240}We must be together always,|with no secrets, no shadows.
+{130238}{130310}We may only have|a few days, a few hours.
+{130310}{130368}Maxim, why didn't you tell me before ?
+{130365}{130438}I nearly did sometimes,|but you never seemed close enough.
+{130438}{130530}How could we be close when I knew|you were always thinking of Rebecca ?
+{130528}{130620}How could I even ask you to love me|when I knew you loved Rebecca still ?
+{130655}{130768}What are you talking about ?|What do you mean ?
+{130805}{130915}Whenever you touched me, I knew|you were comparing me with Rebecca.
+{130912}{131028}Whenever you looked at me or spoke to me|or walked with me in the garden,
+{131025}{131075}I knew you were thinking,
+{131075}{131155}''This I did with Rebecca,|and this and this.''
+{131155}{131202}Oh, it's true, isn't it ?
+{131202}{131292}You thought I loved Rebecca ?|You thought that ?
+{131355}{131402}I hated her.
+{131692}{131755}Oh, I was carried away by her,
+{131752}{131818}enchanted by her, as everyone was.
+{131818}{131932}And when I was married, I was told|I was the luckiest man in the world.
+{132000}{132060}She was so lovely,
+{132060}{132138}so accomplished, so amusing.
+{132138}{132245}''She's got the three things that really|matter in a wife,'' everyone said.
+{132242}{132305}'' Breeding, brains and beauty.''
+{132305}{132382}And I believed them, completely.
+{132418}{132492}But I never had|a moment's happiness with her.
+{132492}{132560}She was incapable of love...
+{132560}{132645}or tenderness or decency.
+{132678}{132755}You didn't love her ?|You didn't love her ?
+{132752}{132865}Do you remember that cliff|where you fiirst saw me in Monte Carlo ?
+{132865}{132948}Well, I went there with Rebecca|on our honeymoon.
+{132948}{133015}That was where|I found out about her.
+{133015}{133085}Four days|after we were married.
+{133088}{133148}She stood there laughing,
+{133150}{133210}her black hair|blowing in the wind,
+{133212}{133285}and told me all about herself.
+{133285}{133332}Everything.
+{133380}{133460}Things I'll never tell a living soul.
+{133458}{133505}I wanted to kill her.
+{133510}{133580}It would have been so easy.|Remember the precipice ?
+{133628}{133735}I frightened you, didn't I ?|You thought I was mad.
+{133732}{133818}Perhaps I was.|Perhaps I am mad.
+{133852}{133932}It wouldn't make for sanity, would it,|living with the devil ?
+{134008}{134072}''I'll make a bargain with you,''|she said.
+{134072}{134162}''You'd look rather foolish|trying to divorce me now|after four days of marriage,
+{134160}{134250}''so I'll play the part|of a devoted wife, mistress|of your precious Manderley.
+{134250}{134325}''I'll make it the most famous|showplace in England, if you like,
+{134325}{134380}''and people will visit us|and envy us...
+{134380}{134452}''and say we're the luckiest,|happiest couple in the country.
+{134492}{134572}What a grand joke it will be !|What a triumph !''
+{134682}{134785}I should never have accepted|her dirty bargain, but I did.
+{134820}{134925}I was younger then and tremendously|conscious of the family honor.
+{134922}{135005}[ Scoffs ]|Family honor.
+{135005}{135052}She knew that|I'd sacrifiice everything...
+{135052}{135102}rather than stand up|in a divorce court...
+{135102}{135185}and give her away, admit that|our marriage was a rotten fraud.
+{135238}{135330}You despise me, don't you ?|As I despise myself.
+{135328}{135455}You can't understand what|my feelings were, can you ?
+{135492}{135562}Of course I can, darling.|Of course I can.
+{135620}{135702}Well, I kept the bargain.|And so did she, apparently.
+{135700}{135762}Oh, she played the game brilliantly.
+{135762}{135835}But after a while,|she began to grow careless.
+{135835}{135920}She took a flat in London,|and she'd stay away for days at a time.
+{135918}{135982}Then she started to bring|her friends down here.
+{135982}{136040}I warned her,|but she shrugged her shoulders.
+{136040}{136098}''What's it got to do with you ?''|she said.
+{136098}{136215}She even started on Frank.|Poor, faithful Frank.
+{136212}{136310}Then there was a cousin of hers,|a man named Favell.
+{136310}{136395}Yes, I know him.|He came the day you went to London.
+{136392}{136455}Why didn't you tell me ?
+{136455}{136588}I didn't like to. I thought|it would remind you of Rebecca.
+{136585}{136668}Remind me !|[ Chuckles ]
+{136668}{136745}As if I needed reminding.
+{136742}{136820}Favell used to visit her|here in this cottage.
+{136820}{136885}I found out about it,|and I warned her...
+{136885}{136958}that if he came here again,|I'd shoot them both.
+{136958}{137065}One night when I found that|she'd come back quietly from London,
+{137062}{137112}<i>I thought that Ravell</i>|<i>was with her,</i>
+{137112}{137232}and I knew then I couldn't stand this|life of fiilth and deceit any longer.
+{137265}{137368}I decided to come down here and|have it out with both of them.
+{137412}{137460}But she was alone.
+{137460}{137532}She was expecting Favell,|but he hadn't come.
+{137532}{137588}<i>She was lying on the divan,</i>
+{137588}{137670}<i>a large tray of cigarette</i>|<i>stubs beside her.</i>
+{137670}{137745}<i>She looked ill, queer.</i>
+{137742}{137800}<i>Suddenly she got up,</i>
+{137800}{137868}<i>started to walk toward me.</i>
+{137868}{137922}<i>''When I have a child,</i>|<i>she said,</i>
+{137922}{138000}<i>''neither you nor anyone else</i>|<i>could ever prove it wasn</i>'<i>t yours.</i>
+{138000}{138110}<i>You</i>'<i>d like to have an heir, wouldn</i>'<i>t</i>|<i>you, Ma</i>x<i>, for your precious Manderley?''</i>
+{138108}{138155}<i>Then she started to laugh.</i>
+{138155}{138240}<i>''How funny.</i>|<i>How supremely, wonderfully funny.</i>
+{138240}{138320}<i>''I</i>'<i>d be the perfect mother,</i>|<i>just as I</i>'<i>ve been the perfect wife.</i>
+{138320}{138370}<i>''No one will ever know.</i>
+{138370}{138430}<i>''It ought to give you</i>|<i>the thrill of your life, Ma</i>x<i>,</i>
+{138430}{138498}<i>''to watch my son grow bigger</i>|<i>day by day...</i>
+{138495}{138592}<i>and to know that when you die,</i>|<i>Manderley will be his. ''</i>
+{138592}{138670}<i>She was face to face with me,</i>
+{138670}{138732}one hand in her pocket,
+{138730}{138800}the other holding a cigarette.
+{138800}{138855}She was smiling.
+{138855}{138950}''Well, Max,|what are you going to do about it ?
+{138988}{139055}Aren't you going to kill me ?''
+{139092}{139152}I suppose I went mad for a moment.
+{139192}{139250}I must have struck her.
+{139332}{139400}She stood staring at me.
+{139400}{139475}She looked almost triumphant.
+{139512}{139615}Then she started|toward me again, smiling.
+{139612}{139678}Suddenly she stumbled and fell.
+{139810}{139922}When I looked down-- ages afterwards,|it seemed-- she was lying on the floor.
+{139920}{140038}She'd struck her head on a heavy|piece of ship's tackle.
+{140085}{140182}I remember wondering|why she was still smiling...
+{140182}{140235}then I realized she was dead.
+{140235}{140312}But you didn't kill her !|It was an accident !
+{140312}{140422}Who would believe me ?|I lost my head.
+{140420}{140510}I just knew I had to do something,|anything.
+{140508}{140585}I carried her out to the boat.
+{140585}{140682}It was very dark.|There was no moon.
+{140680}{140740}I put her in the cabin.
+{140740}{140808}When the boat seemed a safe distance|from the shore, I took a spike...
+{140808}{140880}and drove it again and again|through the planking of the hull.
+{140880}{140962}I had opened up the seacocks,|and the water began to come in fast.
+{140960}{141038}I climbed over into the dinghy|and pulled away.
+{141038}{141152}I saw the boat heel over... and sink.
+{141210}{141290}I pulled back into the cove.
+{141290}{141355}It started raining.
+{141355}{141422}Maxim, does anyone else know this ?
+{141422}{141488}No, no one, except you and me.
+{141520}{141568}We must explain it.
+{141568}{141648}It's got to be the body|of someone you've never seen before.
+{141648}{141695}No, they're bound to know her.
+{141698}{141770}Her rings, bracelets she always wore.
+{141770}{141888}They'll identify her body,|then they'll remember the other woman,
+{141885}{141968}the other woman|buried in the crypt.
+{141965}{142020}If they fiind out it was Rebecca,
+{142020}{142100}you must simply say that you made|a mistake about the other body--
+{142100}{142172}that the day you went|to Edgecombe, you were ill,|you didn't know what you were doing.
+{142172}{142228}Rebecca's dead.|That's what we've got to remember.
+{142228}{142278}Rebecca's dead.|She can't speak.
+{142278}{142332}She can't bear witness.|She can't harm you anymore.
+{142332}{142408}We're the only two people in the world|that know, Maxim--you and I.
+{142408}{142495}I told you once that I'd done|a very selfiish thing in marrying you.
+{142492}{142565}You can understand now|what I meant.
+{142565}{142638}I've loved you, my darling.
+{142638}{142690}I shall always love you.
+{142690}{142812}But I've known all along that|Rebecca would win in the end.
+{142810}{142868}No, no, she hasn't won.
+{142868}{142952}No matter what happens now,|she hasn't won.
+{142952}{143018}<i>[ Phone Ringing ]</i>
+{143282}{143340}Hello ? Hel--
+{143370}{143455}Hello, Frank.|Hello, Frank. Yes.
+{143458}{143520}Who ? ColonelJulyan ?
+{143520}{143622}Yes, tell him I'll meet him|there as soon as I possibly can.
+{143622}{143710}What ? Oh.
+{143710}{143832}Well, say we could talk about that|when we're sure about the matter.
+{143918}{143975}What's happened ?
+{143975}{144092}ColonelJulyan called.|He's the chief constable of the county.
+{144090}{144175}He's been asked by the police|to go to the mortuary.
+{144175}{144275}He wants to know if I could|possibly have made a mistake...
+{144275}{144330}about that other body.
+{144808}{144912}Well, ColonelJulyan, apparently I did|make a mistake about that other body.
+{144910}{144980}The mistake was quite natural|under the circumstances.
+{144980}{145062}- Besides, you weren't well at the time.|- I was perfectly well.
+{145062}{145115}Well, don't let it worry you, Maxim.
+{145115}{145180}Nobody can blame you|for making a mistake.
+{145182}{145275}The pity is, you've got to go through|the same thing all over again.
+{145272}{145348}- What do you mean ?|- Oh, there'll have to be|another inquest, of course.
+{145348}{145418}- The same formality and red tape.|- Oh.
+{145418}{145498}I wish you could be spared|the publicity of it,|but I'm afraid that's impossible.
+{145495}{145555}Oh, yes, the publicity.
+{145555}{145622}I suppose Mrs. de Winter|went below for something...
+{145622}{145702}and a squall hit the boat|with nobody at the helm.
+{145702}{145782}I imagine that's about the solution|of it, don't you think so, Crawley ?
+{145780}{145862}Oh, yes. Probably the door jammed|and she couldn't get on deck again.
+{145862}{145910}Yes. Tabb, the boatbuilder,
+{145910}{145970}will undoubtedly come|to some such conclusion.
+{145970}{146032}Why ? What would he know about it ?
+{146032}{146080}Well, he's examining the boat now.
+{146082}{146132}Purely as a matter of routine,|you know.
+{146132}{146228}I'll be at the inquest tomorrow, Maxim--|quite unoffiicially, you know.
+{146228}{146302}We must get together for a game of golf|when it's all over, eh ?
+{146300}{146352}- Yes.|- Bye-bye.
+{146648}{146702}I have the evening papers, madam.
+{146702}{146758}- Would you care to see them ?|- Oh, no thank you, Frith,
+{146760}{146825}and I'd prefer that Mr. de Winter|weren't troubled with them either.
+{146825}{146908}I understand, madam. Permit me to say|that we're all most distressed outside.
+{146905}{147000}- Oh, thank you, Frith.|- I'm afraid the news has been|a shock to Mrs. Danvers.
+{147000}{147060}Yes, I rather expected it would be.
+{147060}{147128}It seems there's to be|a coroner's inquest, madam ?
+{147128}{147192}Yes, Frith.|It's purely a formality.
+{147192}{147255}Of course, madam.|I, I wanted to say...
+{147255}{147325}that if any of us might be|required to give evidence,
+{147325}{147405}I should be only too pleased to do|anything that might help the family.
+{147405}{147502}Oh, thank you, Frith. I'm sure Mr.|de Winter will be very happy to hear it.
+{147500}{147575}But I don't think|anything will be necessary.
+{147835}{147882}<i>[ Door Closes ]</i>
+{147882}{147930}<i>Ma</i>x<i>im !</i>
+{147955}{148005}<i>Hello, darling.</i>
+{148005}{148120}Oh, Maxim, I'm, I'm worried about|what you'll do at the inquest tomorrow.
+{148118}{148165}What do you mean ?
+{148168}{148222}You won't lose your temper, will you ?
+{148222}{148290}Promise me that they|won't make you angry.
+{148290}{148350}All right, darling, I promise.
+{148350}{148438}No matter what he asks you,|you won't lose your head.
+{148438}{148498}Don't worry, dear.
+{148498}{148568}They can't do anything at once,|can they ?
+{148568}{148615}No.
+{148615}{148702}- Then we've a little time|left to be together ?|- Yes.
+{148700}{148785}I want to go|to the inquest with you.
+{148785}{148825}I'd rather you didn't, darling.
+{148825}{148878}But I can't wait here alone.
+{148878}{148950}I promise you I won't be|any trouble to you.
+{148950}{149038}And I must be near you so|that no matter what happens,
+{149038}{149112}we won't be separated|for a moment.
+{149112}{149160}All right, dear.
+{149208}{149290}I don't mind this whole thing,|except for you.
+{149288}{149365}I can't forget|what it's done to you.
+{149365}{149452}I've been thinking of nothing|else since it happened.
+{149452}{149532}Ahhh...
+{149530}{149590}it's gone forever.
+{149590}{149715}That funny, young,|lost look I loved...
+{149712}{149762}won't ever come back.
+{149792}{149872}I killed that when I told you|about Rebecca.
+{149872}{149935}It's gone.
+{149932}{150005}In a few hours...
+{150005}{150068}you've grown so much older.
+{150102}{150175}[ Sobbing ]|Oh, Maxim, Maxim.
+{150782}{150832}BlackJack Brady was his name.
+{150832}{150895}The most important arrest|I ever made.
+{150898}{150955}It must have been|about two years ago now.
+{150955}{151002}Of course there was|no doubt about it.
+{151002}{151062}He was hung|a month after I caught him.
+{151062}{151120}- Hello, wait a minute.|- [ Murmuring ]
+{151120}{151178}They've got|old Balmy Ben up now.
+{151178}{151250}<i>[ Man ] You remember the late</i>|<i>Mrs. de Winter, don</i>'<i>t you ?</i>
+{151250}{151308}- She's gone.|<i>- Yes, we know that.</i>
+{151308}{151375}She went in the sea.|The sea got her.
+{151375}{151445}<i>That</i>'<i>s right, that</i>'<i>s right.</i>|<i>Now, we want you to tell us...</i>
+{151445}{151518}<i>whether you were on the shore</i>|<i>that last night she went sailing.</i>
+{151515}{151572}- Eh ?|- Were you on the shore...
+{151575}{151648}that last night she went out,|when she didn't come back ?
+{151645}{151748}I didn't see nothin'.|I don't want to go to the asylum.
+{151748}{151802}Them cruel folks there.
+{151805}{151862}Now, nobody's going|to send you to the asylum.
+{151862}{151925}All we want you to do|is tell us what you saw.
+{151925}{151965}I didn't see nothin'.
+{151965}{152080}<i>Come, come. Did you see Mrs. de Winter</i>|<i>get into her boat that last night ?</i>
+{152078}{152210}I don't know nothin'.|I don't want to go to the asylum.
+{152282}{152340}- Very well, you may go.|- Eh ?
+{152340}{152405}You may go now.
+{152408}{152502}<i>Mr. Tabb, would you</i>|<i>step forward, please ?</i>
+{152575}{152680}The evidence you give will|be the truth, the whole truth|and nothing but the truth ?
+{152680}{152752}I do, so help me God.
+{152750}{152842}The late Mrs. de Winter|used to send her boat to your|shipyard for reconditioning.
+{152842}{152912}- That's right, sir.|<i>- Can you remember any occasion...</i>
+{152912}{152980}<i>- when she had any sort</i>|<i>of accident with the boat ?</i>|<i>- No, sir.</i>
+{152980}{153028}<i>I often said Mrs. de Winter</i>|<i>was a born sailor.</i>
+{153028}{153098}Now, when Mrs. de Winter|went below, as is supposed,
+{153098}{153148}and a sudden gust of wind|came down,
+{153148}{153218}that would be enough to capsize|the boat, wouldn't it ?
+{153218}{153298}Excuse me, sir, but there's|a little more to it than that.
+{153295}{153378}<i>- What do you mean, Mr. Tabb ?</i>|- I mean, sir, the seacocks.
+{153378}{153432}<i>- What are the seacocks ?</i>|<i>-Seacock--</i>
+{153432}{153550}<i>Oh, well, the seacocks</i>|<i>are the valves to drain out the boat,</i>
+{153548}{153660}and they're always kept|tight closed when you're afloat.
+{153658}{153695}<i>Yes ?</i>
+{153698}{153780}Well, yesterday when I examined|that boat, I found they'd been opened.
+{153780}{153858}- What could be the reason for that ?|-Just this.
+{153858}{153955}That's what flooded the boat|and sunk her.
+{153952}{154040}<i>- Are you implying--</i>|<i>- That boat never capsized at all.</i>
+{154038}{154108}I know it's a terrible|thing to say, sir,
+{154108}{154190}but in my opinion,|she was scuttled.
+{154190}{154240}[ Murmuring ]
+{154240}{154322}- And there's them 'oles.|- What holes ?
+{154325}{154395}- In her planking.|- What are you talking about ?
+{154392}{154480}<i>Of course, that boat</i>'<i>s been</i>|<i>underwater for over a year,</i>
+{154480}{154560}<i>and the tide</i>'<i>s been knocking her</i>|<i>against the ridge,</i>
+{154560}{154660}but it seemed to me the 'oles looked|as if she'd made 'em from the inside.
+{154700}{154772}Then you believe she must have|done it deliberately ?
+{154772}{154870}Couldn't have been no accident,|not with her knowledge of boats.
+{154868}{154915}[ Murmuring ]
+{154918}{154990}You knew the former|Mrs. de Winter very well, I believe ?
+{154988}{155072}- Oh, yes.|- Would you believe|her capable of suicide ?
+{155072}{155148}<i>No, frankly I would not,</i>|<i>but you never can tell.</i>
+{155148}{155215}You may stand down, Mr. Tabb.
+{155242}{155305}Mr. de Winter, please.
+{155455}{155492}<i>[ Pounds</i> G<i>avel ]</i>
+{155498}{155572}I'm sorry to drag you back|for further questioning, Mr. de Winter.
+{155570}{155652}You've heard the statement of Mr. Tabb.|I wonder if you can help us in any way.
+{155652}{155720}- I'm afraid not.|- Can you think of any reason|why there should be holes...
+{155720}{155785}in the planking of the late|Mrs. de Winter's boat ?
+{155785}{155840}Well, of course I can't|think of any reason.
+{155840}{155908}Has anyone ever discussed|these holes with you before ?
+{155908}{156005}Well, since the boat has been|at the bottom of the ocean,|I scarcely think that likely.
+{156002}{156088}Mr. de Winter, I want you to believe|we all feel very deeply for you,
+{156088}{156148}but I don't conduct this|inquiry for my own amusement.
+{156148}{156208}- That's rather obvious, isn't it ?|- I hope that it is.
+{156208}{156298}<i>Since Mrs. de Winter went</i>|<i>sailing alone, are we to believe</i>|<i>she drove those holes herself?</i>
+{156295}{156338}You may believe what you like.
+{156340}{156385}<i>Can you enlighten us as to why</i>|<i>Mrs. de Winter...</i>
+{156388}{156435}<i>should have wanted</i>|<i>to end her own life ?</i>
+{156438}{156485}I know of no reason whatever.
+{156485}{156540}Mr. de Winter,|however painful it may be,
+{156540}{156595}<i>I have to ask you</i>|<i>a very personal question.</i>
+{156595}{156695}<i>Were relations between you and the late</i>|<i>Mrs. de Winter perfectly happy?</i>
+{156735}{156828}Were relations between you and the late|Mrs. de Winter perfectly happy ?
+{156825}{156898}I won't stand this any longer !|And you might as well know now--
+{156898}{156955}- [ Gasps, Murmuring ]|<i>-[</i> G<i>avel Pounding ]</i>
+{156955}{157008}<i>We</i>'<i>ll adjourn till after lunch.</i>|<i>Mr. de Winter,</i>
+{157008}{157062}<i>I presume you</i>'<i>ll</i>|<i>be available for us then ?</i>
+{157062}{157145}I told you you should|have had some breakfast.
+{157145}{157218}You're hungry.|That's what's the matter with you.
+{157328}{157412}Mr. Frith thought you might|like to have some lunch from|the house and sent me with it.
+{157412}{157505}- Oh, that's fiine, Mullen.|Can you pull around the corner ?|- Very good, sir.
+{157715}{157770}Awfully foolish of me|fainting like that.
+{157770}{157840}Nonsense. If you hadn't fainted,|I'd have really lost my temper.
+{157840}{157888}Darling, please be careful.
+{158035}{158085}Darling, wait here a few moments.
+{158085}{158150}- I'll see if I can fiind old Frank.|- Of course, darling.
+{158150}{158248}- Don't worry about me.|I'll be all right.|- Sure ? All right.
+{158248}{158342}Here, have a spot of this.|Do you good.
+{158340}{158388}Thank you.
+{158435}{158505}- Sure you're all right ?|- Yes, of course.
+{158502}{158560}- I won't be long.|- Right you are.
+{158635}{158682}- Ugh.|<i>- Hello.</i>
+{158682}{158768}And how does the bride|fiind herself today ?
+{158825}{158915}I say, marriage with Max is not exactly|a bed of roses, is it ?
+{158912}{158970}I think you'd better go|before Maxim gets back.
+{158970}{159045}Oh,jealous, is he ?|Well, I can't say I blame him.
+{159045}{159112}But you don't think|I'm the Big Bad Wolf, do you ?
+{159112}{159188}I'm not, you know. I'm|a perfectly ordinary, harmless bloke.
+{159188}{159258}And I think you're behaving|splendidly over all this.
+{159258}{159305}Perfectly splendidly.
+{159305}{159368}You know, you've grown up a bit|since I last saw you.
+{159368}{159422}- It's no wonder.|- What do you want, Favell ?
+{159422}{159515}Oh, hello, Max. Things are going|pretty well for you, aren't they ?
+{159512}{159595}Better than you ever expected.|I was rather worried about you at fiirst.
+{159595}{159655}That's why I came down|to the inquest.
+{159655}{159745}I'm touched by your solicitude,|but if you don't mind,|we'd rather like to have our lunch.
+{159742}{159840}Lunch ! I say, what a jolly idea !|Rather like a picnic, isn't it ?
+{159840}{159935}I'm so sorry.|Do you mind if I put this there ?
+{159932}{160030}You know, Max, old boy, I really think|I ought to talk things over with you.
+{160028}{160082}Talk what things over ?
+{160082}{160148}Well, those holes in the planking,|for one thing.
+{160148}{160220}Those holes that were drilled|from the inside.
+{160220}{160280}- Oh, Mullen !|<i>- Yes, sir?</i>
+{160280}{160352}<i>Would you, like a good fellow,</i>|<i>have my car fiilled with petrol?</i>
+{160352}{160400}- It's almost empty.|- Very good, sir.
+{160400}{160475}- And Mullen, close the door, will you ?|- Yes, sir.
+{160475}{160535}Does this bother you ?
+{160702}{160755}You know, old boy,|I have a strong feeling...
+{160755}{160818}that before the day is out,|somebody's going to make use of that...
+{160820}{160935}rather expressive, though somewhat|old-fashioned term ''foul play.''
+{160960}{161035}<i>Am I boring you with all this ?</i>
+{161032}{161120}No ? Good.
+{161122}{161202}Well, you see, Max, I fiind myself|in a rather awkward position.
+{161200}{161305}You've only got to read this note|to understand. It's from Rebecca.
+{161305}{161380}<i>And what</i>'<i>s more, she had the foresight</i>|<i>to put the date on it.</i>
+{161380}{161452}She wrote it to me|the day she died.
+{161452}{161502}<i>Incidentally,</i>|<i>I was out on a party on that night,</i>
+{161502}{161552}<i>so I didn</i>'<i>t get it</i>|<i>until the ne</i>x<i>t day.</i>
+{161555}{161602}What makes you think that|note would interest me ?
+{161605}{161662}Oh, I'm not going to bother you|with the contents now,
+{161662}{161725}but I can assure you that|it is not the note of a woman...
+{161725}{161800}who intends to drown herself|that same night.
+{161852}{161928}By the way,|what do you do with old bones ?
+{161928}{161990}Bury them, eh, what ?
+{161990}{162068}However, for the time being--
+{162068}{162168}You know, Max, I'm getting awfully fed|up with my job as a motorcar salesman.
+{162165}{162222}I don't know if you've ever|experienced the feeling...
+{162222}{162292}of driving an expensive motorcar|which isn't your own.
+{162292}{162340}<i>But it can be</i>|<i>very, very e</i>x<i>asperating.</i>
+{162340}{162420}You know what I mean.|You want to own the car yourself.
+{162420}{162498}I've often wondered what it would be|like to retire to the country,
+{162495}{162565}have a nice little place|with a few acres of shooting.
+{162565}{162612}I've never fiigured out|what it would cost a year,
+{162612}{162660}but I'd like to talk about it with you.
+{162660}{162742}I'd like to have your advice on how|to live comfortably without hard work.
+{162790}{162860}Hello, Favell.|You looking for me, Maxim ?
+{162860}{162990}Yes. Mr. Favell and I have a little|business transaction on hand.
+{162988}{163058}<i>I think we had better</i>|<i>conduct it over at the inn.</i>
+{163058}{163160}They may have|a private room there.
+{163158}{163222}Well, see you later.
+{163222}{163298}Find ColonelJulyan.|Tell him I want to see him immediately.
+{163295}{163355}Come on, Favell. Let's go.
+{163360}{163435}[ Chattering ]
+{163468}{163525}Have you a private room, please ?
+{163525}{163600}- Of course, sir. Through there, sir.|- Thank you.
+{163658}{163718}Hope this will do, Mr. de Winter.
+{163715}{163785}Oh, it's splendid, splendid.|Exactly like the Ritz.
+{163785}{163860}- Any orders, gents ?|- Yes, you might bring me|a large brandy and soda.
+{163860}{163945}How about you, Max ? Have one on me.|I feel I can afford to play host.
+{163945}{164015}-Thanks. I don't mind if I do.|-Make it two, will you, my good fellow ?
+{164012}{164060}- Very good, sir.|<i>-[Julyan ] Where</i>'<i>s Mr. de Winter?</i>
+{164062}{164125}<i>Oh, through the other door, sir.</i>
+{164125}{164192}ColonelJulyan, his is Mr. Favell.
+{164190}{164262}Oh, I know ColonelJulyan.|We're old friends, aren't we ?
+{164262}{164355}Since you're old friends, I assume you|also know he's head of the police here.
+{164358}{164438}I think he might be interested|to hear your proposition.|Go on, tell him all about it.
+{164435}{164510}I merely said I hoped to give up|selling cars and retire.
+{164512}{164562}Actually, he offered to withhold|a vital piece of evidence...
+{164562}{164610}if I made it worth his while.
+{164610}{164675}I only want to see justice done,|Colonel.
+{164675}{164722}Now, that boatbuilder's evidence...
+{164722}{164785}suggested certain theories|concerning Rebecca's death.
+{164785}{164832}One of them, of course, is suicide.
+{164832}{164948}I have a little note here which puts|that possibility quite out of court.
+{164948}{165012}<i>- Read it, Colonel.</i>|<i>- ''Jack, darling,</i>
+{165010}{165095}''I've just seen the doctor and I'm going|down to Manderley right away.
+{165095}{165178}''I shall be at the cottage all evening|and shall leave the door open for you.
+{165178}{165278}<i>I have something terribly</i>|<i>important to tell you. Rebecca. ''</i>
+{165275}{165368}Now, does that look like|the note of a woman who had made|up her mind to kill herself?
+{165365}{165448}And apart from that, Colonel,|do you mean to tell me that|if you wanted to commit suicide,
+{165448}{165520}you'd go to all the trouble|of putting out to sea in a boat,
+{165520}{165600}then take a hammer and chisel|and laboriously knock holes|through the bottom of it ?
+{165598}{165658}Come, Colonel,|as an offiicer of the law,
+{165658}{165738}don't you feel there are some|slight grounds for suspicion ?
+{165738}{165792}- Of murder ?|- What else ?
+{165792}{165875}You've known Max a long time, so|you know he's the old-fashioned type...
+{165878}{165955}<i>who</i>'<i>d die to defend his honor</i>|<i>or who</i>'<i>d kill for it.</i>
+{165952}{166000}It's blackmail, pure and simple.
+{166002}{166065}Blackmail's not so pure nor so simple.
+{166065}{166132}It can bring a lot of trouble|to a great many people,
+{166132}{166215}and the blackmailer sometimes fiinds|himself in jail at the end of it.
+{166215}{166288}I see. You're going to hold|de Winter's hand through all this...
+{166288}{166382}just because he's the big noise|around here and he's actually|permitted you to dine with him.
+{166380}{166440}Be careful, Favell.|You've brought an accusation of murder.
+{166440}{166505}<i>- Have you any witnesses ?</i>|<i>- I do have a witness.</i>
+{166505}{166552}- Oh.|- It's that fellow Ben.
+{166555}{166608}If that stupid coroner|hadn't been a snob,
+{166608}{166685}- he'd have seen that half-wit|was hiding something.|- And why should Ben do that ?
+{166688}{166760}Because we caught him once,|Rebecca and I, peering at us|through the cottage window.
+{166760}{166825}Rebecca threatened him with the asylum.|That's why he was afraid to speak.
+{166825}{166898}But he was always hanging about.|He must have seen this whole thing.
+{166895}{166965}It's ridiculous|even listening to all this.
+{166965}{167030}Ah. You're like a little trades union,|all of you, aren't you ?
+{167030}{167078}And if my guess is right, Crawley,
+{167078}{167160}<i>there</i>'<i>s a bit of malice</i>|<i>in your soul toward me, isn</i>'<i>t there ?</i>
+{167160}{167232}Crawley didn't have|much success with Rebecca,
+{167232}{167310}but he ought to have|more luck this time.
+{167308}{167380}<i>The bride will be grateful</i>|<i>for your fraternal arm, Crawley...</i>
+{167382}{167430}<i>in a week or so.</i>
+{167430}{167478}<i>- Every time she faints, in fact.</i>|<i>- De Winter!</i>
+{167478}{167528}- Maxim, please !|- De Winter !
+{167528}{167602}That temper of yours|will do you in yet, Max.
+{167602}{167665}<i>[ Knock At Door ]</i>
+{167665}{167802}Oh, uh, excuse me, gentlemen.|Now, is there anything else ?
+{167800}{167885}Yes. You might bring|Mr. de Winter a sedative.
+{167882}{167948}-No, no, nothing at all. Just leave us.|-Very good, sir.
+{168015}{168068}Now, Favell,|let's get this business over.
+{168068}{168130}As you seem to have worked out|the whole thing so carefully,
+{168132}{168188}perhaps you can provide us|also with a motive ?
+{168188}{168248}I knew you were going|to bring that up, Colonel.
+{168250}{168325}I've read enough detective stories to|know that there must always be a motive.
+{168328}{168420}And if you'll all excuse me|for a moment, I'll supply that too.
+{168418}{168500}I wish you would go home. You ought|not to be here through all this.
+{168500}{168548}Please let me stay, Maxim.
+{168548}{168598}<i>Surely, Colonel Julyan,you</i>'<i>re</i>|<i>not going to allow this fellow--</i>
+{168600}{168670}My opinion of Favell|is no higher than yours, Crawley.
+{168670}{168718}But in my offiicial capacity,
+{168718}{168772}I have no alternative|but to pursue his accusation.
+{168772}{168822}I entirely agree with you, Colonel.
+{168822}{168870}In a manner so serious as this,|we must make sure...
+{168872}{168945}of every point, explore every avenue,
+{168942}{169040}and, in fact, if I may coin a phrase,|leave no stone unturned.
+{169040}{169105}Ah, here she is-- the missing link,
+{169108}{169172}<i>the witness who will help</i>|<i>supply the motive.</i>
+{169170}{169250}<i>Colonel Julyan, Mrs. Danvers.</i>|<i>I believe you know everyone else.</i>
+{169250}{169325}<i>- Won</i>'<i>t you sit down ?</i>|- No offense, Colonel,|but I think I'll put this to Danny.
+{169325}{169418}She'll understand it more easily.|Danny, who was Rebecca's doctor ?
+{169415}{169482}Mrs. de Winter|always had Dr. McClean from the village.
+{169482}{169568}Now, you heard.|I said Rebecca's doctor, in London.
+{169600}{169648}I don't know anything about that.
+{169648}{169720}Oh, don't give me that.|You knew everything about Rebecca.
+{169720}{169780}You knew she was in love with me,|didn't you ?
+{169780}{169872}<i>Surely you haven</i>'<i>t forgotten</i>|<i>the good times she and I used</i>|<i>to have down at the cottage.</i>
+{169872}{169935}She had a right|to amuse herself, didn't she ?
+{169935}{170008}Love was a game to her.|It made her laugh, I tell you.
+{170008}{170082}She used to sit on her bed and|rock with laughter at the lot of you.
+{170085}{170182}Can you think of any reason why Mrs. de|Winter should have taken her own life ?
+{170180}{170230}No, no, I refuse to believe it.|I knew everything about her,
+{170230}{170278}and I won't believe it.
+{170280}{170352}There, you see ? It's impossible.|She knows that as well as I do.
+{170350}{170422}Now, listen to me, Danny. We know that|Rebecca went to a doctor in London.
+{170422}{170498}- Who was it ?|- I don't know.
+{170498}{170548}Oh, I understand, Danny.
+{170548}{170622}You think we're asking you|to reveal secrets of Rebecca's life.
+{170622}{170682}You're trying to defend her.|But that's what I'm doing.
+{170685}{170752}I'm trying to clear her name|of the suspicion of suicide.
+{170752}{170830}Mrs. Danvers,|it has been suggested...
+{170828}{170892}Mrs. de Winter|was deliberately murdered.
+{170892}{170948}There you have it|in a nutshell, Danny.
+{170948}{171020}But there's one more thing you'll|want to know: the name of the murderer.
+{171020}{171090}It's a lovely name that|rolls off the tongue so easily:
+{171090}{171165}George Fortescue|Maximilian de Winter.
+{171312}{171390}There was a doctor. Mrs. de Winter|sometimes went to him privately.
+{171390}{171460}She used to go to him|even before she was married.
+{171458}{171515}We don't want reminiscences, Danny.|What was his name ?
+{171718}{171815}Dr. Baker, 1 65 Goldhawk Road,|Shepherd's Bush.
+{171812}{171885}There you are, Colonel.|There's where you'll fiind your motive.
+{171885}{171955}Go and question Dr. Baker.|He'll tell you why Rebecca went to him--
+{171955}{172012}<i>to confiirm the fact that</i>|<i>she was going to have a child,</i>
+{172012}{172072}<i>a sweet, curly-headed</i>|<i>little child.</i>
+{172075}{172142}It isn't true. It isn't true.|She would have told me.
+{172142}{172208}She told Max about it.|Maxim knew he wasn't the father.
+{172208}{172292}So, like the gentleman of the old school|that he is, he killed her !
+{172292}{172352}<i>[Julyan ] I</i>'<i>m afraid we shall have</i>|<i>to question this Dr. Baker.</i>
+{172355}{172450}Hear, hear. But for safety's sake,|I think I'd like to go along too.
+{172450}{172530}Yes, unfortunately, I suppose|you have the right to ask that.
+{172528}{172610}I'll see the coroner|and have the inquest postponed|pending further evidence.
+{172610}{172712}<i>I say, aren</i>'<i>t you rather afraid that the</i>|<i>prisoner, shall we say, might bolt ?</i>
+{172710}{172788}You have my word for it|that he will not do that.
+{172815}{172862}Toodle-oo, Max.|Come along, Danny.
+{172865}{172960}Let's leave the unhappy couple to spend|their last moments together alone.
+{173220}{173275}Are you sure you don't want me|to go with you, Maxim ?
+{173275}{173325}No, darling.|It'll be very tiring for you.
+{173330}{173422}I'll be back the very fiirst|thing in the morning, and|I won't even stop to sleep.
+{173420}{173472}I'll be waiting for you.
+{173605}{173668}- Ready, Maxim ?|- Yes.
+{173668}{173738}You two go on ahead.|I'll follow with Favell.
+{174062}{174172}Dr. Baker, you may have seen Mr. de|Winter's name in the papers recently.
+{174172}{174265}Oh, yes, yes. In connection|with a body that was found in a boat.
+{174265}{174338}My wife was reading all about it.|A very sad case.
+{174335}{174395}- My condolences--|- Oh, this is going to take hours.|Let me--
+{174395}{174465}Don't bother, Favell.|I think I can tell Dr. Baker.
+{174465}{174522}We're trying to discover|certain facts...
+{174522}{174605}concerning the late Mrs. de Winter's|activities on the day of her death,
+{174605}{174690}October 1 2, last year,|and I want you to tell me, if you can,
+{174690}{174770}if anyone of that name|paid you a visit on that date.
+{174770}{174845}I'm awfully sorry.|I'm afraid I can't help you.
+{174848}{174908}I should have remembered|the name de Winter.
+{174908}{174970}I've never attended|a Mrs. de Winter in my life.
+{174970}{175042}Well, how can you possibly tell|all your patients' names ?
+{175040}{175122}I can look it up|in my engagement diary if you like.
+{175122}{175198}<i>- Did you say the 1 2th of October?</i>|<i>- Yes.</i>
+{175198}{175315}<i>Oh, here we are.</i>|<i>No, no de Winter.</i>
+{175312}{175408}- Are you sure ?|- Well, here are all|the appointments for that day.
+{175405}{175490}'' Ross, Campbell, Steadall,|Perrino, Danvers, Mathews--''
+{175490}{175550}Danny ! What the devil !
+{175550}{175635}Would you read that name again ?|Did you say Danvers ?
+{175632}{175698}Yes, I have a Mrs. Danvers for 3:00.
+{175698}{175755}What did she look like ?|Can you remember ?
+{175755}{175835}Yes, I remember her quite well.|She was a very beautiful woman--
+{175835}{175908}tall, dark,|exquisitely dressed.
+{175908}{175990}- Rebecca.|- The lady must|have used an assumed name.
+{175988}{176130}Is that so ? This is a surprise.|I'd known her a long time.
+{176128}{176165}What was the matter with her ?
+{176168}{176218}My dear sir,|there are certain ethics.
+{176218}{176312}Could you supply a reason, Dr. Baker,|for Mrs. de Winter's suicide ?
+{176312}{176385}For her murder, you mean. She was|going to have a kid, wasn't she ?
+{176385}{176432}Come on, out with it !
+{176432}{176508}Tell me what else a woman of her class|be doing in a dump like this ?
+{176508}{176578}I take it the offiicial nature of this|visit makes it necessary for me to--
+{176578}{176678}I assure you we'd not be troubling you|if it were not necessary.
+{176678}{176740}You want to know|if I can suggest any motive...
+{176738}{176802}as to why Mrs. de Winter|should have taken her life ?
+{176802}{176880}Yes, I think I can.
+{176920}{177012}The woman who called herself|Mrs. Danvers was very seriously ill.
+{177012}{177100}She was not|going to have a child ?
+{177098}{177190}That was what she thought,|but my diagnosis was different.
+{177190}{177318}I sent her to a well-known specialist|for an examination and X-rays,
+{177315}{177412}and on this date she returned|to me for his report.
+{177410}{177508}I remember her standing here|holding out her hand for the photograph.
+{177508}{177560}''I want to know the truth,''|she said.
+{177560}{177632}''I don't want soft words|and a bedside manner.
+{177632}{177700}If I'm for it,|you can tell me right away.''
+{177700}{177762}I knew she was not the type|to accept a lie.
+{177762}{177832}She'd asked for the truth,|so I let her have it.
+{177832}{177932}She thanked me and I never|saw her again, so I assumed that--
+{177930}{178005}- What was wrong with her ?|- Cancer.
+{178065}{178125}<i>Yes, the growth was deep-rooted.</i>
+{178125}{178198}<i>An operation would have been</i>|<i>no earthly use at all.</i>
+{178198}{178265}<i>In a short time,</i>|<i>she would have been under morphia.</i>
+{178262}{178348}<i>There was nothing that could</i>|<i>be done for her, e</i>x<i>cept wait.</i>
+{178350}{178442}<i>[ Ma</i>x<i>im ]</i>|<i>Did she say anything when you told her?</i>
+{178440}{178522}<i>She smiled</i>|<i>in a queer sort of way.</i>
+{178522}{178592}Your wife was a wonderful woman,|Mr. de Winter.
+{178592}{178660}And, oh yes,|I remember she said something...
+{178662}{178732}that struck me as being|very peculiar at the time.
+{178732}{178795}When I told her|it was a matter of months,
+{178795}{178868}she said,|''Oh, no, Doctor, not that long.''
+{178938}{179015}You've been very kind.|You've told us all we wanted to know.
+{179018}{179085}We shall probably need|an offiicial verifiication.
+{179082}{179158}-Verifiication ?|<i>-Yes, to confiirm the verdict of suicide.</i>
+{179158}{179230}<i>[ Dr. Baker ] I understand. Can I</i>|<i>offer you gentlemen a glass of sherry?</i>
+{179230}{179305}<i>[Julyan ] No, very kind.</i>|<i>I think we ought to be going.</i>
+{179372}{179420}Thank heaven we know the truth.
+{179420}{179468}Dreadful thing, dreadful.
+{179468}{179535}Ayoung and lovely woman like her.|No wonder--
+{179535}{179645}I never had the remotest idea.|Neither did Danny, I'm sure.
+{179680}{179728}I wish I had a drink.
+{179730}{179790}Will we be needed at the inquest|any further, ColonelJulyan ?
+{179792}{179855}Oh, no. I can see to it that Maxim|is not troubled any further.
+{179855}{179910}- Thank you, sir.|- Are you ready to start, Colonel ?
+{179910}{179972}No, thank you.|I'm staying in town tonight.
+{179972}{180068}And let me tell you, Favell,|blackmail is not much of a profession,
+{180068}{180158}and we know how to deal with it|in our part of the world,|strange as it may seem to you.
+{180155}{180215}I'm sure I don't know|what you're talking about.
+{180218}{180290}But if you ever need a new car,|Colonel,just let me know.
+{180290}{180362}It's impossible to thank you for your|kindness to us through all this.
+{180362}{180428}- You know what I feel|without my saying anything.|- Not at all.
+{180430}{180502}Better let your wife know.|She'll be getting worried.
+{180500}{180572}Yes, I'll phone her at once, then|we'll get straight down to Manderley.
+{180572}{180650}Good-bye, Crawley.|Maxim's got a great friend.
+{180795}{180852}- Frank.|- Yes, Maxim ?
+{180900}{180958}There's something you don't know.
+{180960}{181022}Oh, no, there isn't.
+{181222}{181278}I didn't kill her, Frank.
+{181278}{181325}But I know now that when|she told me about the child,
+{181325}{181380}she wanted me to kill her.
+{181380}{181455}She lied on purpose.|She foresaw the whole thing.
+{181458}{181525}That's why she stood there|laughing when she--
+{181525}{181588}Don't think about it anymore.
+{181638}{181688}Thank you, Frank.
+{181730}{181818}Hello, Danny ?|I just wanted to tell you the news.
+{181818}{181918}Rebecca held out on both of us.|She had cancer.
+{181960}{182015}Yes, suicide.
+{182015}{182088}And now Max and that|dear little bride of his...
+{182088}{182180}will be able to stay on at Manderley|and live happily ever after.
+{182212}{182260}Bye-bye, Danny.
+{182330}{182410}- Is this your car, sir ?|- Yes.
+{182410}{182482}Will you be going soon ?|This isn't a parking place, you know.
+{182482}{182530}Oh, isn't it ?|People are entitled...
+{182530}{182582}to leave their cars|outside if they want to.
+{182582}{182668}It's a pity some of you fellows|haven't anything better to do.
+{182745}{182818}When you phoned,|did she say she'd wait up ?
+{182818}{182892}I asked her to go to bed,|but she wouldn't hear of it.
+{182930}{183002}I wish I could get some|more speed out of this thing.
+{183002}{183062}Is something worrying you, Maxim ?
+{183062}{183135}I can't get over the feeling|something's wrong.
+{184265}{184322}- Frank !|- What's the matter ? Why did we stop ?
+{184325}{184372}What's the time ?
+{184372}{184442}Oh, this clock's wrong.|It must be 3:00 or 4:00. Why ?
+{184442}{184498}<i>That can</i>'<i>t be the dawn</i>|<i>breaking over there.</i>
+{184498}{184562}It's in the winter that|you see the Northern Lights, isn't it ?
+{184608}{184685}That's not the Northern Lights.|That's Manderley !
+{185235}{185310}Frith ! Frith !|Mrs. de Winter. Where is she ?
+{185308}{185360}- I thought I saw her, sir.|- Where ?
+{185532}{185568}Maxim.
+{185610}{185670}Thank heaven|you've come back to me.
+{185670}{185742}- Are you all right, darling ?|Are you all right ?|- Oh, yes, I'm all right.
+{185742}{185810}Mrs. Danvers. She's gone mad.
+{185810}{185885}She said she'd rather destroy Manderley|than see us happy here.
+{185888}{185968}<i>[ Robert ]</i>|<i>Look! The west wing!</i>
+{185993}{186143}Please rate this subtitle at www.osdb.link/4c6n4|Help other users to choose the best subtitles

@@ -1,0 +1,668 @@
+{1}{75}/SubEdit b.3946 (http://subedit.prv.pl)/
+{100}{250}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{5620}{5668}We should get this repaired.
+{5900}{5952}I'm going to bed. Good night.
+{6003}{6036}I'll be up soon.
+{6058}{6112}Now, it gives me great pleasure|to welcome...
+{6115}{6199}our new deputy superintendent,|Dr. Max Raphael.
+{6251}{6346}And we also welcome his wife, Stella,|and their fine young fellow, Charlie.
+{6387}{6492}And we wish you many contented years|here, among the confined and confused.
+{6514}{6600}I refer, of course, to the present|company, not to the patients.
+{6846}{6882}Please forgive the latecomer.
+{6884}{6944}A rather delicate moment|with our new matricide.
+{6946}{7028}- Did I miss anything?|- Only Jack's speech. Perfect timing.
+{7030}{7109}Peter, I'd like to introduce you|to Mrs. Raphael.
+{7112}{7171}Yes, of course. I'm so sorry.|Peter Cleave.
+{7174}{7228}- How do you do?|- Stella Raphael.
+{7232}{7300}Peter is our longest-serving doctor here.
+{7303}{7351}I'm fixtures and fittings.
+{7362}{7411}Forgive me. I need that sausage.
+{7414}{7440}Excuse me.
+{7460}{7535}- What's your field, Dr. Cleave?|- Peter, please.
+{7594}{7653}I tend to deal with the extreme cases.
+{7696}{7735}My particular interest...
+{7737}{7815}is sexual pathology|and its associated catastrophes.
+{7843}{7930}- And what does your wife make of that?|- She doesn't. I'm not.
+{7942}{8014}I spend my life|immersed in the passions of others.
+{8016}{8097}Dangerous sport, love.|I'm not sure I have the stomach for it.
+{8109}{8140}I've been married for 12 years.
+{8143}{8196}I'm not sure|I've ever thought of it as a sport.
+{8199}{8252}Well, marriage|is a different beast entirely.
+{8255}{8300}I'm talking about passion.
+{8369}{8428}What did Cleave|have to say for himself?
+{8430}{8495}This and that. I rather liked him.
+{8509}{8545}Trust me, he's got fangs.
+{8548}{8599}- Who has?|- Count Dracula.
+{8631}{8659}He wanted my job.
+{8662}{8720}Thought he deserved it|for his years of loyalty.
+{8737}{8810}Why didn't you speak|to any of the other wives?
+{8840}{8879}There wasn't time.
+{8895}{8957}But I'm so looking forward|to our coffee mornings.
+{8960}{9039}You will involve yourself|in the life of the hospital.
+{9041}{9108}- It's expected.|- Of course.
+{9132}{9207}Now, the band. I thought last year's|was splendid. Agreed?
+{9210}{9271}Yes, but can we have|some slower numbers this time?
+{9273}{9335}I've only just recovered.|It was exhausting.
+{9357}{9442}Rebook the band, subject to slowies.|Show of hands.
+{9502}{9531}Carried.
+{9537}{9594}Next, do I have any takers for the cake?
+{9632}{9704}Stella, would you like to commandeer|the fruitcake?
+{9707}{9759}- I'd be honored.|- Lovely.
+{9761}{9834}And if you'll forgive the reminder,|no liqueur.
+{9842}{9875}Alcohol, dear.
+{9877}{9936}Alcohol for the patients, verboten.
+{11399}{11471}Help me! Help me!
+{11493}{11588}Help me! Help me! Help! Help me!
+{12035}{12075}Are you joining us?
+{12105}{12143}No, I'm not. No.
+{12145}{12183}- It's this way.|- No.
+{12208}{12272}But you're not allowed in the corridor!
+{12279}{12310}Come back!
+{12327}{12384}You're going the wrong way!
+{12422}{12457}- I'm so sorry.|- No bother.
+{12698}{12729}Thank you.
+{12780}{12832}I don't mean to nanny,|but it might be wise...
+{12835}{12911}to restrict yourself|to the public areas of the hospital.
+{12914}{12978}One never quite knows|what one might find.
+{13014}{13070}Do the male and female patients|ever mix?
+{13072}{13144}Yes, of course.|At the annual hospital ball.
+{13147}{13207}A perfect opportunity to mingle.
+{13228}{13285}Believe me, once a year is ample.
+{13316}{13368}- Can I give you a hand, Mrs. Bain?|- No.
+{13381}{13428}Thank you, Mrs. Raphael.
+{13608}{13671}How did my predecessor fill her days?
+{13679}{13740}She sewed. Tapestry.
+{13759}{13836}One year, she did all the hospital,|seen from above.
+{13999}{14040}Mommy! Come and see!
+{14048}{14100}- What, darling?|- Come and see!
+{14284}{14332}Edgar, this is my mother.
+{14358}{14433}We've invented a test of strength.|Will you time us?
+{14448}{14499}I don't have my watch on, darling.
+{14502}{14534}Just count then.
+{14576}{14619}Ready and lift.
+{14636}{14662}Go.
+{14664}{14775}1, 2, 3, 4, 5...
+{14784}{14893}6, 7, 8, 9, 10...
+{14912}{14984}11, 12, 13...
+{14986}{15046}14, 15, 16...
+{15048}{15083}Put him down.
+{15110}{15183}Sorry. I didn't see you there,|Mrs. Raphael.
+{15216}{15252}Come on, Charlie.
+{15392}{15432}Thank you, Mrs. Bain.
+{15662}{15743}Charlie's made a new friend,|that man doing the glasshouse.
+{15745}{15801}- Oh, good.|- Is he safe?
+{15829}{15878}He wouldn't be in our garden|if he wasn't.
+{15880}{15931}Working is a privilege.|It can take years to earn it.
+{15933}{15982}They've all been fully vetted.
+{15988}{16075}- Is he one of yours?|- No, Cleave's. His favorite, I think.
+{16098}{16175}- Favorite?|- It's not unusual to have a pet patient.
+{16188}{16220}Who's yours?
+{16277}{16303}You.
+{16412}{16470}Why is Peter Cleave so taken with him?
+{16472}{16530}You know him,|fancies himself an aesthete...
+{16532}{16592}and the fellow used to be a sculptor.
+{16601}{16637}What did he do?
+{16676}{16712}Heads, I think.
+{16727}{16765}- No, I meant...|- I know what you meant.
+{16768}{16844}I interviewed him myself.|Charlie is perfectly safe.
+{17076}{17103}Hello.
+{17125}{17199}I'm sorry about the other day.|I hope you didn't get into trouble.
+{17202}{17267}No more than I'm in already,|Mrs. Raphael.
+{17823}{17887}My husband tells me|you were a sculptor.
+{17899}{17934}I still am.
+{17957}{18030}- May I ask how long you've been here?|- You may.
+{18055}{18080}And?
+{18122}{18153}Six years.
+{18270}{18308}I killed my wife.
+{18356}{18393}She betrayed me.
+{18939}{18973}Mrs. Raphael.
+{19016}{19063}What have you done to him?
+{19088}{19122}Mrs. Raphael!
+{19178}{19233}He was climbing a tree. He fell.
+{19478}{19523}Can Edgar stay for tea?
+{19572}{19667}- I'm afraid he can't. He...|- I've got to get back to work, Charlie.
+{19754}{19782}Thanks.
+{20116}{20147}How is he?
+{20160}{20202}He's fine, thank you.
+{20265}{20334}I don't think|he'll be climbing any trees just yet.
+{20336}{20404}I don't know. Not my position...
+{20425}{20476}but I reckon he's an adventurer.
+{20490}{20531}You might be right.
+{20551}{20606}I suppose he gets that from you.
+{20657}{20689}I doubt it.
+{20715}{20767}It must be your husband then.
+{20913}{20952}Interesting dress.
+{20982}{21054}- Is that a compliment?|- Yes.
+{21090}{21171}Might it be a touch too revealing,|given the occasion?
+{21181}{21238}I'll mention it to my dressmaker.
+{21271}{21307}What a good idea.
+{21541}{21576}United front.
+{23500}{23548}May I have the pleasure?
+{25350}{25430}- Can you keep a secret?|- Depends what it is.
+{25448}{25504}Jack told me|he's planning to retire next year.
+{25508}{25581}I wonder who he's recommending|as his successor.
+{25602}{25667}- Would it be someone I know?|- It would.
+{25686}{25757}- Is it Peter Cleave?|- Very droll.
+{25788}{25865}Congratulations. That's wonderful news.
+{25936}{25997}It'll be a huge commitment|for both of us.
+{26004}{26091}I know it's not exactly ideal here|for you and Charlie, but it'll change.
+{26100}{26160}We'll have that house and a garden.
+{26169}{26215}We'll be able to settle.
+{26459}{26511}Thank you for dancing with me.
+{26619}{26658}I can't take those.
+{26838}{26889}You could take what they mean.
+{27024}{27073}- Hello, Mr. Archer.|- Edgar.
+{27539}{27570}Break over!
+{33659}{33715}How are you finding Mrs. Raphael?
+{33722}{33772}I don't have much to do with her.
+{33775}{33818}I'm busy with my work.
+{33820}{33926}But Mr. Archer tells me|of your recent interest in horticulture.
+{33937}{34027}She's kind to me. I gave her|some flowers a few weeks ago.
+{34034}{34080}And you danced with her.
+{34101}{34175}Only to show you|I can behave myself with a woman.
+{34187}{34219}I don't doubt it.
+{34221}{34312}- You're pleased with my progress?|- I'm not here to judge you.
+{34343}{34417}But, yes,|you're progressing as one would want.
+{34436}{34487}And, in time...
+{34512}{34572}work duties lead to my release?
+{34586}{34628}Have patience, Edgar.
+{34652}{34712}We still have many mountains to climb.
+{34750}{34801}I've always done|everything you've asked.
+{34804}{34886}Indeed, but that does not make you|ready for the world.
+{34891}{34974}- But you've cured me.|- Of what exactly?
+{34996}{35049}Severe personality disorder...
+{35074}{35130}with features of morbid jealousy.
+{35194}{35310}Continue with your work,|and we'll continue to take a view.
+{36068}{36110}Any news on the job?
+{36131}{36181}You'll be the first to know.
+{36224}{36274}Stella behaving herself?
+{36295}{36327}Yes, Mother.
+{36386}{36442}That fellow's done wonders|with your glasshouse.
+{36444}{36490}Yes, it's scrubbed up rather well,|hasn't it?
+{36492}{36575}Our rockery resembles Berlin in '45.
+{36608}{36644}Perhaps you could pass him over to us.
+{36647}{36713}I don't know if it's my imagination,|but isn't he rather attractive?
+{36716}{36757}- It's your imagination.|- He is attractive.
+{36760}{36850}- Did he do something rather nasty?|- He murdered his wife.
+{36868}{36936}Obviously sane.|Can't think why we got him.
+{36963}{37000}What will happen to him?
+{37003}{37066}I have no idea.|That's Peter's department.
+{37068}{37170}I suspect he will be overhauling|rockeries for a good few years to come.
+{37190}{37270}Here's to locking the door|and throwing away the key.
+{37351}{37428}What the hell is wrong with you?|You had no right to say that.
+{37431}{37508}The way he casually dismissed that|man's whole future, it was sickening.
+{37511}{37560}Policy is not your concern.
+{37577}{37678}- I thought the policy was to reform.|- It's none of your bloody business!
+{37680}{37758}- Is it really so difficult to behave?|- Like the other wives?
+{37760}{37842}- Like the other little ladies?|- Frankly, yes.
+{37952}{38007}- Bye, Mrs. Bain.|- Behave yourself, Charlie.
+{38366}{38411}Here, let me show you.
+{38953}{38983}Not here.
+{39611}{39643}Oh, no!
+{40356}{40425}- I just had a bath.|- Your point being?
+{40700}{40750}- I forgot my checkbook.|- Oh.
+{40771}{40850}- Where did you last see it?|- Well, I don't know, do I?
+{41240}{41271}Here it is.
+{41336}{41380}Here we go, young man.
+{41396}{41466}Let's go to the zoo.|Shall we do that first?
+{41468}{41540}And then we can go|into the shop we went to...
+{42342}{42381}Are you all right?
+{42415}{42459}Have you seen a ghost?
+{42534}{42583}What's the matter, darling?
+{42612}{42654}There was a patient.
+{42661}{42737}- What patient? Where?|- In the house.
+{42759}{42818}He might've been in Mommy's bedroom.
+{42907}{42957}Who was he? Do you know him?
+{43702}{43754}Can I use the phone, please?
+{43766}{43812}Is everything all right?
+{44201}{44313}It's been suggested|that your dealings with Edgar Stark...
+{44316}{44376}went beyond propriety.
+{44380}{44439}- Suggested by who?|- John Archer.
+{44472}{44539}And there have been whispers|among the patients.
+{44542}{44575}These rumors soon get back to me.
+{44578}{44632}Naturally, I give them no credence...
+{44635}{44705}but I do need to know|why they might have arisen.
+{44713}{44767}Stella talked to Stark in the garden.
+{44769}{44836}She talks to many of the patients.|What of it?
+{44872}{44900}Stella?
+{44934}{45027}Well, Charlie was fond of him so|of course I spoke to him occasionally.
+{45030}{45107}- You danced with him at the ball.|- I danced with you, too.
+{45588}{45630}I'm afraid it's true.
+{45642}{45671}My God!
+{45691}{45747}- Does Max know?|- I suspect so.
+{45758}{45806}It's a bloody catastrophe!
+{45814}{45896}The Home Office will be apoplectic,|and in my last year.
+{45899}{45985}- Doubtless they'll require a head to roll.|- Well, they're not having mine!
+{46003}{46052}Did you never think|the man might try to escape?
+{46055}{46131}Of course not.|Otherwise, I would have prevented it.
+{46161}{46247}Well, you were right about Max.|He's not for us.
+{46274}{46331}Appalling, bloody stupid woman!
+{46334}{46412}She practically chauffeured the man|out of the door!
+{46446}{46530}As for the wife, never in 40 years.
+{46553}{46606}He obviously has no control over her.
+{46608}{46674}Who will be her next prey,|for God's sake?
+{46724}{46755}He'll have to go.
+{46757}{46846}May I suggest that we don't toss|that particular bone to the press?
+{46848}{46887}At least, not yet.
+{46912}{47022}We'll be crucified in the papers as it is.|They love a madman on the loose.
+{47036}{47129}We must preserve the integrity|of the hospital for the future.
+{47244}{47288}Peter, when the Inspector arrives...
+{47291}{47348}do you think we can play down|the more lurid aspects...
+{47351}{47407}of Stark's recent activities?
+{47423}{47458}Naturally.
+{47500}{47566}Do you think Stella|helped him to escape?
+{47597}{47661}Not particularly. She was manipulated.
+{47705}{47768}I suspect she's fallen in love with him.
+{47828}{47863}You're fixated.
+{47866}{47943}That's why you passed him fit for work|when you knew he was unstable.
+{47945}{48022}Drivel. Your wife destabilized him.
+{48024}{48108}One could hardly have predicted|that element in the equation.
+{48151}{48246}I assume you're acting as Jack's|factotum sent to extract my resignation?
+{48249}{48346}Spare us the grandiosity. Just get on|with your work and keep quiet.
+{48358}{48420}I might remind you|that I'm your superior.
+{48423}{48456}In what sense?
+{48812}{48840}How long?
+{48864}{48939}- You're supposed to time me.|- I'm sorry, darling.
+{48984}{49049}If they catch him, will he be in trouble?
+{49105}{49192}I don't think they will catch him.|He's been gone too long.
+{49195}{49271}I think he's on a boat|sailing back to Australia.
+{49747}{49811}I think you should come and talk to me.
+{49849}{49897}Unofficially, of course.
+{49960}{49997}Let me help you.
+{50824}{50923}I might go up to town tomorrow|and do some early Christmas shopping.
+{50936}{51003}- Something for me?|- Wait and see.
+{52092}{52152}I'm Nick. It was me on the phone.
+{52170}{52214}Why were you so late?
+{52239}{52298}Had to be sure you weren't followed.
+{52345}{52387}How do you know him?
+{52404}{52451}I was his assistant...
+{52480}{52507}before.
+{54234}{54289}Did you think I'd abandoned you?
+{54337}{54402}I couldn't contact you till it was safe.
+{54459}{54498}And it's safe now?
+{54987}{55039}- How was London?|- Busy.
+{55075}{55150}I saw something for you,|but they didn't have your size.
+{55152}{55215}I have to go and collect it next week.
+{55934}{55970}Successful trip?
+{56036}{56093}You find what you were after?
+{56106}{56142}Yes. Finally.
+{56178}{56211}Where is it?
+{56282}{56316}Your shopping.
+{56321}{56367}The shopping you did in London.|Where is it?
+{56370}{56433}- It's for Christmas. I've hidden it.|- Where?
+{56448}{56524}- If I told you, it wouldn't be hidden.|- Show me what you bought.
+{56552}{56591}Show me! Damn you!
+{56817}{56854}Happy Christmas.
+{57279}{57311}Forgive me.
+{58343}{58380}Does he suspect?
+{58422}{58468}He's buried in his work.
+{58486}{58527}Do you share a bed?
+{58715}{58746}I'm yours.
+{58855}{58901}So don't go back to him.
+{58913}{58954}Come and live with me.
+{58984}{59036}I can't just leave my family.
+{59054}{59088}Yes, you can.
+{59146}{59201}Give them up or don't come back.
+{59268}{59352}Once you're here,|we'll find a way to bring Charlie, too.
+{59392}{59419}Please.
+{59453}{59492}I can't share you.
+{59712}{59740}Decide.
+{59923}{59957}How is Edgar?
+{60002}{60038}What on earth do you mean?
+{60040}{60134}Your housekeeper let slip|you're taking regular trips to London.
+{60142}{60199}You're seeing him, aren't you?
+{60261}{60351}If you knew women, you'd know|they like to shop occasionally.
+{60538}{60627}Don't delude yourself|you're in love with a tortured genius.
+{60660}{60699}He's a failed artist...
+{60701}{60781}infinitely more dangerous|both to you and himself.
+{60813}{60871}He's mine, and he needs my help.
+{60912}{60958}Evidently, he disagrees.
+{61048}{61107}You should know|what he did to his wife.
+{61125}{61183}I don't need to know.|I have nothing to do with the man.
+{61185}{61270}He beat her to death with a hammer|and then decapitated her.
+{61297}{61346}He took a scalpel and cut out her eyes...
+{61349}{61434}and then he hacked at her face|as if it were clay.
+{61497}{61554}Perhaps there won't be|any more trips to London.
+{61556}{61623}Perhaps your mental state is too fragile.
+{61665}{61735}With Max's consent,|we can hold you here.
+{61772}{61826}- Nonsense.|- But we can.
+{61937}{61991}For your own safety, of course.
+{62032}{62062}Stella...
+{62084}{62126}tell me where he is.
+{62766}{62851}Mrs. B, how do you spell amoeba?
+{62864}{62913}With a dictionary, my dear.
+{62924}{63013}Don't ask me.|I've got the brain of an amoeba.
+{63856}{63881}She's...
+{63928}{63971}She's having a little holiday.
+{64009}{64067}I'm sure she'll be back very soon.
+{64239}{64280}Shall I read to you?
+{64404}{64451}Has she gone to Australia?
+{64674}{64724}"That was Tom's great secret...
+{64727}{64786}"the scheme to return home|with his brother pirates...
+{64789}{64847}"and attend their own funerals.
+{64852}{64937}"They had paddled over to the Missouri|shore on a log, at dusk on Saturday."
+{65370}{65411}Can I move, please?
+{65493}{65540}I've got pins and needles.
+{65614}{65691}She taught me lots of things.|She's a black Caribbean.
+{65699}{65780}Have you had a black woman?|No, you haven't. I have.
+{65831}{65890}I was very drunk, but you know...
+{65911}{65999}I couldn't quite do the samba.|She taught me a lot of things.
+{66152}{66185}Take it off.
+{66406}{66439}I'm working!
+{66598}{66670}- I'm going for a walk, all right?|- Be careful.
+{67552}{67583}Thank you.
+{67812}{67861}- Are you following me?|- No.
+{67880}{67952}What? You just like hanging around|in markets?
+{68090}{68149}Have you any reason not to trust me?
+{68152}{68214}- So why have me followed?|- It won't happen again. Sorry.
+{68216}{68283}- Why don't you trust me?|- I said I'm sorry.
+{68449}{68476}I'm working.
+{68479}{68553}You're always working.|It's just like being with my husband.
+{68580}{68631}- Is it?|- Yes.
+{68634}{68699}- Like being with your husband, is it?|- Yes.
+{68701}{68738}- Just like home?|- Yes.
+{68740}{68824}- Is this what he was like?|- Yes.
+{68873}{68904}Like this?
+{68988}{69070}- Hooray! Look at that.|- Wonderful.
+{69267}{69332}- Tell me.|- I miss Charlie.
+{69403}{69482}It's all right. Don't be sad.
+{70268}{70299}I love you.
+{70302}{70352}It doesn't matter, but I do.
+{70380}{70453}- No, you don't.|- I do.
+{70526}{70563}I love him, too.
+{70624}{70699}- Happy Christmas, Stella.|- Thank you.
+{70848}{70916}You touch her again, I'll fucking kill you!
+{71463}{71502}Please stay, Nick.
+{71518}{71589}I'm gonna clear out my stuff|before he gets back.
+{71638}{71680}There's no point in arguing.
+{71781}{71827}It's not my place, but...
+{71878}{71931}Maybe you should come with me.
+{72013}{72073}He's turning. I've seen it before.
+{72123}{72158}With his wife?
+{72189}{72225}I saw the body.
+{72263}{72308}Please don't stay here.
+{72790}{72841}I thought you'd been caught.
+{72852}{72930}- Is that what you want?|- No, of course not.
+{72973}{73032}- Are you missing your comforts?|- No.
+{73058}{73103}You were going to Nick.
+{73225}{73287}Are you going to start hitting me now?
+{73982}{74014}I love you.
+{74085}{74116}I love you.
+{75118}{75209}He needs help. Can you find a doctor?
+{75231}{75277}I'll see what I can do.
+{75852}{75922}- I saw you together. You're fucking him.|- No.
+{77006}{77030}Eat.
+{77075}{77170}When my wife took her lovers,|she tried to poison me.
+{77219}{77244}Eat.
+{78266}{78318}You've checked those clothes?
+{78665}{78699}Mrs. Raphael.
+{79225}{79253}Let's go.
+{79832}{79889}You'll be released in the morning.
+{79994}{80036}Could I see Charlie?
+{80138}{80244}You're aware I could prevent you from|having any further contact with him.
+{80286}{80324}But he needs you.
+{80383}{80430}You'll see him tomorrow.
+{80515}{80547}Thank you.
+{80863}{80921}Mr. Raphael, this way please, sir.
+{80982}{81029}Mr. Raphael,|do you have any comments?
+{82145}{82226}There's a blanket in the back|if you want to sleep. It's a long journey.
+{82229}{82280}- Where are we going?|- Wales.
+{82302}{82353}- What?|- Wales.
+{82380}{82413}North Wales.
+{82437}{82517}Sheep, tractors,|and a genetic hatred of the English.
+{82563}{82630}Once it got in the papers,|I was dismissed.
+{82646}{82719}I managed to get a position|at a local hospital.
+{82737}{82801}- Jack fired you?|- No.
+{82842}{82877}His successor.
+{84961}{84993}You asleep?
+{85150}{85191}Are you better now?
+{85226}{85306}I'll never go away again. I promise.
+{85367}{85410}I'm very, very sorry.
+{85714}{85770}Thank you for letting me see him.
+{85784}{85846}A stronger man would have let you rot.
+{85861}{85935}- You're strong.|- Don't be trite.
+{85963}{86022}I wasn't strong enough to keep you.
+{86195}{86260}- Good night.|- Good night.
+{86693}{86734}A little word of advice.
+{86737}{86810}Don't let your shame|degenerate into self-pity.
+{86828}{86865}It seldom helps.
+{87142}{87185}Settled in all right?
+{87233}{87271}Walking, are you?
+{87415}{87444}Charlie.
+{87586}{87611}Mom!
+{87614}{87637}Good morning, sir.
+{87707}{87778}Come on.|Good morning, Charlie. You all right?
+{88225}{88271}We can't live like this.
+{88296}{88341}Please come back to us.
+{88414}{88442}Please.
+{88739}{88764}Excuse me.
+{89002}{89029}Hello?
+{89046}{89112}Speak up, will you?|This line's atrocious.
+{89121}{89171}Yes.
+{89174}{89222}{y:i}- Could you tell me where?|- Yes, Wales.
+{89225}{89257}{y:i}Do you have an address?
+{89260}{89330}Well, I don't have an address.|Only the hospital. Cledwyn General.
+{89333}{89384}{y:i}- Could you repeat that, please?|- Cledwyn.
+{89422}{89474}Well, I have no idea. Ask a policeman.
+{89477}{89509}Claudia, who is it?
+{89512}{89582}An old colleague of Dr. Raphael's.|He's a mumbler.
+{89585}{89621}- May I?|- Please.
+{89681}{89713}Who is this?
+{89763}{89790}Hello?
+{89849}{89876}Edgar?
+{90002}{90084}{y:i}- Are you expecting the police?|- Yes, they're here already.
+{90130}{90218}{y:i}- If he comes for her?|- I wouldn't like to say what he'd do.
+{90271}{90322}{y:i}You put her on medication, I assume?
+{90330}{90366}She doesn't need it.
+{90410}{90442}She's fine.
+{90474}{90557}- Goodbye, Mr. Griffin. See you.|- Goodbye.
+{90574}{90646}- Bye.|- Bye, darling. Goodbye.
+{90670}{90703}Bye, Elaine.
+{90717}{90761}- Bye, Charlie.|- Bye, Mr. Griffin.
+{90764}{90802}See you tomorrow.
+{90985}{91046}There's a school field trip next week.
+{91055}{91105}Are parents allowed to come?
+{91402}{91459}If you need me, I'll be upstairs.
+{91466}{91518}I've just got to finish something.
+{92066}{92089}Here.
+{92530}{92579}Parents are allowed on the field trip.
+{92582}{92617}I told a lie.
+{92745}{92801}Well, everyone lies occasionally.
+{92833}{92868}Good for telling me.
+{93007}{93057}Would you like some company?
+{93125}{93189}Well, I don't think I'm busy next week.
+{93911}{93958}I know you long for him.
+{94011}{94083}But you won't see him again.|You know that, don't you?
+{94098}{94122}Yes.
+{94182}{94244}We'll be a family again, like before.
+{94291}{94351}In time, this will be what you want.
+{95085}{95154}Hurry, darling,|we mustn't keep Daddy waiting.
+{95414}{95442}Hello?
+{95686}{95736}- Where's Mommy?|- Phone rang.
+{95986}{96013}Sorry.
+{96065}{96124}- Who was it?|- Mr. Griffin.
+{96143}{96198}Instructions for our field trip.
+{96347}{96397}- Inspector.|- Good morning, Dr. Raphael.
+{96400}{96439}It's good of you to help out.
+{97491}{97521}You came.
+{97754}{97784}Let's go.
+{97861}{97911}I can't leave Charlie again.
+{97930}{97965}I promised him.
+{97993}{98042}I'll never stop loving you.
+{98068}{98115}- Where is he?|- At school.
+{98134}{98198}We'll go and get him. Take him with us.
+{98792}{98816}No!
+{99690}{99721}He's gone.
+{99768}{99810}Now let him go!
+{99962}{100067}{y:i}Six green bottles hanging on the wall
+{100078}{100176}{y:i}Six green bottles hanging on the wall
+{100178}{100288}{y:i}And if one green bottle|should accidentally fall
+{100290}{100404}{y:i}There'll be five green bottles|hanging on the wall
+{100414}{100513}{y:i}Five green bottles hanging on the wall
+{100516}{100547}{y:i}Five green
+{100706}{100767}If I can have your attention, please.
+{100774}{100857}Children, don't forget to collect items|of interest in your jam jars.
+{100860}{100910}Now, if you could form yourselves|into groups.
+{100913}{100963}Please, at least one adult in each.
+{100982}{101014}Here we go.
+{101023}{101100}Okay, one, two, there we go.|Thanks, Mrs. Jones.
+{101102}{101137}There we are.
+{101172}{101243}There we are, Mrs. Raphael.|Well done, Charlie.
+{101440}{101488}I'm going to catch a fish.
+{101522}{101564}Won't you need a rod?
+{101568}{101637}I'm hoping a small one|will swim into my jar.
+{101667}{101756}Do you know fish can only|remember things for eight seconds?
+{103695}{103729}Mrs. Raphael!
+{103760}{103810}Mrs. Raphael, do something!
+{103866}{103901}Do something!
+{105337}{105372}Thank you so much.
+{105441}{105488}Such difficult circumstances.
+{106226}{106281}Excuse me.
+{106334}{106355}Jack.
+{106394}{106417}Jack...
+{106452}{106507}you must come and visit me soon.
+{106526}{106565}Maybe next summer.
+{106593}{106652}It's so kind of you to deal with all this.|Poor Max.
+{106655}{106697}The least I could do.
+{106752}{106804}Max is in complete agreement.
+{106817}{106884}Of course, I had to arrange things|with the Home Office.
+{106886}{106957}It was a little bit sticky, but we got there.
+{106988}{107070}Well, arranging things is your forte,|isn't it, Peter?
+{107104}{107142}Goodbye, my dear.
+{107289}{107354}Well, shall I keep you informed?
+{107390}{107432}I don't want to know.
+{107454}{107485}Oh, my dear.
+{107528}{107609}Peter, I just wanted|to thank you for so many things.
+{107612}{107677}So sorry, dear Max.
+{108280}{108360}I want you to understand|what's going to happen next.
+{108380}{108428}The shock will wear off...
+{108431}{108501}and it will be replaced|by a devastating grief.
+{108515}{108590}In time, you'll come to terms|with what you've done...
+{108593}{108644}and you'll just be very, very sad.
+{108672}{108744}And that sadness will stay with you...
+{108768}{108816}for the rest of your life.
+{109684}{109735}- Good evening.|- Good evening.
+{110260}{110292}Come now.
+{110561}{110592}Good girl.
+{110662}{110699}Where's Charlie?
+{110724}{110816}- Where's my picture of Charlie?|- With your belongings.
+{110847}{110897}- You mean, I can't see him?|- Not yet.
+{110946}{111001}Because I killed him, didn't I?
+{111140}{111166}Come here.
+{112206}{112244}Is Edgar here?
+{112272}{112308}Of course not.
+{112349}{112381}Where is he?
+{112421}{112485}The past, Stella.
+{112525}{112564}He's in the past.
+{113102}{113138}Good afternoon.
+{113257}{113319}If you won't speak, I can't treat you.
+{113383}{113444}Do you want to stay in solitary forever?
+{113503}{113565}Talk. Say something!
+{113651}{113694}Express your contempt.
+{113994}{114025}She's here.
+{114067}{114124}She's been here six weeks.
+{114162}{114200}She's my patient.
+{114289}{114313}Why?
+{114435}{114476}Something terrible.
+{114596}{114633}The boy drowned.
+{114694}{114758}Yes, you were fond of him.
+{114862}{114909}Would you like to see her?
+{114989}{115016}Speak.
+{115588}{115612}Thank you.
+{115657}{115698}Did you do as I asked?
+{115701}{115774}To think rigorously|about what it means to love?
+{115819}{115897}I'm beginning to understand|that it was never real.
+{115922}{115973}That it was all an obsession.
+{116031}{116093}Can you define your feelings for him?
+{116178}{116210}I have none.
+{116246}{116309}It's over. It ended when Charlie died.
+{116334}{116406}If I told you he was here,|in the hospital?
+{116466}{116538}Well, I suppose it would be logical|if he were.
+{116651}{116704}The question was hypothetical.
+{117006}{117070}You've been very brave|these past weeks.
+{117084}{117122}Thank you, Peter.
+{117918}{117976}I see you've got a flat tire.
+{118056}{118097}I don't need a car.
+{118150}{118209}- Not for work?|- I've resigned.
+{118258}{118335}I think I might go into teaching. I'm...
+{118366}{118428}- I might be quite good with children.|- Yes.
+{118461}{118492}Good idea.
+{118529}{118576}What do you want from me?
+{118693}{118718}Come.
+{118770}{118825}Welcome. Thank you, nurse.
+{118903}{118983}Would you like a drink?|I usually have one about now.
+{119022}{119064}- I'd love one.|- Yes.
+{119113}{119144}The usual?
+{119162}{119210}Your old usual, should I say?
+{119384}{119420}Your health.
+{119506}{119544}Yesterday, I went to see Max.
+{119547}{119616}I made a suggestion|with which he concurred.
+{119654}{119728}My contacts at the Home Office|might well release you from here...
+{119731}{119829}were I to guarantee|your continued treatment and safety.
+{119916}{119968}What I mean to say is that...
+{119980}{120051}were you to live with me, in my house...
+{120066}{120150}these conditions|would most likely be satisfied.
+{120206}{120277}I can offer you a fine home|and a decent life...
+{120290}{120384}traveling, art, gardening, and so on.
+{120406}{120478}But I'm still married to Max.
+{120503}{120549}He wants to divorce you.
+{120746}{120793}You're a very dark horse.
+{120810}{120897}Well, I assure you this is not|my usual procedure with patients.
+{120903}{120964}It's something|that rather crept up on me.
+{121011}{121094}It would be arrogant to suggest|that you might love me.
+{121136}{121191}But I believe you need me at present...
+{121194}{121293}and perhaps, in time, this need|might grow into love of some variety.
+{121378}{121433}Are you a passionate man, Peter?
+{121503}{121593}I think that's something|we'd have to discover.
+{121638}{121717}What would she want|with an old queen like you?
+{121735}{121778}We have dialogue.
+{121781}{121865}I'm disappointed.|I thought you wanted me.
+{121890}{121958}You resent it, don't you?
+{121993}{122064}That she might find happiness|with someone else?
+{122276}{122344}I wondered if you might like this.
+{122416}{122448}Oh, Peter.
+{122478}{122527}Thank you. It's beautiful.
+{122558}{122599}It was my mother's.
+{122826}{122856}Shall we?
+{122998}{123023}Here.
+{123146}{123215}The ladies were discussing|the hospital ball.
+{123259}{123306}Would you like to attend?
+{123370}{123405}I'm not sure.
+{123427}{123520}Well, it might be difficult for you.|Memories and so on.
+{123594}{123674}- You'll be there?|- Well, of course. Yes, that's true.
+{123814}{123855}Will Edgar be there?
+{123981}{124058}If we're to be married, Peter,|let's not have lies.
+{124231}{124273}You knew he was here?
+{124312}{124366}I heard talk, and I know you.
+{124390}{124448}You wouldn't give up on a patient.
+{124460}{124553}I thought it might be traumatic for you.|I would have told you in time.
+{124589}{124670}- Forgive me.|- Of course.
+{124827}{124874}And to answer your question...
+{124904}{124946}he'll be at the dance.
+{124950}{124991}Unless you wish otherwise.
+{125023}{125072}Whatever you think is best.
+{125238}{125340}It might be useful for his recovery|to see you've moved on, as it were.
+{125423}{125461}You'll fail her.
+{125484}{125513}He did.
+{125529}{125556}I did.
+{125567}{125598}So will you.
+{125601}{125673}Perspective. We can work with that.
+{125690}{125718}Cleave...
+{125802}{125849}will you let me see her?
+{125883}{125912}Please.
+{126056}{126122}The hospital ball|might be an opportunity.
+{126186}{126232}Cooperate in your treatment...
+{126260}{126296}and we'll see.
+{127205}{127248}You look magnificent.
+{127346}{127401}You look very dashing yourself.
+{127461}{127505}I remember that dress.
+{127533}{127581}I'm amazed it still fits.
+{127664}{127745}- Will you dance with me later?|- That would be lovely.
+{129994}{130054}Stella, shall we?
+{130276}{130359}By the way, I went to fetch Edgar,|and he was asleep.
+{130361}{130411}I woke him and he said|that he'd changed his mind...
+{130413}{130459}and didn't want to come.
+{133607}{133688}Leave me alone.
+{136565}{136632}Ripped by:|SkyFury
+{136665}{136765}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<
+{136790}{136940}Support us and become VIP member |to remove all ads from OpenSubtitles.org

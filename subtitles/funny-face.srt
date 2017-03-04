@@ -1,0 +1,982 @@
+{25}{175}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{3545}{3592}Good morning, Miss Prescott.
+{3652}{3697}Good morning, Miss Prescott.
+{3900}{3952}Nowhear this.
+{4346}{4425}I simply cannot release this issue|the way it is.
+{4428}{4535}In the 60 years of Quality|magazine, this hits rock bottom.
+{4538}{4625}If I let this go through, I will have|failed the American woman.
+{4628}{4672}No, Miss Prescott, don't say that.
+{4675}{4747}The great American woman,|who stands out there naked,
+{4750}{4821}waiting for me|to tell her what to wear.
+{4825}{4873}It doesn't speak.
+{4876}{4957}And if it won't speak to me,|it won't speak to anyone.
+{4982}{5057}A magazine|must be like a human being.
+{5060}{5122}If it comes into the home|it must contribute.
+{5125}{5196}It just can't lie around.
+{5200}{5250}A magazine must have...
+{5275}{5340}..blood and brains and pizzazz.
+{5343}{5378}This is just paper.
+{5381}{5459}If I send paper to the American|woman, I will have let her down.
+{5462}{5514}No, Miss Prescott,|you mustn't say that.
+{5517}{5564}Yes. D for down.
+{5567}{5601}D for dreary.
+{5604}{5705}D for dull and for depressing,
+{5708}{5750}dismal and deadly!
+{5831}{5894}Ahh! Here it is.
+{5897}{5966}Here is our theme.|Here is our answer. Pink.
+{6205}{6257}I want dresses made up in this pink.
+{6260}{6303}Babs, take this to Kaiser Delmont.
+{6306}{6360}I want shoes and stockings|in this colour.
+{6363}{6422}Laura, everything goes pink!
+{6425}{6498}I want the whole issue pink.|I want the whole country pink!
+{6501}{6598}Lettie, take an editorial.|"To the women of America..."
+{6601}{6662}No, make it|"To the women everywhere."
+{6670}{6706}Banish the black,
+{6709}{6745}burn the blue,
+{6747}{6795}and bury the beige.
+{6798}{6841}From now on, girls...
+{10189}{10223}Maggie?
+{10236}{10280}Dovitch. I want to see you.
+{10282}{10353}Girls, back to work.|Gentlemen, that will do.
+{10356}{10417}The railroad|is going to paint a whole train pink
+{10420}{10454}and send it on a tour.
+{10457}{10519}TWA will let me know|if we can have a pink plane.
+{10522}{10599}I haven't seen a woman in two weeks|in anything but pink.
+{10602}{10678}- What about you?|- Me? I wouldn't be caught dead.
+{10681}{10770}Dovitch, I can't wait to tell you|about my feature for the next issue.
+{10773}{10855}It's my newest project.|When you hear it, you will drop.
+{10858}{10909}- Now what?|- Just you listen.
+{10913}{10974}Dick Avery|started working on the pictures.
+{10977}{11034}He's more excited about it|than any of us.
+{11037}{11131}Here it is. Clothes for the woman|who isn't interested in clothes.
+{11144}{11222}Marion, give me a long look.
+{11225}{11250}Longer.
+{11316}{11408}Steve, tip that back light down|a bit, will you? OK.
+{11448}{11550}Hold it, boys.|Beethoven isn't working. Try Brahms.
+{11553}{11638}Look, Marion,|I'd like to try it again.
+{11641}{11702}This time,|let's see if we can't get with it.
+{11705}{11771}Keep in mind|that you're a woman who thinks.
+{11774}{11840}That is a piece of sculpture|by ltsabuchi.
+{11843}{11957}Look at it as if you understand it.|As if it understands you. See?
+{12028}{12123}No, that's not the way we look|when we're thinking of ltsabuchi.
+{12126}{12194}React to it. Just... say it.
+{12226}{12297}Itsabuchi, hmm?
+{12322}{12416}You haven't quite got it.|Now, listen carefully.
+{12419}{12487}You are in the Museum of Modern Art,|Marion.
+{12491}{12557}Deep, Marion. Profound, Marion.
+{12559}{12631}You have come across this statue.|It says something to you
+{12634}{12691}because you are intellectual,|always thinking.
+{12716}{12767}What are you thinking?
+{12770}{12829}I'm thinking|this is taking a long time,
+{12833}{12913}and I'll never be able to|pick up Harold's laundry.
+{12920}{12993}When Harold doesn't get his laundry,|disaster!
+{12997}{13109}If we don't get this fixed, you may|never see Harold again. Let's go.
+{13112}{13204}The woman who thinks must come|to grips with fashionable attire.
+{13207}{13301}A woman can be beautiful, as well|as intellectual. See facing page.
+{13304}{13337}And how is the facing page?
+{13340}{13432}The facing page looks|as intellectual as a snake.
+{13435}{13498}Nonsense. Marion can be very deep.
+{13501}{13548}Look at her. She's reading.
+{13574}{13646}Marion, dear, what are you reading?
+{13649}{13682}Minute Men From Mars.
+{13721}{13799}Are we all gonna hang around,|or get somebody else?
+{13802}{13860}- How about Lucy Brand?|- On her honeymoon.
+{13864}{13925}- Betty Hayes?|- She's in jail.
+{13928}{13989}Are there no models|who think as well as they look?
+{13992}{14061}Marion might look better|in a different background.
+{14064}{14122}We can go on location.|An intellectual hang-out.
+{14125}{14171}- Somewhere with books.|- A book store.
+{14174}{14259}A sinister place|in Greenwich Village. Come on, girls.
+{14262}{14357}Let's hurry. We might have to pick up|Harold's laundry on the way.
+{14531}{14560}There's one.
+{14582}{14618}Driver, stop here.
+{14621}{14655}That's sinister enough.
+{14732}{14793}Melissa, help me with this lamp.|It's heavy.
+{14796}{14849}I can't, Babs, I got my hands full.
+{14999}{15100}It's movingly dismal. We couldn't|have done better if we'd designed it.
+{15104}{15156}Marion looks smarter already.
+{15260}{15348}I'm sorry. I didn't see you up there.|Are you alright?
+{15389}{15495}Yes, thank you. Can I help you?|Would you like a book?
+{15498}{15587}- Marion, over here.|- Who are those...?
+{15616}{15647}May I help you?
+{15650}{15716}Thank you.|We have everything we need.
+{15719}{15764}Please tell me what this is about.
+{15767}{15818}We're just going to take|a few pictures.
+{15821}{15857}What sort of pictures?
+{15860}{15907}- Are you the owner?|- No, Dr Post is.
+{15910}{15963}I work here,|and I'm in charge in her absence.
+{15966}{16028}I'm Jo Stockton. Can you help me?
+{16031}{16079}How do you do? I'm Dick Avery.
+{16082}{16116}What about these pictures?
+{16119}{16157}We want the shop as a background
+{16159}{16221}for fashion pictures|for Quality magazine.
+{16224}{16305}I'm sorry. I can't let you.|Dr Post would never approve.
+{16308}{16360}She doesn't approve|of fashion magazines.
+{16363}{16452}It's chi-chi and an unrealistic|approach to self-impressions.
+{16455}{16538}- We have trouble. She's a thinker.|- She's also a talker.
+{16541}{16583}I must ask you to leave.
+{16586}{16627}We throw ourselves at your mercy.
+{16630}{16702}Haven't poor people like us|a right to make a living?
+{16705}{16750}I asked you to leave.|That is my right.
+{16753}{16789}If the rights of the individual
+{16792}{16857}are not respected by the group,|the group cannot exist.
+{16860}{16887}What does that mean?
+{16890}{16967}"Do unto others as|you would have others do unto you."
+{16970}{17016}We'll only do unto you for a moment,
+{17019}{17097}and it's no more|than we would do unto ourselves.
+{17100}{17149}Girls, I want these books rearranged.
+{17152}{17227}They look too much alike.|They're too pat. Mix them up.
+{17230}{17279}No, you mustn't mix them up.
+{17282}{17341}The books on this shelf|pertain to empiricism,
+{17344}{17427}and on this shelf, materialism,|and on this, psychopiscoparalysm.
+{17430}{17509}Put them back. Please talk to her.|It'll take me hours.
+{17512}{17579}One never talks to Maggie Prescott.|One only listens.
+{17582}{17673}Here. I think we ought to use her|in the shot. Miss, come here, please.
+{17676}{17749}- Me?|- You're selling a book to that girl.
+{17751}{17774}Her?
+{17777}{17831}Just pretend that Marion can read.
+{17834}{17867}Say, listen!
+{17870}{17905}Alright, Marion, let's go.
+{17908}{17986}But this would be a violation|of all my principles.
+{17989}{18053}It would be hypocrisy for me|to lend myself to this.
+{18056}{18089}- I'm sorry, but...|- Shush.
+{18092}{18172}Now, tell Marion about the books|so that we can get out of here.
+{18219}{18309}This deals with epiphenomenalism,|which has to do with consciousness
+{18312}{18379}as a mere accessory|of physiological processes
+{18383}{18495}whose presence or absence|makes no difference...
+{18511}{18558}Whatever are you doing?
+{18561}{18590}Hold it!
+{18593}{18661}- Good. Get her in another outfit.|- Put on the shebop.
+{18664}{18753}None of you seems to realise you're|trespassing on private property.
+{18757}{18838}You run around, ignorant of the fact|that I can have you put in jail.
+{18841}{18899}- For the last time...|- You're getting tiresome.
+{18902}{18935}What are you doing?
+{18938}{18984}Let go. Let go of my arm.
+{18987}{19062}I know you don't mean any harm,|but you are in everyone's way.
+{19065}{19098}Now, we won't be a moment.
+{19125}{19157}Let me in.
+{19160}{19236}The air will do her good.|She was very pale.
+{19431}{19454}Alright, hit it.
+{19464}{19507}Hold it. Ready?
+{19510}{19552}Good. One more, please.
+{19554}{19602}Alright. Hit it.
+{19605}{19630}Hold it. Ready?
+{19655}{19715}Very good, Marion.|One more, please. Last one.
+{19718}{19746}Alright, here we go.
+{19749}{19783}Hit it.
+{19786}{19827}Hold it. Ready.
+{19830}{19891}OK, that's it. That ought to do.
+{20311}{20368}- Quite through?|- Thank you. You've been wonderful.
+{20371}{20422}We'll mention the shop|in the magazine.
+{20425}{20455}Don't you dare!
+{20458}{20500}Taxi!
+{20551}{20602}Oh, no!
+{20689}{20721}Hello there.
+{20724}{20773}I stayed to help you|put these back.
+{20776}{20831}I didn't realise we made such a mess.
+{20834}{20892}Which shelf for materialism?
+{20895}{20947}Just hand them to me.
+{20977}{21028}Oh, no.
+{21100}{21144}You should be ashamed of yourself.
+{21146}{21190}We don't usually barge in that way.
+{21193}{21263}I mean a man of your ability|wasting his time
+{21266}{21332}photographing silly dresses|on silly women.
+{21354}{21443}Most people think they're|beautiful dresses on beautiful women.
+{21446}{21497}At most, a synthetic beauty.
+{21522}{21564}Trees are beautiful.
+{21612}{21665}Why don't you photograph trees?
+{21668}{21740}I do what I do for a living.|It has to do with supply and demand.
+{21743}{21822}You'd be amazed how small|the demand is for pictures of trees.
+{21825}{21878}My work is pleasant,|the pay is excellent,
+{21881}{21925}and I get a trip to Paris every year.
+{21928}{21962}I certainly envy you that.
+{21965}{22030}I'd be in Paris now|if I could afford it.
+{22098}{22126}You'd have a ball.
+{22129}{22186}You'd go to a party every night,|drink champagne,
+{22189}{22268}swim in perfume, and a new love|affair every hour on the hour.
+{22271}{22358}If I went to Paris, it would be|to go to Emile Flostre's lectures.
+{22362}{22407}Who goes to Paris for lectures?
+{22410}{22477}Professor Flostre|is the greatest living philosopher,
+{22480}{22535}and father of empathicalism.
+{22538}{22599}Oh? What's empathicalism?
+{22616}{22723}The most sensible approach to|true understanding and peace of mind.
+{22726}{22761}Sounds great, but what is it?
+{22764}{22804}It's based on empathy.
+{22808}{22861}Do you know|what the word "empathy" means?
+{22864}{22931}No, I'll have to have|the beginner's course on that one.
+{22934}{22991}Empathy.|Is it something like sympathy?
+{22995}{23038}Oh, it goes beyond sympathy.
+{23042}{23104}Sympathy|is to understand what someone feels.
+{23107}{23160}Empathy|is to project your imagination
+{23163}{23256}so that you actually feel|what the other person is feeling.
+{23259}{23324}You put yourself|in the other person's place.
+{23327}{23379}Do I make myself clear?
+{23613}{23672}- Why did you do that?|- Empathy.
+{23675}{23766}I put myself in your place and|I felt that you wanted to be kissed.
+{23815}{23865}You put yourself in the wrong place.
+{23868}{23951}I have no desire to be kissed|by you, or anyone else.
+{23955}{24040}Don't be silly. Everybody wants|to be kissed, even philosophers.
+{24072}{24144}I'm sorry, Mr Avery, we don't stock|what you're looking for.
+{24147}{24176}I'll let you out.
+{24179}{24254}Don't bother. I'll throw myself out.
+{24342}{24365}Goodbye.
+{30440}{30485}What do you think?
+{30488}{30543}Good models.|What have you in mind?
+{30546}{30590}A fantastic idea.
+{30593}{30649}It staggers me|nobody's thought of it before.
+{30652}{30714}I'm going to select a girl|to be the Quality Woman.
+{30717}{30799}This girl will represent everything|the magazine stands for.
+{30802}{30883}It's a great gimmick. Any|of these models would be alright.
+{30886}{30976}She's got to be more than alright.|She's got to have pizzazz.
+{30979}{31067}A collection will be designed for her|by the greatest couturier in Paris.
+{31071}{31126}- Paul Duval?|- Yes, Paul Duval.
+{31129}{31227}And he's going to let us photograph|the collection before the opening.
+{31230}{31284}We'll scoop every other magazine.
+{31287}{31338}- Staggers you, doesn't it?|- I can't believe it.
+{31341}{31435}He would be barred|from all the other fashion magazines.
+{31438}{31527}Nonsense. If the project comes off,|we'll all be heroes.
+{31530}{31628}Wait till you see what I've got.|The girl. The Quality Woman.
+{31631}{31657}Oh, Marion's...
+{31660}{31730}Forget her. This is the other girl|I'm talking about.
+{31733}{31777}That thing from the book shop?
+{31780}{31839}Maggie, she's new.
+{31850}{31881}She's fresh.
+{31885}{31921}You've gone out of your mind.
+{31924}{31996}One can't deny that she is unusual.|Who is she?
+{31999}{32086}Don't even ask. The thought of her|makes me shudder. Dreadful girl.
+{32089}{32131}If this is some sort ofjoke...
+{32134}{32214}It's no joke. If we do her over|and fix her up, she'd be great.
+{32217}{32246}She'd devour us all.
+{32249}{32299}- Come on, Maggie.|- Well, look at her.
+{32326}{32371}I think her face is perfectly funny.
+{32374}{32446}The Quality Woman must have grace,|elegance and pizzazz.
+{32449}{32510}This is the first time|I've seen you lack imagination.
+{32513}{32592}Every girl in Quality|has grace, elegance and pizzazz.
+{32595}{32672}What about a girl with character,|spirit and intelligence?
+{32675}{32726}That would be novel|in a fashion magazine.
+{32729}{32774}Sir, I owe you a drink.
+{32777}{32821}Can you make me some enlargements?
+{32824}{32863}- Yes.|- Use our darkroom.
+{32866}{32933}- Let me study the possibilities.|- Now you are talking.
+{32936}{33005}- I'm not promising anything.|- You don't have to.
+{33031}{33108}Runs around here|like he owns the magazine.
+{33110}{33168}Lettie, remember that creature|in the book shop?
+{33171}{33210}Get her up here. Order books.
+{33213}{33288}- A large order, so she can't refuse.|- $50 worth?
+{33291}{33349}Yes, $50 worth if necessary.
+{33352}{33452}$50 to get her up here. We'll have to|drug her to get her to Paris.
+{33648}{33709}Miss Prescott, please.
+{33712}{33800}- Lettie, you'd better come out here.|- I've got the books she ordered.
+{33817}{33893}Miss Prescott's secretary|will deal with you.
+{33908}{33974}Oh, it's you. Well, come on in.
+{33990}{34017}Come on.
+{34152}{34186}The books are here.
+{34297}{34324}Come in.
+{34506}{34605}That'll be $52 and 75 cents,|and $1.20 for the taxi.
+{34609}{34651}$53.95.
+{34654}{34695}Drop the books.
+{34698}{34734}Come on, drop the books.
+{34737}{34789}- On the floor?|- Yes, drop them.
+{34858}{34898}Straighten up, shoulders back.
+{34901}{34994}If you girls only knew|how important posture is.
+{34997}{35057}I didn't come here|to enrol in a military school.
+{35060}{35124}All I want is $53.95.
+{35127}{35167}The Modigliani is $12.50,
+{35170}{35246}and the Braque and Hieronymus Bosch|come to $22.75.
+{35249}{35298}$7 for the postimpressionists
+{35301}{35368}and $10.50 for The Egyptians -|Fourth to Seventh Dynasties
+{35371}{35467}make it a total of $52.75,|and there's $1.20 for the taxi.
+{35470}{35525}- Talks incessantly.|- The body's good.
+{35528}{35589}It'll be better|when we get through with it.
+{35592}{35669}- Through with what?|- She might do.
+{35672}{35705}Might do what?
+{35726}{35763}The bones are good.
+{35766}{35849}Suppose we leave my bones alone|and give me my $53.95?
+{35852}{35896}The eyebrows up, a light powder.
+{35899}{35971}I want a little rouge here.|She needs a marvellous mouth.
+{35974}{36031}The hair is awful. It must come off.
+{36035}{36094}Would you mind telling me|what all this is about?
+{36105}{36191}We may as well get started. Babs,|get that dreadful thing off of her.
+{36194}{36256}Now, wait a minute. Just a minute.
+{36259}{36301}Don't! Stop!
+{36316}{36393}This is my second and last encounter|with you lunatics.
+{36396}{36453}You just keep your hands off me,|all of you.
+{36468}{36547}I make a delivery and find myself|being pillaged and plundered.
+{36551}{36624}Well, I'll have no more of it.|I don't want my hair cut.
+{36627}{36704}I don't want my eyebrows up or down.|I want them where they are.
+{36707}{36816}And I see no functional advantage|in a marvellous mouth.
+{36819}{36887}I'm leaving now, and if anyone|makes a move to stop me
+{36890}{36956}there'll be plenty of hair cut,|and it won't be mine.
+{37033}{37062}Bring her back, girls, alive!
+{37224}{37256}Hurry up.
+{37332}{37379}Hurry. Over here.
+{37546}{37607}Hey,|didn't you see that light outside?
+{37628}{37708}In desperation, one does not examine|one's avenue of escape.
+{37711}{37746}Oh, it's you.
+{37807}{37857}I'm sorry if I spoiled a print.
+{37860}{37948}That's alright.|What's all the desperation about?
+{37951}{37990}Those people.
+{37993}{38059}They don't care about|anyone's feelings.
+{38076}{38144}Pulling my clothes|and cutting my hair.
+{38147}{38216}Is that girl in there?
+{38219}{38264}Don't give me away.
+{38267}{38318}Maybe you should give them|a chance...
+{38321}{38370}There was no one here when I came in.
+{38373}{38420}If you see her, hang on to her.
+{38464}{38496}I'll do that.
+{38536}{38635}I'm afraid it's all my fault.|I thought you'd make a good model.
+{38660}{38692}This is your idea?
+{38695}{38739}Yeah, I'm the one you sue.
+{38753}{38800}Oh, how could I be a model?
+{38822}{38901}I have no illusions about my looks.|I think my face is funny.
+{38904}{38940}That's what Maggie said.
+{38943}{38988}I hate to admit it,|but she's right.
+{38991}{39075}What you call funny,|I call interesting.
+{39131}{39195}It's too ridiculous|even to think about.
+{39198}{39283}- I couldn't do it.|- Let me be the judge of that.
+{39298}{39389}I wouldn't take you to Paris|if I didn't think you'd work out.
+{39392}{39465}- Paris?|- Yeah. Look at it this way.
+{39468}{39519}Modelling|may not be as bad as you think.
+{39523}{39619}If it is, you'll be in Paris.|You can see your Professor Whosis.
+{39622}{39660}- Flostre?|- Yeah.
+{39663}{39719}You can talk to him|and go to his lectures.
+{39722}{39769}That way it won't be a total loss.
+{39791}{39833}A means to an end.
+{39836}{39914}Or a means to a beginning,|according to how it works out.
+{39917}{39944}Now, let's see.
+{39984}{40019}There we are.
+{40022}{40091}- Oh, no.|- What's the matter?
+{40094}{40170}How can you possibly|make a model out of that?
+{40173}{40206}You can't be serious.
+{40209}{40261}When I'm done, you'll look like...
+{40264}{40371}What do you call beautiful?|A tree. You'll look like a tree.
+{45139}{45222}Ladies, feast your eyes|on our Quality Woman.
+{45225}{45259}Marvellous!
+{45295}{45354}I'm sorry about the trouble.|I didn't realise.
+{45357}{45449}My dear, let me do the apologising.|I behaved abominably.
+{45452}{45511}She's agreed to go to Paris.|She can hardly wait.
+{45514}{45537}Marvellous!
+{45540}{45630}This is not a loss of integrity.|It is a means to an end, and...
+{45634}{45694}There's no time for talking.|Tell us on the plane.
+{45697}{45785}Alright, girls, we've got to|get cracking. To work and to Paris.
+{47081}{47162}- Would you like a tour of Paris?|- No, we're not tourists.
+{47165}{47217}Do we look like people|who gape all day?
+{47220}{47279}They can't understand anyone|coming here to work.
+{47282}{47355}We should all go straight to|our hotels and get some rest.
+{47358}{47410}- I am exhausted.|- I know how you feel.
+{47413}{47471}I'm so tired it's an effort for me|to say I'm tired.
+{47474}{47536}Goodbye. I'll be in touch.
+{54581}{54623}Well, how was that?
+{54781}{54880}Duval! I can't hear myself think,|and I'm trying to think in French.
+{54883}{54939}- Maggie!|- Ssh! I'm calling again.
+{54942}{55000}I shouldn't design|a collection for you.
+{55003}{55087}I am jeopardising my position|with Harper's Bazaar and Vogue,
+{55090}{55131}all for a girl who does not appear.
+{55134}{55253}You're too important forjeopardy.|Relax. She will be here without fail.
+{55256}{55337}You said she would be here at ten|this morning. It is now past five.
+{55340}{55394}- She's not at the hotel.|- Forget about her.
+{55397}{55477}We've started the campaign.|There isn't time to get someone else.
+{55480}{55504}Well, where is she?
+{55507}{55586}Maybe at the top of the Eiffel Tower,|or the bottom of the Seine.
+{55589}{55655}Maybe she's in a traffic jam.|How should I know?
+{55826}{55896}I'm throwing a shindig|to christen the Quality Woman.
+{55899}{55958}Leave it to Dick to find|a delicatessen in Paris.
+{55962}{56032}Imported all the way|from Napa Valley, California.
+{56035}{56062}Melons from Florida.
+{56065}{56137}About the guest of honour.|Where is she? How does she look?
+{56140}{56191}If she's here, she looks invisible.
+{56194}{56233}- She didn't show?|- She did not.
+{56236}{56295}These gentlemen are waiting|to do her face, hair.
+{56298}{56355}Duval needs measurements.|Where is she?
+{56358}{56424}I wouldn't like to swear in court,|but I have an idea.
+{56427}{56486}Do keep it to yourself!
+{56489}{56566}I'll have her here|tomorrow morning at ten without fail.
+{56570}{56615}In the meantime, be my guests.
+{56681}{56704}Strike.
+{57314}{57356}This must be the place.
+{57669}{57696}Thank you.
+{57736}{57804}Monsieur, Gigi would like to dance.
+{57807}{57852}- Who's Gigi?|- I am Gigi.
+{57855}{57943}Some other time. I just stopped by|to pick up the wife and kids.
+{57946}{58040}All that is delicious|is not nutritious.
+{58046}{58092}Avaricious, av...
+{58095}{58146}I feel a hostile vibration.
+{58149}{58186}That'll be me. Sorry.
+{58345}{58379}Has he been that way long?
+{58382}{58449}Three hours.|It is the ultimate in concentration.
+{58452}{58492}Feels so good when you stop.
+{58533}{58591}I have no doubt|that in less than ten years,
+{58594}{58711}people everywhere will know that|only empathicalism can bring peace.
+{58714}{58794}Peace through understanding|is the only real...
+{58819}{58881}Well, hello. How are you?
+{58884}{58929}Just fine, thank you.|How are you?
+{58932}{58970}How long have you been in Paris?
+{58973}{59026}This is Mr Avery.|These are my friends.
+{59030}{59076}How do you do, boys?
+{59079}{59160}Would you mind if I had|my own conversation with this lady?
+{59163}{59236}- They don't understand English.|- You were talking English.
+{59239}{59325}It's hard to explain,|but it's all part of empathicalism.
+{59328}{59394}We don't have to communicate|with words.
+{59397}{59486}They understand me through the way|I feel, and the tone of my voice.
+{59489}{59570}- Sort of like a dog.|- Obviously, you don't understand.
+{59573}{59608}Who's buying the wine?
+{59611}{59666}- I am.|- I understand more than you think.
+{59669}{59750}- If you're saying that the wine...|- Let me show you something.
+{59798}{59886}Gentlemen, may I tell you|that you look like a mess of worms?
+{59889}{59977}And that you not only look like,|but you are, a mess of worms.
+{59980}{60035}I'll bet you've been here|all these years
+{60038}{60105}because if you left,|you'd be picked up for vagrancy.
+{60108}{60167}- Bravo.|- Your defence rests.
+{60170}{60219}This isn't funny.|You don't belong here.
+{60222}{60285}Neither do you,|which brings us to why I'm here.
+{60288}{60329}Monsieur, you dance with Mimi?
+{60332}{60388}No, thanks, I'm busy.|Didn't Gigi tell you?
+{60391}{60470}That's very rude,|refusing to dance with Mimi.
+{60473}{60540}Where I come from,|the man asks the girl to dance.
+{60543}{60590}You must come from the Stone Age.
+{60593}{60696}We think freely here. If a girl wants|to dance with a man, she asks him.
+{60699}{60780}We're not inhibited by|outmoded social conventions.
+{60784}{60864}I can see that.|Do you ask men to dance with you?
+{60880}{60918}Isn't it time you realised
+{60921}{61020}that dancing is nothing more than|a form of expression or release?
+{61023}{61099}There's no need to be formal|or cute about it.
+{61102}{61202}As a matter of fact, I rather feel|like expressing myself now.
+{61205}{61254}And I could certainly use a release.
+{66330}{66399}You certainly made friends|and influenced people.
+{66402}{66454}They're empathicalists.
+{66457}{66564}You talk a lot about empathy.|Ever do anything about it yourself?
+{66567}{66602}I don't know what you mean.
+{66605}{66695}- Why not throw some empathy my way?|- I still don't know what you mean.
+{66698}{66757}How do you think I feel|when you don't show up?
+{66760}{66790}I'm responsible for you.
+{66793}{66882}An empathicalist should feel me|asking for unemployment insurance.
+{66885}{66921}Show up where?
+{66924}{67015}They've been waiting for you|at Duval's all day.
+{67018}{67085}I had no idea. Nobody told me.
+{67088}{67154}We've been calling you|on the telephone for hours.
+{67199}{67308}I've been at the cafe all day.|I'm terribly sorry.
+{67311}{67384}I don't want to sound like|the personnel department,
+{67387}{67464}but you ought to get to bed early.|The camera picks up everything.
+{67467}{67537}I don't want to spend my life|retouching your pictures.
+{67540}{67630}When we're done, you can spend|all your time making small talk.
+{67633}{67730}Small talk? I suppose you think|the neckline of a dress
+{67733}{67801}makes for world-shaking conversation?
+{67804}{67877}Anything you don't understand,|you call small talk.
+{67880}{67949}- What do you think of Flostre?|- Don't change the subject.
+{67952}{68018}- It's the same subject.|- I haven't met Flostre.
+{68021}{68102}You haven't? By now|I thought you two'd be buddies.
+{68105}{68200}You don't find Flostre in cafes,|except on special occasions.
+{68203}{68281}Not everyone interested in|empathicalism meets him,
+{68284}{68351}any more than every American|meets the President.
+{68354}{68431}An invitation to Flostre's home|is a great honour,
+{68434}{68490}and as hard to get|as an invitation to...
+{68493}{68533}The White House.
+{68536}{68600}I don't think jokes about Flostre|are funny.
+{68603}{68681}No more jokes. But let's be friendly.|We have to work together.
+{68684}{68783}You don't have to be friendly|to work together. Acquainted will do.
+{68786}{68838}Am I supposed to|go over to Duval's now?
+{68841}{68883}I said you'd be there at 10:30am.
+{68887}{68930}- I'll be there.|- Promise?
+{68933}{68975}I said I'd be there, and I will.
+{68978}{69039}- Alright.|- This is where I get off.
+{69050}{69114}Wait a minute. Don't go away mad.
+{69117}{69212}Can't we walk and get friendly,|or better acquainted, or something?
+{69215}{69271}No, thanks. I've got to go to bed.
+{69274}{69366}I don't want you spending|your life retouching my pictures.
+{69369}{69409}You are mad, aren't you?
+{69455}{69497}No, I'm not mad, l...
+{69542}{69612}I'm hurt, and disappointed, and...
+{69646}{69674}..and mad.
+{76576}{76625}What are they doing?|They've been hours.
+{76628}{76675}There was a lot to be done.
+{76707}{76778}- They don't look happy.|- They don't look unhappy.
+{76823}{76871}I can't tell. Do they look pleased?
+{76874}{76942}- They don't look displeased.|- Everyone.
+{76945}{76998}- The grand finale.|- I'm getting nervous.
+{77001}{77052}- You should.|- Sit down.
+{77056}{77184}Friends, you saw enter here a waif,|a gamin, a lowly caterpillar.
+{77204}{77289}We open the cocoon but|it is not a butterfly that emerges.
+{77292}{77405}- It's not?|- No, it is a bird of paradise.
+{77431}{77453}Lights!
+{77506}{77529}Curtain!
+{77997}{78025}Oh...
+{78639}{78725}- Beautiful! I don't believe it.|- Maggie, what did I tell you?
+{78728}{78792}You look absolutely fabulous.|How does it feel?
+{78795}{78844}It feels wonderful, but it's not me.
+{78847}{78905}The hair, the dress. It's perfection.
+{78908}{78969}You see how much we accomplish|when you appear?
+{78972}{79072}Try to stay with us for a while.|Duval shows the collection on Friday.
+{79075}{79139}The night before,|we'll introduce you to the press.
+{79142}{79208}It is your opportunity.|It will be your evening.
+{79212}{79261}- You will be there?|- Yes, of course.
+{79264}{79322}Dick, that gives you a week|to photograph her.
+{79325}{79398}I want marvellous pictures.|Give me a lot of pizzazz.
+{79401}{79487}Take her, and whatever you do,|don't let her out of your sight.
+{79506}{79563}Do what I tell you.|Don't worry about it.
+{79566}{79662}Here, hold these balloons high|in the air, and when I say "run",
+{79665}{79742}run as fast as you can|and don't let the balloons go.
+{79745}{79805}Run as fast as I can|and don't let the balloons go.
+{79809}{79862}Right. Now, ready?
+{79865}{79934}Head up a little. You're so happy.
+{79937}{79973}Alright, run!
+{79976}{80003}Run!
+{80007}{80050}What? Oh, why did I ever...
+{80066}{80123}- What's wrong?|- I don't know which way to go.
+{80126}{80160}That way.
+{80163}{80235}I'm sorry, I'm nervous.|I've never done anything like this.
+{80238}{80327}There's nothing to be nervous about.|You're in Paris, the Tuileries.
+{80330}{80420}You've got balloons. There's|a sudden shower. You're very happy.
+{80423}{80485}- Why am I so happy?|- Because I say you are.
+{80523}{80594}That's all you have to know.|You're happy. Now, run!
+{80623}{80651}Great. That's great.
+{80654}{80681}Now, stop!
+{80705}{80732}Wonderful!
+{80930}{80975}Now, today you're not happy.
+{80978}{81035}- I'm hurt and...|- Right, a creature of tragedy.
+{81039}{81109}Heartbroken, suffering.|You're Anna Karenina.
+{81122}{81164}Shall I throw myself under the train?
+{81167}{81268}We'll see. For now, just wonderful,|noble self-sacrifice.
+{81276}{81333}Your lover|has just kissed you goodbye.
+{81413}{81477}You may never know that kiss again,|or love again.
+{81480}{81533}Marcel, put some tears in her eyes.
+{81601}{81643}There are tears in her eyes.
+{81646}{81711}Good. You're not only a model,|you're an actress.
+{81714}{81843}Jo, give me the works.|Heartbreak, longing, tragedy.
+{81846}{81883}Wet your lips.
+{81904}{81958}Good. Alright. Now, la steam.
+{81961}{81984}La steam!
+{81987}{82042}That's great. Just like the movie.
+{82045}{82088}Poor Anna Karenina.
+{82091}{82127}No, not too much steam.
+{82130}{82224}Cut down the steam.|That's wonderful. That's it.
+{82295}{82396}Good. Now give her some flowers.|Flowers. Arms full.
+{82398}{82467}Alright. More!
+{82476}{82535}Alright, Jo, it's spring.|You're in love.
+{82538}{82607}Now, turn around. Fabulous!
+{82944}{82994}You're walking out of the opera,
+{82997}{83065}Ieaving to the passionate|music of Tristan Undlsolde.
+{83068}{83121}- You're very unhappy.|- What happened now?
+{83124}{83172}A rendezvous at the opera.|Two seats.
+{83175}{83221}He didn't show up. You're furious.
+{83224}{83324}When I say go, walk down with fire|in your eyes and murder on your mind.
+{83327}{83354}Wet your lips.
+{83364}{83452}You're lsolde. You're a queen.|Now, go!
+{83481}{83540}You're furious at Tristan.
+{83543}{83580}That's great.
+{83895}{83945}Today,|you're just a simple little girl.
+{83948}{84036}You live on the Seine, and you're|trying to catch a fish for lunch.
+{84062}{84132}Jo, fish. I want you|to look like you're fishing.
+{84135}{84199}I'm trying,|but I've never fished before.
+{84202}{84289}That's quite obvious. You might|just as well be flying a kite.
+{84316}{84361}Don't look like such an amateur.
+{84364}{84397}You're just not fishing.
+{84400}{84471}I am, but it's caught on something.
+{84474}{84528}Well, give it a yank.
+{84531}{84578}Pretend you caught a fish.|Pull it out.
+{84613}{84649}Marvellous!
+{84733}{84840}- Here's what I want you to be.|- I know. I'm a princess at a ball.
+{84843}{84941}The bird is Prince Charming,|turned into a bird by a sorcerer.
+{84944}{85003}But we've decided|not to let it spoil the ball
+{85006}{85075}and to go on dancing|as if nothing had happened.
+{85078}{85115}You've outgrown me.
+{85140}{85212}Alright. Now, give him a kiss.
+{85223}{85301}He's your Prince Charming, isn't he?|Well, get happy!
+{85327}{85360}That's a killer.
+{85462}{85517}Alright, Marcel, lights!
+{85592}{85658}Jo, where are you?
+{85682}{85744}Tell me when you're ready. Say "go".
+{85747}{85799}I'm ready. What are you gonna do?
+{85802}{85880}Never mind what I'm going to do.|Just say "go".
+{85897}{85928}Alright. Go!
+{86008}{86081}Holy Moses! You look fabulous!
+{86084}{86112}Look, stop.
+{86130}{86156}Stop!
+{86159}{86256}- I can't stop. Take the picture.|- Stop!
+{86260}{86350}I don't want to stop. I like it.|Take the picture.
+{86828}{86910}This is your wedding day,|the happiest day of your life.
+{86913}{86989}Bells are ringing, flowers blooming,|angels singing.
+{86992}{87096}The man you love more than anyone|is inside the church waiting for you.
+{87126}{87164}What's the matter?
+{87182}{87258}I just feel so dishonest|in this wedding dress.
+{87261}{87360}It's not the happiest day of my life.|No one's waiting for me anywhere.
+{87363}{87458}But you weren't Anna Karenina.|The bird wasn't Prince Charming.
+{87461}{87515}- Please, Dick.|- I don't understand.
+{87518}{87555}Yes, I know.
+{87729}{87777}But, Padre, we're not here to marry.
+{87780}{87866}- Such a beautiful bride.|- This is not my dress.
+{87869}{87908}We're here to take pictures.
+{88007}{88082}I'm sorry. Perhaps we should've|asked your permission first.
+{88085}{88154}No wedding?
+{88475}{88552}I'm sorry. I don't know|what's the matter with me.
+{88555}{88637}Forget it and relax.|We've been working too hard.
+{88640}{88697}I suppose we'll be going home soon?
+{88700}{88743}That's it. You're homesick.
+{88746}{88839}Well, just this last picture,|then you'll be through.
+{88842}{88914}- And then what happens?|- We go home.
+{88930}{88954}And then?
+{88974}{89006}What do you mean?
+{89009}{89050}Will I see you any more?
+{89053}{89130}And how! lf you model,|I can get you bookings.
+{89133}{89212}- We'd be working together every day.|- I'll model.
+{89215}{89260}Good. We'll put you to work.
+{89263}{89344}Stand here, please.|There's a good place. Fine.
+{89423}{89446}Lovely.
+{89449}{89517}Now, tip your head just a little bit.
+{89540}{89594}Good. A little smile.
+{89730}{89754}Yes?
+{89775}{89812}Something is wrong.
+{89834}{89873}No. Why?
+{89876}{89937}You're the saddest bride|I've ever seen.
+{89940}{89992}You look as if you've been jilted.
+{89995}{90043}This is your wedding day.
+{90046}{90137}The day you've dreamt of.|You're marrying the man you love.
+{90140}{90185}The man who loves you.
+{90209}{90236}He's the only...
+{90262}{90298}And you're...
+{90499}{90572}Dick, I thought|it would never happen.
+{90607}{90685}I never want to go home.|I love Paris!
+{90688}{90784}I love these clothes and|the little church. And I love you.
+{90868}{90915}What did you say?
+{90918}{90967}I love Paris.
+{90970}{91012}That's not what I heard.
+{91076}{91109}My, my...!
+{91174}{91215}Well, what do you know!
+{97840}{97896}Armande, let me see|a breeze in the trees.
+{97899}{97965}Not too much.|I don't want a cyclone.
+{97968}{98002}Fountains.
+{98044}{98112}It's thrilling!|It makes me cry for the Carolines.
+{98115}{98174}The correspondent from Pakistan|has accepted.
+{98177}{98246}The correspondent from Madrid|will be able to make it.
+{98249}{98319}And the man from lstanbul|will be at the presentation.
+{98322}{98367}Good. Now, where is Jo?
+{98383}{98408}Here she is.
+{98411}{98474}Thank heavens.|I thought you'd stand us up again.
+{98477}{98539}- How did the wedding pictures go?|- Wonderfully.
+{98542}{98585}He is a marvellous photographer.
+{98588}{98682}All you do is sit there.|I make my speech to the press,
+{98685}{98752}the curtains will open|and you dazzle 'em!
+{98755}{98808}- Give 'em the old pizzazz.|- I'll try.
+{98811}{98865}I will introduce you to them.
+{98868}{98921}Be charming|and answer their questions.
+{98924}{99002}- What sort of questions?|- It's remarkably simple.
+{99005}{99061}I've written editorials on it|for years.
+{99064}{99104}As one lady to another...
+{99107}{99167}We ought to look like|one lady to another.
+{99170}{99229}They'll want to know|who does your hair,
+{99232}{99300}what you eat, drink,|what sheets you sleep on.
+{99302}{99370}You're the authority|on how to be lovely.
+{99373}{99415}What am I going to tell them?
+{99419}{99467}Just listen and repeat after me.
+{102983}{103031}Ah, beautiful!
+{103097}{103134}These are not my clothes.
+{103137}{103220}They were lent for tonight.|I'm being presented to the press.
+{103223}{103292}Your picture will be|in all the newspapers?
+{103295}{103318}Oh, yes.
+{103321}{103391}And they'll ask me|all sorts of questions.
+{103423}{103516}I think perhaps you had better stay|here with me, huh?
+{103540}{103563}Hello!
+{103619}{103676}Don't you remember me?|Jo Stockton?
+{103862}{103931}What were they saying about Flostre?
+{103934}{104031}That he is speaking at the cafe|and that they are late.
+{104334}{104385}Mr Avery will be by in five minutes.
+{104388}{104446}Ask him to pick me up at the cafe.
+{105326}{105392}Je suis... terribly sorry.
+{105395}{105454}- I...|- Quite alright, mademoiselle.
+{105458}{105485}You're quite welcome.
+{105739}{105775}Now, mademoiselle.
+{105778}{105847}I can't believe it.|I thought you'd be old.
+{105850}{105912}Well, I mean, a philosopher|and professor.
+{105915}{105984}It all suggests age.|I mean, maturity.
+{105987}{106033}I'm afraid I've disappointed you.
+{106036}{106141}No. There's no reason why someone|brilliant shouldn't be young.
+{106166}{106229}I find myself|at an awkward disadvantage.
+{106263}{106310}You know who I am.
+{106332}{106432}But except that you are|very charming, I don't know you.
+{106435}{106523}I'm so excited about meeting you,|I forgot to introduce myself.
+{106526}{106600}If only you knew how anxious I am|to talk to you.
+{106603}{106668}I came from New York|just to see you.
+{106671}{106762}You couldn't have a more loyal|disciple of empathicalism than l.
+{106765}{106865}- Than whom?|- I'm sorry. I'm Jo Stockton.
+{106885}{106954}I'm enchanted,... Miss Stockton.
+{106998}{107104}And since you've come such a long way|to talk with me,
+{107107}{107164}by all means, let us talk.
+{107305}{107363}There's so much|you can teach us.
+{107366}{107412}I may go next year.
+{107415}{107496}You must see Greenwich Village.|It's our Left Bank.
+{107499}{107575}People there think, and do things.|Useful things.
+{107578}{107647}- Do you live in Greenwich Village?|- Of course.
+{107650}{107746}Then I will come. Perhaps we can do|useful things together.
+{107749}{107828}I'm sure that in all America|there's no empathicalist
+{107831}{107869}as charming as you.
+{107871}{107925}Well, I hate to throw|a wet blanket...
+{107928}{107996}Darling, guess who this is.|You'll never guess!
+{107999}{108060}- Your brother?|- Professor Flostre.
+{108063}{108169}- This is Dick Avery.|- Professor? I thought you'd be old.
+{108172}{108243}- So did l. Aren't you surprised?|- I'm overcome.
+{108246}{108334}For you, my dear,|I promise never to grow old.
+{108337}{108392}- Come on, Jo.|- What's the matter?
+{108395}{108436}We've got to get to Duval's.
+{108439}{108505}Must you go?|I was just beginning to know you.
+{108508}{108582}Couldn't I stay?|The professor wants to talk to me.
+{108585}{108666}- You've heard it all before.|- Have you lost your mind?
+{108669}{108737}- We'll talk about that later.|- What are you doing?
+{108740}{108809}I've never been so humiliated|in all my life!
+{108812}{108886}What's got into you?|Have you any idea...?
+{108975}{109023}How could you be so rude?
+{109026}{109091}Embarrassing me|in front of Professor Flostre!
+{109094}{109146}What am I going to tell him?
+{109149}{109247}You're not gonna tell him anything.|You'll never see him again.
+{109250}{109322}- Not going to see him again?|- That's what I said.
+{109325}{109374}Now, just a moment...
+{109377}{109456}I went through all this nonsense|to meet this man.
+{109459}{109496}So I could talk to him.
+{109538}{109624}I worship everything he stands for.|The way he thinks.
+{109627}{109692}You might as well tell me|never to eat again.
+{109730}{109785}The Herald Tribune has brought|a correspondent from Sweden.
+{109788}{109839}- The more the merrier.|- They are here.
+{109842}{109901}Get them quiet, Duval.|I'll be back.
+{109904}{109996}When a man looks at a woman|the way Flostre looks at you...
+{110123}{110202}If you weren't so serious,|this would be terribly funny.
+{110205}{110270}I'll check the lights,|then I make my speech.
+{110273}{110305}Everybody, ready!
+{110307}{110351}Flostre may be the quiz kid,
+{110354}{110420}the greatest philosopher|since Aristotle.
+{110423}{110503}But he's also a man.|He's more man than philosopher!
+{110506}{110575}His interest in me|is anything but intellectual?
+{110578}{110635}He's as interested in your intellect|as I am.
+{110668}{110739}Ladies and gentlemen of the press,|my friends.
+{110742}{110831}I have asked you here to meet|the woman selected to represent
+{110834}{110929}the most discriminating|publication in the world, Quality.
+{110932}{110987}Let's forget it|and get this over with.
+{110990}{111016}Forget it?
+{111019}{111096}You attack Flostre|and the things I believe in.
+{111099}{111167}We're fortunate to have found out|these things now.
+{111170}{111226}I'm certain|you'll not be disappointed.
+{111229}{111302}She is a rare creature...|chosen from hundreds
+{111305}{111387}for her appearance, her grace,|her poise,...
+{111390}{111456}and her ineffable charm.
+{111459}{111516}We can never|reconcile our differences.
+{111519}{111557}They are too elemental.
+{111560}{111633}This is no time|to discuss our differences.
+{111636}{111680}Please, let's get this show on.
+{111683}{111754}Yes, the show!|Our personal lives don't matter!
+{111757}{111844}- Would you please sit down?|- Leave me alone!
+{111937}{112002}May I present the Quality Woman!
+{112746}{112805}What does that one say?
+{112809}{112894}They all say the same thing.|Everyone in Paris is laughing.
+{112897}{112972}- I'm not.|- This is all your fault.
+{112975}{113063}I know. I said things|I shouldn't have. She got upset.
+{113066}{113137}- Just a lovers' quarrel.|- A what?
+{113140}{113208}- You and that girl...|- Why not?
+{113211}{113264}Impossible!|You're in the fashion world.
+{113267}{113329}We're cold, artificial|and without sentiment.
+{113332}{113407}- How can you be in love?|- I'm a black sheep.
+{113410}{113487}What about my collection?|Without her I cannot show it.
+{113490}{113561}- The gowns were sewn on her!|- I'm facing ruin!
+{113564}{113624}She'll show up.|The girl has integrity.
+{113627}{113719}She's filled with virtues.|Only she's not wasting them on us.
+{113722}{113778}I went to the cafe. She isn't there.
+{113781}{113806}So where is she?
+{113809}{113875}She's at her hotel,|but she won't take messages.
+{113878}{113974}So I bribed the desk clerk into|letting me copy her phone messages.
+{114010}{114084}"At 10:15, Dick Avery called."
+{114087}{114146}"At 11:30, Dick Avery called."
+{114178}{114261}"At 12:16, Professor Flostre called."
+{114288}{114349}Lousy, rotten good-for-nothing!
+{114384}{114471}"Having an evening of international|philosophy, poetry,
+{114474}{114540}song and meditation tonight|at my salon. "
+{114543}{114641}"Would be delighted if you would|join us. Emile Flostre."
+{114644}{114693}That's where she'll be tonight.
+{114696}{114746}Not showing my collection.|I'm ruined.
+{114749}{114812}I'll go to Flostre's tonight|and bring her back.
+{114815}{114897}And take someone who isn't|emotionally involved. Like me.
+{114900}{114929}You'll never get in.
+{114932}{115023}Empathicalists have a very firm way|with hostile vibrations.
+{115026}{115092}Let's turn into|a couple of friendly vibrations.
+{115095}{115174}Until we get in. As they say,|if you can't lick 'em, join 'em.
+{115390}{115459}- Do I look grubby enough?|- Yeah. How's the beard?
+{115462}{115510}- Full of pizzazz.|- Come on.
+{115724}{115747}La.
+{115848}{115918}- Florida.|- That's us. De Tallahassee.
+{115957}{116010}- Come on, sugar.|- Alright, darlin'.
+{116166}{116214}I don't know. I just asked.
+{116510}{116582}- What's the matter?|- The song's a bundle of laughs.
+{116729}{116791}She stabbed her lover|because she hated him.
+{116963}{117028}Now that the poor thing is dead...
+{117147}{117203}Now that he's dead, she loves him.
+{117405}{117470}This kid's a little confused.
+{117632}{117670}Now she's gonna get even.
+{117720}{117754}She's gonna kill herself.
+{117928}{117990}You can say that again.
+{117993}{118014}Hey!
+{118143}{118178}Look up the airstay.
+{118245}{118282}We're on the wrong floor.
+{118465}{118513}Oh-oh, the real Barkers.
+{118516}{118555}Now what's this all about?
+{118572}{118673}- They are not from Tallahassee!|- They ain't even from Miami.
+{118676}{118738}I've never seen these people|in Tallahassee,
+{118741}{118816}and I have been in every corner|of Tallahassee.
+{118819}{118903}- Is this some sort of a gag?|- I know who he is!
+{118994}{119055}She's a fashion editor.|Get 'em out!
+{119058}{119121}At once,|or Mr Flostre will hear about this.
+{119124}{119205}Now, wait, we're spiritual singers|on a tour and...
+{119208}{119267}Now the hostile vibrations|have gone...
+{119271}{119319}We are ready for your show.
+{119347}{119432}- Command performance!|- Come on, Mama. We're on.
+{119436}{119482}Let's give 'em the old pizzazz.
+{122675}{122728}Well, Mr Tallahassee, how we doin'?
+{122731}{122828}Why, we's the two most friendly|vibrations you ever seen.
+{122836}{122891}Hey, diddle diddle,|the cat and the fiddle.
+{122894}{122941}The dish ran away with the spoon.
+{123012}{123082}Do you know why|a chicken crosses the road?
+{123085}{123134}No, why does a chicken|cross the road?
+{123137}{123199}- To get to the second floor!|- You is a genius!
+{123202}{123248}Roses are red,|the violets are blue,
+{123251}{123362}the dresses is gotta be showed.|Let's get this show on the road!
+{125349}{125429}Intellectual gratification|is nonexistent.
+{125432}{125534}- Only you can fulfil that potential.|- This is it.
+{125566}{125633}- Flostre, there you are.|- Professor, we need you.
+{125636}{125721}What are you doing here?|You look ridiculous!
+{125725}{125810}We've come to see Flostre. Professor,|Maggie and I need guidance.
+{125813}{125867}We realise what futile lives we lead.
+{125870}{125951}- When did you realise this?|- Today. At about two o'clock.
+{125954}{126023}- Just after lunch.|- Professor, don't believe them.
+{126026}{126086}We want to sit at your feet|and learn.
+{126089}{126152}We sit at your feet,|ignorant, but so willing.
+{126155}{126198}You leave his feet alone.
+{126201}{126255}Professor, they want to make|a fool of you.
+{126258}{126323}- Are you making a fool of him?|- Me?
+{126326}{126412}You're making things difficult.|You don't own empathicalism.
+{126415}{126464}It's in the public domain.
+{126467}{126550}- Why don't you trust these people?|- Because I know them well.
+{126553}{126622}I know what they're here for|and it is not guidance.
+{126625}{126677}Don't listen to her. She is a child.
+{126680}{126724}They came to see me, not you.
+{126727}{126792}To get me over to Duval's|to model their collection.
+{126832}{126910}- I should have known.|- You should've heard what he said.
+{126913}{127004}If we'd come a few minutes later,|you'd have found out for yourself.
+{127007}{127045}You've said enough, Mr Avery.
+{127048}{127118}Not yet. I haven't told you|what a phoney you are.
+{127121}{127205}- Get out of my house.|- I'm not ready to leave.
+{127208}{127259}I think I can change your mind.
+{127262}{127321}Catch!
+{127325}{127366}Oh! Oh, no!
+{127385}{127471}Look what you've done!|Bursting in here like a hoodlum.
+{127474}{127528}- I never touched him.|- Go away!
+{127531}{127595}It's time you woke up|to your responsibilities.
+{127598}{127638}Will you please leave?
+{127641}{127710}Duval can't show his collection|without you.
+{127713}{127772}You can't do this to him,|or to all the others.
+{127775}{127801}Hundreds of people.
+{127806}{127856}I'm not interested in your people.
+{127859}{127961}- Your empathy is a little one-sided.|- Get out!
+{127964}{127989}Alright!
+{128009}{128051}I assume you mean me, too.
+{128070}{128121}On you it looks cute, sugar.
+{128241}{128287}Well, you fixed everything!
+{128290}{128382}If you can't lick 'em, join 'em|and if you can't join 'em, lick 'em!
+{128385}{128443}- Tell Duval I'm sorry.|- Where are you going?
+{128446}{128527}There's a plane to New York|at 10:30pm and I'm on it.
+{128546}{128612}You can't do this to me! Come back!
+{128616}{128720}How dare you leave me in the street|like this! Taxi!
+{128972}{129040}- Have they gone?|- They've gone.
+{129043}{129118}- And you're still here?|- I'm still here.
+{129121}{129166}Are you alright?
+{129169}{129196}Well.
+{129212}{129296}In fact, I feel wonderful.
+{129328}{129383}I can't tell you how sorry I am.
+{129387}{129486}I had no idea they were coming,|or what got into Dick.
+{129489}{129606}My dear, you mustn't assume guilt|for something that was unavoidable.
+{129630}{129669}They've gone.
+{129697}{129789}We're here.|That's all that matters now.
+{129792}{129858}Nice of you to say so,|but it was me...
+{129861}{129924}You have the most penetrating eyes.
+{129927}{129988}I can still see them|when I close mine.
+{129991}{130032}- Professor?|- Call me Emile.
+{130035}{130108}Would there be any value|in my contacting philosophers
+{130111}{130183}in cities like|Omaha and Detroit and...
+{130186}{130249}and acquainting them|with empathicalism?
+{130252}{130329}Your mouth suggests to me|burgundy velvet.
+{130332}{130445}Dr Post, who runs a shop I worked in,|has contacts in several universities.
+{130448}{130489}Please.
+{130553}{130595}Don't say another word.
+{130598}{130669}- But I came here to talk.|- We'll talk.
+{130672}{130749}- Later.|- Then why don't I come back later?
+{130752}{130786}But I need you now.
+{130804}{130883}Professor Flostre, I came to talk|with a philosopher.
+{130886}{130945}You're talking like a man.
+{130948}{131020}But I am a man. And you're a woman.
+{131024}{131079}That's not what I came|to talk about.
+{131082}{131116}My dear.
+{131185}{131256}There is a magical moment|waiting for us.
+{131259}{131349}- Don't come any closer.|- Why are you behaving like this?
+{131353}{131461}- You come from Greenwich Village.|- I'm moving uptown. Yonkers.
+{131464}{131501}But before you move...
+{131822}{131905}I cannot keep them waiting.|I must make an announcement.
+{131908}{131988}- What shall I say?|- Tell them it was all my fault.
+{132265}{132305}Maggie, where's Dick?
+{132308}{132392}You told him to go and he went.|He flies at 10:30pm.
+{132395}{132422}He mustn't!
+{132425}{132476}I knew you would not let us down!
+{132479}{132562}- You must do the collection!|- Later. I've got to get to Dick.
+{132565}{132632}- We are so late already.|- I want to help.
+{132635}{132710}I know how you feel,|even if you think I don't.
+{132714}{132821}- I can put myself in your place.|- Maggie, that's empathy!
+{132824}{132903}That's what you've been talking|about! Why didn't you say?
+{132906}{132982}Get to work. I'll take care|of Dick. Leave it to me!
+{132985}{133052}Lettie, what is the name|of Dick Avery's hotel?
+{133055}{133118}- Le Savoyard.|- Get me the number.
+{133121}{133195}- How long before we can begin?|- We're ready.
+{133293}{133374}We are proud to bring you|a new collection by Paul Duval,
+{133377}{133424}inspired by the Quality Woman,
+{133427}{133530}chosen to represent a great American|fashion magazine, Quality.
+{133533}{133583}We begin with Hors d'Oeuvre.
+{133894}{133970}Hotel Savoyard?|M. DickAvery, s'il vous plait?
+{134128}{134241}- Monsieur, your bill is ready.|- I know. 352,428 francs.
+{134244}{134313}- Merci, monsieur. Come back soon.|- Thank you.
+{134340}{134429}He doesn't answer, madame.|I will give you the desk.
+{134472}{134565}Hello. MonsieurAvery?|He just left.
+{134568}{134627}Well, run out and get him!|It's urgent!
+{134645}{134673}Oui, madame.
+{134746}{134799}I'm so sorry. It was too late.
+{135140}{135232}- Did you get him?|- No. We'll get him at the airport.
+{135235}{135294}- I can't find it!|- How are you spelling it?
+{135297}{135356}- A-U-L-Y.|- Orly. O-R-L-Y.
+{135359}{135417}- You were there!|- I'm just so nervous.
+{135420}{135466}- Are you ready?|- Just about.
+{135533}{135558}I'm ready.
+{135710}{135784}You can board your plane now,|monsieur. Pleasant flight.
+{135787}{135811}Thanks.
+{136051}{136096}Maggie, is there any news?
+{136099}{136194}They promised they'd get my message|to him before he boarded.
+{136247}{136275}It's too late.
+{136278}{136372}The clock must be fast.|He just hasn't got the message yet.
+{136600}{136683}I'm sure he got it.|He didn't want to talk to me.
+{136744}{136803}I don't blame him.|I hurt him too much.
+{136962}{137067}And now, the finale|of the collection. Wedding Day.
+{137333}{137376}What a beautiful bride!
+{137379}{137426}Yes. Pity it isn't her wedding.
+{137841}{137869}Professor!
+{137872}{137914}Keep away from me, you!
+{137917}{137996}If you lay one finger on me,|I will call your embassy.
+{137999}{138082}I want to apologise.|She wasn't worth fighting about.
+{138085}{138148}- Don't tell me I did that!|- You?
+{138151}{138207}You didn't even give me a headache.
+{138210}{138295}She did this to me, with a statue|that cost 200,000 francs.
+{138298}{138377}- She did that?|- I have 18 stitches in my head.
+{138380}{138440}- She gave you 18 stitches?|- And a gashed lip.
+{138443}{138481}And six stitches in my ear.
+{138484}{138556}Professor, I love every broken bone|in your body!
+{138682}{138745}Excuse me, Duval. Where is Jo?
+{138748}{138809}She was magnificent!|You should've seen her!
+{138812}{138879}- Where is she?|- I don't know, she was here...
+{138882}{138930}Lettie! Have you seen Jo?
+{138933}{139000}No, l...|Oh, Dick, she was just great!
+{139003}{139058}Maggie, where's Jo?|Have you seen her?
+{139061}{139109}She was here, but she's disappeared.
+{139112}{139177}- Did she say where she was going?|- I understand now.
+{139180}{139253}She put herself in your place,|so put yourself in her place.
+{139256}{139311}You'll meet each other|in somebody's place.
+{139315}{139382}That's it!|Maggie, you ought to be president.
+{139385}{139417}I thought I was!
+{139442}{139592}Support us and become VIP member |to remove all ads from www.OpenSubtitles.org

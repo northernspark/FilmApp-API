@@ -1,0 +1,1392 @@
+{1}{1}23.976
+{142}{206}[ Seagulls Cty, Ocean Waves Crash ]
+{231}{381}Delicious Vegan Sausages, Cheese|and Burgers - Vegusto.co.uk
+{526}{608}Uno, dos, one, two, tres, cuatro.
+{612}{676}[''Wooly Bully'']
+{728}{809}Hey, wooly bully
+{812}{860}Watch it now, watch it
+{863}{906}Here it comes|Here it comes
+{1009}{1060}Watch it now|He gets you
+{1226}{1295}Matty told Hatty
+{1299}{1382}About a thing she saw
+{1385}{1457}It had two big horns
+{1460}{1504}And a woolyjaw
+{1508}{1581}Wooly bully
+{1584}{1666}Wooly bully|That's right
+{1669}{1743}Wooly bully, wooly bully
+{1746}{1804}Wooly bully
+{1843}{1906}Hatty told Matty
+{1910}{2001}Let's don't take no chance
+{2005}{2074}Let's not be L seven
+{2078}{2121}Come and learn to dance
+{2126}{2194}Wooly bully
+{2198}{2278}Wooly bully
+{2278}{2385}Wooly bully, wooly bully|Wooly bully
+{2396}{2452}Watch it now|Watch it, watch it
+{2503}{2547}Hey
+{2605}{2681}Hey, that's right
+{2715}{2774}Right, right, right
+{2876}{2985}[ Ferry Whistle ]
+{3199}{3298}Hey, wooly bully|Watch it now
+{3325}{3364}Here it comes|Here it comes
+{3368}{3425}[ Indistinct Chatter]
+{3697}{3755}Matty told Hatty
+{3755}{3808}About a thing she saw...
+{3815}{3895}- Freddie!|- I dropped something.
+{3898}{3957}Ralph, talk to him.
+{3960}{4015}Listen to your father.
+{4018}{4089}- From there we can see Cape Cod.|- We were just there!
+{4092}{4157}We could have stayed and saved $ 1 2.00.
+{4161}{4270}Allen, don't you want to see Cape Cod?
+{4274}{4355}You know where we are|if you change your mind.
+{4782}{4830}- Allen!|- [ Alarm Bell, Whistle ]
+{4951}{5000}Oh, my God.!
+{5538}{5594}[ Bell Ringing ]
+{5642}{5686}Thanks a lot. Thanks.
+{5690}{5772}You okay, Allen? Lend me a towel.
+{5775}{5830}Why did you do that?
+{6140}{6195}Come on, son.
+{6552}{6613}[ Ferry Whistle ]
+{6684}{6766}[ Woman Over P.A. System ]|Augie, pick up line four, please.
+{6925}{6984}- Where are my cherries?|- Mr. McCulloch,
+{6987}{7053}they came in, but there was a fog--
+{7058}{7122}If I don't get my cherries in 5 minutes,
+{7127}{7199}you don't get your money|and you starve and you die.
+{7201}{7259}Jerry?
+{7291}{7364}- Where are McCulloch's cherries?|- They're here,
+{7371}{7418}but you gotta take a look.
+{7418}{7485}Ah, Mr. McCulloch, be right back.
+{7497}{7555}Where are my cherries?
+{7602}{7668}Augie, did you grow these under your arms?
+{7672}{7730}Jesus, snails with stems.|Get them outta here!
+{7733}{7786}- George, get them out of here.|- You got it.
+{7789}{7898}Bauer. Thank you. Honey, what's up?
+{7902}{7986}We get a lot of rain and cherries get slime.
+{7990}{8053}-I can't hear ya.|-You agreed to take these off our hands.
+{8058}{8144}- When the hell did I agree to that?|- Not you, your brother.
+{8148}{8192}Ah, all right.
+{8196}{8240}Victoria, I can't hear you.
+{8244}{8299}What I'm doing is important too.
+{8303}{8346}My brother bought your slimy cherries?
+{8351}{8403}Yeah. We were playing poker.
+{8406}{8451}He had two pair. I had a flush.
+{8455}{8529}He had no cash, so we worked this out.
+{8532}{8618}[ Tires Screech ]
+{8622}{8699}[ Car Radio ]
+{8741}{8798}Who put this goddamn fruit here?
+{8802}{8856}I'm all right, if anyone's concerned.
+{8858}{8918}Good morning, Freddie.
+{8921}{8958}Allen! Allen!
+{8962}{9009}A simple ''yes'' or ''no.''
+{9012}{9074}I made it. I'm in Penthouse magazine.
+{9078}{9130}They printed my letter!
+{9133}{9188}Listen, I'm very happy.
+{9191}{9235}I'm in the Forum section.
+{9239}{9294}The story's entitled, ''A Lesbian No More.''
+{9298}{9353}They printed every word.|It's a beautiful story.
+{9356}{9411}I want copies for everybody.
+{9414}{9462}Augie, good to see you!
+{9465}{9509}Great game. We gotta do that more.
+{9513}{9562}- Can we talk?|- Great poker player.
+{9565}{9638}- Cheats like a son of a bitch!|- We have to talk.
+{9641}{9729}- Missing petty cash?|It was the cleaning girl.|- I don't care.
+{9733}{9783}You don't? I admit the whole thing.
+{9786}{9837}I still don't care about it.
+{9839}{9901}I love this guy! Do you hear me?
+{9906}{9949}- Gimme a kiss.|- Oh, Freddie.
+{9954}{10002}Too big to kiss your older brother?
+{10110}{10158}I love this guy's head.
+{10161}{10219}Here's a buck. Wash my car.
+{10219}{10292}Bauer! Where are my--
+{10299}{10343}Your cherries, yes.
+{10347}{10426}Believe me, you won't be|satisfied with what we have.
+{10430}{10506}You're ruined! Everyone's gonna know|you left me dry.
+{10509}{10557}You're finished, a ghost.
+{10560}{10627}- How'd you like bananas at cost?|- Deal!
+{10631}{10695}Set up our friend with bananas at cost.
+{10699}{10772}Allen, wait. I've got to get out early.
+{10775}{10839}Gee, right. Today's the big day.
+{10843}{10897}Ushers have to be early too.
+{10900}{10944}- I'll be there.|- Okay.
+{10988}{11085}[ Woman On P.A.] Will someone|get thoseJonathans off the truck?
+{11130}{11185}Any messages, Mrs. Stimler?
+{11187}{11244}Yes.
+{11309}{11353}What are they?
+{11358}{11453}Huh? Oh,
+{11456}{11533}your father wants you to call him back.
+{11536}{11640}Mrs. Stimler, our father|passed away five years ago.
+{11643}{11717}- Remember?|- Right.
+{11742}{11793}Should I get him for you?
+{11796}{11893}No, no. We'll-- I'll take care of it.
+{11895}{11956}You just get back to work.
+{12127}{12205}- What's with her?|- A little accident over the weekend.
+{12207}{12272}Got hit in the head by some lightning.
+{12298}{12365}It's not funny, Freddie!
+{12370}{12437}I'm sorry. That's not funny.
+{12441}{12513}Besides, she can still do certain things.
+{12516}{12573}Like jump-start a car?
+{12600}{12646}[ Laughing ]|Jump-start a car.!
+{12650}{12705}I'm sorry. I'm sorry.
+{12708}{12790}-What the hell are you doing down here?|-Maybe I went...
+{12794}{12870}- to the ''Club A'' last night.|-Something new for you.
+{12873}{12937}Maybe I met Mr. Buyrite,|owner of Buyrite Markets.
+{12942}{13003}Maybe we had a few drinks.
+{13007}{13085}And maybe,just maybe...
+{13088}{13136}we're his new produce suppliers.
+{13138}{13225}I'm proud of you.|That's great.! Which store?
+{13228}{13314}Not which store, the whole chain.
+{13318}{13395}I hope you are joking with me.
+{13398}{13430}Think big, be big.
+{13434}{13486}He was a colonel. I made up a stoty...
+{13489}{13546}about you being wounded in Nam|and he wants to do business.
+{13550}{13597}He's coming this morning.
+{13600}{13682}Great, Freddie. It's only chaos down here.
+{13686}{13753}- Augie brings me slimy cherries.|-So what?
+{13758}{13843}-Jerty's getting married tomorrow.|- So what?
+{13847}{13898}I was drinking with this bum all night.
+{13901}{13976}- I'm busting my buns.|- East 77 th Street.
+{13978}{14064}- Come on, you can handle this deal.|- Yeah, I'll handle it.
+{14067}{14154}- Your desk looks like a pigsty.|- I have a system.
+{14159}{14212}-[ Buzzer ]|- Phone for you.
+{14214}{14305}Yes? All right. Thank you.
+{14310}{14359}Hi, Victoria. I'm sorry.
+{14362}{14405}I forgot to call you back.
+{14410}{14471}What's the matter?|Your voice sounds funny.
+{14474}{14533}What? Now?
+{14536}{14615}You're moving out of the apartment now?
+{14618}{14685}While we're talking?
+{14689}{14771}Yeah, I know we were going to talk about it.
+{14774}{14861}Victoria, this is a little impulsive.
+{14866}{14933}If we were married you|wouldn't move out like this.
+{14938}{14991}- She might. Sure.|- Get off.
+{14991}{15042}- Was that you?|- Get off the phone!
+{15050}{15110}- I'm so sorry!|- Not you.
+{15113}{15174}Why not tell a guy you're on the phone?
+{15178}{15214}[ Door Closes ]
+{15214}{15281}What do you mean, ''Do I love you?''
+{15320}{15374}Well, I--
+{15377}{15469}Well, we met and--
+{15515}{15580}You moved in, didn't you?
+{15618}{15721}Well, it's-- it's just a very|complicated thing.
+{15725}{15789}Hey, do you love me?
+{15793}{15865}Well, there you go.
+{15957}{16001}There she went.
+{16086}{16130}[ Woman's Voice ]|What a huge wedding.
+{16134}{16179}[ Church Bells ]
+{16255}{16317}Cindy, hi.
+{16348}{16423}- How are you?|- How are you?
+{16426}{16475}Excuse me.
+{16478}{16530}You look so pretty.!
+{16590}{16687}Darn! My flash never works!
+{16690}{16756}Figures. My mother-in-law gave it to me.
+{16792}{16878}- [ Allen ] Get up.!|- What? What?
+{16906}{16963}It was embarrassing when you were 1 0.
+{16966}{17028}If something works for me,|I stick with it!
+{17031}{17068}I've been thinking.
+{17071}{17133}I intend to get more involved with business.
+{17133}{17211}I mean that this time. I know the business.
+{17219}{17288}I was there at the beginning with Dad.
+{17292}{17390}Do we sell fruit and|vegetables or just fruit?
+{17393}{17485}By the time I came home,|she was already gone.
+{17489}{17544}- Victoria left, huh?|- Yeah.
+{17546}{17609}You know why she left me?
+{17613}{17691}- Because I didn't love her.|- That bitch.
+{17718}{17793}Hi. Anywhere but the first three rows.
+{17822}{17873}- Anywhere but the first three rows.|- Hey!
+{17875}{17941}Hi, Freddie. Allen, where's Victoria?
+{17945}{18024}She's sick, and she can't make it.
+{18026}{18089}- I'm sorry.|- Hey!
+{18139}{18217}Can you answer me|why I didn't love her, Freddie?
+{18220}{18264}She had everything.
+{18268}{18330}She was bright, sensitive, beautiful.
+{18334}{18388}- Hey, Allen.!|- Hi.
+{18390}{18513}- Where's Victoria?|- She can't make it because of the flu.
+{18516}{18575}- Give her my love.|- You bet! Sure.
+{18602}{18663}I can't even give her my love!
+{18666}{18750}Something in here is not working.
+{18754}{18813}There are worse organs|not to be working. Ha!
+{18817}{18894}Hi, guys. Bauer, where's your pretty lady?
+{18897}{18941}She's not coming! Okay?
+{18945}{19001}Do you want your money back?
+{19046}{19130}Well, I don't know. Maybe it's for the best.
+{19130}{19206}- Hey, Allen.|- She left me! My life's a shambles.
+{19214}{19261}That's the news. Want the weather?
+{19264}{19322}Anywhere but the first three rows!
+{19368}{19450}Lighten up on the guy.|That's the bride's brother.
+{19454}{19517}Drinking is a matter|of algebraic ratios.
+{19574}{19658}How drunk you get depends on|how much alcohol you consume...
+{19662}{19736}in relation to your total body weight.
+{19738}{19788}It's not that you had too much to drink,
+{19790}{19850}it's that you're too skinny!
+{19854}{19905}- Marceau, more drinks here.|- No.
+{19907}{19997}- Freddie, I don't want to get drunk.|- But you are.
+{20002}{20060}A sober person would have|reached for the pretzels.
+{20064}{20126}- Is he going to be there long?|- I don't know.
+{20130}{20217}- Oh, I'm on the bar.|- You're on the bar.
+{20221}{20268}Come on, off the bar.
+{20271}{20337}This stool is in your way. Let me move it.
+{20341}{20386}Oh, oh, you fell.
+{20434}{20505}That hurt. You're not having a good day.
+{20508}{20576}- Wasn't that a beautiful wedding?|- That was.
+{20580}{20662}It was. It really was.
+{20665}{20738}- The most gorgeous ceremony--|- A lovely...
+{20741}{20785}[ Growls ]
+{20789}{20845}- How ya doing?|- Fine.
+{20848}{20896}The fabulous Freddie Bauer here.
+{20898}{20977}- Where did you get those?|- My grandmother.
+{20980}{21042}- She left them to me.|- She did?
+{21046}{21104}- They're beautiful.|- Thank you.
+{21107}{21145}Hi.
+{21150}{21199}- Hi.|- Hi.
+{21202}{21257}You guys are in love, aren't you?
+{21261}{21309}We just met.
+{21312}{21391}That doesn't matter.|I know about these things.
+{21394}{21445}I can see. I can tell.
+{21447}{21498}You two guys, you're in love.
+{21501}{21556}I think that's beautiful.
+{21559}{21620}Thanks.
+{21694}{21749}I don't live too far.
+{21751}{21832}Let's go to my place for a quiet drink.
+{21835}{21925}Do I expect too much out of life?
+{21929}{21998}My dress! I can't believe this.
+{22002}{22071}- I'm sorry.|- Hey, what are you doing?
+{22075}{22142}Both of you. You're both crazy!
+{22146}{22190}I'm sorry. Look--
+{22194}{22248}I don't ask that much, do I?
+{22250}{22295}I don't ask to be famous, rich,
+{22295}{22386}or play center field for the Yankees.
+{22398}{22461}I just want to meet a woman...
+{22466}{22525}and fall in love, and get married.
+{22529}{22578}And I want to have a kid,
+{22581}{22644}and I want to see him play|a tooth in the school play.
+{22648}{22693}It's not much.
+{22697}{22771}But I'm kidding myself.
+{22774}{22829}It's never going to happen.
+{22832}{22889}I'm going to grow old...
+{22892}{22969}and grow lonely, and I'm gonna die;
+{22972}{23066}and I'll be surrounded|by a bunch of rotten fruit.
+{23096}{23162}- Freddie?|- No kidding!
+{23166}{23204}Freddie?
+{23235}{23308}Allen! I want you to meet|some friends of mine.
+{23310}{23370}This is Tawny, and this is Jill.
+{23373}{23417}- I'm Tawny.|- You're Tawny Tiger!
+{23421}{23481}And this is Jill, a four-letter word.
+{23485}{23529}- My brother, Allen.|- Hi.
+{23533}{23601}- Freddie, can I talk to you?|- Absolutely.
+{23605}{23649}Excuse me.
+{23653}{23708}I'll be right back.|We'll whisper some more.
+{23710}{23766}I've got some whispering for you!
+{23770}{23813}Oh, God. Oh, God. Oh, God.
+{23818}{23885}Pack your bags. We're going to Rio!
+{23889}{23943}They have a timesharing condominium.
+{23946}{24013}We're gonna share some time with them.
+{24018}{24066}No, I'm going to Cape Cod.
+{24069}{24116}What are you talking about?
+{24120}{24163}Why would you go to Cape Cod?
+{24168}{24228}Because I like Cape Cod.
+{24231}{24275}I feel better up there.
+{24279}{24343}I look at the water|and feel closer to something.
+{24347}{24425}- Cape Cod over Rio? Are you all right?|- Yeah.
+{24427}{24508}- Let me drive you up there.|- No, no.
+{24511}{24555}- You got enough money?|- I've got plenty.
+{24559}{24615}- Yeah?|- Thanks.
+{24618}{24662}Can I have some then?
+{24778}{24821}[ Tapping ]
+{24910}{24970}- Where to?|- Cape Cod, Massachusetts.
+{24974}{25026}[ Tires Screech ]
+{25029}{25085}You break that, you pay for it.
+{25089}{25157}Well, I'm sorry. I usually enjoy...
+{25161}{25213}smashing the glass with my face.
+{25215}{25309}That's about 300 miles.|You got the cash?
+{25313}{25375}What is this?
+{25529}{25590}[ Crickets Chirp, Frogs Croak ]
+{25881}{25929}[ Walter ]|Careful with that.
+{25931}{25975}Be careful with that!
+{25979}{26038}What do you think you're loading?
+{26041}{26120}This is delicate scientific equipment.
+{26147}{26244}Hold it. Put it down. You see that?|It says, ''This end up.''
+{26246}{26302}Know what that means? This end up!
+{26306}{26384}Why don't you try holding that end up?
+{26409}{26453}All right, get away!
+{26457}{26545}I'll do it myself. Get away. Give me a hand.
+{26656}{26711}Easy.
+{26714}{26781}- Move that--|- Excuse me.
+{26813}{26878}- Morning.|- Morning.
+{26882}{26926}Ah,
+{26930}{26993}I was dropped off on|the wrong side of the beach.
+{26998}{27056}Could you take me over to the island?
+{27100}{27146}Well, ah, we're not--
+{27150}{27193}We're not going--
+{27198}{27273}We're taking the boat.|We're not going out there!
+{27275}{27358}Have you seen anyone else|along this beach?
+{27361}{27425}No,just me and the moron twins.
+{27430}{27491}We're not twins.
+{27560}{27627}- What is all this stuff?|- I knew it!
+{27631}{27706}Who sent you up here?|Dr. Ross from Chicago?
+{27709}{27759}Who's Dr. Ross from Chicago?
+{27762}{27834}Who's Dr. Ross? You're very good.
+{27834}{27889}I suppose you're some|harmless beachcomber...
+{27900}{27965}who happens to wear a tuxedo!
+{27969}{28031}How dare you try and horn in|on someone else's research!
+{28034}{28078}I'm just a guy--
+{28082}{28137}Walter Kornbluth is not|to be taken advantage of.
+{28141}{28240}Just stay out of my way, sonny.
+{28285}{28329}All right, let's move out!
+{28482}{28569}A guy down the beach|runs people out to the island.
+{28573}{28624}What's the name?
+{28626}{28670}The guy or the island?
+{28700}{28754}I'll find him.
+{28757}{28801}[ Boat Motor]
+{28828}{28905}What's the matter? You look nervous.
+{28907}{28971}Yeah. The truth is, FatJack,
+{28975}{29037}I don't know how to swim.
+{29041}{29086}- You can't swim?|- No, sir.
+{29090}{29163}Then you wouldn't want me to do this.
+{29166}{29230}Stop! Ah, don't!
+{29234}{29316}Please, cut it out!|There's water coming in the boat!
+{29319}{29372}I'm just having a little fun.
+{29374}{29460}- Well, don't.|- [ Motor Sputters ]
+{29463}{29529}What is that? What's the matter?
+{29533}{29615}When I rocked the boat,|I must have got water in the engine.
+{29618}{29683}I can fix it. I'm mechanical.
+{29688}{29760}[ Hammering ]
+{29845}{29889}Did you fix it?
+{29893}{29965}No. I'll go back for the other boat.
+{29968}{30012}What?
+{30072}{30127}Where are you going, Mr. FatJack?
+{30130}{30199}Back to the dock. It's only a few miles.
+{30203}{30281}I can swim it.|I'll be back with the little boat.
+{30283}{30362}The little boat?
+{30642}{30749}I knew it. I knew that guy was spying on me.
+{30752}{30808}I want to go down!
+{30873}{30924}Mr. Cornbeef?
+{30926}{30981}Kornbluth!
+{30984}{31038}Whatcha looking for down there?
+{31041}{31093}Buried treasure?
+{31096}{31144}Want to know what I'm looking for?
+{31146}{31190}I'll tell ya.
+{31217}{31288}None of your goddamn business, that's what!
+{31291}{31343}Get out of my way!
+{31482}{31542}Let's pee down his air hose.
+{31545}{31597}[ Laughter]|You get that.
+{32027}{32082}Piece of shit.
+{32175}{32262}- [ Scream ]|- [ Boat Motor ]
+{32266}{32322}[ Gasping ]
+{32326}{32383}[ Boat Motor ]
+{32386}{32435}Ahh!
+{32617}{32660}[ Gasping ]
+{32718}{32783}Ah, gee.
+{32787}{32819}[ Bang ]
+{33500}{33555}Ohhh!
+{33626}{33676}Ohh.
+{33715}{33765}[ Spitting ]
+{33826}{33895}Ouch!
+{33899}{33958}Ouch.
+{33962}{34017}[ Moans ]
+{34439}{34483}Hello.
+{34487}{34578}You have any idea how I got here?
+{34582}{34622}Did you save me?
+{34754}{34803}Ah,
+{34806}{34860}do you speak English?
+{35782}{35833}Hey! Come back!
+{35835}{35889}Hey, come back! Please?
+{35892}{35945}Just tell me who you are.
+{35945}{36030}I've gotta talk to you.|Can I call you? What's your number?
+{36042}{36101}I don't know how to swim.
+{36105}{36184}I don't know how to swim! Come back.
+{36186}{36249}Why didn't I learn how to swim?
+{36252}{36307}Please,just--
+{37751}{37789}[ Gasp ]
+{37790}{37852}It's a mermaid. It's her!
+{37859}{37915}[ Shouts ]|Wait a minute.
+{37915}{37987}Wait a minute.! Don't go.
+{38017}{38064}Come back.
+{38067}{38122}I gotta take your picture.
+{38148}{38184}Hold it.
+{40362}{40405}[ Honking ]
+{40410}{40470}[ Chattering ]
+{40663}{40707}Hi, Mrs. Stimler.
+{40711}{40784}Hi. What happened to your head?
+{40786}{40873}- Lightning?|- No, a boat hit me.
+{40908}{40975}- Mrs. Stimler?|- Yes?
+{40979}{41065}- Nothing.|- So nice to have you back.
+{41118}{41172}Welcome to the Statue of Liberty.
+{41174}{41229}The statue is a gift from French citizens...
+{41233}{41322}and symbolizes hope for oppressed people.
+{41326}{41413}Over the past centuty,|she has seen the skyline,
+{41417}{41523}which once she dwarfed,|rise in mountains of stone and steel.
+{41526}{41619}If you'll go inside, the tour will continue.
+{41623}{41677}Come on. Here we go.
+{41680}{41739}Let's go. We're backing up.
+{41742}{41804}You've got feet, use them.!
+{41807}{41922}Don't touch my hat.|Do not ever touch my hat. That's it.
+{41926}{41994}Up-up-up-up-up-up. Okay.
+{41998}{42049}Welcome to the Statue of Liberty.
+{42051}{42124}The statue is a gift from French citizens.
+{42126}{42205}It has come to symbolize hope|for naked women everywhere.
+{42208}{42252}Bocci balls!
+{42256}{42311}- [ Screams ]|- Hey, hey.
+{42314}{42368}Come on. Don't be doing that.
+{42370}{42447}Take a picture of me, Vinnie.
+{42450}{42505}Vinnie, take my picture.
+{42507}{42592}You get it? You get it!
+{42595}{42693}The statue was a gift from French people.
+{42697}{42749}Get out of the way. What's going on?
+{42752}{42883}Okay, miss. This ain't California.|We don't go for this.
+{42886}{42964}[ Booing ]
+{43109}{43173}[ Boat Whistle ]
+{43307}{43380}- What's your name?|- She don't speak no English.
+{43382}{43456}- And you do?|- Here. She was carrying this.
+{43458}{43502}What's this?
+{43558}{43611}Who's this guy?
+{43659}{43717}Is that enough? Do you want some more?
+{43720}{43787}That's all we can handle. Let's talk terms.
+{43791}{43845}- He doesn't have a clue.|- Don't worry.
+{43847}{43891}We'll move it out in the morning.
+{43895}{43953}Bauer. Your brother told me about...
+{43956}{44000}your unfortunate experience in Vietnam.
+{44042}{44081}Huh?
+{44086}{44158}The incident in Vietnam. Remember?
+{44194}{44287}The grenade still bother you?|You're wearing a bandage.
+{44291}{44345}Page him. Hey, Al?
+{44347}{44391}- Yeah?|- Phone.
+{44395}{44440}Um, excuse me.
+{44486}{44541}Thanks,Jerry. Yeah?
+{44545}{44604}Allen Bauer. Speaking.
+{44751}{44796}Yeah. On my way!
+{44800}{44844}I believe this--
+{44881}{44940}Allen, where are you going?
+{44943}{44978}Allen!
+{45027}{45093}- What happened?|- Telephone.
+{45098}{45172}He was on the phone in Nam|when the grenade went off.
+{45174}{45244}Ever since then, he runs,
+{45248}{45300}gets in a car, and drives away.
+{45302}{45363}- Oh.|- I don't know why.
+{45366}{45412}- It just happens.|- Oh.
+{45416}{45460}Let's review this.
+{45465}{45531}[ Siren ]
+{45980}{46024}Pardon me. Excuse me!
+{46028}{46091}- [ Bell Rings ]|- Mr. Police Officer?
+{46095}{46153}Hey! Take it easy.
+{46156}{46201}What do you want?
+{46205}{46261}My name's Allen Bauer. You guys called me.
+{46265}{46342}Any of you guys call for an Allen Bauer?
+{46345}{46431}Bauer. Yeah. That's for her.
+{46435}{46479}Right over there.
+{47008}{47052}Hi.
+{47240}{47288}I take it you know this girl?
+{47322}{47366}Yeah, I do.
+{47370}{47414}Who is she?
+{47466}{47509}I don't know.
+{47514}{47568}Of course.
+{47873}{47937}Afternoon. You're home early.
+{47941}{47990}Yeah.
+{48135}{48179}Uh,
+{48183}{48237}that doorway spins.
+{48240}{48305}Want to get this fixed, Timmy?
+{48448}{48507}- Hi.|- Hello.
+{49615}{49677}[ Allen Sings ]
+{49682}{49746}Zip-a-dee-doo-dah|Zip-a-dee-ay
+{49750}{49829}Mr. Bluebird's on my shoulder
+{49831}{49915}It's the truth, it's actual|Everything is satisfactual
+{49918}{49988}Zip-a-dee-doo-dah|Zip-a-dee-ay
+{49990}{50038}My, oh, my|What a wonderful day
+{50043}{50110}Room service.|I didn't know what you liked,
+{50114}{50203}so I got you a choice.|Fruity Pebbles, pancakes--
+{50207}{50258}No. No.|No-no-no-no-no-no-no.
+{50261}{50348}I've got to get back to work.|That will keep you company.
+{50352}{50451}When I come back from work,|we'll get some dinner,
+{50454}{50509}and pick you up some clothes.
+{50513}{50576}Not that you don't look|spectacular in my robe.
+{50580}{50647}Okay? Bye-bye.
+{50714}{50771}No. Please.
+{50774}{50821}You're gonna put me in the hospital.
+{50821}{50888}It's about 3:00. I really have to get back.
+{50900}{50951}You are wonderful.
+{50954}{51012}Bye-bye. Bye.
+{51048}{51129}[ TV]
+{51132}{51221}Things don't get started again until 4:00.
+{51360}{51420}Let's not be so choosy with these onions.
+{51424}{51496}Some of these are perfectly good onions.
+{51499}{51561}[ Allen ]|Evetybody, zip-a-dee-doo-dah.!
+{51566}{51649}Zip-a-dee-doo-dah|Zip-a-dee-ay
+{51653}{51737}My, oh, my|What a wonderful day
+{51741}{51809}Plenty of sunshine|heading my way
+{51813}{51880}Zip-a-dee-doo-dah|Zip-a-dee-ay
+{51884}{51969}Mr. Mango on my shoulder
+{51972}{52057}- Freddie, dance with me!|- Please, not in front of the teamsters.
+{52061}{52133}- Come on, they're happy guys.|- You're a rotten lead.
+{52136}{52189}I've got the Buyrite contracts ready.
+{52192}{52233}- Want to check them?|- No.
+{52233}{52276}You check them. You know the business.
+{52290}{52334}- So I'm in charge?|- Sure.
+{52338}{52381}What about the lawyer's meeting at 8:00?
+{52385}{52465}8 p.m.? That's too late for me.
+{52468}{52549}I'm going upstairs and take a nap.
+{52552}{52606}Wake me when it's time to go home.
+{52610}{52689}Zip-a-dee--|Jerry, handle those for me!
+{52745}{52796}[ TVAnnouncer]|Anne Klein.
+{52798}{52860}Bloomingdale's.
+{52922}{52989}Anne Klein.
+{52994}{53046}Bloomingdale's.
+{53138}{53210}The Anne Klein Collection, available at...
+{53213}{53269}Bloomingdale's.
+{53538}{53593}Can I help you?
+{53627}{53666}Can't you talk?
+{53719}{53804}- Bloomingdale's?|- Sure. Hey!
+{55182}{55241}Oh, my God.
+{55244}{55310}Darling. Darling.
+{55314}{55408}Darling! That outfit, it's to die from.
+{55412}{55477}What happened?|You saw Annie Hall 1 00 times?
+{55481}{55542}That look is over.
+{55546}{55591}You want to try that on?
+{55595}{55651}Who knows? Maybe it's you.
+{55654}{55705}I couldn't get one leg in there.
+{55708}{55811}My daughter is lucky. She's anorexic.
+{55868}{55954}Please call again. Don't forget these.
+{55994}{56073}Do yourself a favor and stop|in the lingerie department.
+{56077}{56172}A pretty girl like you|shouldn't wear boxer shorts.
+{56341}{56386}[ Boy ]|Let me try!
+{56390}{56455}[ TVAnnouncer]|Colgate Winter Fresh Gel--
+{56459}{56562}And now, we continue with Capitol.
+{56565}{56660}Wear the adjustable-angle|mascara by Revlon.
+{56733}{56798}Maximum fluoride protection|in a great-tasting gel.
+{56802}{56866}It's Crazy Eddie's|greatest clearance sale ever!
+{56870}{56918}Crazy Eddie's slashing prices...
+{56918}{56972}on stereo equipment, video equipment,
+{56978}{57033}color TV's, car stereos, CB's, phones,
+{57037}{57087}disco equipment|and professional products,
+{57090}{57172}plus a selection offloor|samples and demonstrators...
+{57175}{57214}priced at or below cost.
+{57218}{57262}It's Crazy Eddie's greatest sale ever,
+{57266}{57333}going on right now|with prices that are insane.!
+{57338}{57397}Crazy Eddie,1 2 great locations. Manhattan,
+{57400}{57444}the Bronx, Brooklyn, Syosset, Paramus,
+{57448}{57511}East Brunswick, Union,|Westchester, Westbuty and Norwalk.
+{57515}{57599}[ Humming ]
+{57602}{57700}Zip-a-dee-doo-dah|Hello?
+{57732}{57797}I'm home.!
+{58046}{58090}[ Ding ]
+{58209}{58259}- I'm looking for a girl, Timmy.|- 200 bucks.
+{58262}{58321}No, the blonde I came in with.
+{58325}{58389}- Oh, she left.|- Any idea where?
+{58394}{58461}- I put her in a cab.|- To where, Timmy?
+{58466}{58530}- Bloomingdale's.|- Bloomingdale's. Great. Thanks.
+{58534}{58613}Yo! Hey, taxi! Hey!
+{58616}{58660}Halt, taxi, please!
+{58664}{58719}She works hard|for the money
+{58722}{58801}Come on, come on. Let's go!
+{58805}{58896}She works hard for the money|so you better treat her right
+{58900}{58979}Excuse me, miss,|we're getting ready to close.
+{58982}{59050}She's been here for six hours.
+{59091}{59147}Excuse me, miss.
+{59150}{59209}I'm going to insist that--
+{59213}{59296}that you stop doing that.
+{59370}{59435}She's exercising.
+{59480}{59546}Give her... a minute.
+{59550}{59599}Sir, we're closing.
+{59602}{59661}I know.|Just give me three minutes.
+{59664}{59718}- Come back.|- Three minutes. You can time me!
+{59779}{59842}Oh, thank God.
+{59846}{59897}Excuse me. Do you know this woman?
+{59899}{59963}Yeah.Just don't ask me her name.
+{59967}{60022}We've been trying to tell her|it's closing time,
+{60026}{60080}but she doesn't seem to understand.
+{60082}{60149}That's because she doesn't speak English.
+{60153}{60245}Hello, Allen. How was your day?
+{60274}{60320}I never went to college,
+{60324}{60378}but wasn't that English?
+{60381}{60425}Thank you for letting me use your television.
+{60429}{60501}It was very educational.
+{60537}{60581}It's all right, miss.
+{60652}{60697}What's your name?
+{60701}{60764}It's hard to say in English.
+{60764}{60836}Well,just say it in your language.
+{60845}{60902}All right. My name is...
+{60906}{60956}[ Screech ]
+{61250}{61326}Hey, how 'bout those Knicks?
+{61329}{61427}I'm confused why you haven't|said anything until now.
+{61430}{61507}- I didn't know English.|- I see. Now you do?
+{61510}{61571}I learned from television. It's wonderful!
+{61574}{61637}I'll ask questions|and if you answer correctly,
+{61641}{61697}you can win one of these prizes.
+{61700}{61762}A wall clock, matching washer and dryer,
+{61766}{61815}or a brand-new car!
+{61818}{61865}Let me go first, okay?
+{61868}{61912}Who are you? Where are you from?
+{61916}{61960}Begin when you were born...
+{61964}{62020}and finish when you blew up the TV's.
+{62197}{62256}Pretty.
+{62260}{62361}Well, yeah. I've never|thought about it before.
+{62386}{62431}Are you from Cape Cod?
+{62482}{62557}No, I'm from another place.
+{62560}{62670}Yeah? I've got a cousin from there.|Ha-ha-ha.
+{62728}{62771}Are you an American?
+{62782}{62827}No.
+{62831}{62920}Then why were you in|Cape Cod and now New York?
+{62924}{63016}- How did the cops find you naked?|- What's that?
+{63020}{63068}What? The music?
+{63070}{63132}I like music! I heard some in the television,
+{63135}{63186}Dance Fever.
+{63189}{63276}Hey, I love you, girl
+{63280}{63360}-  Darling|- Ah, hi, hi.
+{63363}{63423}We better go, hon, or else we'll be late.
+{63426}{63501}- You never heard music?|- What's that?
+{63503}{63565}- Ah--|- [ Car Horn ]
+{63570}{63613}- [ Crash ]|- Oh, gosh!
+{63618}{63661}- What's that?|- It's a movie theater.
+{63666}{63721}What the hell you doin'?|You coulda got me killed!
+{63723}{63780}Cut her some slack.|She's from out of town.
+{63783}{63857}- Keep her on a leash.|- Yeah, yeah. Have a nice day.
+{63860}{63904}Hello?
+{63978}{64023}Did you see this?
+{64027}{64126}It's wonderfully delicious|and so good for you.
+{64129}{64211}While you're here, watch a little less TV.
+{64258}{64345}How long are you going to be in town?
+{64373}{64435}Six fun-filled days.
+{64438}{64483}Oh, six days.
+{64487}{64531}Is that all?
+{64572}{64625}Six days,
+{64628}{64688}and the moon is full.
+{64692}{64747}Oh.
+{64789}{64844}The moon is full.
+{64966}{65065}If I stay longer than that,|I can't ever go back.
+{65068}{65112}Oh, I get-- What?
+{65116}{65193}Is there some sort of immigration problem?
+{65196}{65240}Where did you get that?
+{65244}{65303}Where? Oh, for--
+{65359}{65445}Sir? Here you are, sir. There you go.
+{65448}{65531}I'm going to have to call|you something in English,
+{65534}{65602}because I can't pronounce-- What?
+{65606}{65653}What are English names?
+{65653}{65706}There's millions of them, I guess.
+{65714}{65761}Jennifer,Joanie, Hillary.
+{65761}{65814}Careful. Those are hot.
+{65821}{65877}Names, names. Linda, Kim--
+{65881}{65928}[ Allen ]|Where are we? Madison.
+{65931}{65994}- Elizabeth, Samantha--|- I like Madison.
+{65998}{66054}Madison's not a name.
+{66092}{66165}Well, all right. Madison it is.
+{66168}{66233}Good thing we weren't|at 1 49th Street.
+{66237}{66301}Are we going back to where you live?
+{66305}{66373}Okay, um-- Here's the thing.
+{66377}{66439}I was going to find you a hotel,
+{66443}{66545}but I figure that after this afternoon--
+{66548}{66635}Well, I just assumed that--
+{66682}{66764}Would you mind staying with me?
+{66795}{66850}I want to stay with you.
+{66853}{66921}You're the reason I came here.
+{67150}{67212}Ah, that was a kiss.
+{67215}{67259}I know.
+{70414}{70458}Madison?
+{70672}{70736}- Madison?|- Allen?
+{70740}{70803}Yeah, of course, it's Allen.
+{70807}{70851}What are you doing, sweetheart?
+{70855}{70910}Taking a bath.
+{70913}{70989}Ooo, ooo. Can I come in?
+{71014}{71076}- No!|- [ Clunk ]
+{71080}{71131}What was that?
+{71134}{71177}Madison, are you all right?
+{71182}{71251}- Everything's fine.|- Then let me in.
+{71255}{71320}I'll be right there. I'm just changing.
+{71324}{71389}Enough! Open the door.|Something is wrong.
+{71394}{71448}Allen, can you make me some pancakes?
+{71450}{71494}Make you some-- Madison.!
+{71494}{71553}All right, Madison, this is getting scary.
+{71564}{71613}Either open this door,|or I'll break it down!
+{71616}{71681}- No, Allen, please.|-All right, that's it.!
+{71686}{71761}- Allen, no!|- Ow.
+{72017}{72061}Hi.
+{72065}{72151}Hi. Are you okay?
+{72155}{72199}Yeah.
+{72203}{72277}Why wouldn't you let me in?
+{72280}{72372}I was... shy.
+{72399}{72443}You were shy?
+{72447}{72517}After the car, elevator, bedroom,
+{72521}{72611}and top of the refrigerator,|you were shy?
+{72638}{72686}I was shy.
+{72713}{72757}She was shy.
+{72977}{73042}[ Garbled Shouts ]
+{73355}{73420}[ Gasping ]
+{73488}{73539}Hey, B.B. brain!
+{73542}{73641}- Yeah?|- See this hose?
+{73644}{73725}- It's so I can breathe.|- Uh-huh.
+{73729}{73793}You want to get your chair off it?
+{73797}{73853}Huh?
+{74013}{74053}[ Laughing ]
+{74058}{74109}The Star Confidential?
+{74134}{74166}Yeah.
+{74170}{74245}- Why are you reading that?|- I don't know.
+{74247}{74353}What possesses the uneducated|to purchase these?
+{74357}{74446}- Interesting.|- You're not helping yourself.
+{74450}{74525}You're not-- This is not news.
+{74527}{74595}Give me this. You know what's in here?
+{74599}{74680}Nothing. You have sex, perversion.
+{74683}{74747}It's all fabrication. Look at this.
+{74751}{74823}A naked woman at the Statue of Liberty.
+{74875}{74934}Where would they find a girl to do that?
+{74938}{74981}[ Laughing ]
+{75038}{75101}- Ow, my head!|- Let me see that.
+{75300}{75362}Take me back to shore. Now!
+{75471}{75522}Hello.
+{75613}{75674}Madison, what is it?
+{75678}{75725}What happened?
+{75728}{75773}[ Horse Whinnying On TVProgram ]
+{75778}{75840}It's the saddest thing I ever saw.
+{75844}{75888}[ TV, Indistinct ]
+{75892}{75952}It's Bonanza.
+{75955}{76033}The man killed another man|and he died in the street.
+{76036}{76146}No, no. This is only TV.
+{76150}{76233}I thought you understood|about TV being make-believe.
+{76237}{76316}It's pretend killing that's going on.
+{76319}{76369}This guy is an actor.
+{76372}{76425}Next week, he'll get shot|on another show.
+{76427}{76471}It's kinda funny.
+{76528}{76585}I'm supposed to laugh?
+{76589}{76641}Yeah.
+{76643}{76689}There you go.
+{76693}{76749}Yeah.
+{76752}{76803}I got you something.
+{76890}{76936}[ Sigh ]
+{77168}{77241}It's beautiful. I love it.
+{77294}{77350}No, you open it.
+{77354}{77399}There's more?
+{77640}{77725}[ Waltz ]
+{79241}{79285}Do you like that?
+{79289}{79344}Yeah, I do.
+{79370}{79436}I don't know why.Just...
+{79440}{79484}something about it.
+{79488}{79562}It's always appealed to me.
+{79587}{79637}Do you like the sea?
+{79640}{79709}No. When I was about eight,
+{79713}{79769}I had this accident on a ship.
+{79773}{79823}I remember.
+{79826}{79869}What?
+{79873}{79928}Ah, I can't.
+{79931}{79975}I forget the words.
+{79979}{80054}What's-- ''I understand.''
+{80057}{80119}[ Chuckles ]
+{80122}{80174}Did you get hurt?
+{80208}{80283}No, no, I didn't,
+{80286}{80401}but when I was underwater,|I could have sworn I saw--
+{80405}{80501}- What?|- Nothing.
+{80504}{80548}- What?|- Nothing!
+{80552}{80617}I was just a stupid kid.
+{80701}{80782}- They're going to tear this park out.|- Why?
+{80786}{80873}They're gonna build condos|or some such nonsense.
+{80877}{80933}What are you gonna do, huh?
+{81033}{81085}You want to go home?
+{81088}{81133}No, I have five days left!
+{81137}{81226}No-no-no. My home!
+{81230}{81313}Oh. Yes.
+{81554}{81614}[ Allen ] Why do we want|to go to a political dinner?
+{81614}{81688}- The president will be speaking.|- President of what?
+{81697}{81753}President of the|Three Stooges Fan Club.
+{81756}{81813}- The president of the United States!|- Wow.
+{81816}{81861}We'll be rubbing elbows|with the big boys.
+{81866}{81929}- You think big, you be big.|- I guess so.
+{81933}{81977}Listen,
+{81981}{82056}would you mind if I took Madison...
+{82060}{82120}instead of going with you?
+{82163}{82217}What?
+{82221}{82277}- What?|- What?
+{82281}{82340}Something in here not working?
+{82344}{82429}''Oh, I'll never fall in love, Freddie.
+{82434}{82497}I can't. It won't work with me.''
+{82502}{82566}Who said anything|about me being in love?
+{82567}{82622}You haven't been to work in two days.
+{82629}{82673}- So?|- Admit it.
+{82677}{82713}- No.|- Admit it!
+{82718}{82757}Eye gouge!
+{82762}{82806}[ Screams ]
+{82811}{82867}Ahhh. Ahhh!
+{82870}{82951}- Admit it. Bone crusher!|- No.
+{83065}{83116}Son of a bi--
+{83334}{83366}Ow.
+{83436}{83481}How long we been playing?
+{83486}{83559}-About five minutes.|- Oh, God.
+{83562}{83636}My heart's beating like a rabbit.
+{83639}{83682}You, uh, want a beer?
+{83687}{83738}No, thanks.
+{84069}{84134}So, tell me this.
+{84139}{84195}If you're not in love with her,
+{84198}{84272}how come little things she does,|drive you crazy?
+{84274}{84317}Little things?
+{84322}{84421}Freddie, the woman learned English|in a single afternoon.
+{84471}{84532}She could probably speak English already.
+{84536}{84584}I think she was in shock from being arrested.
+{84587}{84639}What about that, huh?
+{84642}{84704}What about a woman showing up|naked in a public place?
+{84709}{84746}I'm for it.
+{84750}{84793}You said...
+{84798}{84882}that she had some kind|of immigration problem.
+{84886}{84977}She's on an ocean liner|in international waters.
+{84981}{85073}She sees America. It looks good.
+{85077}{85161}So, she greases her body|like a channel swimmer.
+{85166}{85268}She dives in.|She has heavy trouble with sharks,
+{85271}{85370}she goes through the Coast Guard,|minefields and then she's on shore.
+{85374}{85417}She's okay. That's it.
+{85471}{85520}What about the bathtub?
+{85523}{85595}This moon stuff, and all those TV's?
+{85598}{85650}Look, I'm being serious.
+{85653}{85766}I admit to a few minor fiascos|in my love life.
+{85771}{85882}Freddie, you took a date|to one of your own weddings!
+{85886}{85941}I'm a free spirit!
+{85944}{86021}I'm extremely liberal,|a freewheeling dude.
+{86025}{86138}You're in love with this girl. You're|ttying to convince yourself you're not.
+{86181}{86232}I just don't know, Freddie.
+{86235}{86286}Something about it isn't right.
+{86290}{86333}I'll serve.
+{86338}{86394}Hold the beer. That will be your handicap.
+{86397}{86457}- Oh, we're gonna play?|- Yeah.
+{86462}{86538}- I'm gonna teach you a lesson in humility.|- Wait.
+{86541}{86589}Humility 1 01 .
+{86592}{86635}- You all set?|- Yeah.
+{86640}{86691}Here we go.
+{86694}{86731}Oh!
+{86894}{86953}This is what we came to hear?
+{87031}{87161}You call and tell us you have|stretched the frontiers of paleontology...
+{87165}{87215}and zoology.
+{87217}{87296}We interrupt important, serious work...
+{87299}{87349}to fly here at a moment's notice,
+{87353}{87410}and you give us mermaids.!
+{87410}{87476}Don't call us.|Call the comic book companies.
+{87486}{87577}Enough. We have a seminar|in three weeks. Be ready.
+{87629}{87673}[ Whistling ]
+{87708}{87772}Allen, you're here! I got you a present.
+{87777}{87860}- Don't look. Close your eyes.|- I gotta close the door.
+{87865}{87916}What are you doing?
+{87919}{87974}All right.
+{88002}{88068}Okay. Look.
+{88214}{88299}Ha-ha! Wha-- You, ah--
+{88303}{88372}Well, that's big!
+{88399}{88471}Yeah, this is--
+{88474}{88533}This is very... big,
+{88537}{88593}and it's... really here.
+{88597}{88641}It's just so big.!
+{88646}{88705}They were gonna tear it down,|so I bought it for you.
+{88709}{88774}Where did you get|the money to pay for it?
+{88821}{88897}Madison, where's your necklace?
+{88901}{88985}- I traded it for the statue.|- Why?
+{89026}{89078}Because I love you.
+{89120}{89173}Oh, Madison.
+{89278}{89328}Madison, I love...
+{89331}{89383}this, ah, present.
+{89386}{89437}I love it.
+{89507}{89557}And I love you.
+{89689}{89732}[ Dr. Zidell ]|What's happened to you?
+{89737}{89813}You were the brightest student in my class.
+{89816}{89893}True, emotionally, you were 1 2 years old.
+{89897}{89980}- I was 1 2 years old.|- That's right.
+{89985}{90036}Look what you've become;
+{90039}{90091}a schmuck.
+{90094}{90182}There is a mermaid in New York City.
+{90187}{90278}You mean this, this naked girl?
+{90283}{90331}How come she's got legs?
+{90333}{90433}She has legs out of water|and fins in the water.
+{90437}{90523}You taught me that,|Dr. Zidell. Remember?
+{90527}{90593}You taught me all the legends.
+{90598}{90672}You used to show me charts|on your office walls...
+{90674}{90761}where sailors had claimed they saw mermaids.
+{90765}{90833}Walter, that was for fun, for relaxation,
+{90837}{90914}not for you to build your whole life on.
+{90945}{91033}I'm gonna prove to you|and everyone else that...
+{91037}{91109}that girl is a mermaid!
+{91112}{91167}How? You gonna get her wet...
+{91170}{91222}so evetybody sees she has fins?
+{91225}{91278}[ Chuckles ]
+{91393}{91477}[ Indistinct ]
+{91661}{91712}[ Honking ]
+{91866}{91925}[ Honking ]
+{92065}{92108}[ Man ]|Taxi?
+{92187}{92214}Oh!
+{92217}{92272}- Watch it.!|- Hey, watch it, buddy.
+{92275}{92336}[ Walter]|Excuse me.
+{92414}{92466}Look out.
+{92538}{92587}What does he think he's doing?
+{92612}{92669}Hey.! Hey.!
+{92673}{92770}[ Crying ]
+{92967}{93041}[ Walter ]|Oh, my--
+{93254}{93321}[ Piano ]
+{93708}{93746}- [ Grunt ]|- [ Gasp ]
+{93755}{93793}Oops.
+{93834}{93869}Nice earrings.
+{93923}{94011}- Is something the matter?|- No, nothing at all.
+{94015}{94120}I was thinking.|You don't have to leave the country.
+{94149}{94240}- I do.|- You don't. There's stuff we can do...
+{94245}{94313}to get around the immigration laws.
+{94317}{94407}I could give you a job down at the market.
+{94412}{94473}You could get a work visa.
+{94477}{94564}Or, uh, you could, uh,
+{94568}{94648}marry, like, an American,
+{94651}{94702}and they have to let you stay.
+{94705}{94749}Our food is here!
+{94777}{94892}Oh. Well, we'll talk about it later.
+{94921}{95009}Do be careful, madam.|The plate is very hot.
+{95013}{95056}Thank you. These look terrific.
+{95569}{95637}She's really hungry!
+{95689}{95765}[''Skater's Waltz'']
+{96237}{96281}You were very good.
+{96285}{96354}Come on. Oops. Come on.
+{96393}{96482}Let's sit down and talk.
+{96487}{96531}Ah.
+{96573}{96625}Your nose is cold.
+{96628}{96671}I don't want to talk about my nose.
+{96676}{96732}Your ears are all red!
+{96735}{96825}I don't want to talk|about any part of my face.
+{96829}{96954}But I do want to talk about|what happened in the restaurant.
+{96982}{97025}I'm sorry.
+{97030}{97088}That's how we eat lobster|where I come from.
+{97092}{97218}Oh, no-no-no.|I don't care about that.
+{97261}{97333}I was trying to do something in there,|and I guess I did it very badly.
+{97336}{97385}I was trying...
+{97423}{97544}to ask you if you wanted to get married.
+{97585}{97641}Madison, will you marry me?
+{97788}{97831}No.
+{97836}{97908}What? No? Just no?
+{97911}{97979}You don't want to think|about it, kick it around?
+{97984}{98035}- I can't.|- Why?
+{98038}{98098}I can't tell you.
+{98102}{98155}I know you have some big secret you think...
+{98158}{98207}you can't tell me, but you can.
+{98209}{98257}- You're already married?|- Allen.
+{98260}{98310}You're dying? You were once a man?
+{98313}{98372}- Whatever it is, you can tell me.|- Allen.
+{98376}{98456}I only have three days left.
+{98496}{98556}Please make them wonderful.
+{98614}{98657}Okay.
+{98835}{98893}Want to skate some more?
+{98920}{98969}Yeah. Yeah, I do.
+{99061}{99105}Allen?
+{99497}{99541}You know them?
+{99545}{99633}No, I'vejust seen them before.
+{99636}{99699}I guess they've come here|for about 40 years.
+{99769}{99813}They look very happy.
+{99817}{99895}Why shouldn't they be happy, huh?
+{99898}{99975}They get to spend|their whole lives together.
+{100051}{100140}Is this really what happens|when water gets cold?
+{100145}{100194}Yeah.
+{100197}{100269}Where I come from, it never gets cold.
+{100272}{100329}Well, hey, what a breakthrough!
+{100332}{100408}You just really opened up to me there.
+{100470}{100529}Your voice sounds funny.
+{100533}{100584}It's called sarcasm.
+{100588}{100652}They don't have that where|you come from either?
+{100693}{100743}No.
+{100793}{100853}Well, they don't have anything, do they?
+{100857}{100960}They don't have ice, or music or clothes.
+{100963}{101027}What kind of a place is this?
+{101061}{101112}Madison?
+{101115}{101184}- Madison!|- Hey, those skates are rented!
+{101189}{101277}Give me one second. Madison?|Ahh! Madison!
+{101332}{101405}Madison, please? I'm sorry!
+{101408}{101480}Let her go. Show some dignity.
+{101482}{101516}Madison?
+{101588}{101645}[ Indistinct ]
+{101716}{101759}Thanks.
+{102307}{102364}[ Car Horn ]
+{102657}{102729}[ Thunder ]
+{104423}{104487}Hey, Charlie. How's it goin'?
+{104601}{104645}- Allen?|- What?
+{104854}{104899}Yes.
+{105241}{105353}If we get our blood test today,|we can marry tomorrow!
+{105358}{105401}Before the blood test,|I have to tell you everything.
+{105406}{105463}So, tell me.
+{105467}{105533}- Not today.|- But see,
+{105537}{105598}if we get the test today--|no pressure, mind you--
+{105602}{105689}then as soon as you tell me,|we can get married.
+{105693}{105751}Listen,you will love being married to me.
+{105755}{105860}I was born to be married.|Mom and Dad were married.
+{105864}{105943}Their moms and dads were married too.
+{106053}{106128}[ Panting ]
+{106730}{106778}[ Camera Clicks ]
+{106873}{106922}Son of a bitch.
+{106925}{106982}I thought we were going upstairs.
+{106985}{107050}I love you. I'm not gonna lose you again.
+{107055}{107109}We are getting married tonight.
+{107109}{107193}We're gonna drive to Maryland.|Freddie always marries there.
+{107203}{107256}You don't need|a blood test down there.
+{107256}{107333}There's this dinner|with the president. Damn!
+{107341}{107428}Hey, that's okay!|We'll go to Maryland after dinner.
+{107432}{107491}- We'll already be dressed up!|- I haven't told you--
+{107495}{107552}You haven't told me this big secret.
+{107555}{107598}Tell me on the way to Maryland.
+{107627}{107670}Oooh!
+{108403}{108481}I hope we have a boy and a girl.
+{108513}{108620}- What kind?|- Wha-- What kind?
+{108624}{108680}The young kind, I guess.
+{108683}{108743}The older ones are|a little hard to deliver.
+{108747}{108790}We're getting married tonight.
+{108795}{108837}- Wonderful.|- Thank you.
+{108837}{108923}Why is this bread in here|instead of out there?
+{108933}{108992}The butter is hard like a rock.
+{108997}{109055}Do you have a broken arm?
+{109059}{109132}No, it's fractured in 1 6 places.
+{109135}{109179}Why are you here?
+{109215}{109258}The union sent me.
+{109259}{109320}[''Hail To The Chief']
+{109329}{109392}My God, the president is here!
+{109396}{109476}The president's here. The president's here!
+{109893}{109937}Hmm.
+{110328}{110379}I'm just a corn-fed Kansas boy,
+{110382}{110456}but you are the Big Apple of my eye.
+{110495}{110544}Thank you.
+{110547}{110590}Thank you.
+{110595}{110644}Thank you vety much.
+{110681}{110785}Thank you.|It's great to be back in New York.
+{111039}{111087}Alert. Alert. Table 5.
+{111089}{111134}Intercept busboy with suspicious hump.
+{111221}{111263}He's reaching! Get him now!
+{111268}{111341}- Sir, I'd like a word with you, please.|- About what?
+{111344}{111387}This has nothing to do with the president.
+{111392}{111457}This has nothing to do with the president.!
+{111461}{111505}[ Indistinct ]
+{111509}{111617}Well, I guess he just found out|what his dinner cost.
+{111691}{111743}I want to talk to the press.
+{111746}{111796}I want to talk to the press.
+{111800}{111854}I have a formal statement to make!
+{111857}{111942}[ President ] In Bob Hollins,|you have a candidate for Congress...
+{111946}{111995}who is in touch with the people,
+{111997}{112086}a man who built up the business|left to him by his grandfather.
+{112091}{112134}What was once a small|pushcart on wheels--
+{112139}{112207}- Allen?|- Yeah?
+{112212}{112267}It's time for me to tell you.
+{112270}{112320}What? Now?
+{112322}{112401}- Right now.|- Okay. Great.
+{112404}{112448}- Not here.|- Fine. Fine.
+{112453}{112496}[ President ]|But more importantly, with fresh meat.
+{112559}{112632}- I am not crazy.|There's a mermaid in there.|- Shut up.
+{112635}{112678}- What mermaid?|- I am a scientist!
+{112683}{112740}Where's the goddamn car!
+{112745}{112808}The gray BMW.
+{112812}{112855}[ Shouting ]
+{112860}{112919}[ Indistinct ]
+{112923}{112972}Hey, I know that guy.
+{112976}{113043}I saw him on Cape Cod. He was crazy then.
+{113048}{113131}There she is! There she is!
+{113194}{113245}- Don't let him shoot that.|- That a gun?
+{113254}{113315}- Hold it.!|- No!
+{113319}{113392}Get that thing out ofhis hand.
+{113396}{113438}Grab that hose.!
+{113443}{113517}Grab him.! Get him.!
+{113625}{113674}- No!|- What's going on?
+{114137}{114193}I was right!
+{114196}{114286}Behold the mermaid!
+{114291}{114393}[ Crowd Gasps ]
+{114448}{114484}Let me outta here.!
+{114488}{114531}Who are you? What is your name?
+{114536}{114574}Allen!
+{114604}{114661}- What do we do?|- Grab her. Grab everybody.
+{114664}{114763}- I want to see her.|- Allen! Allen!
+{114793}{114836}Get her.! Get her.!
+{114879}{114924}Allen.!
+{115007}{115047}Please?
+{115051}{115119}- Let's pick her up.|- Allen. Allen!
+{115252}{115301}Allen. Allen.
+{115419}{115467}Allen.!
+{115615}{115698}Good afternoon, Dr. Ross.
+{115702}{115770}[ Man On P.A. System ]|Dr. Hill, line 5. Stat.!
+{115818}{115861}- Buckwalter.|- Sir!
+{115892}{115935}Gentlemen.
+{115940}{115983}- Anything?|- No change.
+{116249}{116305}I am not a fish!
+{116309}{116416}How many times do|I have to tell you that?
+{116420}{116492}Will you just let me out of here?
+{116495}{116571}Please? Huh? People?
+{116574}{116624}Let's try some interaction.
+{116626}{116681}Fine.Jim?
+{116685}{116753}[ Hoist Motor]
+{117503}{117546}[ Beeping ]
+{117929}{118025}I guess they thought you might be one.
+{118057}{118113}Yeah.
+{118117}{118165}I guess so.
+{118195}{118285}You said whatever my secret was,|you'd understand.
+{118290}{118368}I know.
+{118435}{118523}You thought at least I was a human being.
+{118683}{118726}Allen?
+{119125}{119204}He's been in the water 1 2 hours.|He's just a man.
+{119207}{119284}Get him out so we|can concentrate on her.
+{119554}{119621}Greg Martin, W-M-E-T Radio,|here with Allen Bauer.
+{119625}{119706}- When did you meet the mermaid?|- Tell me where.
+{119710}{119761}Did you know she was a mermaid?
+{119765}{119850}- Did you actually make love to her?|- That's a stupid question.
+{119854}{119897}Did she eat worms?
+{119902}{119964}Would you have to make|love to her in water?
+{119968}{120010}That's none of your business.
+{120015}{120072}Is she a mutant or missing link?
+{120075}{120118}No, she's not.
+{120123}{120188}I'm from People.|Is she also seeing Burt Reynolds?
+{120193}{120266}For crying out loud!
+{120338}{120388}Leave him alone!
+{120392}{120480}Leave him alone! Get out of the way!
+{120484}{120529}- Let me through.|- Out of the way.
+{120533}{120607}- Allen, you all right?|- Yeah. Get me out.
+{120609}{120666}Is anyone here from Penthouse?
+{120670}{120748}- [ Reporters ] No.|- Then we ain't talking.
+{120777}{120837}[ Car Radio ]
+{121245}{121297}Hey, Allen?
+{121455}{121544}What are you looking at? You never|saw a guy who slept with a fish?
+{121549}{121608}Get back to work!
+{121640}{121708}Mr. Bauer, you had a million messages.
+{121713}{121757}I wrote them down.
+{121757}{121881}You got calls from CBS, NBC, ABC, AP,
+{121892}{121988}UPI, Ted Turner, Time, Newsweek,
+{121990}{122052}Marineland, ''Ripley's Believe It Or Not, ''
+{122057}{122113}and Mrs. Paul.
+{122117}{122180}Not now, Mrs. Stimler.
+{122286}{122351}''Fishman?''
+{122356}{122399}Fishman!
+{122404}{122469}That's what they're|calling you on TVtoo.
+{122474}{122532}Personally, I think it's kinda cute.
+{122622}{122694}- So, how is she?|- How is she?
+{122701}{122806}She's... a mermaid.
+{122810}{122907}I don't understand. All my life...
+{122909}{122959}I've been waiting for someone...
+{122962}{123017}and when I find her,
+{123020}{123063}she's a fish.
+{123068}{123121}Nobody said love's perfect!
+{123125}{123236}Oh, Freddie, I don't expect it|to be perfect,
+{123241}{123307}but for God's sake, it's usually human!
+{123352}{123415}Every day people meet and they fall in love.
+{123419}{123462}Look what I got.
+{123505}{123603}Look what you got. Yeah, let's look.
+{123631}{123699}Let's take a good look at what you got.
+{123704}{123763}- People fall in love every day, huh?|- Yeah.
+{123767}{123857}That's a crock! It doesn't work that way.
+{123862}{123923}Do you realize how happy|you were with her?
+{123927}{123984}That is, when you weren't|driving yourself crazy.
+{123988}{124060}Every day? Come on.
+{124063}{124148}Some people will never be that happy!|I'll never be that happy.
+{124261}{124304}What am I talking to you for?
+{124307}{124375}You don't know nothing. Mrs. Stimler?
+{124521}{124569}[ Beeping ]
+{125181}{125224}Does she look a little pale?
+{125276}{125327}Ah, that's a good day's work.
+{125330}{125409}Tomorrow, I want to see|how she interacts...
+{125413}{125492}with other marine life,|then the internal examination.
+{125552}{125595}Internal?
+{125600}{125672}I want to study her pulmonary system,
+{125674}{125757}- reproductive organs, everything!|- Dr. Ross?
+{125761}{125844}Are we considering...
+{125848}{125934}how the subject is responding|to the examination procedure?
+{125938}{125981}I'm considering everything!
+{125986}{126041}Ah, yes,
+{126045}{126104}I'm sure you are, Dr. Ross.
+{126109}{126168}How stupid of me. But let me ask,
+{126173}{126221}are you considering the possibility...
+{126221}{126277}that you might be a sadistic pig?
+{126393}{126473}While we are baring|our souls, Mr. Kornbluth,
+{126484}{126567}I must honestly tell you I have never|considered you a man of science.
+{126571}{126644}You're not a member of my team.
+{126647}{126767}Run along, Walter.|See if you can't find a unicorn.
+{126848}{126891}[ Door Slams ]
+{128081}{128131}[ Trickling Water]
+{128417}{128498}- What's that?|- Painkiller, Mr. Kornbluth.
+{128502}{128569}Whoever punched you|cracked your tooth.
+{128573}{128633}We'll be very close to the nerve.
+{128637}{128725}I don't deserve painkiller.Just drill.
+{128730}{128816}Oh, you want pain.|Well, we aim to please.
+{128821}{128860}[ Drill Motor Whirring ]
+{128889}{128931}Get out.
+{128936}{128984}- What are you--|- Get out!
+{128987}{129065}-Ja,ja,ja.|- Please stay. Ahh!
+{129093}{129137}Let's talk.
+{129209}{129268}Hey, put that down.
+{129272}{129329}- Put that needle down.|- Stay away from me.
+{129333}{129420}- I said, ''Let's talk.'' Put it down.|- Stay away!
+{129545}{129588}Ahhh!
+{129615}{129702}Ahhh! Ohhh!
+{129736}{129774}Uh.
+{129806}{129846}Ah!
+{129875}{129924}Ah!
+{129926}{129969}Ah!
+{129974}{130023}What a week I'm having!
+{130088}{130145}You've destroyed my life, Kornbluth.
+{130148}{130220}I didn't mean to.
+{130223}{130296}I just had to prove that I wasn't crazy.
+{130300}{130364}I'm a man of science.
+{130409}{130508}I just didn't think about|how it would affect you...
+{130520}{130563}or her.
+{130568}{130625}I'm really a nice guy.
+{130628}{130687}If I had friends, you could ask them.
+{130691}{130797}I've been on the phone to|every employee of the government...
+{130799}{130889}calling them sons of bitches.
+{130896}{130960}Nobody could even get in to see her.
+{131005}{131048}I can.
+{131125}{131181}Come on. Come on!
+{131185}{131233}- Ahh!|- Come on.
+{132241}{132317}Good afternoon, Dr. Kornbluth.|I wasn't expecting you today.
+{132317}{132366}These are Drs.Jarred and Johanssen...
+{132373}{132422}from the Stockholm Institute.
+{132425}{132476}I thought they were|coming later with Dr. Ross.
+{132480}{132596}No, no. That story was to fool the press.
+{132601}{132680}You know, I'm half Swedish.
+{132799}{132833}-Ja.|-Ja.
+{132919}{133010}-Ja.|- Oh,ja.
+{133015}{133103}- Well!|-Just a second.
+{133505}{133561}Ah.
+{133830}{133892}- How the hell did you do that?|- Let me tell you.
+{133896}{133956}Many nudie films come from Sweden.
+{133960}{134050}After you see them 400 or 500 times,|the stuff sinks in.
+{134055}{134112}Afternoon, Buckwalter.
+{134115}{134164}Sorry, no one comes in...
+{134167}{134231}until Dr. Ross gets back|with them Swede people.
+{134236}{134279}These are the Swedish doctors.
+{134284}{134363}These are... Swedes?
+{134366}{134416}Ah, come here.
+{134420}{134508}Isn't that one kinda dark?
+{134513}{134560}He's dirty from the trip!
+{134560}{134615}- Let us in.|- I'm not supposed to.
+{134628}{134676}What are you afraid of?
+{134678}{134767}Do you think we're|gonna steal the mermaid?
+{134772}{134825}Steal the mermaid.|Stealing the mermaid!
+{134829}{134907}Are we gonna fold her in half|and put her in a briefcase?
+{134910}{134955}In a briefcase. In half.
+{134960}{135021}I guess it's all right.
+{135025}{135066}Go in. Go in.
+{135071}{135113}- Good joke, there.|- Yeah.
+{135167}{135210}[ Beeping ]
+{135957}{136013}- Hi.|- Hi.
+{136016}{136104}Is this the big secret you've been keeping,
+{136108}{136171}that you're a mermaid,|or is there something else?
+{136175}{136224}No, that's it.
+{136304}{136382}Allen, don't feel guilty.
+{136385}{136436}Guilty? About what?
+{136439}{136493}About not loving me anymore.
+{136531}{136592}Oh, Madison.
+{136597}{136649}All the time we were together,
+{136653}{136709}you always knew how I was feeling.
+{136713}{136757}Can't you tell now?
+{136881}{136925}[ Faster Beeping ]
+{136983}{137069}Well, left my wife|in New Orleans
+{137073}{137125}Forty-eight kids|and a can of beans
+{137129}{137195}-  Left, right, one, two|- Oh, my God!
+{137200}{137248}- What?|- Stand back, man.
+{137251}{137332}Cover his face, for God's sake!
+{137335}{137395}What happened? What's going on?
+{137399}{137458}Dr.Johanssen bent down|to examine that creature...
+{137462}{137525}and suddenly these rays|came out of her eyes!
+{137529}{137608}Don't go in there!|She'll melt your face off.
+{137611}{137656}I knew something would happen.|What should I do?
+{137661}{137741}- Don't whine. Seal off the area.|- I'll call the Pentagon.
+{137745}{137813}You want to create a national panic?
+{137817}{137896}- I don't want to die!|- Pull yourself together.
+{137899}{137949}Don't let anybody in that room.
+{137953}{138028}I'll be back with nuclear weapons.|Come on, Doctor.
+{138697}{138748}Good afternoon, Dr. Ross.|Who are your guests?
+{138752}{138829}Drs.Jarred and Johanssen|from the Swedish Institute.
+{138833}{138883}Sir?
+{138886}{138991}Dr. Kornbluth left with|the Swedes a few minutes ago.
+{139137}{139228}Hiya, boys. Come in. The water's fine.
+{139233}{139276}[ Laughing ]
+{139312}{139399}Let's get her back now! And arrest him.
+{139485}{139582}[ Alarm ]
+{139740}{139868}[ Helicopter]|We have a blue BMW. Over.
+{140401}{140444}- [ Honking ]|- Come on.
+{140449}{140536}Know something?|I don't think we're being followed.
+{140540}{140609}Wha-- Well, that was easy.
+{140613}{140695}That was simple! We did it!|[ Laughing ]
+{140699}{140753}-[ Walter ] My plan.|- You're a genius.
+{140756}{140813}I am a genius,|but you came in with the Swedish thing.
+{140817}{140900}That was a brilliant touch.
+{140904}{140956}I didn't even like you when we first met.
+{140959}{141014}Nobody likes me when they first meet me.
+{141017}{141061}[ Laughing ]
+{141065}{141122}Allen?
+{141285}{141335}- Move!|- All right. Here we go!
+{141448}{141508}[ Honking ]
+{141596}{141656}[ Honking ]
+{141725}{141777}Suspect heading south on Broadway.
+{142560}{142665}[ Helicopter ] Unit One. Lost them|in the Wall Street district. Over.
+{142731}{142774}- Stop the car.|- What?
+{142785}{142848}Stop and let me out.|I'll slow them down. Do it!
+{143005}{143087}I caused all this.|Now I'm gonna finish it.
+{143297}{143340}Get the hell out of here.
+{143345}{143387}Go!
+{143816}{143866}Whoa! Oooh.
+{143921}{143988}What a week I'm having.!
+{144017}{144061}[ Honking ]
+{144248}{144312}[ Honking ]
+{144351}{144406}Hey, mac, move that thing out of here.
+{144444}{144497}Up yours, Gomer. I'm waitin' for a fare.
+{144501}{144550}[ Tires Screech ]
+{144682}{144742}Heave!
+{144789}{144842}All right. Move out.
+{144870}{144923}Come on, let's go!
+{145548}{145605}- I was ready to stay with you forever.|- I know.
+{145608}{145675}They know who you are.|They won't leave you alone.
+{145680}{145737}I can't ever come back to you.
+{145741}{145800}I wish I could go with you.
+{145804}{145853}You can.
+{145853}{145911}- How?|- It can be done.
+{145921}{146013}Remember when you were eight|and fell off the ship?
+{146017}{146074}You were safe under|the water, weren't you?
+{146078}{146129}Yeah.
+{146133}{146190}You were with me.
+{146194}{146269}You mean, that was real?
+{146295}{146353}That was you?
+{146357}{146421}That was you!
+{146490}{146552}This is great. This is great!
+{146557}{146610}I can go with you|and still come back...
+{146613}{146677}and see Freddie at Christmas.
+{146681}{146729}You can't ever come back.
+{146732}{146807}[ Sirens ]
+{147060}{147104}Madison.
+{147175}{147218}I understand.
+{147444}{147493}You on the dock, don't move.
+{147497}{147541}You're under arrest.
+{147546}{147596}Let the girl go. Step back.
+{147600}{147649}You're under arrest.
+{147652}{147695}You have to go.
+{147700}{147755}Move out. Let's go.!
+{147781}{147824}I love you, Madison.
+{147868}{147902}Go.
+{147958}{148003}Go!
+{148161}{148229}Get that guy on the dock.
+{148262}{148301}Leave her alone!
+{148374}{148413}Leave her alone!
+{148661}{148715}Madison.
+{148882}{148920}Madison!
+{149165}{149253}Stay where you are. We'll get you out.
+{149324}{149388}[ Gasping ]|Madison!
+{150476}{150525}[ Garbled Shouts ]
+{150528}{150568}Ooo!
+{151251}{151351}[''Love Came For Me'']
+{151354}{151430}One fine day
+{151458}{151583}Love came for me
+{151626}{151724}And love was rare
+{151769}{151866}As love can be
+{151911}{152032}I saw stars
+{152036}{152165}Shining in clear blue skies
+{152169}{152305}We flowed together
+{152333}{152411}Once and forever
+{152469}{152568}Love came for me
+{152614}{152700}One fine night
+{152752}{152857}Love let us see
+{152894}{153005}How far we'll go
+{153036}{153120}How good we'll be
+{153184}{153251}We saw a world
+{153294}{153433}No one ever saw before
+{153438}{153529}It was the world
+{153533}{153612}Love can start
+{153615}{153726}With a beat of a heart
+{153730}{153828}Love came for me
+{154430}{154515}I saw stars
+{154566}{154706}Shining in clear blue skies
+{154711}{154790}We flowed together
+{154840}{154975}Once and forever
+{154979}{155085}Love came for me
+{155119}{155220}One fine night
+{155257}{155361}Love let us see
+{155395}{155496}How far we'll go
+{155537}{155650}How good we'll be
+{155682}{155808}We saw a world
+{155811}{155968}No one ever saw before
+{155973}{156052}It was the world
+{156055}{156136}Love can start
+{156140}{156255}With a beat of a heart
+{156260}{156370}Love came for me
+{156374}{156520}Love came for me
+{156523}{156637}Love came for me
+{156637}{156737}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<
+{156762}{156912}Support us and become VIP member |to remove all ads from www.OpenSubtitles.org
